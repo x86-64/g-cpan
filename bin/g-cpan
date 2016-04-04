@@ -562,7 +562,8 @@ sub generatePackageInfo
 
         # Fallback to trying the /-/::/ trick - we avoid this the first time
         # in case the module actually employs a - in its name
-        $ebuild_wanted =~ s/-/::/gxms;
+        $ebuild_wanted =~ s/-/::/gxms
+		unless $ebuild_wanted =~ m@/@;
         $verbose and print_info("Getting CPAN Info for $ebuild_wanted");
         spinner_start();
         $gcpan_run->getCPANInfo($ebuild_wanted);

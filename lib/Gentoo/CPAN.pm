@@ -147,7 +147,7 @@ sub getCPANInfo {
     }
     $self->{'cpan'}{ lc($find_module) }{'description'} =
       $mod->{RO}{'description'} || manpage_title($mod, $find_module) || "No description available";
-    $self->{'cpan'}{ lc($find_module) }{'src_uri'} = $mod->{RO}{'CPAN_FILE'};
+    $self->{'cpan'}{ lc($find_module) }{'src_uri'} = $mod->{RO}{'CPAN_FILE'} || $find_module;
     $self->{'cpan'}{ lc($find_module) }{'name'}    = $mod->id;
     $self->{'cpan'}{ lc($find_module) }{'version'} = $mod->{RO}{'CPAN_VERSION'}
       || "0";
@@ -158,7 +158,7 @@ sub unpackModule {
     my $self        = shift;
     my $module_name = shift;
     unless (defined($module_name)) { return }
-    if ( $module_name !~ m|::| ) {
+    if ( $module_name !~ m|::| and $module_name !~ m@/@ ) {
         $module_name =~ s{-}{::}xmsg;
     }    # Assume they gave us module-name instead of module::name
 
@@ -170,14 +170,19 @@ sub unpackModule {
         warn("Don't know what '$module_name' is\n");
         return;
     }
-    my $file = $obj->cpan_file;
 
     $CPAN::Config->{prerequisites_policy} = "";
     $CPAN::Config->{inactivity_timeout}   = 10;
 
-    my $pack = $CPAN::META->instance( 'CPAN::Distribution', $file );
-    if ( $pack->can('called_for') ) {
-        $pack->called_for( $obj->id );
+    my $pack;
+    if($obj->isa('CPAN::Distribution')){
+       $pack = $obj;
+    }else{
+       my $file = $obj->cpan_file;
+       $pack = $CPAN::META->instance( 'CPAN::Distribution', $file );
+       if ( $pack->can('called_for') ) {
+           $pack->called_for( $obj->id );
+       }
     }
 
     # Grab the tarball and unpack it
