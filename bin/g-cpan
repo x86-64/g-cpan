@@ -720,7 +720,7 @@ sub generatePackageInfo
                             }
                         }
 
-                        my $module_version = $gcpan_run->{cpan}{lc($original_ebuild)}{version};
+                        my $module_src_uri = basename($gcpan_run->{'cpan'}{lc($original_ebuild)}{'src_uri'});
                         my $description = $gcpan_run->{'cpan'}{lc($original_ebuild)}{'description'};
                         $description =~ s/"/\\"/g;
 
@@ -732,8 +732,7 @@ sub generatePackageInfo
 EAPI=5
 
 MODULE_AUTHOR="$module_author"
-MODULE_VERSION="$module_version"
-$module_a_ext
+MODULE_A="$module_src_uri"
 $module_section
 inherit perl-module
 
