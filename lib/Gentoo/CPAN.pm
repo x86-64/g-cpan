@@ -151,6 +151,7 @@ sub getCPANInfo {
     $self->{'cpan'}{ lc($find_module) }{'name'}    = $mod->id;
     $self->{'cpan'}{ lc($find_module) }{'version'} = $mod->{RO}{'CPAN_VERSION'}
       || "0";
+    $self->{'cpan'}{ lc($find_module) }{'type'} = ref $mod;
     return;
 }
 
