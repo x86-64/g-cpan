@@ -7,8 +7,9 @@ use Test::More;
 use Data::Dumper;
 use Gentoo;
 use Gentoo::CPAN::Object;
+use Gentoo::Portage::Package;
 
-plan tests => 7;
+plan tests => 9;
 
 my $g = Gentoo->new;
 
@@ -16,28 +17,36 @@ my $co = Gentoo::CPAN::Object->new({
 	parent => $g,
 	name   => "Module::Build",
 });
-ok($co->portage_name eq "Module-Build", "correct name");
-ok($co->portage_version,                "has version");
+ok($co->package_name eq "Module-Build", "correct name");
+ok($co->package_version,                "has version");
 
-sub test_portage_name {
-	my ($name, $portage_name) = @_;
+sub test_atom {
+	my ($name, $atom, $opts) = @_;
 
 	my $co = Gentoo::CPAN::Object->new({
 		parent => $g,
 		name   => $name,
+		%{ $opts || {} },
 	});
-	ok($co->portage_name eq $portage_name, 
+	my $gp = Gentoo::Portage::Package->from_cpan({
+		cpan_object => $co,
+	});
+	
+	ok($gp->atom eq $atom, 
 		sprintf(
 			"correct portage name: should be '%s', but provided '%s'",
-			$portage_name,
-			$co->portage_name,
+			$atom,
+			$gp->atom,
 		)
 	);
 }
 
-test_portage_name("L/LE/LEONT/Module-Build-0.4216.tar.gz", "Module-Build");
-test_portage_name("Scalar::Util", "Scalar-List-Utils");
-test_portage_name("Sub::Util", "Scalar-List-Utils");
-test_portage_name("Carp", "perl");
-test_portage_name("File::Path", "perl");
+test_atom("L/LE/LEONT/Module-Build-0.4216.tar.gz", "dev-perl/Module-Build");
+test_atom("Scalar::Util", "dev-perl/Scalar-List-Utils");
+test_atom("Sub::Util", "dev-perl/Scalar-List-Utils");
+test_atom("Carp", "dev-lang/perl");
+test_atom("File::Path", "dev-lang/perl");
+
+test_atom("File::Path", "dev-lang/perl", { version => "1.1" });
+test_atom("Sub::Util", ">=dev-perl/Scalar-List-Utils-1.100.0", { version => "1.1" });
 

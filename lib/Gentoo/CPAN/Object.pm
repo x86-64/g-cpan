@@ -36,6 +36,7 @@ sub cpan_info {
 
 sub type    { shift->cpan_info->{type} }
 sub src_uri { shift->cpan_info->{src_uri} }
+sub version { shift->{version} || "0" }
 
 sub src_filename {
 	my ($self) = @_;
@@ -43,18 +44,15 @@ sub src_filename {
 	return basename($self->src_uri);
 }
 
-sub portage_name {
+sub package_name {
 	my ($self) = @_;
-	
-	my $is_perl_core = $self->is_perl_core;
-	return "perl" if ($is_perl_core || 0) == 1;
 	
 	return $self->parent->transformCPAN($self->src_uri, 'n');
 }
 
-sub portage_version {
+sub package_version {
 	my ($self) = @_;
-	
+
 	return $self->parent->transformCPAN($self->src_uri, 'v');
 }
 
