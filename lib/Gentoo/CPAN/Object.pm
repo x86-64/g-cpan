@@ -37,6 +37,7 @@ sub cpan_info {
 sub type    { shift->cpan_info->{type} }
 sub src_uri { shift->cpan_info->{src_uri} }
 sub version { shift->{version} || "0" }
+sub description { shift->cpan_info->{description} }
 
 sub src_filename {
 	my ($self) = @_;
@@ -54,6 +55,22 @@ sub package_version {
 	my ($self) = @_;
 
 	return $self->parent->transformCPAN($self->src_uri, 'v');
+}
+
+sub author {
+	my ($self) = @_;
+	
+	my $dirname = dirname($self->src_uri);
+	return (split m@/@, $dirname)[-1];
+}
+
+sub extension {
+	my ($self) = @_;
+	
+	return (
+		($self->src_uri =~ /\.(tar\.(gz|bz2|xz|Z)|zip|tgz|gz|tbz2)$/i)[0] //
+		($self->src_uri =~ /\.([^.]+)$/)[0]
+	);
 }
 
 sub filepath {
@@ -83,6 +100,14 @@ sub is_perl_core {
 	my $is_core = ($folders_in->{archlibexp} or $folders_in->{privlibexp}) ? 1 : 0;
 	
 	return $is_core;
+}
+
+sub unpack {
+	my ($self) = @_;
+	
+	$self->parent->unpackModule($self->name);
+	delete $self->{_cpan_info};
+	return $self->cpan_info;
 }
 
 1;
