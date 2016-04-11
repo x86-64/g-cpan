@@ -45,17 +45,81 @@ sub src_filename {
 	return basename($self->src_uri);
 }
 
-sub package_name {
+sub _src_uri_parse {
 	my ($self) = @_;
 	
-	return $self->parent->transformCPAN($self->src_uri, 'n');
+	return $self->{_src_uri_parse} //= sub {
+		my $filename  = $self->src_filename;
+		my $extension = $self->extension;
+		$filename = substr($filename, 0, -length($extension)-1);
+		$filename =~ s/[._-]+$//g;
+		
+		# special cases
+		$filename =~ s/-undef//g;
+		$filename =~ s/\+d//g;
+		$filename =~ s/\+NWrap/./g; # SHLOMIF
+		$filename =~ s/-Perl\d\.\d$/./g; # GLENSMALL
+		$filename =~ s/[._-]?(gnuplot_required|withoutworldwriteables|no-world-writable|changelog_in_manifest|fixedmanifest)$//;
+		
+		my @r;
+		
+		if(
+			($filename =~ /[a-f0-9]{32,40}/i) ||  # f5019eed24b24c4cb8de55c5db3384aa9d251f09
+			($filename =~ /^([\d.]+)$/)           # 1.0.2
+		){
+			@r = (undef, undef);
+		}elsif(($filename !~ /\d/)){
+			@r = ($filename, undef);
+		}elsif(($filename =~ /^(
+			metaperl-dbix-dbh |
+			Mica |
+			Spreadsheet-WriteExcel-WebPivot2 |
+			Win32GUI |
+			Net-SMS-WAY2SMS |
+			Ipv4_networks |
+			Geo-GoogleEarth-Document |
+			Device-Velleman-K8055-Client |
+			Model3D-Poser-GetStringRes |
+			Bundle-FinalTest2
+		)/xi)){
+			@r = ($1, undef)
+		}elsif(
+			(@r = ($filename =~ /^
+				(
+					PGForth|
+					Win32-TaskScheduler|
+					TimeConvert|
+					WWW-TMDB-API|
+					ESplit|
+					XMS-MotifSet|
+					Text-Format|
+					v6|
+					Class-CompiledC
+				)
+				v?
+				([\d.]+)
+			/ix)) ||
+			(@r = ($filename =~ /(.*?)[-_.]v?([\d._]+[-_]?[[:alnum:]_]*)$/i)) ||
+			(@r = ($filename =~ /(.*?)\.([\d.]+[[:alpha:]]*)$/))             ||
+			(@r = ($filename =~ /(.*?)\.([\d.]+[[:alpha:]]\d+)$/))           || # 0.1b2
+			(@r = ($filename =~ /(.*?)-([ab]\d)$/))                          || # author MICB: Something-b2, -b3
+			(@r = ($filename =~ /(.*?)\.(\d+_\d+)$/))
+		){
+		}else{
+			warn $self->src_uri;
+			...;
+		}
+		my ($package, $version) = @r;
+		
+		return {
+			package   => $package,
+			version   => $version,
+		};
+	}->();
 }
 
-sub package_version {
-	my ($self) = @_;
-
-	return $self->parent->transformCPAN($self->src_uri, 'v');
-}
+sub package_name      { shift->_src_uri_parse->{package}   }
+sub package_version   { shift->_src_uri_parse->{version}   }
 
 sub author {
 	my ($self) = @_;
