@@ -38,7 +38,7 @@ foreach my $package_file (map { read_file($_) } glob("${data_file}*.txt") ){
 		diag($co->src_uri);
 		diag($co->package_name);
 		diag($co->package_version);
-		fail("incorrect");
+		fail("incorrect package name");
 	}else{
 		ok($package_file);
 	}

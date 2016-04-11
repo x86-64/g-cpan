@@ -58,8 +58,13 @@ sub _src_uri_parse {
 		$filename =~ s/-undef//g;
 		$filename =~ s/\+d//g;
 		$filename =~ s/\+NWrap/./g; # SHLOMIF
+		$filename =~ s/-woldrich//g; # WOLDRICH
 		$filename =~ s/-Perl\d\.\d$/./g; # GLENSMALL
-		$filename =~ s/[._-]?(gnuplot_required|withoutworldwriteables|no-world-writable|changelog_in_manifest|fixedmanifest)$//;
+		$filename =~ s/-bsdtar$/.b/g; # Tk-Wizard
+		$filename =~ s/_win32_.*/.w/g; # Tk-Wizard
+		$filename =~ s/-OpenSource$//g; # NewsClipper 
+		$filename =~ s/\.v\.(\d)/v\1/g;
+		$filename =~ s/[._-]?(gnuplot_required|withoutworldwriteables|no-world-writable|changelog_in_manifest|fixedmanifest|remove_blib)$//;
 		
 		my @r;
 		
