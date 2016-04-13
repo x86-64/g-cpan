@@ -2,6 +2,9 @@ use 5.008007;
 use strict;
 use warnings;
 use ExtUtils::MakeMaker;
+use File::ShareDir::Install;
+
+install_share 'share';
 
 WriteMakefile(
     NAME              => 'g-cpan',
@@ -26,3 +29,6 @@ WriteMakefile(
                         'YAML::Node'       => 0,
     },
 );
+
+package MY;
+use File::ShareDir::Install qw(postamble);

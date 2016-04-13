@@ -2,6 +2,8 @@ package Gentoo::CPAN::Object;
 
 use Config;
 use File::Basename;
+use File::ShareDir ':ALL';
+use YAML qw/LoadFile/;
 
 sub new {
 	my ($class, $opts) = @_;
@@ -177,6 +179,19 @@ sub unpack {
 	$self->parent->unpackModule($self->name);
 	delete $self->{_cpan_info};
 	return $self->cpan_info;
+}
+
+sub _rules_filepath {
+	my $folder = eval { dist_dir("g-cpan") } || "share";
+	
+	return sprintf("%s/version_rules.yaml", $folder);
+}
+
+our $rules;
+sub _rules {
+	$rules //= sub {
+		return LoadFile(_rules_filepath());
+	}->();
 }
 
 1;
