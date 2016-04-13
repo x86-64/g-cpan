@@ -11,3 +11,6 @@ cover_db
 pm_to_blib
 g-cpan-*.tar.gz
 *.swp
+*.bak
+utils/cpan_mirror.txt 
+utils/packages

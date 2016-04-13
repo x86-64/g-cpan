@@ -11,9 +11,9 @@ use File::Slurp;
 
 my $g = Gentoo->new;
 
-(my $data_file = __FILE__) =~ s/\.t$//;
+(my $data_file = __FILE__) =~ s/\.t$/.txt/;
 
-foreach my $package_file (map { read_file($_) } glob("${data_file}*.txt") ){
+foreach my $package_file (read_file($data_file)){
 	chomp($package_file);
 	
 	my $co = Gentoo::CPAN::Object->new({

@@ -64,15 +64,24 @@ sub _src_uri_parse {
 		$filename =~ s/-Perl\d\.\d$/./g; # GLENSMALL
 		$filename =~ s/-bsdtar$/.b/g; # Tk-Wizard
 		$filename =~ s/_win32_.*/.w/g; # Tk-Wizard
+		$filename =~ s/-(ms)?win32//gi; # HTML-EP
 		$filename =~ s/-OpenSource$//g; # NewsClipper 
-		$filename =~ s/\.v\.(\d)/v\1/g;
+		$filename =~ s/-bin-.*//g; # TWEGNER
+		$filename =~ s/@.*//g; # RSPIER
+		$filename =~ s/\.v\.(\d)/.v\1/g;
 		$filename =~ s/[._-]?(gnuplot_required|withoutworldwriteables|no-world-writable|changelog_in_manifest|fixedmanifest|remove_blib)$//;
+		$filename =~ s/-withoutworldwriteables.*$//;
+		$filename =~ s/\.full$//; # SRPATT/Printer
+		$filename =~ s/-win32-bin-/-/; # TOSTI
+		$filename =~ s/-SOPM-OPM-FORMAT$//; # ROHITBASU
+		$filename =~ s/\+$//; # JSMYSER
+		$filename =~ s/(rc\d)-TRIAL/\1/; # KMCGRAIL
 		
 		my @r;
 		
 		if(
 			($filename =~ /[a-f0-9]{32,40}/i) ||  # f5019eed24b24c4cb8de55c5db3384aa9d251f09
-			($filename =~ /^([\d.]+)$/)           # 1.0.2
+			($filename =~ /^v?([\d.]+)$/)         # 1.0.2
 		){
 			@r = (undef, undef);
 		}elsif(($filename !~ /\d/)){
@@ -87,6 +96,17 @@ sub _src_uri_parse {
 			Geo-GoogleEarth-Document |
 			Device-Velleman-K8055-Client |
 			Model3D-Poser-GetStringRes |
+			Win32-API-Prototype|
+			Win32-Daemon|
+			Win32-EventLog-Message|
+			ChemCanvas|
+			Net-SSH2-Simple|
+			Pod2html|
+			Win32-MSI-SummaryInfo|
+			TML-EP-MSWin32|
+			Apache-AxKit-Language-Svg2AnyFormat|
+			txt2slides|
+			5foldCV|
 			Bundle-FinalTest2
 		)/xi)){
 			@r = ($1, undef)
@@ -101,9 +121,30 @@ sub _src_uri_parse {
 					XMS-MotifSet|
 					Text-Format|
 					v6|
-					Class-CompiledC
+					Class-CompiledC|
+					netldapapi|
+					TinyMake|
+					karma|
+					perltk|
+					zfilter|
+					cvspragma|
+					Tk|
+					Jeeves|
+					ngstatistics|
+					etext|
+					File-NCopy|
+					File-Remove|
+					man2html|
+					makehomeidx|
+					htmltoc|
+					perlanim|
+					bperlexe|
+					swig|
+					p9p|
+					Tk-TableMatrix|
+					PerlCRT
 				)
-				v?
+				[-v]?
 				([\d.]+)
 			/ix)) ||
 			(@r = ($filename =~ /(.*?)[-_.]v?([\d._]+[-_]?[[:alnum:]_]*)$/i)) ||
@@ -114,7 +155,7 @@ sub _src_uri_parse {
 		){
 		}else{
 			warn $self->src_uri;
-			...;
+		#	...;
 		}
 		my ($package, $version) = @r;
 		
