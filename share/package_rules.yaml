@@ -9,7 +9,8 @@ no_package:
   'flatland2': 1
   '/AUTOLIFE/': 1
   '/MICB/': 1
-  '/os2/': 1
+  '/ILYAZ/os2/': 1
+  '/RKIES/perltk-': 1
   'One_Penguin': 1
   'perl-?5\.': 1
   'perl542b': 1
@@ -38,6 +39,7 @@ no_version:
   'Win32-MSI-SummaryInfo': 1
 no_sep:
   '^bperlexe(?=\d)': 1
+  '^chemcanvas(?=\d)': 1
   '^Class-CompiledC(?=\d)': 1
   '^cvspragma(?=\d)': 1
   '^ESplit(?=\d)': 1

@@ -26,6 +26,7 @@ sub test_atom {
 	my $co = Gentoo::CPAN::Object->new({
 		parent => $g,
 		name   => $name,
+		version => 0,
 		%{ $opts || {} },
 	});
 	my $gp = Gentoo::Portage::Package->from_cpan({
@@ -47,6 +48,6 @@ test_atom("Sub::Util", "dev-perl/Scalar-List-Utils");
 test_atom("Carp", "dev-lang/perl");
 test_atom("File::Path", "dev-lang/perl");
 
-test_atom("File::Path", "dev-lang/perl", { version => "1.1" });
-test_atom("Sub::Util", ">=dev-perl/Scalar-List-Utils-1.100.0", { version => "1.1" });
+test_atom("File::Path", ">=dev-perl/File-Path-1.100", { version => "1.1" });
+test_atom("Sub::Util", ">=dev-perl/Scalar-List-Utils-1.100", { version => "1.1" });
 

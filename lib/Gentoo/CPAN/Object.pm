@@ -90,10 +90,11 @@ sub _src_uri_parse {
 		$filename =~ s/-bin-.*//g; # TWEGNER
 		$filename =~ s/@.*//g; # RSPIER
 		$filename =~ s/\.v\.(\d)/.v\1/g;
-		$filename =~ s/[._-]?(gnuplot_required|withoutworldwriteables|no-world-writable|changelog_in_manifest|fixedmanifest|remove_blib)$//;
+		$filename =~ s/[._-]?(gnuplot_required|withoutworldwriteables|no-world-writable|changelog_in_manifest|fixedmanifest|remove_blib)$/.1/;
 		$filename =~ s/-withoutworldwriteables.*$//;
 		$filename =~ s/\.full$//; # SRPATT/Printer
 		$filename =~ s/-win32-bin-/-/; # TOSTI
+		$filename =~ s/-winnt//; # CDONLEY
 		$filename =~ s/-SOPM-OPM-FORMAT$//; # ROHITBASU
 		$filename =~ s/\+$//; # JSMYSER
 		$filename =~ s/(rc\d)-TRIAL/\1/; # KMCGRAIL
@@ -107,7 +108,7 @@ sub _src_uri_parse {
 				sort { length($b) <=> length($a) }
 				keys %$rules
 			){
-				if($filename =~ /($rule)/){
+				if($filename =~ /($rule)/ or $src_uri =~ /($rule)/){
 					$matching_rules->{$type} = $1;
 
 					if($type eq "no_sep"){
@@ -131,13 +132,19 @@ sub _src_uri_parse {
 			(@r = ($filename =~ /(.*?)\.([\d.]+[[:alpha:]]*)$/))             ||
 			(@r = ($filename =~ /(.*?)\.([\d.]+[[:alpha:]]\d+)$/))           || # 0.1b2
 			(@r = ($filename =~ /(.*?)-([ab]\d)$/))                          || # author MICB: Something-b2, -b3
+			(@r = ($filename =~ /(.*?)_([a-z]\d)$/))                         || # author AUTOLIFE: Something_t3 
 			(@r = ($filename =~ /(.*?)\.(\d+_\d+)$/))
 		){
 		}else{
 			warn $self->src_uri;
-			...;
+			#...;
 		}
 		my ($package, $version) = @r;
+
+		my $version_rewrite = $self->_version_rewrite;
+		if(exists $version_rewrite->{rewrite}->{$package}->{$version // ""}){
+			$version = $version_rewrite->{rewrite}->{$package}->{$version // ""};
+		}
 		
 		return {
 			package   => $package,
@@ -216,24 +223,11 @@ sub is_authorized {
 	return defined $self->_package_authors->{$self->package_name}->{$self->author} ? 1 : 0;
 }
 
-sub _rules_filepath {
-	my $folder = eval { dist_dir("g-cpan") } || "share";
-	
-	return sprintf("%s/version_rules.yaml", $folder);
-}
-
-our $rules;
-sub _rules {
-	$rules //= sub {
-		return LoadFile(_rules_filepath());
-	}->();
-}
-
 sub _fix_version {
 	my ($self, $version) = @_;
 	
 	my $package = $self->package_name;
-	my $rules   = $self->_rules;
+	my $rules   = $self->_version_rules;
 	
 	if($rules->{float2dotted}->{$package}){
 		$version = sprintf("v%s.0", $version);
@@ -275,7 +269,11 @@ sub _data {
 	}->();
 }
 
+
+sub _rules_filepath  { _data_filepath("version_rules") }
 sub _package_authors { _data("package_authors") }
 sub _package_rules   { _data("package_rules") }
+sub _version_rules   { _data("version_rules") }
+sub _version_rewrite { _data("version_rewrite") }
 
 1;

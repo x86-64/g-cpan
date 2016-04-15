@@ -22,14 +22,6 @@ foreach my $line (@lines){
 		src_uri => $package,
 	});
 	next unless $co->is_authorized;
-	
-	next if $package =~ m@/os2/@;
-	next if $package =~ m@/perl-?5\.@;
-	next if $package =~ m@/perl542b@;
-	next if $package =~ m@/AUTOLIFE/@;
-	next if $package =~ m@/MICB/@;
-	next if $package =~ m@/flatland2@;
-	next if $package =~ m@/(perlMIF|One_Penguin|Chart-0\.99c-pre3|cmmtalk-ye2000)@;
 	next unless $approve->{$package_short};
 	
 	printf "%d %s\n", $date, $package;

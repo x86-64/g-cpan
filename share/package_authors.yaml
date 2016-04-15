@@ -1,4 +1,15 @@
 ---
+'':
+  BMIDD: 1
+  DAPM: 1
+  DOM: 1
+  GAAS: 1
+  GSAR: 1
+  JHI: 1
+  NWCLARK: 1
+  RGARCIA: 1
+  SHAY: 1
+  TIMB: 1
 AAAA-Crypt-DH:
   BINGOS: 1
 AAAA-Mail-SpamAssassin:
@@ -34953,8 +34964,6 @@ Math-Random-MT-Perl:
   FANGLY: 1
 Math-Random-MTwist:
   CGPAN: 1
-Math-Random-MicaliSchnorr:
-  SISYPHUS: 1
 Math-Random-Normal-Leva:
   BINARY: 1
 Math-Random-NormalDistribution:
@@ -35539,6 +35548,8 @@ Mewsoft-Pagination:
   MEWSOFT: 1
 Mhash:
   FKUO: 1
+Mica:
+  SISYPHUS: 1
 Micro-Container:
   XAICRON: 1
 Microarray:
@@ -44441,30 +44452,6 @@ Perinci-Web:
   PERLANCAR: 1
 Periscope:
   DELON: 1
-Perl:
-  ASG: 1
-  AUDREYT: 1
-  AUTRIJUS: 1
-  BRENTDAX: 1
-  CFRANKS: 1
-  CHORNY: 1
-  CTBROWN: 1
-  DANKOGAI: 1
-  DCONWAY: 1
-  GAAL: 1
-  GUGOD: 1
-  HINRIK: 1
-  KVAIL: 1
-  LICHTKIND: 1
-  LPALMER: 1
-  MORITZ: 1
-  OVID: 1
-  RKINYON: 1
-  SIMON: 1
-  SWALTERS: 1
-  SZABGAB: 1
-  ZAG: 1
-  ZEFRAM: 1
 Perl-APIReference:
   SMUELLER: 1
 Perl-Achievements:
@@ -44690,6 +44677,87 @@ Perl-WhichPhase:
   JSMITH: 1
 Perl-osnames:
   PERLANCAR: 1
+Perl4-CoreLibs:
+  ZEFRAM: 1
+Perl6-Attributes:
+  LPALMER: 1
+Perl6-Bible:
+  LICHTKIND: 1
+Perl6-Binding:
+  KVAIL: 1
+Perl6-Builtins:
+  DCONWAY: 1
+Perl6-Caller:
+  OVID: 1
+Perl6-Classes:
+  LPALMER: 1
+Perl6-Conf:
+  SZABGAB: 1
+Perl6-Contexts:
+  SWALTERS: 1
+Perl6-Cookbook:
+  SZABGAB: 1
+Perl6-Currying:
+  DCONWAY: 1
+Perl6-Doc:
+  HINRIK: 1
+Perl6-Export:
+  DCONWAY: 1
+Perl6-Export-Attrs:
+  DCONWAY: 1
+Perl6-Feeds:
+  ASG: 1
+Perl6-Form:
+  DCONWAY: 1
+Perl6-Gather:
+  DCONWAY: 1
+Perl6-GatherTake:
+  MORITZ: 1
+Perl6-Interpolators:
+  BRENTDAX: 1
+Perl6-Junction:
+  CFRANKS: 1
+Perl6-Parameters:
+  BRENTDAX: 1
+Perl6-Perl:
+  DANKOGAI: 1
+Perl6-Perldoc:
+  DCONWAY: 1
+Perl6-Perldoc-To-Ansi:
+  HINRIK: 1
+Perl6-Placeholders:
+  LPALMER: 1
+Perl6-Pod:
+  ZAG: 1
+Perl6-Pod-Lib:
+  ZAG: 1
+Perl6-Pod-Slide:
+  ZAG: 1
+Perl6-Pugs:
+  AUDREYT: 1
+  AUTRIJUS: 1
+Perl6-Roles:
+  RKINYON: 1
+Perl6-Rules:
+  DCONWAY: 1
+Perl6-Say:
+  CHORNY: 1
+Perl6-Signature:
+  GAAL: 1
+Perl6-Slurp:
+  DCONWAY: 1
+Perl6-Slurp-Interpret:
+  CTBROWN: 1
+Perl6-Str:
+  MORITZ: 1
+Perl6-Take:
+  GAAL: 1
+Perl6-Tokener:
+  SIMON: 1
+Perl6-Variables:
+  DCONWAY: 1
+Perl6ish:
+  GUGOD: 1
 PerlActor:
   TJBYRNE: 1
 PerlBean:
@@ -64100,7 +64168,6 @@ libvorbis-perl:
   FOOF: 1
 libwww-perl:
   ETHER: 1
-  GAAS: 1
 libxml-enno:
   ENNO: 1
 libxml-perl:
@@ -64342,20 +64409,6 @@ perfSONAR_PS-Status-Common:
   PERFSONAR: 1
 perfSONAR_PS-Topology-Common:
   PERFSONAR: 1
-perl:
-  BMIDD: 1
-  DAPM: 1
-  DOM: 1
-  GSAR: 1
-  INGY: 1
-  JAKE: 1
-  JHI: 1
-  MSCHWERN: 1
-  NOBULL: 1
-  NWCLARK: 1
-  RGARCIA: 1
-  SHAY: 1
-  TIMB: 1
 perl-Apache2-LogUtil:
   RYANGIES: 1
 perl-GPS:
@@ -64370,6 +64423,18 @@ perl-local-env:
   MART: 1
 perl-vgalib:
   SCOTTVR: 1
+perl5:
+  INGY: 1
+perl5-byacc-patches:
+  JAKE: 1
+perl5-i:
+  INGY: 1
+perl5-ingy:
+  INGY: 1
+perl5i:
+  MSCHWERN: 1
+perl5lib:
+  NOBULL: 1
 perlSGML:
   EHOOD: 1
 perl_WebService_ReviewBoard:

@@ -5,7 +5,7 @@ use File::Slurp;
 use Data::Dumper;
 use Gentoo;
 use Gentoo::CPAN::Object;
-use YAML::XS qw/DumpFile/;
+use YAML qw/DumpFile/;
 
 our ($input, $output) = @ARGV;
 
@@ -18,9 +18,7 @@ foreach my $line (read_file($input)){
 	
 	my $co = Gentoo::CPAN::Object->new({
 		parent => $g,
-		_cpan_info => {
-			src_uri => $name,
-		},
+		src_uri => $name,
 	});
 	
 	push @{ $db->{$co->package_name} }, {

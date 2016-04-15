@@ -1,21 +1,13 @@
 ---
 float2dotted:
-  Algorithm-NGram: 1
   Bio-GFF3: 1
-  Blog-Blosxom: 1
-  Bot-BasicBot-Pluggable-Module-AliG: 1
   Business-CPI-Gateway-PayPal: 1
   CGI-PrintWrapper: 1
-  CPANPLUS-Dist-SUSE: 1
-  CPU-Emulator-Memory: 1
-  Catmandu-DBI: 1
-  Chemistry-Elements: 1
   Cisco-Reconfig: 1
   DBIx-Recordset-Playground: 1
   Devel-CheckLib: 1
   Device-Velleman-K8055-Fuse: 1
   Event-Stats: 1
-  Finance-NASDAQ-Markets: 1
   Gearman-XS: 1
   Giovanni: 1
   Grid-Request: 1
@@ -25,33 +17,19 @@ float2dotted:
   Jifty-Plugin-Authentication-CAS: 1
   Jifty-Plugin-Authentication-Ldap: 1
   Lingua-Phonology: 1
-  List-Rotation-Cycle: 1
   Math-MatrixReal: 1
   Mojolicious-Plugin-Notifications: 1
-  Net-DNS-ZoneFile-Fast: 1
-  Net-Domain-ES-ccTLD: 1
   Net-Gandi: 1
-  Net-IPv4Addr: 1
-  Net-PostcodeNL-WebshopAPI: 1
   Net-Whois-Proxy: 1
   OWNet: 1
-  Ormlette: 1
   PDL-IO-Grib: 1
-  POE-Framework-MIDI: 1
-  Regru-API: 1
-  Role-Log-Syslog-Fast: 1
-  SMS-Send-BulkSMS: 1
   Spawn-Safe: 1
   Supers-Search: 1
-  Sys-MemInfo: 1
   Test-Smoke-Database: 1
-  Text-Indent: 1
   Time-Progress: 1
   UAV-Pilot: 1
   UMLS-Interface: 1
   WWW-GoodData: 1
-  WebService-Geograph-API: 1
-  X11-IdleTime: 1
   YAML-Old: 1
   scriptname: 1
   simplexmlparse: 1
@@ -59,6 +37,7 @@ float2dotted:
 ignore:
   ACME-YAPC-NA-2012: 'incorrect float version: 0.02 0.01'
   API-Instagram: 'mixed version style: 0.004 0.005 0.005.1 0.006 0.007 0.008 0.009 0.010 0.011 0.012 0.013'
+  ARSObject: 'mixed version style: 0.50 0.51 0.51.1 0.52 0.52.1 0.53 0.53.1 0.54 0.54.1 0.55 0.55.1 0.56 0.57'
   ASNMTAP: 'mixed version style: 3.000.002 3.000.003 3.000.004 3.000.005 3.000.006 3.000.007 3.000.008 3.000.009 3.000.010 3.000.011 3.000012 3.000013 3.000014 3.000015 3.000016 3.000016001 3.000017 3.000018 3.000019 3.000020 3.001000 3.001001 3.001002 3.001003 3.002001 3.002002 3.002003'
   Acme-2zicon: 'mixed version style: 0.1 0.2 0.2.1 0.2.2 0.3 0.3.1 0.4 0.5 0.6'
   Acme-AbhiIsNot: 'incorrect float version: 0.02 0.01 0.03'
@@ -92,7 +71,7 @@ ignore:
   AnyEvent-STOMP-Client: 'unknown version style: 0.1 0.11 0.2 0.21 0.22 0.23 0.24 0.25 0.25a 0.3 0.31 0.32 0.33 0.34 0.35 0.36 0.37 0.38 0.39'
   AnyEvent-TLS-SNI: 'mixed version style: 0.01 0.01.1 0.01.2 0.01.3 0.02 0.03'
   Apache-BabyConnect: 'unknown version style: 0.92a 0.93'
-  Apache-Gallery: 'mixed version style: 1.0 1.0 1.0.1 1.0.1 1.0.2 1.0.2'
+  Apache-Gallery: 'mixed version style: 1.0 1.0.1 1.0.1 1.0.1.1 1.0.2 1.0.2.1'
   Apache-Htpasswd: 'mixed version style: 0.9.1 1.1 1.3 1.4 1.5 1.5.1 1.5.2 1.5.3 1.5.4 1.5.5 1.5.7 1.5.8 1.5.9 1.6.0 1.6.1 1.7 1.8 1.9'
   Apache-ImageMagick: 'unknown version style: 2.0b4 2.0b5 2.0b7'
   Apache-Queue: 'mixed version style: 0.2 0.3 0.4 0.5 0.6 0.3.1'
@@ -177,6 +156,7 @@ ignore:
   CORBA-IDLtree: 'unknown version style: 0.7 1.0 1.1 1.1a 1.2 1.3 1.4'
   CORBA-MICO: 'mixed version style: 0.1 0.2 0.5.0 0.6.0 0.6.7'
   CPAN-Changes-Markdown: 'mixed version style: 0.2.2 1.000000 1.000001'
+  CPAN-Mini-Webserver: 'mixed version style: 0.46 0.47 0.48 0.49 0.50 0.51 0.52 0.52.1 0.53 0.54 0.55 0.56 0.56.1 0.57 0.58'
   CPAN-WAIT: 'unknown version style: 0.23 0.25 0.26 0.27 0.27-2'
   CSS-Prepare: 'mixed version style: 0.9 0.9.1 0.9.2 0.9.2.1 0.9.2.2 0.9.2.3 0.9.2.4'
   CaCORE: 'unknown version style: 3.2.1_r1'
@@ -193,6 +173,7 @@ ignore:
   Chess-Elo: 'unknown version style: 1.0a'
   ChildExit: 'unknown version style: 0-1'
   Class-DBI: 'mixed version style: 0.28 0.86 0.89 0.90 0.91 0.92 0.93 0.94 0.95 0.96 3.0.1 3.0.2 3.0.3 3.0.4 3.0.5 3.0.6 3.0.7 3.0.8 3.0.9 3.0.10 3.0.11 3.0.12 3.0.13 3.0.14 3.0.15 3.0.16 3.0.17'
+  Class-DBI-Plugin-Calendar: 'mixed version style: 0.14 0.15 0.16 0.18 0.18.1'
   Class-MakeMethods: 'mixed version style: 1.0.14 1.003 1.004 1.005 1.006 1.007 1.008 1.009 1.01'
   Class-Maker: 'mixed version style: 0.01 0.5.14 0.05.18 0.05.98 0.06'
   Class-Std-Slots: 'mixed version style: 0.0.3 0.0.4 0.1 0.2 0.3 0.31'
@@ -222,7 +203,7 @@ ignore:
   DBD-Chart: 'mixed version style: 0.74.0 0.80 0.81 0.82'
   DBD-DB2: 'unknown version style: 0.72 0.73 0.74 0.75 0.76 0.78 0.79a 0.80 0.9a 1.0 1.1 1.2 1.3 1.61 1.7 1.71 1.74 1.75 1.76 1.78 1.79 1.80a 1.81 1.82 1.83 1.84 1.85'
   DBD-MaxDB: 'unknown version style: 7.5.00.14 7.5.00.19 7.5.00.24 7.5.00.24a 7_5_00_26 7.5.00.26 7.5.00.31a 7.6.00.16a 7.6.00.16b 7.6.00.16 7.6.00.27 7.7.05.00'
-  DBD-Oracle: 'unknown version style: 1.17 1.18a 1.19 1.20 1.21 1.22 1.23 1.24a 1.24b 1.25 1.25 1.27 1.28 1.30 1.32 1.34 1.36 1.38 1.40 1.42 1.44 1.46 1.48 1.50 1.52 1.54 1.56 1.58 1.60 1.62 1.64 1.66 1.68 1.70 1.72 1.74'
+  DBD-Oracle: 'unknown version style: 1.17 1.18a 1.19 1.20 1.21 1.22 1.23 1.24a 1.24b 1.25 1.25.1 1.27 1.28 1.30 1.32 1.34 1.36 1.38 1.40 1.42 1.44 1.46 1.48 1.50 1.52 1.54 1.56 1.58 1.60 1.62 1.64 1.66 1.68 1.70 1.72 1.74'
   DBD-Solid: 'unknown version style: 0.08 0.09 0.10 0.11a 0.13a 0.20a'
   DBD-cubrid: 'incorrect dotted version: 8.4.0.0001 8.4.0.0002 8.4.1.0001 9.0.0.0001 8.4.3.0001 9.1.0.0001 8.4.4.0001 8.4.4.0002 9.3.0.0001'
   DBI-BabyConnect: 'unknown version style: 0.92a 0.93'
@@ -239,6 +220,7 @@ ignore:
   DBIx-ProcedureCall: 'mixed version style: 0.06 0.07 0.08 0.10 0.10.1 0.11'
   DBIx-XML-DataLoader: 'unknown version style: 1.1b'
   DBIx-YAWM: 'mixed version style: 2.0.8 2.0.9 2.2 2.2.1 2.2.2 2.2.3 2.2.4 2.2.5 2.32 2.34 2.35'
+  DBM-Deep-Blue: 'mixed version style: 1.01 1.01.1 1.02'
   DBR: 'unknown version style: 1.0.7rc2 1.0.7rc5 1.0.7rc6 1.0.7rc7 1.2 1.3 1.4 1.5'
   DBSchema-Sample: 'unknown version style: 1.8 2.0 2.0.a'
   DB_File: 'unknown version style: 1.14 1.50Beta 1.51Beta 1.15 1.52Beta 1.53 1.54 1.55 1.16 1.57 1.58 1.59 1.60 1.61 1.62 1.63 1.64 1.65 1.67 1.68 1.69 1.70 1.71 1.72 1.73 1.74 1.75 1.76 1.77 1.78 1.79 1.800 1.801 1.802 1.803 1.804 1.805 1.806 1.807 1.808 1.809 1.810 1.811 1.812 1.813 1.814 1.815 1.816 1.817 1.818 1.819 1.820 1.821 1.822 1.823 1.824 1.825 1.826 1.827 1.828 1.829 1.830 1.831 1.832 1.833 1.834 1.835'
@@ -250,6 +232,7 @@ ignore:
   Dancer-Plugin-WindowSession: 'mixed version style: 0.01 0.2.0 0.2.1 0.02'
   Dancer-Session-Redis: 'mixed version style: 0.1.8 0.1.9 0.20 0.21 0.22'
   Dancer-Template-MojoTemplate: 'mixed version style: 0.001 0.1.0 0.2.0'
+  Data-AsObject: 'mixed version style: 0.02 0.03 0.04 0.05 0.06 0.06.1 0.07'
   Data-Context: 'mixed version style: 0.1.7 0.1.8 0.1.9 0.1.10 0.2 0.2.1'
   Data-Context-BEM: 'mixed version style: 0.0.5 0.0.6 0.1'
   Data-Dump-Streamer: 'unknown version style: 1.11 1.12 1.14 2.00 2.01 2.02 2.03-30 2.04-34 2.05-36 2.06-38 2.07-39 2.08-40 2.09 2.33 2.34 2.36 2.37 2.38 2.39'
@@ -302,6 +285,7 @@ ignore:
   Drupal-Admin: 'unknown version style: .01 0.02 0.03 0.04'
   EasyDB: 'unknown version style: 0.5b2'
   EdgeExpressDB: 'unknown version style: 0.953h'
+  Email-ConstantContact: 'mixed version style: 0.01 0.02 0.03 0.04 0.04.1 0.05'
   Email-Send-SMTP-Gmail: 'mixed version style: 0.1.1 0.80 0.82 0.83 0.84 0.85 0.87 0.88 0.94 0.96 0.99 1.0 1.01'
   EmbedIT-WebIT: 'unknown version style: 1.6.2 1.6.3 1.6.3a'
   Embperl: 'unknown version style: 2.0b9 2.0b10 2.0.b11 2.0rc1 2.0rc2 2.0rc3 2.0rc4 2.0rc5 2.0.0 2.0.1 2.1.0 2.2.0 2.3.0 2.4.0 2.5.0'
@@ -332,6 +316,7 @@ ignore:
   Filter-Unpound: 'unknown version style: 1 1a 1.1'
   Finance-Bank-IE: 'mixed version style: 0.26 0.27 0.28 0.28.1 0.29 0.30'
   Finance-Bank-LaPoste: 'mixed version style: 5.00 7.02 7.03.1 7.08 7.09'
+  Finance-BankVal-International-IBANValidate: 'mixed version style: 0.3 0.4 0.4.1 0.5'
   Finance-OFX: 'unknown version style: 2a'
   Finance-QIF: 'unknown version style: 1.02 1.03 2.00.beta1 2.00 2.01 2.02 2.03 2.04 2.05 2.06 2.07 3.00 3.01 3.02'
   Finance-YahooProfile: 'unknown version style: 0.1 0.11 0.11b 0.12'
@@ -354,7 +339,8 @@ ignore:
   Games-CroqueMonster: 'unknown version style: 0.8.1-1 0.8.1-2'
   Games-Mines: 'mixed version style: 0.01.10 0.02'
   Games-PangZero: 'mixed version style: 1.3 1.4 1.4.1'
-  Gapp: 'mixed version style: 0.26 0.26 0.47.2 0.47.5 0.47.6 0.47.7 0.480 0.481 0.482 0.483 0.484 0.487 0.494 0.60'
+  Games-Tetris-Complete: 'mixed version style: 0.01 0.02 0.03 0.03.1'
+  Gapp: 'mixed version style: 0.26 0.26.1 0.47.2 0.47.5 0.47.6 0.47.7 0.480 0.481 0.482 0.483 0.484 0.487 0.494 0.60'
   Gapp-App: 'incorrect float version: 0.006 0.222 0.007'
   Gcode-Interpreter: 'mixed version style: 1.0 1.0.1'
   GenOO: 'mixed version style: 1.4 1.4.1 1.4.2 1.4.3 1.4.4 1.4.5 1.4.6 1.4.8 1.4.9 1.5.0'
@@ -381,7 +367,8 @@ ignore:
   Graphics-GnuplotIF: 'mixed version style: 1.2.0 1.3.0 1.4 1.5 1.6 1.7 1.8'
   Grimlock: 'incorrect float version: 0.001 0.02 0.03 0.04 0.032 0.05 0.06 0.07 0.08 0.10 0.11'
   Gtk: 'mixed version style: 0.1.5 0.1.7 0.1.9 0.1.10 0.1.11 0.1.12 0.1.13 0.1.14 0.1.15 0.1.16 0.1.17 0.2.0 0.2.1 0.2.2 0.3 0.5000 0.5120'
-  Gtk2-Ex-CellRendererWrappedText: 'mixed version style: 0.02 0.02 0.02.1 0.02.1 0.2'
+  Gtk2-Ex-CellRendererWrappedText: 'mixed version style: 0.02 0.02.1 0.02.1 0.02.1.1 0.2'
+  Gtk2-Ex-FormFactory-TimeEntry: 'mixed version style: 0.01 0.01.1 0.02 0.02.1'
   GuiBuilder: 'unknown version style: 0_2 0_3'
   HTML-CTPP2: 'incorrect dotted version: 2.3.11 2.5.1 2.4.14 2.5.3 2.4.15 2.5.7 2.4.16 2.5.8 2.4.17 2.5.9 2.4.18 2.5.10 2.5.12 2.6.1 2.6.7'
   HTML-Chunks: 'mixed version style: 1.5 1.51 1.52 1.53 1.54 1.55 1.55.1'
@@ -456,6 +443,7 @@ ignore:
   Linux-Fanotify: 'mixed version style: 1.1 1.1.1'
   Linux-LVM: 'mixed version style: 0.15.01 0.16 0.17'
   Linux-Prctl: 'mixed version style: 1.3.0 1.3.1 1.3.3 1.4 1.4.1 1.5.0 1.6.0'
+  List-Member: 'mixed version style: 0.044 0.044.1'
   List-Uniq: 'mixed version style: 0.12 0.13 0.20 0.21.0'
   LoadHtml: 'unknown version style: 5_0 7.04 7.08'
   Log-Log4perl-Appender-Elasticsearch: 'mixed version style: 0.01 0.02 0.03 0.04 0.05 0.06.2 0.07 0.08'
@@ -464,11 +452,12 @@ ignore:
   Log-Tiny: 'unknown version style: 0.01 0.9 0.9b 1.0'
   Log-UDP-Client: 'mixed version style: 0.01 0.20.0'
   Log-UDP-Server: 'mixed version style: 0.01 0.02 0.03 0.40.0'
-  Lorem: 'mixed version style: 0.16 0.16 0.200 0.21 0.22 0.23.1'
+  Lorem: 'mixed version style: 0.16 0.16.1 0.200 0.21 0.22 0.23.1'
   Lyrics-Fetcher-AstraWeb: 'mixed version style: 0.2.1 0.3 0.31 0.32 0.33'
   MARC-Errorchecks: 'unknown version style: 1.13 1.14 1.16 1.17a 1.18'
   MARC-XML: 'mixed version style: 0.4 0.91 0.92 0.93 1.0 1.0.1 1.0.2 1.0.3'
   MIME-Charset: 'mixed version style: 1.006.2 1.007.1 1.008.2 1.009.3 1.010.1 1.011.1 1.011.2 1.011.3 1.012'
+  MIME-Lite-HT-HTML: 'mixed version style: 0.03 0.04 0.04.1 0.05'
   MOSES-MOBY: 'mixed version style: 0.95 0.96.1'
   MPE-IMAGE: 'unknown version style: 0.98a'
   MRS-Client: 'mixed version style: 0.600100 1.0.0 1.0.1'
@@ -485,6 +474,7 @@ ignore:
   Math-BaseCnv: 'unknown version style: 1.0.37SLNGN 1.2.59M7mRX 1.4.75O6Pbr 1.6.A6FGHKE 1.8.B59BrZX'
   Math-BaseConvert: 'mixed version style: 1.7 1.7.1 1.8.0'
   Math-BigSimple: 'unknown version style: 1.1a'
+  Math-Geometry-Planar: 'mixed version style: 1.16 1.17 1.18 1.18.1'
   Math-GoldenBigMath: 'unknown version style: 0-804'
   Math-Integral-Romberg: 'unknown version style: 0_02 0.04'
   Math-MVPoly: 'unknown version style: 0.8b'
@@ -532,6 +522,7 @@ ignore:
   Net-BitTorrentSync: 'mixed version style: 0.1 0.2 0.2.1 0.21'
   Net-DNS-CloudFlare-DDNS: 'mixed version style: 0.06 0.63.1'
   Net-DNS-SEC-Validator: 'unknown version style: 1.0b1 1.20 1.31'
+  Net-DNS-ZoneFile-Fast: 'incorrect float version: 0.7 0.9 0.91 1.0 1.01 1.1 1.111 1.11 1.12 1.13 1.14 1.15 1.16 1.17 1.18 1.20 1.21 1.22 1.23 1.24'
   Net-Discident: 'mixed version style: 1 1.0.1'
   Net-Domain-ExpireDate: 'mixed version style: 1.12 1.13 1.14 1.15 1.15.1 1.15.2'
   Net-Domain-Regex: 'mixed version style: 0.001006 0.2.0 0.2.1'
@@ -575,6 +566,7 @@ ignore:
   OpenCA-TRIStateCGI: 'unknown version style: 1.01 1.02 1.2.35 1.3.0a 1.5.4 1.5.5'
   OpenOffice-PerlPoint: 'unknown version style: 0.01 0.02 0.03a'
   OpenThought: 'mixed version style: 0.63 0.64 0.70 0.71 1.99.16'
+  OpenXML-Properties: 'incorrect float version: 1 0.02'
   Opener_chat: 'unknown version style: 0.7_source'
   OzDB: 'mixed version style: 0.0.1 0.0.2 0.02'
   PAB3: 'mixed version style: 3.0.3 3.1.0 3.1.1 3.1.2 3.1.3 3.1.4 3.1.5 3.2 3.201'
@@ -614,7 +606,7 @@ ignore:
   Parse-Text: 'incorrect float version: 0.02 0.01'
   Parser-IPTables-Save: 'mixed version style: 0.04 0.0.5'
   Perf-Stopwatch: 'mixed version style: 0.10 0.10.2'
-  Perl: 'incorrect float version: 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 4 6 4 6 6 6 6 4 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6'
+  Perl6-Export-Attrs: 'mixed version style: 0.0.3 0.000004 0.000005'
   PerlIO-via-SeqIO: 'incorrect float version: 0.10 0.03 0.031 0.032 0.0321 0.0322'
   PerlMagick: 'unknown version style: 6.89-1'
   PerlMongers-Hannover: 'mixed version style: 0.01 0.02 0.03 0.04 0.5.5 0.6.5 0.7.5 0.8.5'
@@ -636,6 +628,7 @@ ignore:
   Pragmatic: 'unknown version style: 1.3 1.4 1.5 1.5a 1.6 1.7'
   Printer: 'unknown version style: 0.95c 0.96 0.98'
   Process-Child-Leash: 'incorrect float version: 000.001 000.002 000.003 1.00 000.004'
+  ProgressMonitor: 'mixed version style: 0.32 0.32.1 0.33'
   Project-Euler: 'mixed version style: 0.1.3 0.1.4 0.1.5 0.20'
   Protocol-ACME: 'mixed version style: 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09 0.10 0.10.1 0.11'
   Puppet-Tidy: 'mixed version style: 0.1 0.2 0.3 0.3.1 0.3.2 0.3.3'
@@ -653,6 +646,7 @@ ignore:
   RPM2-LocalInstalled: 'mixed version style: 1.3 1.3.1.1 1.4'
   RRDTool-Creator: 'mixed version style: 0.10 0.9.1 1.0'
   Reddit: 'mixed version style: 0.30 0.3.02 0.03.03 0.3.03 0.30.03'
+  Ref-List: 'mixed version style: 0.001 0.001.1 0.002'
   Regexp-Common-VATIN: 'mixed version style: 0.0.9 0.0.10 0.0.11 0.0.12 1.0'
   Rex-IO-Client: 'mixed version style: 0.6 0.6.1'
   RiveScript: 'unknown version style: 1.12b 1.13 1.14 1.15 1.16 1.17 1.18 1.19 1.20 1.22 1.24 1.26 1.28 1.30 1.32 1.34 1.36 1.38 1.40 1.42 2.0.0 2.0.1 2.0.2'
@@ -670,7 +664,7 @@ ignore:
   SWF-Chart: 'unknown version style: 1.1-1 1.2 1.3 1.4'
   Scanner: 'unknown version style: 0.02-4 0.02-5'
   ScatterPlot: 'unknown version style: 0_1 0_2'
-  Scrappy: 'incorrect float version: 0.5 0.51 0.52 0.521 0.55 0.56 0.58 0.59 0.591 0.591 0.592 0.593 0.6 0.6 0.61 0.61 0.62 0.9111110 0.9111120 0.9111121 0.9111150 0.9111180 0.9111190 0.91111901 0.92111190 0.921111901 0.93111200 0.92111220 0.92111230 0.93111250 0.94111260 0.94111280 0.94111370 0.94111610 0.94112070 0.94112090'
+  Scrappy: 'mixed version style: 0.5 0.51 0.52 0.521 0.55 0.56 0.58 0.59 0.591 0.591.1 0.592 0.593 0.6 0.6.1 0.61 0.61.1 0.62 0.9111110 0.9111120 0.9111121 0.9111150 0.9111180 0.9111190 0.91111901 0.92111190 0.921111901 0.93111200 0.92111220 0.92111230 0.93111250 0.94111260 0.94111280 0.94111370 0.94111610 0.94112070 0.94112090'
   Search-GIN-Extract-AttributeIndexes: 'mixed version style: 1.0.0 1.0.1 1.0.2 2.000000'
   SearchSDK: 'unknown version style: 0.99b'
   Sentry-Log-Raven: 'unknown version style: 1.01a 1.02 1.03a'
@@ -690,7 +684,8 @@ ignore:
   Statistics-FactorAnalysis: 'unknown version style: 0.0-2'
   Statistics-PCA-Varimax: 'unknown version style: 0.0-2'
   Statistics-embedR: 'mixed version style: 0.01 0.10.1'
-  StormX-Query-DeleteWhere: 'incorrect float version: 0.01 0.01 0.200 0.10'
+  Storm: 'mixed version style: 0.01 0.01.1 0.02 0.02.1 0.03 0.03.1 0.09 0.09.1 0.10 0.10.1 0.18 0.19 0.200 0.240'
+  StormX-Query-DeleteWhere: 'mixed version style: 0.01 0.01.1 0.200 0.10'
   Syntax-Highlight-Engine-Simple: 'mixed version style: 0.0.1 0.04 0.05 0.06 0.07 0.08 0.09'
   SystemTray-Applet: 'incorrect float version: 0.01 0.01 0.02 0.02 0.01 0.02'
   TAP-Convert-TET: 'mixed version style: 0.1 0.2 0.2.1'
@@ -713,10 +708,11 @@ ignore:
   Term-Screen: 'incorrect float version: 1.03 0.02 0.03 1.04 1.05'
   Term-Size: 'incorrect float version: 0.202 0.203 0.204 0.205 0.203 0.207 0.208 0.207 0.209'
   Test-Apache-RewriteRules: 'mixed version style: 1.0 1.0.1'
-  Test-AutomationFramework: 'unknown version style: 0.01 0.02 0.05 0.051 0.052 0.053 0.054 0.054.5 0.057.0 0.057.1 0.057.2 0.057.9 0.057.10 0.058.0 0.058.1 0.058.7 0.058.8 0.058.9 0.058.14 0.058.15 0.058.18 0.058.19 0.058.22 0.058.24 0.058.26 0.058.28 0.058.29 0.058.30 0.058.31 0.058.33 0.058.36 0.058.38 0.058.42 0.058.44 0.058.50 0.058.51 0.058.52 0.058.58 0.058.61 0.059.01 0.060.01 0.060.04 0.060.05e 0.060.05f 0.060.05g'
+  Test-AutomationFramework: 'unknown version style: 0.01.1 0.02 0.05 0.051 0.052 0.053 0.054 0.054.5 0.057.0 0.057.1 0.057.2 0.057.9 0.057.10 0.058.0 0.058.1 0.058.7 0.058.8 0.058.9 0.058.14 0.058.15 0.058.18 0.058.19 0.058.22 0.058.24 0.058.26 0.058.28 0.058.29 0.058.30 0.058.31 0.058.33 0.058.36 0.058.38 0.058.42 0.058.44 0.058.50 0.058.51 0.058.52 0.058.58 0.058.61 0.059.01 0.060.01 0.060.04 0.060.05e 0.060.05f 0.060.05g'
   Test-C2FIT: 'unknown version style: 0.01a 0.02 0.03 0.04 0.05 0.06 0.07 0.08'
   Test-CPAN-Changes-ReallyStrict: 'mixed version style: 0.2.0 1.000000 1.000001 1.000002 1.000003'
   Test-Doctest: 'unknown version style: 0.02-50a0b7b'
+  Test-Float: 'mixed version style: 0.2 0.2.1 0.3'
   Test-Mock-Mango: 'mixed version style: 0.04 0.05 0.07.1 0.09'
   Test-Mock-Wrapper: 'mixed version style: 0.001 0.02 0.03 0.04 0.05 0.06 0.06.1 0.07 0.08 0.09 0.10 0.11 0.12 0.13 0.14 0.15 0.16 0.17'
   Test-More-Hooks: 'mixed version style: 0.01 0.02 0.03 0.0.3 0.0.4 0.04 0.1 0.05 0.11 0.12'
@@ -726,6 +722,7 @@ ignore:
   Test-UniqueTestNames: 'mixed version style: 0.02 0.03 0.04 0.04.1'
   Test-WWW-Selenium: 'incorrect float version: 0.24 1.00 1.01 1.02 1.03 1.04 1.10 1.11 1.12 1.13 1.14 0.15 1.15 1.16 1.17 1.18 1.19 1.20 1.21 1.22 1.23 1.24 1.25 1.30 1.31 1.32 1.33 1.34 1.35 1.36'
   Test-Whitespaces: 'mixed version style: 0.01 0.02 0.03 0.04 0.05 1.0.0 1.1.0 1.2.0 1.2.1'
+  Test-XMLElement: 'mixed version style: 0.03 0.03.1 0.04'
   TestML-Tiny: 'mixed version style: 0.000001 0.000002 0.0.3 0.0.4 0.0.5 0.0.6 0.0.7 0.0.8 0.0.9 0.0.10 0.0.11'
   Text-BasicTemplate: 'mixed version style: 0.9.6.1 0.9.8 2.002 2.003 2.004 2.005 2.006 2.006.1'
   Text-Chord-Piano: 'mixed version style: 0.0.1 0.0.2 0.0.5 0.06 0.061'
@@ -823,10 +820,12 @@ ignore:
   Wiki-Toolkit-Plugin-JSON: 'unknown version style: 0.04-1 0.05'
   Win32-Encode: 'unknown version style: 0.4beta 0.5beta'
   Win32-Exchange: 'unknown version style: 0.045 0.046a'
+  Win32-FindFile: 'mixed version style: 0.07 0.08 0.09 0.10 0.11 0.12 0.13 0.14 0.14.1 0.15'
   Win32-GUI: 'mixed version style: 0.0.490 0.0.502 0.0.558 1.02 1.03 1.04 1.05 1.06 1.07 1.08 1.11 1.12'
   Win32-IPHelper: 'unknown version style: 0.06 0.07-fixed 0.08'
   Win32-MIDI: 'unknown version style: 0_2'
   Win32-MMF: 'unknown version style: 0.09d 0.09e'
+  Win32-Watir: 'mixed version style: 0.02 0.03 0.04 0.05 0.06 0.06.1'
   Winamp-Control: 'mixed version style: 0.01 0.02 0.2.1'
   WordNet-Similarity-Visual: 'incorrect float version: 0.02 0.03 004 0.05 0.06 007'
   Workflow-Wfmc: 'unknown version style: 0.01e'
@@ -858,7 +857,6 @@ ignore:
   dbd_rdb: 'unknown version style: 1_16'
   dclpod-html: 'unknown version style: 0_001'
   downsexta: 'unknown version style: 0.2-2'
-  etext: 'unknown version style: 0.6.1 1.6.2 .1.6.3'
   expr_eval: 'unknown version style: 1_0'
   former: 'unknown version style: 0.2beta'
   go-perl: 'unknown version style: 0.04 0.05 0.06 0.07_pre 0.07 0.08 0.09 0.10 0.11 0.12 0.13 0.14 0.15'
@@ -885,6 +883,7 @@ ignore:
   rpm-build-perl: 'mixed version style: 0.5.1 0.5.2 0.6.0 0.6.1 0.6.2 0.6.3 0.6.4 0.6.5 0.6.6 0.6.7 0.6.8 0.70 0.71 0.72 0.74 0.76 0.77 0.78 0.80 0.82'
   sdf: 'unknown version style: 2.000 2.001beta1 2.001'
   sol-inst: 'unknown version style: 0.90a'
+  swig: 'unknown version style: 1.1p4 1.1p5'
   tinyperl: 'unknown version style: 1.0-580'
   tkShortcuts: 'unknown version style: 1.00a'
   triceps: 'unknown version style: 1.0.1 1.0.91-20121129 1.0.92-20130527 1.0.93-20130623 2.0.0 2.0.1'

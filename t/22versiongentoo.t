@@ -7,11 +7,9 @@ use Test::More;
 use Data::Dumper;
 use Gentoo;
 use Gentoo::CPAN::Object;
-use Gentoo::PerlMod::Version qw/:all/; 
+use Gentoo::Portage::Package;
 use CPANPLUS::Dist::Gentoo::Version;
 use YAML::XS qw/LoadFile/;
-use List::MoreUtils qw/all/;
-use version 0.77;
 
 my $g = Gentoo->new;
 
@@ -19,89 +17,48 @@ my $g = Gentoo->new;
 
 my $db = LoadFile($data_file);
 
-my ($all, $float, $dotted, $mixed);
 foreach my $package (keys %$db){
-	my $array_ref = $db->{$package};
-	my $uniq_date = {};
-	my @array =
-		grep { $_ }
-		map { $_->{v} }
-		sort { 
-			$a->{d} cmp $b->{d} ||
-			$a->{v} cmp $b->{v}
-		}
-		grep { my $r = not defined $uniq_date->{$_}; $uniq_date->{$_} = 1; $r } # FIXME
-		@$array_ref;
+	my @versions = @{ $db->{$package} } or next;
+	my $versions_str = join " ", @versions;
 	
-	my $float_re = qr/^\d+(\.\d+)?$/;
-	my $dotted_re = qr/^\d+\.\d+(\.\d+)+$/;
-
-	$all++;
-	if(all { $_ =~ $float_re } @array){
-		$float++;
-		if(_check_perl_versions(@array)){
-			ok("simple float");
+	my @gentoo_versions = 
+		map { CPANPLUS::Dist::Gentoo::Version->new($_) }
+		grep { defined }
+		map {
+			my $version = $_;
 			
-		}elsif(_check_perl_versions(map { "${_}.0" } @array)){
-			diag("version rescue for $package");
-			ok("non float 0.x");
-		}else{
-	#		fail("fail")
+			my $co = Gentoo::CPAN::Object->new({
+				parent       => $g,
+				package_name => $package,
+				version      => $version,
+			});
+			
+			my $go = Gentoo::Portage::Package->from_cpan({
+				cpan_object => $co,
+			});
+			$go ? $go->version : undef;
 		}
-		
-	}elsif(all { $_ =~ $dotted_re } @array){
-		$dotted++;
+		@versions;
 	
-		if(_check_perl_versions(@array)){
-			ok("dotted");
-		}else{
-	#		fail("fail")
-		}
-
-	}elsif(all { $_ =~ $float_re || $_ =~ $dotted_re } @array){
-		$mixed++;
-		next;
+	my $gversions_str = join " ", map { "".$_ } @gentoo_versions;
+	if(_check_perl_versions(@gentoo_versions)){
+		ok("$package success");
+	}elsif(Gentoo::CPAN::Object::_version_rewrite->{approve_inconsistent}->{$package}){
+		ok("$package approved");
 	}else{
-		#diag(join(" ", @array));
-		next;
+		diag($versions_str);
+		diag($gversions_str);
+		fail("$package versions incorrect");
 	}
-	
-	next;
-	my @versions;
-	foreach my $version (@array){
-		
-		next;
-		$version =~ s/[-_]+/./g;
-		$version =~ s/([[:alpha:]])/".".ord($1)."."/ige;
-		$version =~ s/\.\././g;
-		$version =~ s/\.*$//g;
-
-		$version =~ s/\./DOT/;
-		$version =~ s/\./0/g;
-		$version =~ s/DOT/\./;
-		
-		my $gpv_version;
-		eval { $gpv_version = gentooize_version($version, { lax => 2 }) };
-		if($@){
-			diag("GPV failed: $version");
-		}
-		
-		push @versions, $version;
-	}
-	
 }
-diag("all: $all float: $float dotted: $dotted mixed: $mixed");
 
 sub _check_perl_versions {
-	my (@versions) = @_;
+	my (@check) = @_;
 	
-	my @check = grep { defined } map { eval { version->parse($_) } } @versions;
-
 	my $v1 = shift @check;
 	while(my $v2 = shift @check){
-		unless($v1 <= $v2){
+		unless($v1 < $v2){
 			return 0;
-			last;
 		}
 		$v1 = $v2;
 	}

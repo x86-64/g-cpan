@@ -1,0 +1,106 @@
+approve_inconsistent:
+  'Acme-Roman': 'tar.gz and tar.bz2 versions'
+  'Acme-Test-SameRelease': 'perl cpan tests'
+  'Apache-GopherHandler': 'tar.gz and tar.bz2 versions'
+  'Blitz': 'two same files'
+  'Finance-Bank-ES-Cajamadrid': 'tar.gz and zip versions'
+  'Finance-Currency-Convert-Custom': 'tar.gz and tgz versions'
+  'Gopher-Server': 'tar.gz and zip versions'
+  'Graphics-MNG': 'tar.gz and zip versions'
+  'HTML-Template-Dumper': 'tar.gz and zip versions'
+  'mGen': 'tar.gz and zip versions'
+  'Net-AIM': 'tar.gz and tgz versions'
+  'Net-IPFromZip': 'tar.gz and zip versions'
+  'Net-PicApp': 'tar.gz and zip versions'
+  'Net--RabbitMQ': 'tar.gz and zip versions'
+  'Rex': 'several co-maintainers'
+  'Tie-Handle-Flock': 'tar.gz and tgz versions'
+  'WebService-Instagram': 'tar.gz and zip versions'
+  'Win32-Registry-File': 'tar.gz and zip versions'
+  'WWW-AtMovies-TV': 'same files with v'
+rewrite:
+  'Parse-SVNDiff':
+     '0.03': ~
+  'Math-Simple':
+     '2.1.1': ~
+  'SQL-Translator':
+     '0.0900': ~
+  'MLDBM-TinyDB':
+     '0.16': ~
+  'Chemistry-Elements':
+     '1.07': '1.05'
+  'Net-DNS-ZoneFile-Fast':
+     '1.02': '1.111'
+  'Mesos':
+     '1.5.1': '1.05.1'
+  'Perl6-Form':
+     '0.04': '0.004'
+  'Role-Log-Syslog-Fast':
+     '0.013': ~
+  'CPANPLUS-Dist-SUSE':
+     '0.002': ~
+  'CPU-Emulator-Memory':
+     '1.1': ~
+  'Net-Snarl':
+     '1.10': ~
+  'Text-Context':
+     '3.5': ~
+  'Agent-TCLI':
+     '0.03': ~
+  'SMS-Send-BulkSMS':
+     '0.1': '0.01'
+  'Net-FTP-Throttle':
+     '0.3': ~
+  'Catmandu-DBI':
+     '0.1': ~
+  'Regru-API':
+     '0.01': ~
+  'X11-IdleTime':
+     '0.5': '0.05'
+  'Getopt-Chain':
+     '0.017': ~
+  'Text-Indent':
+     '0.1': '0.01'
+  'WebService-Geograph-API':
+     '0.2': '0.02'
+  'Wizard-LDAP':
+     '0.1006': ~
+  'Finance-NASDAQ-Markets':
+     '0.006': '0.07'
+  'Template-Twostep':
+     '0': ~
+  'Net-Domain-ES-ccTLD':
+     '0.1': '0.01'
+  'List-Rotation-Cycle':
+     '1.3': '1.008'
+  'CGI-Easy':
+     '1.0.1': ~
+  'Algorithm-NGram':
+     '0.07': ~
+     '0.08': ~
+  'Blog-Blosxom':
+     '0.010': ~
+  'Net-Evernote':
+     '0.07': ~
+  'Net-IPv4Addr':
+     '0.8': ~
+  'Net-PostcodeNL-WebshopAPI':
+     '0.2': '0.02'
+  'Perl6-Export':
+     '0.07': '0.007'
+  'Term-Gnuplot':
+     '0.5705': ~
+  'POE-Framework-MIDI':
+     '0.1': '0.01'
+     '0.2': '0.02'
+  'Sys-MemInfo':
+     '0.05': '0.5'
+  'Bot-BasicBot-Pluggable-Module-AliG':
+     '0.0001': ~
+  'WWW-Shorten-Safe':
+     '1.10': ~
+  'Ormlette':
+     '0.01': '0.001'
+  'SQLite_File':
+     '0.050': ~
+     '0.0500': ~
