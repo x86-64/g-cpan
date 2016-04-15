@@ -99,90 +99,34 @@ sub _src_uri_parse {
 		$filename =~ s/(rc\d)-TRIAL/\1/; # KMCGRAIL
 		
 		my @r;
+		my $package_rules = $self->_package_rules;
 		
-		if(
-			($filename =~ /[a-f0-9]{32,40}/i) ||  # f5019eed24b24c4cb8de55c5db3384aa9d251f09
-			($filename =~ /^v?([\d.]+)$/)     ||  # 1.0.2
-			($src_uri =~ m@(
-				/os2/|
-				perl-?5\.|
-				perl542b|
-				/AUTOLIFE/|
-				/MICB/|
-				flatland2|
-				perlMIF|
-				One_Penguin|
-				Chart-0\.99c-pre3|
-				20120109-NoSQL_and_MongoDB|
-				Data-Fault-z668|
-				cmmtalk-ye2000
-			)@x)
-		){
+		my $matching_rules = {};
+		while(my ($type, $rules) = each %$package_rules){
+			foreach my $rule (
+				sort { length($b) <=> length($a) }
+				keys %$rules
+			){
+				if($filename =~ /($rule)/){
+					$matching_rules->{$type} = $1;
+
+					if($type eq "no_sep"){
+						$filename =~ s/($rule)/\1-/g;
+					}
+				}
+			}
+		}
+		
+		if($matching_rules->{no_package}){
 			@r = (undef, undef);
+			
 		}elsif(($filename !~ /\d/)){
 			@r = ($filename, undef);
-		}elsif(($filename =~ /^(
-			metaperl-dbix-dbh |
-			Mica |
-			Spreadsheet-WriteExcel-WebPivot2 |
-			Win32GUI |
-			Net-SMS-WAY2SMS |
-			Ipv4_networks |
-			Geo-GoogleEarth-Document |
-			Device-Velleman-K8055-Client |
-			Model3D-Poser-GetStringRes |
-			Win32-API-Prototype|
-			Win32-Daemon|
-			Win32-EventLog-Message|
-			ChemCanvas|
-			Net-SSH2-Simple|
-			Pod2html|
-			Win32-MSI-SummaryInfo|
-			TML-EP-MSWin32|
-			Apache-AxKit-Language-Svg2AnyFormat|
-			txt2slides|
-			5foldCV|
-			Bundle-FinalTest2
-		)/xi)){
-			@r = ($1, undef)
+			
+		}elsif(my $package = $matching_rules->{no_version}){
+			@r = ($package, undef);
+			
 		}elsif(
-			(@r = ($filename =~ /^
-				(
-					PGForth|
-					Win32-TaskScheduler|
-					TimeConvert|
-					WWW-TMDB-API|
-					ESplit|
-					XMS-MotifSet|
-					Text-Format|
-					v6|
-					Class-CompiledC|
-					netldapapi|
-					TinyMake|
-					karma|
-					perltk|
-					zfilter|
-					cvspragma|
-					Tk|
-					Jeeves|
-					ngstatistics|
-					etext|
-					File-NCopy|
-					File-Remove|
-					man2html|
-					makehomeidx|
-					htmltoc|
-					perlanim|
-					bperlexe|
-					swig|
-					p9p|
-					Tk-TableMatrix|
-					perl|
-					PerlCRT
-				)
-				[-v]?
-				([\d.]+)
-			/ix)) ||
 			(@r = ($filename =~ /(.*?)[-_.]v?([\d._]+[-_]?[[:alnum:]_]*)$/i)) ||
 			(@r = ($filename =~ /(.*?)\.([\d.]+[[:alpha:]]*)$/))             ||
 			(@r = ($filename =~ /(.*?)\.([\d.]+[[:alpha:]]\d+)$/))           || # 0.1b2
@@ -311,19 +255,27 @@ sub _fix_version {
 	return $version;
 }
 
-our $package_authors;
-sub _package_authors_filepath {
+our $cache;
+
+sub _data_filepath {
+	my ($name) = @_;
+	
 	my $folder = eval { dist_dir("g-cpan") };
 	$folder //= "share" if -e "share";
 	$folder //= "../share" if -e "../share";
 	
-	return sprintf("%s/package_authors.yaml", $folder);
+	return sprintf("%s/%s.yaml", $folder, $name);
 }
 
-sub _package_authors {
-	$rules //= sub {
-		return LoadFile(_package_authors_filepath());
+sub _data {
+	my ($name) = @_;
+	
+	$cache->{$name} //= sub {
+		return LoadFile(_data_filepath($name));
 	}->();
 }
+
+sub _package_authors { _data("package_authors") }
+sub _package_rules   { _data("package_rules") }
 
 1;

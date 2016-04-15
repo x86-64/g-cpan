@@ -18,9 +18,7 @@ foreach my $package_file (read_file($data_file)){
 	
 	my $co = Gentoo::CPAN::Object->new({
 		parent => $g,
-		_cpan_info => {
-			src_uri => $package_file,
-		},
+		src_uri => $package_file,
 	});
 	
 	my ($p, $v) = ($co->package_name, $co->package_version);
