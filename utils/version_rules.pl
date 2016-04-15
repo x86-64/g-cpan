@@ -1,31 +1,21 @@
 #!/usr/bin/perl 
 
+use lib '../lib';
 use lib 'lib';
 use Data::Dumper;
-#use YAML qw/LoadFile DumpFile/;
-use YAML qw/DumpFile/;
-use YAML::XS qw/LoadFile/;
+use YAML qw/LoadFile DumpFile/;
 use Gentoo::CPAN::Object;
 use List::MoreUtils qw/all/;
 
-my $rules_filepath = Gentoo::CPAN::Object::_rules_filepath();
-my $versions_filepath = "t/22versiongentoo.yaml";
+my $versions_filepath = $ARGV[0];
+my $rules_filepath    = $ARGV[1] // Gentoo::CPAN::Object::_rules_filepath();
 
 my $db = LoadFile($versions_filepath);
 my $rules = {};
 
 foreach my $package (keys %$db){
-	my $array_ref = $db->{$package};
-	my $uniq_date = {};
-	my @versions =
-		grep { $_ }
-		map { $_->{v} }
-		sort { 
-			$a->{d} cmp $b->{d} ||
-			$a->{v} cmp $b->{v}
-		}
-		grep { my $r = not defined $uniq_date->{$_}; $uniq_date->{$_} = 1; $r } # FIXME
-		@$array_ref;
+	my @versions = @{ $db->{$package} } or next;
+	my $versions_str = join " ", @versions;
 	
 	my $float_re = qr/^\d+(\.\d+)?$/;
 	my $dotted_re = qr/^\d+\.\d+(\.\d+)+$/;
@@ -36,37 +26,24 @@ foreach my $package (keys %$db){
 			
 		}elsif(_check_perl_versions(map { "${_}.0" } @versions)){
 			# broken float, eg. 0.8 0.9 0.10 0.11  (0.10 is 0.1, which is less than 0.9)
-			$rules->{force_dotted}->{$package} = 1;
+			$rules->{float2dotted}->{$package} = 1;
 
 		}else{
-			print STDERR Dumper { $package => \@versions, error => "incorrect float version" };
+			$rules->{ignore}->{$package} = "incorrect float version: $versions_str";
 		}
 		
 	}elsif(all { $_ =~ $dotted_re } @versions){
 		if(_check_perl_versions(@versions)){
 			# simple dotted version 0.0.1 0.0.2
 		}else{
-	#		print STDERR Dumper { $package => \@versions, error => "incorrect dotted version" };
+			$rules->{ignore}->{$package} = "incorrect dotted version: $versions_str";
 		}
 
 	}elsif(all { $_ =~ $float_re || $_ =~ $dotted_re } @versions){
-		$mixed++;
-		next;
+		$rules->{ignore}->{$package} = "mixed version style: $versions_str";
 	}else{
-		#diag(join(" ", @versions));
-		next;
+		$rules->{ignore}->{$package} = "unknown version style: $versions_str";
 	}
-	
-	next;
-	$version =~ s/[-_]+/./g;
-	$version =~ s/([[:alpha:]])/".".ord($1)."."/ige;
-	$version =~ s/\.\././g;
-	$version =~ s/\.*$//g;
-
-	$version =~ s/\./DOT/;
-	$version =~ s/\./0/g;
-	$version =~ s/DOT/\./;
-	
 }
 
 DumpFile($rules_filepath, $rules);

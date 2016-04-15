@@ -1,7 +1,5 @@
 package Gentoo::Portage::Package;
 
-use Gentoo::PerlMod::Version qw/gentooize_version/;
-
 sub new {
 	my ($class, $opts) = @_;
 	
@@ -13,18 +11,39 @@ sub from_cpan {
 	my ($class, $opts) = @_;
 
 	my $cpan_object = delete $opts->{cpan_object}
-		or die;
+		or die "cpan_object not specified";
 	
-	my $is_perl_core = $cpan_object->is_perl_core;
-	if( ($is_perl_core || 0) == 1 ){
+	my $version = $cpan_object->version
+		or return undef;
+	
+	if($version !~ /^[0.]+$/ && ($cpan_object->is_perl_core || 0) == 1){
 		$opts->{category} = "dev-lang";
 		$opts->{name}     = "perl";
 		return $class->new($opts);
 	}
-	
+
 	$opts->{category} = "dev-perl";
-	$opts->{name}     = $cpan_object->package_name;
-	$opts->{version}  = gentooize_version($cpan_object->version);
+	$opts->{name}     = $cpan_object->package_name
+		or return undef;
+	
+	if($version =~ /^v(.*)$/){ # dotted
+		$opts->{version} = $1;
+		
+	}elsif($version =~ /^(\d+)\.(\d+)$/){ # float
+		$opts->{version} = sprintf(
+			"%d.%s",
+			$1,
+			(
+				join ".",
+				grep { length($_) == 3 }
+				split /(...)/, "${2}00"
+			),
+		);
+	
+	}else{
+		warn "Unsupported version $version";
+		...;
+	}
 	
 	return $class->new($opts);
 }

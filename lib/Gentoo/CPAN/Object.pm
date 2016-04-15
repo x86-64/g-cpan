@@ -28,7 +28,8 @@ sub cpan_info {
 	my ($self) = @_;
 	
 	return $self->{_cpan_info} //= sub {
-		my $name = $self->name;
+		my $name = $self->name
+			or return {};
 		
 		$self->parent->getCPANInfo($name);
 		
@@ -36,10 +37,29 @@ sub cpan_info {
 	}->();
 }
 
-sub type    { shift->cpan_info->{type} }
-sub src_uri { shift->cpan_info->{src_uri} }
-sub version { shift->{version} || "0" }
-sub description { shift->cpan_info->{description} }
+sub type         {
+	my ($self) = @_;
+
+	return $self->{type} // $self->cpan_info->{type}
+}
+
+sub src_uri      {
+	my ($self) = @_;
+	
+	return $self->{src_uri} // $self->cpan_info->{src_uri};
+}
+
+sub description  {
+	my ($self) = @_;
+	
+	return $self->{description} // $self->cpan_info->{description};
+}
+
+sub version      {
+	my ($self) = @_;
+	
+	return $self->_fix_version($self->{version} // $self->package_version // "0");
+}
 
 sub src_filename {
 	my ($self) = @_;
@@ -51,6 +71,7 @@ sub _src_uri_parse {
 	my ($self) = @_;
 	
 	return $self->{_src_uri_parse} //= sub {
+		my $src_uri   = $self->src_uri;
 		my $filename  = $self->src_filename;
 		my $extension = $self->extension;
 		$filename = substr($filename, 0, -length($extension)-1);
@@ -81,7 +102,21 @@ sub _src_uri_parse {
 		
 		if(
 			($filename =~ /[a-f0-9]{32,40}/i) ||  # f5019eed24b24c4cb8de55c5db3384aa9d251f09
-			($filename =~ /^v?([\d.]+)$/)         # 1.0.2
+			($filename =~ /^v?([\d.]+)$/)     ||  # 1.0.2
+			($src_uri =~ m@(
+				/os2/|
+				perl-?5\.|
+				perl542b|
+				/AUTOLIFE/|
+				/MICB/|
+				flatland2|
+				perlMIF|
+				One_Penguin|
+				Chart-0\.99c-pre3|
+				20120109-NoSQL_and_MongoDB|
+				Data-Fault-z668|
+				cmmtalk-ye2000
+			)@x)
 		){
 			@r = (undef, undef);
 		}elsif(($filename !~ /\d/)){
@@ -142,6 +177,7 @@ sub _src_uri_parse {
 					swig|
 					p9p|
 					Tk-TableMatrix|
+					perl|
 					PerlCRT
 				)
 				[-v]?
@@ -155,7 +191,7 @@ sub _src_uri_parse {
 		){
 		}else{
 			warn $self->src_uri;
-		#	...;
+			...;
 		}
 		my ($package, $version) = @r;
 		
@@ -166,8 +202,16 @@ sub _src_uri_parse {
 	}->();
 }
 
-sub package_name      { shift->_src_uri_parse->{package}   }
-sub package_version   { shift->_src_uri_parse->{version}   }
+sub package_name {
+	my ($self) = @_;
+	
+	return $self->{package_name} // $self->_src_uri_parse->{package};
+}
+sub package_version {
+	my ($self) = @_;
+	
+	return $self->{package_version} // $self->_src_uri_parse->{version};
+}
 
 sub author {
 	my ($self) = @_;
@@ -222,6 +266,12 @@ sub unpack {
 	return $self->cpan_info;
 }
 
+sub is_authorized {
+	my ($self) = @_;
+	
+	return defined $self->_package_authors->{$self->package_name}->{$self->author} ? 1 : 0;
+}
+
 sub _rules_filepath {
 	my $folder = eval { dist_dir("g-cpan") } || "share";
 	
@@ -232,6 +282,47 @@ our $rules;
 sub _rules {
 	$rules //= sub {
 		return LoadFile(_rules_filepath());
+	}->();
+}
+
+sub _fix_version {
+	my ($self, $version) = @_;
+	
+	my $package = $self->package_name;
+	my $rules   = $self->_rules;
+	
+	if($rules->{float2dotted}->{$package}){
+		$version = sprintf("v%s.0", $version);
+		
+	}elsif($rules->{ignore}->{$package}){
+		$version = undef;
+	
+	}elsif($version =~ /^v?(\d+\.\d+(\.\d+)+)$/i){ # dotted
+		$version = sprintf("v%s", $1);
+		
+	}elsif($version =~ /^(\d+)(\.(\d+))?$/){ # float
+		$version = sprintf("%s.%s", $1, $3 || "0");
+		
+	}else{
+		warn "Incorrect version $version";
+		...;
+	}
+	
+	return $version;
+}
+
+our $package_authors;
+sub _package_authors_filepath {
+	my $folder = eval { dist_dir("g-cpan") };
+	$folder //= "share" if -e "share";
+	$folder //= "../share" if -e "../share";
+	
+	return sprintf("%s/package_authors.yaml", $folder);
+}
+
+sub _package_authors {
+	$rules //= sub {
+		return LoadFile(_package_authors_filepath());
 	}->();
 }
 
