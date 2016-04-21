@@ -145,7 +145,7 @@ sub _src_uri_parse {
 		my ($package, $version) = @r;
 
 		my $version_rewrite = $self->parent->_version_rewrite;
-		if(exists $version_rewrite->{rewrite}->{$package}->{$version // ""}){
+		if($package && exists $version_rewrite->{rewrite}->{$package}->{$version // ""}){
 			$version = $version_rewrite->{rewrite}->{$package}->{$version // ""};
 		}
 		
@@ -215,9 +215,34 @@ sub is_perl_core {
 sub unpack {
 	my ($self) = @_;
 	
+	return if $self->{_unpacked};
+	$self->{_unpacked} = 1;
+	
 	$self->parent->unpackModule($self->name);
 	delete $self->{_cpan_info};
 	return $self->cpan_info;
+}
+
+sub dependencies {
+	my ($self) = @_;
+	
+	$self->unpack;
+	
+	my $cpan_info = $self->cpan_info;
+	my $depends = $cpan_info->{depends} // {};
+	
+	return 
+		grep { $_->cpan_info }
+		map {
+			my $r = Gentoo::CPAN::Object->new({
+				parent  => $self->parent,
+				name    => $_,
+				version => $depends->{$_},
+			});
+			$r->cpan_info;
+			$r;
+		}
+		keys %$depends
 }
 
 sub is_authorized {

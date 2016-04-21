@@ -56,13 +56,42 @@ sub from_cpan {
 		};
 	}
 	
+	$opts->{cpan_object} = $cpan_object;
+	
 	return $class->new($opts);
 }
 
 sub parent   { shift->{parent} }
 sub category { shift->{category} }
 sub name     { shift->{name} }
-sub version  { shift->{version} }
+sub version  { shift->{version} // "" }
+
+sub dependencies {
+	my ($self) = @_;
+	
+	if(defined $self->{dependencies}){
+		return @{ $self->{dependencies} };
+	}
+	
+	if(my $cpan_object = $self->{cpan_object}){
+		my $uniq = {};
+		
+		$self->{dependencies} = [
+			grep { my $r = not defined $uniq->{$_->ebuild}; $uniq->{$_->ebuild} = 1; $r }
+			map {
+				Gentoo::Portage::Package->from_cpan({
+					parent      => $self->parent,
+					cpan_object => $_,
+				})
+			}
+			$cpan_object->dependencies
+		];
+		
+		return @{ $self->{dependencies} };
+	}
+	
+	return ();
+}
 
 sub version_parsed {
 	my ($self) = @_;
