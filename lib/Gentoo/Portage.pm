@@ -349,10 +349,15 @@ sub DESTROY {
 
 sub listOverlays {
 	return
-		grep { -d $_ }
+		grep { -d $_->path }
+		map { 
+			Gentoo::Portage::Overlay->new({
+				path => $_,
+			})
+		}
 		(
-			__PACKAGE__->getEnv('GCPAN_OVERLAY'),
 			(split /\s+/, __PACKAGE__->getEnv('PORTDIR_OVERLAY')),
+			"/usr/portage",
 		);
 }
 

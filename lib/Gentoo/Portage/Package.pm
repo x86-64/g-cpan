@@ -1,5 +1,8 @@
 package Gentoo::Portage::Package;
 
+use strict;
+use warnings;
+
 sub new {
 	my ($class, $opts) = @_;
 	

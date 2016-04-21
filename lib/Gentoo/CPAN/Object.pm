@@ -1,5 +1,8 @@
 package Gentoo::CPAN::Object;
 
+use strict;
+use warnings;
+
 use Config;
 use File::Basename;
 
@@ -87,7 +90,7 @@ sub _src_uri_parse {
 		$filename =~ s/-OpenSource$//g; # NewsClipper 
 		$filename =~ s/-bin-.*//g; # TWEGNER
 		$filename =~ s/@.*//g; # RSPIER
-		$filename =~ s/\.v\.(\d)/.v\1/g;
+		$filename =~ s/\.v\.(\d)/.v$1/g;
 		$filename =~ s/[._-]?(gnuplot_required|withoutworldwriteables|no-world-writable|changelog_in_manifest|fixedmanifest|remove_blib)$/.1/;
 		$filename =~ s/-withoutworldwriteables.*$//;
 		$filename =~ s/\.full$//; # SRPATT/Printer
@@ -95,9 +98,9 @@ sub _src_uri_parse {
 		$filename =~ s/-winnt//; # CDONLEY
 		$filename =~ s/-SOPM-OPM-FORMAT$//; # ROHITBASU
 		$filename =~ s/\+$//; # JSMYSER
-		$filename =~ s/(rc\d)-TRIAL/\1/; # KMCGRAIL
+		$filename =~ s/(rc\d)-TRIAL/$1/; # KMCGRAIL
 		$filename =~ s/-v$//; # KCOWGILL, ACID, MONGODB
-		$filename =~ s/-v-(\d)/-v\1/; # PERLANCAR
+		$filename =~ s/-v-(\d)/-v$1/; # PERLANCAR
 
 		my @r;
 		my $package_version_rules = $self->parent->_package_version_rules;
@@ -112,7 +115,7 @@ sub _src_uri_parse {
 					$matching_rules->{$type} = $1;
 
 					if($type eq "no_sep"){
-						$filename =~ s/($rule)/\1-/g;
+						$filename =~ s/($rule)/$1-/g;
 					}
 				}
 			}
