@@ -1,0 +1,161 @@
+---
+AcePerl:
+  name: Ace
+CPAN-Meta:
+  category: perl-core
+CPAN-Meta-Requirements:
+  category: perl-core
+Cache-Mmap:
+  name: cache-mmap
+Class-Loader:
+  name: class-loader
+Convert-ASCII-Armour:
+  name: convert-ascii-armour
+Convert-PEM:
+  name: convert-pem
+DBIx-SearchBuilder:
+  name: dbix-searchbuilder
+Data-Buffer:
+  name: data-buffer
+Data-Dumper:
+  category: perl-core
+Devel-PPPort:
+  category: perl-core
+Digest:
+  category: perl-core
+Digest-BubbleBabble:
+  name: digest-bubblebabble
+Digest-MD2:
+  name: digest-md2
+Digest-MD5:
+  category: perl-core
+Digest-SHA:
+  category: perl-core
+Dumpvalue:
+  category: perl-core
+Encode:
+  category: perl-core
+Env:
+  category: perl-core
+ExtUtils-Command:
+  category: perl-core
+ExtUtils-Constant:
+  category: perl-core
+ExtUtils-MakeMaker:
+  category: perl-core
+ExtUtils-Manifest:
+  category: perl-core
+ExtUtils-PkgConfig:
+  name: extutils-pkgconfig
+File-Path:
+  category: perl-core
+File-Temp:
+  category: perl-core
+Getopt-Long:
+  category: perl-core
+Glib:
+  name: glib-perl
+Gnome2:
+  name: gnome2-perl
+Gnome2-Canvas:
+  name: gnome2-canvas
+Gnome2-VFS:
+  name: gnome2-vfs-perl
+Gnome2-Wnck:
+  name: gnome2-wnck
+Gtk2:
+  name: gtk2-perl
+Gtk2-Ex-FormFactory:
+  name: gtk2-ex-formfactory
+Gtk2-GladeXML:
+  name: gtk2-gladexml
+Gtk2-Spell:
+  name: gtk2-spell
+Gtk2-TrayIcon:
+  name: gtk2-trayicon
+Gtk2-TrayManager:
+  name: gtk2-traymanager
+HTML-Formatter:
+  name: HTML-Format
+HTTP-Tiny:
+  category: perl-core
+IO-Zlib:
+  category: perl-core
+IPC-SysV:
+  category: perl-core
+JSON-PP:
+  category: perl-core
+Locale-Maketext-Simple:
+  category: perl-core
+MIME-Base64:
+  category: perl-core
+Math-BigInt:
+  category: perl-core
+Math-Complex:
+  category: perl-core
+Memoize:
+  category: perl-core
+Module-CoreList:
+  category: perl-core
+Module-Loaded:
+  category: perl-core
+Module-Metadata:
+  category: perl-core
+NTLM:
+  name: Authen-NTLM
+OLE-Storage_Lite:
+  name: OLE-StorageLite
+Package-Constants:
+  category: perl-core
+Params-Check:
+  category: perl-core
+Pod-Simple:
+  category: perl-core
+Regexp-Common:
+  name: regexp-common
+Sys-Syslog:
+  category: perl-core
+Template-Latex:
+  name: Template-Plugin-Latex
+Term-ANSIColor:
+  category: perl-core
+Test:
+  category: perl-core
+Test-Simple:
+  category: perl-core
+Text-Balanced:
+  category: perl-core
+Text-ParseWords:
+  category: perl-core
+Text-Tabs+Wrap:
+  category: perl-core
+Text-Template:
+  name: text-template
+Text-Wrapper:
+  name: text-wrapper
+Thread-Semaphore:
+  category: perl-core
+Tie-EncryptedHash:
+  name: tie-encryptedhash
+Time-HiRes:
+  category: perl-core
+Time-Local:
+  category: perl-core
+Unicode-Collate:
+  category: perl-core
+Unicode-Normalize:
+  category: perl-core
+YAML:
+  name: yaml
+gettext:
+  name: Locale-gettext
+libnet:
+  category: perl-core
+p5-Palm:
+  name: Palm
+parent:
+  category: perl-core
+podlators:
+  category: perl-core
+version:
+  category: perl-core

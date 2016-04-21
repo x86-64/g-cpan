@@ -4,11 +4,12 @@ use lib '../lib';
 use lib 'lib';
 use Data::Dumper;
 use YAML qw/LoadFile DumpFile/;
+use Gentoo;
 use Gentoo::CPAN::Object;
 use List::MoreUtils qw/all/;
 
 my $versions_filepath = $ARGV[0];
-my $rules_filepath    = $ARGV[1] // Gentoo::CPAN::Object::_rules_filepath();
+my $rules_filepath    = $ARGV[1] // Gentoo::_data_filepath("version_rules");
 
 my $db = LoadFile($versions_filepath);
 my $rules = {};

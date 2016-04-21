@@ -36,7 +36,7 @@ $(package_rules): $(official_ebuilds)
 	./package_rules.pl $< $@
 
 inputs=99ls-la.txt 02packages.details.txt $(official_ebuilds)
-files=$(21versions) $(22versiongentoo) $(version_rules) $(package_authors)
+files=$(21versions) $(22versiongentoo) $(version_rules) $(package_authors) $(package_rules)
 all: $(files) 
 clean:
 	rm $(files) 2>&1 >/dev/null || true

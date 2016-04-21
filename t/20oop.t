@@ -9,7 +9,7 @@ use Gentoo;
 use Gentoo::CPAN::Object;
 use Gentoo::Portage::Package;
 
-plan tests => 9;
+plan tests => 10;
 
 my $g = Gentoo->new;
 
@@ -30,6 +30,7 @@ sub test_atom {
 		%{ $opts || {} },
 	});
 	my $gp = Gentoo::Portage::Package->from_cpan({
+		parent      => $g,
 		cpan_object => $co,
 	});
 	
@@ -48,6 +49,8 @@ test_atom("Sub::Util", "dev-perl/Scalar-List-Utils");
 test_atom("Carp", "dev-lang/perl");
 test_atom("File::Path", "dev-lang/perl");
 
-test_atom("File::Path", ">=dev-perl/File-Path-1.100", { version => "1.1" });
+test_atom("Data::Dumper", "perl-core/Data-Dumper");
+
+test_atom("File::Path", ">=perl-core/File-Path-1.100", { version => "1.1" });
 test_atom("Sub::Util", ">=dev-perl/Scalar-List-Utils-1.100", { version => "1.1" });
 

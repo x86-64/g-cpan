@@ -5,6 +5,8 @@ use strict;
 use warnings;
 use Data::Dumper;
 use Log::Agent;
+use File::ShareDir ':ALL';
+use YAML qw/LoadFile/;
 
 #### Load the other namespaces.
 #### Gentoo.pm is the primary if these aren't accessed directly.
@@ -75,6 +77,32 @@ sub DESTROY {
 
     $self->Gentoo::Portage::DESTROY();
 }
+
+our $cache;
+
+sub _data_filepath {
+	my ($name) = @_;
+	
+	my $folder = eval { dist_dir("g-cpan") };
+	$folder //= "share" if -e "share";
+	$folder //= "../share" if -e "../share";
+	
+	return sprintf("%s/%s.yaml", $folder, $name);
+}
+
+sub _data {
+	my ($name) = @_;
+	
+	$cache->{$name} //= sub {
+		return LoadFile(_data_filepath($name));
+	}->();
+}
+
+sub _package_authors         { _data("package_authors") }
+sub _package_rules           { _data("package_rules") }
+sub _package_version_rules   { _data("package_version_rules") }
+sub _version_rules           { _data("version_rules") }
+sub _version_rewrite         { _data("version_rewrite") }
 
 1;
 __END__

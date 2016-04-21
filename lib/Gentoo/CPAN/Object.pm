@@ -2,8 +2,6 @@ package Gentoo::CPAN::Object;
 
 use Config;
 use File::Basename;
-use File::ShareDir ':ALL';
-use YAML qw/LoadFile/;
 
 sub new {
 	my ($class, $opts) = @_;
@@ -102,7 +100,7 @@ sub _src_uri_parse {
 		$filename =~ s/-v-(\d)/-v\1/; # PERLANCAR
 
 		my @r;
-		my $package_version_rules = $self->_package_version_rules;
+		my $package_version_rules = $self->parent->_package_version_rules;
 		
 		my $matching_rules = {};
 		while(my ($type, $rules) = each %$package_version_rules){
@@ -143,7 +141,7 @@ sub _src_uri_parse {
 		}
 		my ($package, $version) = @r;
 
-		my $version_rewrite = $self->_version_rewrite;
+		my $version_rewrite = $self->parent->_version_rewrite;
 		if(exists $version_rewrite->{rewrite}->{$package}->{$version // ""}){
 			$version = $version_rewrite->{rewrite}->{$package}->{$version // ""};
 		}
@@ -222,14 +220,14 @@ sub unpack {
 sub is_authorized {
 	my ($self) = @_;
 	
-	return defined $self->_package_authors->{$self->package_name}->{$self->author} ? 1 : 0;
+	return defined $self->parent->_package_authors->{$self->package_name}->{$self->author} ? 1 : 0;
 }
 
 sub _fix_version {
 	my ($self, $version) = @_;
 	
 	my $package = $self->package_name;
-	my $rules   = $self->_version_rules;
+	my $rules   = $self->parent->_version_rules;
 	
 	if($rules->{float2dotted}->{$package}){
 		$version = sprintf("v%s.0", $version);
@@ -250,33 +248,5 @@ sub _fix_version {
 	
 	return $version;
 }
-
-our $cache;
-
-sub _data_filepath {
-	my ($name) = @_;
-	
-	my $folder = eval { dist_dir("g-cpan") };
-	$folder //= "share" if -e "share";
-	$folder //= "../share" if -e "../share";
-	
-	return sprintf("%s/%s.yaml", $folder, $name);
-}
-
-sub _data {
-	my ($name) = @_;
-	
-	$cache->{$name} //= sub {
-		return LoadFile(_data_filepath($name));
-	}->();
-}
-
-
-sub _rules_filepath  { _data_filepath("version_rules") }
-sub _package_authors { _data("package_authors") }
-sub _package_rules   { _data("package_rules") }
-sub _package_version_rules   { _data("package_version_rules") }
-sub _version_rules   { _data("version_rules") }
-sub _version_rewrite { _data("version_rewrite") }
 
 1;

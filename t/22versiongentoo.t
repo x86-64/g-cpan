@@ -34,6 +34,7 @@ foreach my $package (keys %$db){
 			});
 			
 			my $go = Gentoo::Portage::Package->from_cpan({
+				parent      => $g,
 				cpan_object => $co,
 			});
 			$go ? $go->version : undef;
@@ -43,7 +44,7 @@ foreach my $package (keys %$db){
 	my $gversions_str = join " ", map { "".$_ } @gentoo_versions;
 	if(_check_perl_versions(@gentoo_versions)){
 		ok("$package success");
-	}elsif(Gentoo::CPAN::Object::_version_rewrite->{approve_inconsistent}->{$package}){
+	}elsif($g->_version_rewrite->{approve_inconsistent}->{$package}){
 		ok("$package approved");
 	}else{
 		diag($versions_str);

@@ -44,6 +44,14 @@ sub from_cpan {
 		warn "Unsupported version $version";
 		...;
 	}
+
+	my $package_rules = $opts->{parent}->_package_rules;	
+	if(my $rule = $package_rules->{$opts->{name}}){
+		$opts = {
+			%$opts,
+			%$rule,
+		};
+	}
 	
 	return $class->new($opts);
 }
