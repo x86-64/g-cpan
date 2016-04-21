@@ -48,6 +48,7 @@ sub from_cpan {
 	return $class->new($opts);
 }
 
+sub parent   { shift->{parent} }
 sub category { shift->{category} }
 sub name     { shift->{name} }
 sub version  { shift->{version} }
@@ -59,6 +60,20 @@ sub version_parsed {
 	return ($1 || ">=", $2 || "0");
 }
 
+sub version_condition {
+	my ($self) = @_;
+	
+	my ($v_cond, $v_number) = $self->version_parsed;
+	return $v_cond;
+}
+
+sub version_digits {
+	my ($self) = @_;
+
+	my ($v_cond, $v_number) = $self->version_parsed;
+	return $v_number;
+}
+
 sub ebuild {
 	my ($self) = @_;
 	
@@ -68,10 +83,14 @@ sub ebuild {
 sub atom {
 	my ($self) = @_;
 	
-	my ($v_cond, $v_number) = $self->version_parsed;
+	return $self->ebuild if $self->version_digits =~ /^[0.]*$/;
+	return sprintf("%s%s-%s", $self->version_condition, $self->ebuild, $self->version_digits);
+}
+
+sub ebuild_filepath {
+	my ($self) = @_;
 	
-	return $self->ebuild if $v_number =~ /^[0.]*$/;
-	return sprintf("%s%s-%s", $v_cond, $self->ebuild, $v_number);
+	return sprintf("%s-%s.ebuild", $self->ebuild, $self->version_digits);
 }
 
 1;

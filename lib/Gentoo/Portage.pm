@@ -33,7 +33,7 @@ require Exporter;
 our @ISA = qw(Exporter Gentoo);
 
 our @EXPORT =
-  qw( getEnv getAltName getAvailableEbuilds getAvailableVersions generate_digest emerge_ebuild import_fields );
+  qw( getEnv getAltName getAvailableEbuilds getAvailableVersions generate_digest emerge_ebuild import_fields listOverlays );
 
 our $VERSION = '0.01';
 
@@ -345,6 +345,15 @@ sub wanted_ebuilds {
 sub DESTROY {
     my ($self) = @_;
     return if $self->{DESTROY}{__PACKAGE__}++;
+}
+
+sub listOverlays {
+	return
+		grep { -d $_ }
+		(
+			__PACKAGE__->getEnv('GCPAN_OVERLAY'),
+			(split /\s+/, __PACKAGE__->getEnv('PORTDIR_OVERLAY')),
+		);
 }
 
 1;

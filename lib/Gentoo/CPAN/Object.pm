@@ -243,7 +243,7 @@ sub _fix_version {
 		
 	}else{
 		warn "Incorrect version $version";
-		...;
+		$version = undef;
 	}
 	
 	return $version;
