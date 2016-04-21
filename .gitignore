@@ -15,3 +15,4 @@ g-cpan-*.tar.gz
 utils/02packages.details.txt
 utils/99ls-la.txt 
 utils/packages
+utils/official_ebuilds.yaml
