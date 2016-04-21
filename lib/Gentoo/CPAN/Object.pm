@@ -102,10 +102,10 @@ sub _src_uri_parse {
 		$filename =~ s/-v-(\d)/-v\1/; # PERLANCAR
 
 		my @r;
-		my $package_rules = $self->_package_rules;
+		my $package_version_rules = $self->_package_version_rules;
 		
 		my $matching_rules = {};
-		while(my ($type, $rules) = each %$package_rules){
+		while(my ($type, $rules) = each %$package_version_rules){
 			foreach my $rule (
 				sort { length($b) <=> length($a) }
 				keys %$rules
@@ -275,6 +275,7 @@ sub _data {
 sub _rules_filepath  { _data_filepath("version_rules") }
 sub _package_authors { _data("package_authors") }
 sub _package_rules   { _data("package_rules") }
+sub _package_version_rules   { _data("package_version_rules") }
 sub _version_rules   { _data("version_rules") }
 sub _version_rewrite { _data("version_rewrite") }
 
