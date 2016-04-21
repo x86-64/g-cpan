@@ -98,7 +98,9 @@ sub _src_uri_parse {
 		$filename =~ s/-SOPM-OPM-FORMAT$//; # ROHITBASU
 		$filename =~ s/\+$//; # JSMYSER
 		$filename =~ s/(rc\d)-TRIAL/\1/; # KMCGRAIL
-		
+		$filename =~ s/-v$//; # KCOWGILL, ACID, MONGODB
+		$filename =~ s/-v-(\d)/-v\1/; # PERLANCAR
+
 		my @r;
 		my $package_rules = $self->_package_rules;
 		

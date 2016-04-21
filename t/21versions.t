@@ -24,7 +24,7 @@ foreach my $package_file (read_file($data_file)){
 	my ($p, $v) = ($co->package_name, $co->package_version);
 	$p //= ""; $v //= "";
 	
-	unless(
+	unless((
 		($p eq "" and $v eq "") ||
 		$p =~ /[[:alpha:]]$/ ||
 		index($package_file, "${p}-${v}") >= 0 ||
@@ -32,7 +32,9 @@ foreach my $package_file (read_file($data_file)){
 		index($package_file, "${p}-v${v}") >= 0 ||
 		($p =~ /Sendmail_M4/ && index($package_file, "${p}.${v}") >= 0) ||
 		($p =~ /Bundle-FinalTest|WebPivot2/ && index($package_file, "${p}${v}") >= 0)
-	){
+	) and (
+		not $p =~ /-v$/
+	)){
 		diag($co->src_uri);
 		diag($co->package_name);
 		diag($co->package_version);
