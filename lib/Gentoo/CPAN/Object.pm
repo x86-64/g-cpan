@@ -229,20 +229,29 @@ sub dependencies {
 	$self->unpack;
 	
 	my $cpan_info = $self->cpan_info;
-	my $depends = $cpan_info->{depends} // {};
+	my $depends = $cpan_info->{depends_full} // {};
 	
-	return 
-		grep { $_->cpan_info }
-		map {
-			my $r = Gentoo::CPAN::Object->new({
-				parent  => $self->parent,
-				name    => $_,
-				version => $depends->{$_},
-			});
-			$r->cpan_info;
-			$r;
-		}
-		keys %$depends
+	my $dependencies = {};
+	foreach my $type (keys %$depends){
+		my $dependencies_curr = $depends->{$type};
+		$type = "requires"       if $type eq "prereq_pm";
+		$type = "build_requires" if $type eq "test_requires";
+		
+		push @{ $dependencies->{$type} },
+			grep { $_->cpan_info }
+			map {
+				my $r = Gentoo::CPAN::Object->new({
+					parent  => $self->parent,
+					name    => $_,
+					version => $dependencies_curr->{$_},
+				});
+				$r->cpan_info;
+				$r;
+			}
+			keys %$dependencies_curr;
+	}
+	
+	return $dependencies;
 }
 
 sub is_authorized {

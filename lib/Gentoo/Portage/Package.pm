@@ -70,27 +70,33 @@ sub dependencies {
 	my ($self) = @_;
 	
 	if(defined $self->{dependencies}){
-		return @{ $self->{dependencies} };
+		return $self->{dependencies};
 	}
 	
 	if(my $cpan_object = $self->{cpan_object}){
 		my $uniq = {};
 		
-		$self->{dependencies} = [
-			grep { my $r = not defined $uniq->{$_->ebuild}; $uniq->{$_->ebuild} = 1; $r }
-			map {
-				Gentoo::Portage::Package->from_cpan({
-					parent      => $self->parent,
-					cpan_object => $_,
-				})
-			}
-			$cpan_object->dependencies
-		];
-		
-		return @{ $self->{dependencies} };
+		my $deps = $cpan_object->dependencies;
+		foreach my $type (qw/requires configure_requires build_requires/){
+			my $deps_curr = $deps->{$type};
+			
+			$self->{dependencies}->{$type} = [
+				sort { $a->ebuild cmp $b->ebuild }
+				grep { my $r = not defined $uniq->{$_->ebuild}; $uniq->{$_->ebuild} = 1; $r }
+				map {
+					Gentoo::Portage::Package->from_cpan({
+						parent      => $self->parent,
+						cpan_object => $_,
+					})
+				}
+				@$deps_curr
+			];
+		}
+
+		return $self->{dependencies};
 	}
 	
-	return ();
+	return {};
 }
 
 sub version_parsed {
