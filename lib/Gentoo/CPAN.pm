@@ -331,7 +331,7 @@ sub FindDeps {
                             $self->{'cpan'}{ lc($module_name) }{'depends'}
                               {$module} = $ar_type->{$module};
                             $self->{'cpan'}{ lc($module_name) }{'depends_full'}
-                              {$module}{$type} = $ar_type->{$module};
+                              {$type}{$module} = $ar_type->{$module};
                         }
                     }
                 }
@@ -354,7 +354,7 @@ sub FindDeps {
                         chomp;
                         last if /MakeMaker post_initialize section/;
                         my ($p) = m{^[\#]
-       \s{0,}(PREREQ_PM|CONFIGURE_REQUIRES|BUILD_REQUIRES)\s+=>\s+(.+)
+       \s{0,}(PREREQ_PM|CONFIGURE_REQUIRES|TEST_REQUIRES|BUILD_REQUIRES)\s+=>\s+(.+)
        }x;
                         next unless $p;
                         my ($type) = $1;
@@ -368,7 +368,7 @@ sub FindDeps {
                             my $version = $2;
                             $self->{'cpan'}{ lc($module_name) }{'depends'}
                               {$module} = $version;
-                            $self->{'cpan'}{ lc($module_name) }{'depends_full'}{$type}
+                            $self->{'cpan'}{ lc($module_name) }{'depends_full'}{lc $type}
                               {$module} = $version;
                         }
                     }
