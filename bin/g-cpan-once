@@ -1,0 +1,114 @@
+#!/usr/bin/perl
+
+use lib 'lib';
+use strict;
+use warnings;
+
+use File::Basename;
+use File::Slurp;
+use File::Path qw/make_path/;
+use File::ShareDir qw/:ALL/;
+use Template;
+use Getopt::Long;
+use Gentoo;
+use Gentoo::CPAN::Object;
+use Gentoo::Portage::Package;
+use Gentoo::Portage::Overlay;
+use List::MoreUtils qw/any/;
+
+our $opt_overlay;
+our $opt_preview;
+
+GetOptions(
+    'overlay|o=s'    => \$opt_overlay,
+    'preview|p'      => \$opt_preview,
+    'help|h'         => sub { exit_usage(); }
+) or exit_usage();
+@ARGV or exit_usage();
+
+our $g  = Gentoo->new;
+our $tt = Template->new(RELATIVE => 1, ABSOLUTE => 1);
+our $template_filepath = sprintf(
+	"%s/ebuild.tt",
+	(eval { dist_dir("g-cpan") } || "share"),
+);
+our $gcpan_overlay_path = $opt_overlay // $g->getEnv('GCPAN_OVERLAY')
+	or die "Env variable GCPAN_OVERLAY is not defined";
+our $gcpan_overlay = Gentoo::Portage::Overlay->new({
+	path => $gcpan_overlay_path,
+});
+
+our @overlays = 
+	grep { $_->path ne $gcpan_overlay->path }
+	$g->listOverlays;
+
+sub main {
+	my (@cpan_objects) = @ARGV;
+	
+	foreach my $name (@cpan_objects){
+		ebuild_generate($name);
+	}
+}
+
+sub ebuild_generate {
+	my ($name) = @_;
+	
+	my $c = Gentoo::CPAN::Object->new({
+		parent       => $g,
+		name         => $name,
+	});
+	
+	my $p = Gentoo::Portage::Package->from_cpan({
+		parent       => $g,
+		cpan_object  => $c,
+	});	
+
+	unless(defined $p->name){
+		warn "skipping $name: invalid package name";
+		return;
+	}
+
+	unless(defined $p->version){
+		warn "skipping $name: invalid version";
+		return;
+	}
+	
+	if(any { $_->has_ebuild($p->ebuild) } @overlays){
+		warn "skipping $name: exists in different overlay or main portage";
+		return;
+	}
+	
+	my $ebuild_filepath = sprintf(
+		"%s/%s",
+		$gcpan_overlay->path,
+		$p->ebuild_filepath,
+	);
+	my $context = {
+		c => $c,
+		p => $p,
+	};
+	my $output = "";
+	$tt->process($template_filepath, $context, \$output)
+		or die $tt->error;
+	
+	if($opt_preview){
+		printf "File: %s\n======\n%s\n======\n", $ebuild_filepath, $output;
+		return;
+	}
+	
+	make_path(dirname($ebuild_filepath));
+	write_file($ebuild_filepath, $output);
+	
+	$g->generate_digest($ebuild_filepath);
+}
+
+sub exit_usage {
+	print STDERR qq!usage: $0 <CPAN::Module1> [<CPAN::Module2> <A/AA/AAA/Package-0.1.tar.gz> ...]
+Options:
+	--overlay -o            output folder
+	--preview -p            show ebuild content instead of saving
+!;
+	exit 1;
+}
+
+main;

@@ -1,0 +1,32 @@
+# Copyright 1999-2016 Gentoo Foundation
+# Distributed under the terms of the GNU General Public License v2
+
+EAPI=6
+
+DIST_AUTHOR="[% c.author %]"
+DIST_VERSION="[% c.version %]"
+DIST_A="[% c.src_filename %]"
+inherit perl-module
+
+DESCRIPTION="[% c.description | remove('[\r\n"]+') %]"
+
+SLOT="0"
+KEYWORDS=""
+IUSE="test"
+
+RDEPEND="
+[%- FOREACH dep IN p.dependencies.requires %]
+	[% dep.atom %]
+[%- END %]
+"
+DEPEND="
+	${RDEPEND}
+[%- FOREACH dep IN p.dependencies.configure_requires %]
+	[% dep.atom %]
+[%- END %]
+	test ? (
+	[%- FOREACH dep IN p.dependencies.build_requires %]
+		[% dep.atom %]
+	[%- END %]
+	)
+"

@@ -12,7 +12,7 @@ WriteMakefile(
     AUTHOR            => 'Michael Cummings <mcummings@gentoo.org>, Robin H. Johnson <robbat2@gentoo.org>',
     VERSION_FROM      => 'bin/g-cpan', # finds $VERSION
     LICENSE           => 'gpl',
-    EXE_FILES         => [ 'bin/g-cpan' ],
+    EXE_FILES         => [ 'bin/g-cpan', 'bin/g-cpan-once' ],
     PREREQ_PM         => {
                         'File::Basename'   => 0,
                         'File::Copy'       => 0,
