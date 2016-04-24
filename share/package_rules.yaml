@@ -1,58 +1,128 @@
 ---
 AcePerl:
   name: Ace
+Archive-Tar:
+  category: virtual
+  name: perl-Archive-Tar
+Attribute-Handlers:
+  category: virtual
+  name: perl-Attribute-Handlers
+AutoLoader:
+  category: virtual
+  name: perl-AutoLoader
+B-Debug:
+  category: virtual
+  name: perl-B-Debug
+CPAN:
+  category: virtual
+  name: perl-CPAN
 CPAN-Meta:
-  category: perl-core
+  category: virtual
+  name: perl-CPAN-Meta
 CPAN-Meta-Requirements:
-  category: perl-core
+  category: virtual
+  name: perl-CPAN-Meta-Requirements
+CPAN-Meta-YAML:
+  category: virtual
+  name: perl-CPAN-Meta-YAML
 Cache-Mmap:
   name: cache-mmap
+Carp:
+  category: virtual
+  name: perl-Carp
 Class-Loader:
   name: class-loader
+Compress-Raw-Bzip2:
+  category: virtual
+  name: perl-Compress-Raw-Bzip2
+Compress-Raw-Zlib:
+  category: virtual
+  name: perl-Compress-Raw-Zlib
 Convert-ASCII-Armour:
   name: convert-ascii-armour
 Convert-PEM:
   name: convert-pem
 DBIx-SearchBuilder:
   name: dbix-searchbuilder
+DB_File:
+  category: virtual
+  name: perl-DB_File
 Data-Buffer:
   name: data-buffer
 Data-Dumper:
-  category: perl-core
+  category: virtual
+  name: perl-Data-Dumper
 Devel-PPPort:
-  category: perl-core
+  category: virtual
+  name: perl-Devel-PPPort
+Devel-SelfStubber:
+  category: virtual
+  name: perl-Devel-SelfStubber
 Digest:
-  category: perl-core
+  category: virtual
+  name: perl-Digest
 Digest-BubbleBabble:
   name: digest-bubblebabble
 Digest-MD2:
   name: digest-md2
 Digest-MD5:
-  category: perl-core
+  category: virtual
+  name: perl-Digest-MD5
 Digest-SHA:
-  category: perl-core
+  category: virtual
+  name: perl-Digest-SHA
 Dumpvalue:
-  category: perl-core
+  category: virtual
+  name: perl-Dumpvalue
 Encode:
-  category: perl-core
+  category: virtual
+  name: perl-Encode
 Env:
   category: perl-core
+Exporter:
+  category: virtual
+  name: perl-Exporter
+ExtUtils-CBuilder:
+  category: virtual
+  name: perl-ExtUtils-CBuilder
 ExtUtils-Command:
-  category: perl-core
+  category: virtual
+  name: perl-ExtUtils-Command
 ExtUtils-Constant:
-  category: perl-core
+  category: virtual
+  name: perl-ExtUtils-Constant
+ExtUtils-Install:
+  category: virtual
+  name: perl-ExtUtils-Install
 ExtUtils-MakeMaker:
-  category: perl-core
+  category: virtual
+  name: perl-ExtUtils-MakeMaker
 ExtUtils-Manifest:
-  category: perl-core
+  category: virtual
+  name: perl-ExtUtils-Manifest
+ExtUtils-ParseXS:
+  category: virtual
+  name: perl-ExtUtils-ParseXS
 ExtUtils-PkgConfig:
   name: extutils-pkgconfig
+File-Fetch:
+  category: virtual
+  name: perl-File-Fetch
 File-Path:
-  category: perl-core
+  category: virtual
+  name: perl-File-Path
+File-Spec:
+  category: virtual
+  name: perl-File-Spec
 File-Temp:
-  category: perl-core
+  category: virtual
+  name: perl-File-Temp
+Filter-Simple:
+  category: virtual
+  name: perl-Filter-Simple
 Getopt-Long:
-  category: perl-core
+  category: virtual
+  name: perl-Getopt-Long
 Glib:
   name: glib-perl
 Gnome2:
@@ -78,84 +148,235 @@ Gtk2-TrayManager:
 HTML-Formatter:
   name: HTML-Format
 HTTP-Tiny:
-  category: perl-core
+  category: virtual
+  name: perl-HTTP-Tiny
+I18N-LangTags:
+  category: virtual
+  name: perl-I18N-LangTags
+IO:
+  category: virtual
+  name: perl-IO
+IO-Compress:
+  category: virtual
+  name: perl-IO-Compress
+IO-Socket-IP:
+  category: virtual
+  name: perl-IO-Socket-IP
 IO-Zlib:
-  category: perl-core
+  category: virtual
+  name: perl-IO-Zlib
+IPC-Cmd:
+  category: virtual
+  name: perl-IPC-Cmd
 IPC-SysV:
-  category: perl-core
+  category: virtual
+  name: perl-IPC-SysV
 JSON-PP:
-  category: perl-core
+  category: virtual
+  name: perl-JSON-PP
+List-Util:
+  category: virtual
+  name: perl-List-Util
+Locale-Maketext:
+  category: virtual
+  name: perl-Locale-Maketext
 Locale-Maketext-Simple:
-  category: perl-core
+  category: virtual
+  name: perl-Locale-Maketext-Simple
 MIME-Base64:
-  category: perl-core
+  category: virtual
+  name: perl-MIME-Base64
 Math-BigInt:
-  category: perl-core
+  category: virtual
+  name: perl-Math-BigInt
+Math-BigInt-FastCalc:
+  category: virtual
+  name: perl-Math-BigInt-FastCalc
+Math-BigRat:
+  category: virtual
+  name: perl-Math-BigRat
 Math-Complex:
-  category: perl-core
+  category: virtual
+  name: perl-Math-Complex
 Memoize:
-  category: perl-core
+  category: virtual
+  name: perl-Memoize
 Module-CoreList:
-  category: perl-core
+  category: virtual
+  name: perl-Module-CoreList
+Module-Load:
+  category: virtual
+  name: perl-Module-Load
+Module-Load-Conditional:
+  category: virtual
+  name: perl-Module-Load-Conditional
 Module-Loaded:
-  category: perl-core
+  category: virtual
+  name: perl-Module-Loaded
 Module-Metadata:
-  category: perl-core
+  category: virtual
+  name: perl-Module-Metadata
+NEXT:
+  category: virtual
+  name: perl-NEXT
 NTLM:
   name: Authen-NTLM
+Net-Ping:
+  category: virtual
+  name: perl-Net-Ping
 OLE-Storage_Lite:
   name: OLE-StorageLite
 Package-Constants:
-  category: perl-core
+  category: virtual
+  name: perl-Package-Constants
 Params-Check:
-  category: perl-core
+  category: virtual
+  name: perl-Params-Check
+Parse-CPAN-Meta:
+  category: virtual
+  name: perl-Parse-CPAN-Meta
+PathTools:
+  category: virtual
+  name: perl-File-Spec
+Perl-OSType:
+  category: virtual
+  name: perl-Perl-OSType
+Pod-Checker:
+  category: virtual
+  name: perl-Pod-Checker
+Pod-Escapes:
+  category: virtual
+  name: perl-Pod-Escapes
+Pod-Parser:
+  category: virtual
+  name: perl-Pod-Parser
+Pod-Perldoc:
+  category: virtual
+  name: perl-Pod-Perldoc
 Pod-Simple:
-  category: perl-core
+  category: virtual
+  name: perl-Pod-Simple
+Pod-Usage:
+  category: virtual
+  name: perl-Pod-Usage
 Regexp-Common:
   name: regexp-common
+Safe:
+  category: virtual
+  name: perl-Safe
+Scalar-List-Utils:
+  category: virtual
+  name: perl-Scalar-List-Utils
+Scalar-Util:
+  category: virtual
+  name: perl-Scalar-Util
+SelfLoader:
+  category: virtual
+  name: perl-SelfLoader
+Socket:
+  category: virtual
+  name: perl-Socket
+Storable:
+  category: virtual
+  name: perl-Storable
+Sub-Util:
+  category: virtual
+  name: perl-Sub-Util
 Sys-Syslog:
-  category: perl-core
+  category: virtual
+  name: perl-Sys-Syslog
 Template-Latex:
   name: Template-Plugin-Latex
 Term-ANSIColor:
-  category: perl-core
+  category: virtual
+  name: perl-Term-ANSIColor
+Term-ReadLine:
+  category: virtual
+  name: perl-Term-ReadLine
 Test:
-  category: perl-core
+  category: virtual
+  name: perl-Test
+Test-Harness:
+  category: virtual
+  name: perl-Test-Harness
 Test-Simple:
-  category: perl-core
+  category: virtual
+  name: perl-Test-Simple
 Text-Balanced:
-  category: perl-core
+  category: virtual
+  name: perl-Text-Balanced
 Text-ParseWords:
-  category: perl-core
+  category: virtual
+  name: perl-Text-ParseWords
 Text-Tabs+Wrap:
-  category: perl-core
+  category: virtual
+  name: perl-Text-Tabs+Wrap
 Text-Template:
   name: text-template
 Text-Wrapper:
   name: text-wrapper
+Thread-Queue:
+  category: virtual
+  name: perl-Thread-Queue
 Thread-Semaphore:
-  category: perl-core
+  category: virtual
+  name: perl-Thread-Semaphore
 Tie-EncryptedHash:
   name: tie-encryptedhash
+Tie-RefHash:
+  category: virtual
+  name: perl-Tie-RefHash
 Time-HiRes:
-  category: perl-core
+  category: virtual
+  name: perl-Time-HiRes
 Time-Local:
-  category: perl-core
+  category: virtual
+  name: perl-Time-Local
+Time-Piece:
+  category: virtual
+  name: perl-Time-Piece
 Unicode-Collate:
-  category: perl-core
+  category: virtual
+  name: perl-Unicode-Collate
 Unicode-Normalize:
-  category: perl-core
+  category: virtual
+  name: perl-Unicode-Normalize
+XSLoader:
+  category: virtual
+  name: perl-XSLoader
 YAML:
   name: yaml
+autodie:
+  category: virtual
+  name: perl-autodie
+bignum:
+  category: virtual
+  name: perl-bignum
+constant:
+  category: virtual
+  name: perl-constant
 gettext:
   name: Locale-gettext
+if:
+  category: virtual
+  name: perl-if
 libnet:
-  category: perl-core
+  category: virtual
+  name: perl-libnet
 p5-Palm:
   name: Palm
 parent:
-  category: perl-core
+  category: virtual
+  name: perl-parent
 podlators:
-  category: perl-core
+  category: virtual
+  name: perl-podlators
+threads:
+  category: virtual
+  name: perl-threads
+threads-shared:
+  category: virtual
+  name: perl-threads-shared
 version:
-  category: perl-core
+  category: virtual
+  name: perl-version
