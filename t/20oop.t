@@ -9,7 +9,7 @@ use Gentoo;
 use Gentoo::CPAN::Object;
 use Gentoo::Portage::Package;
 
-plan tests => 10;
+plan tests => 14;
 
 my $g = Gentoo->new;
 
@@ -44,13 +44,20 @@ sub test_atom {
 }
 
 test_atom("L/LE/LEONT/Module-Build-0.4216.tar.gz", "dev-perl/Module-Build");
-test_atom("Scalar::Util", "dev-perl/Scalar-List-Utils");
-test_atom("Sub::Util", "dev-perl/Scalar-List-Utils");
-test_atom("Carp", "dev-lang/perl");
-test_atom("File::Path", "dev-lang/perl");
+test_atom("Scalar::Util", "virtual/perl-Scalar-List-Utils");
+test_atom("Sub::Util", "virtual/perl-Scalar-List-Utils");
+test_atom("Carp", "virtual/perl-Carp");
+test_atom("File::Path", "virtual/perl-File-Path");
 
-test_atom("Data::Dumper", "perl-core/Data-Dumper");
+test_atom("Data::Dumper", "virtual/perl-Data-Dumper");
 
-test_atom("File::Path", ">=perl-core/File-Path-1.100", { version => "1.1" });
-test_atom("Sub::Util", ">=dev-perl/Scalar-List-Utils-1.100", { version => "1.1" });
+test_atom("File::Path", ">=virtual/perl-File-Path-1.100", { version => "1.1" });
+test_atom("Sub::Util", ">=virtual/perl-Scalar-List-Utils-1.100", { version => "1.1" });
+
+test_atom("Rstats", "dev-perl/Rstats");
+
+test_atom("ExtUtils::MakeMaker", "virtual/perl-ExtUtils-MakeMaker");
+
+test_atom("R/RJ/RJBS/PathTools-3.62.tar.gz", "virtual/perl-File-Spec");
+test_atom("Cwd", "virtual/perl-File-Spec");
 

@@ -41,7 +41,7 @@ sub cpan_info {
 sub type         {
 	my ($self) = @_;
 
-	return $self->{type} // $self->cpan_info->{type}
+	return $self->{type} // $self->cpan_info->{type};
 }
 
 sub src_uri      {
@@ -186,7 +186,7 @@ sub extension {
 sub filepath {
 	my ($self) = @_;
 	
-	return undef unless $self->type eq "CPAN::Module";
+	return undef unless $self->type and $self->type eq "CPAN::Module";
 	
 	(my $module_file = $self->name.".pm") =~ s@::@/@g;
 	return $self->{_filepath} //= (

@@ -14,6 +14,7 @@ our @overlays = (
 our @categories = (
 	"dev-perl",
 	"perl-core",
+	"virtual",
 );
 
 our $eclass = "/usr/portage/eclass/perl-module.eclass";
@@ -29,6 +30,7 @@ sub main {
 					my $file = $_;
 
 					return unless $file =~ /\.ebuild/i;
+					return if $category eq "virtual" and $file !~ m@/perl-@;
 					
 					my $ebuild_data = ebuild_read($file);
 					ebuild_process($ebuild_data);

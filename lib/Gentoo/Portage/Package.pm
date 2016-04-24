@@ -18,12 +18,6 @@ sub from_cpan {
 	
 	my $version = $cpan_object->version
 		or return undef;
-	
-	if($version =~ /^[0.]+$/ && ($cpan_object->is_perl_core || 0) == 1){
-		$opts->{category} = "dev-lang";
-		$opts->{name}     = "perl";
-		return $class->new($opts);
-	}
 
 	$opts->{category} = "dev-perl";
 	$opts->{name}     = $cpan_object->package_name
