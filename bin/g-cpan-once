@@ -29,10 +29,6 @@ GetOptions(
 
 our $g  = Gentoo->new;
 our $tt = Template->new(RELATIVE => 1, ABSOLUTE => 1);
-our $template_filepath = sprintf(
-	"%s/ebuild.tt",
-	(eval { dist_dir("g-cpan") } || "share"),
-);
 our $gcpan_overlay_path = $opt_overlay // $g->getEnv('GCPAN_OVERLAY')
 	or die "Env variable GCPAN_OVERLAY is not defined";
 our $gcpan_overlay = Gentoo::Portage::Overlay->new({
@@ -81,6 +77,7 @@ sub ebuild_generate {
 		return;
 	}
 	
+	my $template_filepath = _share_file("ebuild.tt");
 	my $ebuild_filepath = sprintf(
 		"%s/%s",
 		$gcpan_overlay->path,
@@ -107,8 +104,20 @@ sub ebuild_generate {
 	if(my $tarball = $c->cpan_tarball){
 		copy($tarball, $dist_dir);
 	}
+
+	my $manifest_filepath = _share_file("manifest.xml");
+	copy($manifest_filepath, dirname($ebuild_filepath));
 	
 	$g->generate_digest($ebuild_filepath);
+}
+
+sub _share_file {
+	my ($file) = @_;
+	return sprintf(
+		"%s/%s",
+		(eval { dist_dir("g-cpan") } || "share"),
+		$file
+	);
 }
 
 sub exit_usage {
