@@ -57,15 +57,15 @@ sub ebuild_generate {
 		name         => $name,
 	});
 	
+	unless($c->package_name and $c->version){
+		warn "skipping $name: invalid cpan package name or version";
+		return;
+	}
+	
 	my $p = Gentoo::Portage::Package->from_cpan({
 		parent       => $g,
 		cpan_object  => $c,
 	});	
-	
-	unless(defined $p){
-		warn "skipping $name: invalid cpan package name or version";
-		return;
-	}
 
 	unless(defined $p->name){
 		warn "skipping $name: invalid package name";
