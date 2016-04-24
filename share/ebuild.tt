@@ -11,7 +11,7 @@ inherit perl-module
 DESCRIPTION="[% c.description | remove('[\r\n"]+') %]"
 
 SLOT="0"
-KEYWORDS=""
+KEYWORDS="~amd64 ~x86"
 IUSE="test"
 
 RDEPEND="
