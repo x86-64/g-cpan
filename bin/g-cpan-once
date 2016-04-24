@@ -61,6 +61,11 @@ sub ebuild_generate {
 		parent       => $g,
 		cpan_object  => $c,
 	});	
+	
+	unless(defined $p){
+		warn "skipping $name: invalid cpan package name or version";
+		return;
+	}
 
 	unless(defined $p->name){
 		warn "skipping $name: invalid package name";
