@@ -81,6 +81,12 @@ sub ebuild_generate {
 		warn "skipping $name: exists in different overlay or main portage";
 		return;
 	}
+
+	eval { $p->dependencies };
+	if($@){
+		warn "skipping $name: package depends on unsupported package";
+		return;
+	}
 	
 	my $template_filepath = _share_file("ebuild.tt");
 	my $ebuild_filepath = sprintf(
