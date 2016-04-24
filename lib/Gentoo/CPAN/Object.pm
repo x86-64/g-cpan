@@ -56,6 +56,12 @@ sub description  {
 	return $self->{description} // $self->cpan_info->{description};
 }
 
+sub cpan_tarball  {
+	my ($self) = @_;
+	
+	return $self->{cpan_tarball} // $self->cpan_info->{cpan_tarball};
+}
+
 sub version      {
 	my ($self) = @_;
 	

@@ -8,6 +8,7 @@ use File::Basename;
 use File::Slurp;
 use File::Path qw/make_path/;
 use File::ShareDir qw/:ALL/;
+use File::Copy;
 use Template;
 use Getopt::Long;
 use Gentoo;
@@ -41,6 +42,8 @@ our $gcpan_overlay = Gentoo::Portage::Overlay->new({
 our @overlays = 
 	grep { $_->path ne $gcpan_overlay->path }
 	$g->listOverlays;
+
+our $dist_dir = $g->getEnv('DISTDIR');
 
 sub main {
 	my (@cpan_objects) = @ARGV;
@@ -88,8 +91,10 @@ sub ebuild_generate {
 		p => $p,
 	};
 	my $output = "";
-	$tt->process($template_filepath, $context, \$output)
-		or die $tt->error;
+	unless($tt->process($template_filepath, $context, \$output)){
+		warn "template error: ".$tt->error;
+		return;
+	}
 	
 	if($opt_preview){
 		printf "File: %s\n======\n%s\n======\n", $ebuild_filepath, $output;
@@ -98,6 +103,10 @@ sub ebuild_generate {
 	
 	make_path(dirname($ebuild_filepath));
 	write_file($ebuild_filepath, $output);
+	
+	if(my $tarball = $c->cpan_tarball){
+		copy($tarball, $dist_dir);
+	}
 	
 	$g->generate_digest($ebuild_filepath);
 }

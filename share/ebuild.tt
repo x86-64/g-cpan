@@ -24,9 +24,11 @@ DEPEND="
 [%- FOREACH dep IN p.dependencies.configure_requires %]
 	[% dep.atom %]
 [%- END %]
-	test ? (
+[%- IF p.dependencies.build_requires.list.length %]
+	test? (
 	[%- FOREACH dep IN p.dependencies.build_requires %]
 		[% dep.atom %]
 	[%- END %]
 	)
+[%- END %]
 "
