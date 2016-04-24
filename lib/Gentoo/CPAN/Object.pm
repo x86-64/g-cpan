@@ -4,6 +4,7 @@ use strict;
 use warnings;
 
 use Config;
+use Cwd qw/cwd/;
 use File::Basename;
 
 sub new {
@@ -232,9 +233,12 @@ sub unpack {
 sub dependencies {
 	my ($self) = @_;
 	
+	my $cwd = cwd();
 	$self->unpack;
 	
 	my $cpan_info = $self->cpan_info;
+	chdir($cwd);
+	
 	my $depends = $cpan_info->{depends_full} // {};
 	
 	my $dependencies = {};
