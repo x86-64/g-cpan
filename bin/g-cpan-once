@@ -105,8 +105,8 @@ sub ebuild_generate {
 		copy($tarball, $dist_dir);
 	}
 
-	my $manifest_filepath = _share_file("manifest.xml");
-	copy($manifest_filepath, dirname($ebuild_filepath));
+	my $metadata_filepath = _share_file("metadata.xml");
+	copy($metadata_filepath, dirname($ebuild_filepath));
 	
 	$g->generate_digest($ebuild_filepath);
 }
