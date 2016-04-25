@@ -273,7 +273,8 @@ sub is_authorized {
 sub _fix_version {
 	my ($self, $version) = @_;
 	
-	my $package = $self->package_name;
+	my $package = $self->package_name
+		or return undef;
 	my $rules   = $self->parent->_version_rules;
 	
 	if($rules->{float2dotted}->{$package}){
