@@ -6,7 +6,7 @@ use File::Find;
 use File::Slurp;
 use File::Temp;
 use Shell::EnvImporter;
-use Gentoo::Portage qw/ebuild_read/;
+use Gentoo;
 use YAML qw/DumpFile/;
 
 our @overlays = (
@@ -21,6 +21,7 @@ our @categories = (
 );
 
 our $ebuilds = {};
+our $g = Gentoo->new;
 
 sub main {
 	foreach my $overlay (@overlays){
@@ -34,7 +35,7 @@ sub main {
 					return unless $file =~ /\.ebuild/i;
 					return if $category eq "virtual" and $file !~ m@/perl-@;
 					
-					my $ebuild_data = ebuild_read($file);
+					my $ebuild_data = $g->ebuild_read($file);
 					ebuild_process($ebuild_data);
 				},
 				no_chdir => 1,

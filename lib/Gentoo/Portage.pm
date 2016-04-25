@@ -323,7 +323,7 @@ sub read_ebuild {
                     }
 our $eclass = "/usr/portage/eclass/perl-module.eclass";
 sub ebuild_read {
-	my ($filepath) = @_;
+	my ($self, $filepath) = @_;
 	
 	my $ebuild = {};
 	

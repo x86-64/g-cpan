@@ -82,6 +82,16 @@ sub ebuild_generate {
 		warn "skipping $name: invalid version";
 		return;
 	}
+
+	my $ebuild_filepath = sprintf(
+		"%s/%s",
+		$gcpan_overlay->path,
+		$p->ebuild_filepath,
+	);
+	if($opt_skip and -e $ebuild_filepath){
+		warn "skipping $name: already exists";
+		return;
+	}
 	
 	if(any { $_->has_ebuild($p->ebuild) } @overlays){
 		warn "skipping $name: exists in different overlay or main portage";
@@ -95,11 +105,6 @@ sub ebuild_generate {
 	}
 	
 	my $template_filepath = _share_file("ebuild.tt");
-	my $ebuild_filepath = sprintf(
-		"%s/%s",
-		$gcpan_overlay->path,
-		$p->ebuild_filepath,
-	);
 	my $context = {
 		c => $c,
 		p => $p,
@@ -112,11 +117,6 @@ sub ebuild_generate {
 	
 	if($opt_preview){
 		printf "File: %s\n======\n%s\n======\n", $ebuild_filepath, $output;
-		return;
-	}
-
-	if($opt_skip and -e $ebuild_filepath){
-		warn "skipping $name: already exists";
 		return;
 	}
 	
@@ -147,6 +147,7 @@ sub exit_usage {
 Options:
 	--overlay -o            output folder
 	--preview -p            show ebuild content instead of saving
+	--skip                  skip if ebuild already exists
 !;
 	exit 1;
 }
