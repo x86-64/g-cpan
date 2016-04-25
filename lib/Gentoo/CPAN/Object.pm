@@ -270,6 +270,12 @@ sub is_authorized {
 	return defined $self->parent->_package_authors->{$self->package_name}->{$self->author} ? 1 : 0;
 }
 
+sub is_valid {
+	my ($self) = @_;
+	
+	return ($self->cpan_info && $self->package_name && $self->version) ? 1 : 0;
+}
+
 sub _fix_version {
 	my ($self, $version) = @_;
 	

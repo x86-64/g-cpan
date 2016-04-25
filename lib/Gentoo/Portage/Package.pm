@@ -140,4 +140,10 @@ sub ebuild_content {
 	return $self->parent->ebuild_read($self->ebuild_filepath);
 }
 
+sub is_valid {
+	my ($self) = @_;
+	
+	return ($self->name && $self->version) ? 1 : 0;
+}
+
 1;
