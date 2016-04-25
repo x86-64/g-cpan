@@ -1,9 +1,12 @@
 #!/usr/bin/perl 
 
+use lib 'lib';
+use lib '../lib';
 use File::Find;
 use File::Slurp;
 use File::Temp;
 use Shell::EnvImporter;
+use Gentoo::Portage qw/ebuild_read/;
 use YAML qw/DumpFile/;
 
 our @overlays = (
@@ -17,7 +20,6 @@ our @categories = (
 	"virtual",
 );
 
-our $eclass = "/usr/portage/eclass/perl-module.eclass";
 our $ebuilds = {};
 
 sub main {
@@ -42,44 +44,6 @@ sub main {
 	}
 	
 	DumpFile($ARGV[0], $ebuilds);
-}
-
-sub ebuild_read {
-	my ($filepath) = @_;
-	
-	my $ebuild = {};
-	
-	my ($cat, $pn, $p) = ($filepath =~ m@([^/]+)/([^/]+)/([^/]+).ebuild$@i);
-	
-	my $tmp = File::Temp->new;
-	append_file($tmp->filename, qq!
-		PN="${pn}"
-		P="${p}"
-		PF="${p}"
-		CATEGORY="${cat}"
-	!);
-	append_file($tmp->filename, scalar read_file($filepath));
-	append_file($tmp->filename, scalar read_file($eclass));
-	
-	my $env = Shell::EnvImporter->new(
-		file          => $tmp->filename,
-		shell         => 'bash',
-		auto_run      => 1,
-		auto_import   => 1,
-		import_filter => sub {
-			my ($var, $value, $type_of_change) = @_;
-			
-			$value =~ s/^['"\s]+//;
-			$value =~ s/['"\s]+$//;
-			
-			$ebuild->{$var} = $value;
-			return 0;
-		},
-	);
-	$env->shellobj->envcmd('set');
-	$env->run;
-	
-	return $ebuild;
 }
 
 sub ebuild_process {

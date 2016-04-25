@@ -130,7 +130,14 @@ sub atom {
 sub ebuild_filepath {
 	my ($self) = @_;
 	
-	return sprintf("%s/%s-%s.ebuild", $self->ebuild, $self->name, $self->version_digits);
+	return $self->{ebuild_filepath} // 
+		sprintf("%s/%s-%s.ebuild", $self->ebuild, $self->name, $self->version_digits);
+}
+
+sub ebuild_content {
+	my ($self) = @_;
+	
+	return $self->parent->ebuild_read($self->ebuild_filepath);
 }
 
 1;

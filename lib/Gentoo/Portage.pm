@@ -8,6 +8,8 @@ use warnings;
 #memoize('getAvailableVersions');
 use Cwd qw(getcwd abs_path cwd);
 use File::Find ();
+use File::Temp;
+use File::Slurp;
 use Shell::EnvImporter;
 
 
@@ -33,7 +35,7 @@ require Exporter;
 our @ISA = qw(Exporter Gentoo);
 
 our @EXPORT =
-  qw( getEnv getAltName getAvailableEbuilds getAvailableVersions generate_digest emerge_ebuild import_fields listOverlays );
+  qw( getEnv getAltName getAvailableEbuilds getAvailableVersions generate_digest emerge_ebuild import_fields listOverlays ebuild_read );
 
 our $VERSION = '0.01';
 
@@ -319,6 +321,45 @@ sub read_ebuild {
                         $e_import->restore_env;
 
                     }
+our $eclass = "/usr/portage/eclass/perl-module.eclass";
+sub ebuild_read {
+	my ($filepath) = @_;
+	
+	my $ebuild = {};
+	
+	my ($cat, $pn, $p) = ($filepath =~ m@([^/]+)/([^/]+)/([^/]+).ebuild$@i);
+	
+	my $tmp = File::Temp->new;
+	append_file($tmp->filename, qq!
+		PN="${pn}"
+		P="${p}"
+		PF="${p}"
+		CATEGORY="${cat}"
+	!);
+	append_file($tmp->filename, scalar read_file($filepath));
+	append_file($tmp->filename, scalar read_file($eclass));
+	
+	my $env = Shell::EnvImporter->new(
+		file          => $tmp->filename,
+		shell         => 'bash',
+		auto_run      => 1,
+		auto_import   => 1,
+		import_filter => sub {
+			my ($var, $value, $type_of_change) = @_;
+			
+			$value //= "";
+			$value =~ s/^['"\s]+//;
+			$value =~ s/['"\s]+$//;
+			
+			$ebuild->{$var} = $value;
+			return 0;
+		},
+	);
+	$env->shellobj->envcmd('set');
+	$env->run;
+	
+	return $ebuild;
+}
 
 sub emerge_ebuild {
     my $self  = shift;
