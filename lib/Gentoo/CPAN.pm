@@ -317,7 +317,7 @@ sub FindDeps {
         next if ( $object eq ".." );
         if ( -f $object ) {
             my $abs_path = abs_path($object);
-            if ( $object eq "META\.yml" ) {
+            if ( $object =~ /(?:MY)?META\.yml/ ) {
                 # Do YAML parsing if you can
                 if ( my $arr = yaml_load($abs_path) ) {
                 foreach my $type (qw( configure_requires requires build_requires recommends )) {
