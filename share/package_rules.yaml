@@ -368,6 +368,8 @@ p5-Palm:
 parent:
   category: virtual
   name: perl-parent
+perl:
+  category: dev-lang
 podlators:
   category: virtual
   name: perl-podlators

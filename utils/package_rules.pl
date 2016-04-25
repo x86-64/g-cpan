@@ -19,6 +19,9 @@ $rules->{PathTools} = {                 # no ebuilds that point to PathTools-x.t
 	category => "virtual",
 	name     => "perl-File-Spec",
 };
+$rules->{perl} = {
+	category => "dev-lang",
+};
 
 foreach my $pn (keys %$official_ebuilds){
 	foreach my $package (@{ $official_ebuilds->{$pn} }){

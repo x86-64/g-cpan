@@ -9,7 +9,7 @@ use Gentoo;
 use Gentoo::CPAN::Object;
 use Gentoo::Portage::Package;
 
-plan tests => 14;
+plan tests => 17;
 
 my $g = Gentoo->new;
 
@@ -61,3 +61,6 @@ test_atom("ExtUtils::MakeMaker", "virtual/perl-ExtUtils-MakeMaker");
 test_atom("R/RJ/RJBS/PathTools-3.62.tar.gz", "virtual/perl-File-Spec");
 test_atom("Cwd", "virtual/perl-File-Spec");
 
+test_atom("strict", "dev-lang/perl");
+test_atom("warnings", "dev-lang/perl");
+test_atom("utf8", "dev-lang/perl");
