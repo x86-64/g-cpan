@@ -1,15 +1,10 @@
 ---
 '':
+  582+: 1
   BMIDD: 1
-  DAPM: 1
-  DOM: 1
-  GAAS: 1
-  GSAR: 1
-  JHI: 1
-  NWCLARK: 1
-  RGARCIA: 1
-  SHAY: 1
-  TIMB: 1
+  MICB: 1
+  os2: 1
+  tk: 1
 AAAA-Crypt-DH:
   BINGOS: 1
 AAAA-Mail-SpamAssassin:
@@ -6703,8 +6698,6 @@ Authen-TypeKey-Sign:
   TIMA: 1
 Authen-Users:
   BILLH: 1
-AuthenIMAP.pm:
-  MICB: 1
 Authorization-RBAC:
   DAB: 1
 Authorize-Rule:
@@ -8287,8 +8280,6 @@ Bundle-Thread:
   JDHEDDEN: 1
 Bundle-Tie-DB_File-SplitHash:
   SNOWHARE: 1
-Bundle-Tk_OS2src:
-  tk: 1
 Bundle-Tree-Simple:
   STEVAN: 1
 Bundle-TreeDumper:
@@ -19630,8 +19621,6 @@ Devel-throttle:
   GUIDO: 1
 Devel-tkdb:
   VKON: 1
-DevelOpProf:
-  MICB: 1
 Device-AVR-Info:
   PEVANS: 1
 Device-Arduino-LCD:
@@ -33891,8 +33880,6 @@ Mail-Bulkmail:
   JIMT: 1
 Mail-Cache:
   VVELOX: 1
-Mail-Cclient:
-  MICB: 1
 Mail-Centipaid:
   AELFAKIH: 1
 Mail-CheckUser:
@@ -35630,8 +35617,6 @@ Mixin-Linewise:
   RJBS: 1
 Mknod:
   RLZWART: 1
-Mmap:
-  MICB: 1
 Mo:
   INGY: 1
 Mo-Benchmarks:
@@ -41352,18 +41337,8 @@ ORM:
   AKIMOV: 1
 OS-Package:
   JFWILKUS: 1
-OS2-FTP:
-  os2: 1
 OS2-Focus:
   ILYAZ: 1
-OS2-Proc:
-  os2: 1
-OS2-SoftInstaller:
-  os2: 1
-OS2-UPM:
-  os2: 1
-OS2-WinObject:
-  os2: 1
 OS390-IEBUtils:
   PBOIN: 1
 OS390-Stdio:
@@ -44362,9 +44337,9 @@ Perinci-Sub-CoerceArgs:
   PERLANCAR: 1
 Perinci-Sub-Complete:
   PERLANCAR: 1
-Perinci-Sub-Convert-default_lang:
+Perinci-Sub-Convert:
   PERLANCAR: 1
-Perinci-Sub-Convert-v:
+Perinci-Sub-Convert-default_lang:
   PERLANCAR: 1
 Perinci-Sub-ConvertArgs-Argv:
   PERLANCAR: 1
@@ -56206,8 +56181,6 @@ Thread-Tie:
   ELIZABETH: 1
 Thread-Workers:
   PANIKAL: 1
-ThreadIterator:
-  MICB: 1
 ThreadTree.pm:
   trees: 1
 ThreatNet:
@@ -57349,8 +57322,6 @@ Tk-MultiMediaControls:
   LUSOL: 1
 Tk-NumKeypad:
   ROSCIO: 1
-Tk-OS2src:
-  tk: 1
 Tk-ObjEditor:
   DDUMONT: 1
 Tk-ObjScanner:
@@ -64168,6 +64139,7 @@ libvorbis-perl:
   FOOF: 1
 libwww-perl:
   ETHER: 1
+  GAAS: 1
 libxml-enno:
   ENNO: 1
 libxml-perl:
@@ -64409,6 +64381,14 @@ perfSONAR_PS-Status-Common:
   PERFSONAR: 1
 perfSONAR_PS-Topology-Common:
   PERFSONAR: 1
+perl:
+  DAPM: 1
+  DOM: 1
+  GSAR: 1
+  JHI: 1
+  NWCLARK: 1
+  RGARCIA: 1
+  SHAY: 1
 perl-Apache2-LogUtil:
   RYANGIES: 1
 perl-GPS:
@@ -64425,6 +64405,7 @@ perl-vgalib:
   SCOTTVR: 1
 perl5:
   INGY: 1
+  TIMB: 1
 perl5-byacc-patches:
   JAKE: 1
 perl5-i:
@@ -64441,8 +64422,6 @@ perl_WebService_ReviewBoard:
   JAYBUFF: 1
 perl_archie:
   GBOSS: 1
-perl_mlb:
-  582+: 1
 perlbal-plugin-backendheaders:
   VICTORI: 1
 perlbal-plugin-stickysessions:
@@ -64891,8 +64870,6 @@ win32-guidgen:
   JOEPHAYES: 1
 win32-snarl:
   Win32-Snarl: 1
-wing:
-  MICB: 1
 with:
   VPIT: 1
 worky:

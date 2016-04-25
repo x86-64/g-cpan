@@ -1,5 +1,4 @@
 ---
-'': []
 AAAA-Crypt-DH:
   - 0.04
 AAAA-Mail-SpamAssassin:
@@ -2228,7 +2227,6 @@ Acme-RohlfsC:
   - 0.01
   - 0.02
 Acme-Roman:
-  - 0.0.2
   - 0.0.2
   - 0.0.2.11
   - 0.0.2.12
@@ -5713,7 +5711,6 @@ Apache-GeoIP:
   - 1.63
   - 1.99
 Apache-GopherHandler:
-  - 0.1
   - 0.1
 Apache-GuessCharset:
   - 0.02
@@ -48320,7 +48317,6 @@ Finance-Bank-DE-NetBank:
   - 1.05
 Finance-Bank-ES-Cajamadrid:
   - 0.04
-  - 0.04
 Finance-Bank-ES-INGDirect:
   - 0.04
 Finance-Bank-FI-ReferenceNumber:
@@ -48495,7 +48491,6 @@ Finance-Currency-Convert-BChile:
 Finance-Currency-Convert-BI:
   - 0.02
 Finance-Currency-Convert-Custom:
-  - 1.00
   - 1.00
 Finance-Currency-Convert-DnB:
   - 0.1
@@ -52965,7 +52960,6 @@ GoogleIDToken-Validator:
   - 0.02
 Gopher-Server:
   - 0.1.1
-  - 0.1.1
 Goto-Cached:
   - 0.22
 Gpx-Addons-Filter:
@@ -53285,7 +53279,6 @@ Graphics-HotMap:
 Graphics-Libplot:
   - 2.2.2
 Graphics-MNG:
-  - 0.04
   - 0.04
 Graphics-Magick-ColorHistogram:
   - 1.00
@@ -55599,7 +55592,6 @@ HTML-Template-Default:
   - 1.09
   - 1.10
 HTML-Template-Dumper:
-  - 0.1
   - 0.1
 HTML-Template-Ex:
   - 0.08
@@ -68939,7 +68931,6 @@ Mail-SpamAssassin:
   - 3.1.9
   - 3.2.5
   - 3.3.1
-  - 3.3.1
   - 3.4.0
   - 3.4.1
 Mail-SpamAssassin-Contrib-Plugin-IPFilter:
@@ -78098,13 +78089,11 @@ NIST-NVD:
   - 0.09
   - 0.10
   - 1.00.00
-  - 1.00.00
 NIST-NVD-Store-SQLite3:
   - 0.01
   - 0.02
   - 0.03
   - 0.04
-  - 1.00.00
   - 1.00.00
 NL-File-Lock:
   - 0.2
@@ -78397,7 +78386,6 @@ Net--RabbitMQ:
   - 0.2.6
   - 0.2.7
   - 0.2.8
-  - 0.2.8
 Net-ACL:
   - 0.07
 Net-ADNS:
@@ -78406,7 +78394,6 @@ Net-AIM:
   - 0.01
   - 1.01
   - 1.21
-  - 1.22
   - 1.22
 Net-AIM-TOC:
   - 0.97
@@ -80736,7 +80723,6 @@ Net-IPAddress-Util:
   - 3.026
 Net-IPFromZip:
   - 0.02
-  - 0.02
 Net-IPInfoDB:
   - 3.0
 Net-IPMessenger:
@@ -81832,7 +81818,6 @@ Net-PhotoBackup-Server:
   - 0.10
   - 0.11
 Net-PicApp:
-  - 0.1
   - 0.1
   - 0.2
   - 0.3
@@ -90627,9 +90612,9 @@ Perinci-Sub-CoerceArgs:
   - 0.13
 Perinci-Sub-Complete:
   - 0.84
-Perinci-Sub-Convert-default_lang:
+Perinci-Sub-Convert:
   - 0.02
-Perinci-Sub-Convert-v:
+Perinci-Sub-Convert-default_lang:
   - 0.02
 Perinci-Sub-ConvertArgs-Argv:
   - 0.08
@@ -91190,7 +91175,6 @@ Perl6-Export:
   - 0.007
   - 0.009
 Perl6-Export-Attrs:
-  - 0.0.3
   - 0.000004
   - 0.000005
 Perl6-Feeds:
@@ -105629,8 +105613,6 @@ SystemTray-Applet:
   - 0.01
   - 0.02
   - 0.02
-  - 0.01
-  - 0.02
 SystemTray-Applet-Gnome:
   - 0.01
   - 0.02
@@ -114636,7 +114618,6 @@ Tie-Handle-FileWriteRotate:
   - 0.02
 Tie-Handle-Flock:
   - 0.01
-  - 0.01
 Tie-Handle-HTTP:
   - 0.01
   - 0.02
@@ -117716,7 +117697,6 @@ URPM:
   - 4.25
   - 4.26
   - 4.27
-  - 4.28
   - 4.28
   - 4.29
   - 4.29.1
@@ -123452,7 +123432,6 @@ WebService-Instagram:
   - 0.04
   - 0.05
   - 0.06
-  - 0.06
 WebService-Instapaper:
   - 0.01
   - 0.02
@@ -125102,8 +125081,6 @@ Win32-Registry:
   - 0.12
 Win32-Registry-File:
   - 1.09
-  - 1.09
-  - 1.10
   - 1.10
 Win32-RemoteTOD:
   - 1.00
@@ -127420,7 +127397,6 @@ XML-SemanticDiff:
   - 1.0004
 XML-Sig:
   - 0.1
-  - 0.2.1
   - 0.2.1
   - 0.21
   - 0.22
@@ -130195,6 +130171,8 @@ libvorbis-perl:
   - 0.04
   - 0.05
 libwww-perl:
+  - 5.837
+  - 6.05
   - 6.12
   - 6.13
   - 6.15
@@ -130236,7 +130214,6 @@ lsutils:
 lvalue:
   - 0.01
 mGen:
-  - 1.03
   - 1.03
 mRuby:
   - 0.07
@@ -130752,6 +130729,36 @@ perfSONAR_PS-Topology-Common:
   - 0.06
   - 0.08
   - 0.09
+perl:
+  - 5.6.1.1
+  - 5.8.1
+  - 5.8.2
+  - 5.6.2
+  - 5.8.3
+  - 5.9.1
+  - 5.8.4
+  - 5.8.5
+  - 5.8.6
+  - 5.9.2
+  - 5.8.7
+  - 5.9.3
+  - 5.8.8
+  - 5.9.4
+  - 5.9.5
+  - 5.10.0
+  - 5.8.9
+  - 5.10.1
+  - 5.11.5
+  - 5.13.5
+  - 5.15.5
+  - 5.17.3
+  - 5.14.3
+  - 5.12.5
+  - 5.14.4
+  - 5.20.1
+  - 5.20.2
+  - 5.20.3
+  - 5.22.1
 perl-Apache2-LogUtil:
   - 00.01001
 perl-GPS:
@@ -131506,7 +131513,6 @@ urpmi:
   - 7.27.1
   - 7.27.2
   - 7.27.3
-  - 7.27.4
   - 7.27.4
   - 7.27.5
   - 7.28
