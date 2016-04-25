@@ -59,7 +59,11 @@ sub ebuild_generate {
 		name         => $name,
 	});
 	
-	unless($c->package_name and $c->version){
+	if(
+		not defined $c->cpan_info or
+		not defined $c->package_name or
+		not defined $c->version
+	){
 		warn "skipping $name: invalid cpan package name or version";
 		return;
 	}
