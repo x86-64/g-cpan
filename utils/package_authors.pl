@@ -3,10 +3,13 @@
 use lib '../lib';
 use lib 'lib';
 use File::Slurp;
+use Gentoo;
 use Gentoo::CPAN::Object;
 use YAML qw/DumpFile/;
 
 our ($input, $output) = @ARGV;
+
+our $g = Gentoo->new;
 
 my $db = {};
 my $header = 1;
@@ -18,6 +21,7 @@ foreach my $line (read_file($input)){
 	my ($module, $version, $package) = split /\s+/, $line;
 	
 	my $co = Gentoo::CPAN::Object->new({
+		parent => $g,
 		src_uri => $package,
 	});
 	

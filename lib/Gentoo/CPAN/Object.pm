@@ -267,6 +267,8 @@ sub dependencies {
 sub is_authorized {
 	my ($self) = @_;
 	
+	return 0 unless $self->package_name;
+	return 0 unless $self->author;
 	return defined $self->parent->_package_authors->{$self->package_name}->{$self->author} ? 1 : 0;
 }
 

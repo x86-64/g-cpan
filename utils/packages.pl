@@ -4,10 +4,12 @@ use lib '../lib';
 use lib 'lib';
 use File::Slurp;
 use Time::ParseDate qw/parsedate/;
+use Gentoo;
 use Gentoo::CPAN::Object;
 
 my @lines = read_file($ARGV[0]);
 
+our $g = Gentoo->new;
 my $approve;
 
 foreach my $line (@lines){
@@ -19,6 +21,7 @@ foreach my $line (@lines){
 	my ($date, $package, $package_short) = (scalar parsedate($1), $2, $3);
 	
 	my $co = Gentoo::CPAN::Object->new({
+		parent  => $g,
 		src_uri => $package,
 	});
 	next unless $co->is_authorized;
