@@ -12,6 +12,7 @@ no_package:
   '/ILYAZ/os2/': 1
   '/RKIES/perltk-': 1
   'One_Penguin': 1
+  '^perl\d\.\d+': 1
   'perl542b': 1
   'perlMIF': 1
 no_version:

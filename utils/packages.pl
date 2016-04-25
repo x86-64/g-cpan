@@ -25,7 +25,7 @@ foreach my $line (@lines){
 		src_uri => $package,
 	});
 	next unless $co->is_authorized;
-	next unless $approve->{$package_short};
+	next unless delete $approve->{$package_short};
 	
 	printf "%d %s\n", $date, $package;
 }

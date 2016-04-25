@@ -1,23 +1,10 @@
 approve_inconsistent:
-  'Acme-Roman': 'tar.gz and tar.bz2 versions'
   'Acme-Test-SameRelease': 'perl cpan tests'
-  'Apache-GopherHandler': 'tar.gz and tar.bz2 versions'
   'Blitz': 'two same files'
-  'Finance-Bank-ES-Cajamadrid': 'tar.gz and zip versions'
-  'Finance-Currency-Convert-Custom': 'tar.gz and tgz versions'
-  'Gopher-Server': 'tar.gz and zip versions'
-  'Graphics-MNG': 'tar.gz and zip versions'
-  'HTML-Template-Dumper': 'tar.gz and zip versions'
-  'mGen': 'tar.gz and zip versions'
-  'Net-AIM': 'tar.gz and tgz versions'
-  'Net-IPFromZip': 'tar.gz and zip versions'
-  'Net-PicApp': 'tar.gz and zip versions'
-  'Net--RabbitMQ': 'tar.gz and zip versions'
   'Rex': 'several co-maintainers'
-  'Tie-Handle-Flock': 'tar.gz and tgz versions'
-  'WebService-Instagram': 'tar.gz and zip versions'
-  'Win32-Registry-File': 'tar.gz and zip versions'
+  'SystemTray-Applet': 'gnome, win32 versions'
   'WWW-AtMovies-TV': 'same files with v'
+  'perl': 'incorrect version order'
 rewrite:
   'Parse-SVNDiff':
      '0.03': ~
@@ -104,3 +91,5 @@ rewrite:
   'SQLite_File':
      '0.050': ~
      '0.0500': ~
+  'Perl6-Export-Attrs':
+     '0.0.3': ~

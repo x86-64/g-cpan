@@ -33,6 +33,9 @@ sub test_atom {
 		parent      => $g,
 		cpan_object => $co,
 	});
+	unless($gp){
+		return fail("unable to create package for $name");
+	}
 	
 	ok($gp->atom eq $atom, 
 		sprintf(

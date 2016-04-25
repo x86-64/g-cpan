@@ -108,6 +108,7 @@ sub _src_uri_parse {
 		$filename =~ s/(rc\d)-TRIAL/$1/; # KMCGRAIL
 		$filename =~ s/-v$//; # KCOWGILL, ACID, MONGODB
 		$filename =~ s/-v-(\d)/-v$1/; # PERLANCAR
+		$filename =~ s/-TRIAL1/.1/; # perl
 
 		my @r;
 		my $package_version_rules = $self->parent->_package_version_rules;

@@ -36,6 +36,8 @@ foreach my $package (keys %$db){
 	}elsif(all { $_ =~ $dotted_re } @versions){
 		if(_check_perl_versions(@versions)){
 			# simple dotted version 0.0.1 0.0.2
+		}elsif($package eq "perl"){
+			# perl versions are correct
 		}else{
 			$rules->{ignore}->{$package} = "incorrect dotted version: $versions_str";
 		}
