@@ -19,10 +19,12 @@ use List::MoreUtils qw/any/;
 
 our $opt_overlay;
 our $opt_preview;
+our $opt_skip;
 
 GetOptions(
     'overlay|o=s'    => \$opt_overlay,
     'preview|p'      => \$opt_preview,
+    'skip|s'         => \$opt_skip,
     'help|h'         => sub { exit_usage(); }
 ) or exit_usage();
 @ARGV or exit_usage();
@@ -106,6 +108,11 @@ sub ebuild_generate {
 	
 	if($opt_preview){
 		printf "File: %s\n======\n%s\n======\n", $ebuild_filepath, $output;
+		return;
+	}
+
+	if($opt_skip and -e $ebuild_filepath){
+		warn "skipping $name: already exists";
 		return;
 	}
 	
