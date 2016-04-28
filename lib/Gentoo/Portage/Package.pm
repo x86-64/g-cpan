@@ -52,7 +52,7 @@ sub from_cpan {
 	
 	$opts->{cpan_object} = $cpan_object;
 
-	$opts->{name} =~ s/[[:alnum:]+-]+/-/g;
+	$opts->{name} =~ s/[^[:alnum:]+-]+/-/g;
 	if($opts->{name} =~ /-\d+$/){ # package name can't end with "-1234", portage confused
 		$opts->{name} .= "-perl";
 	}

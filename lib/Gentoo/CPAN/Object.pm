@@ -109,6 +109,7 @@ sub _src_uri_parse {
 		$filename =~ s/-v$//; # KCOWGILL, ACID, MONGODB
 		$filename =~ s/-v-(\d)/-v$1/; # PERLANCAR
 		$filename =~ s/-TRIAL1/.1/; # perl
+		$filename =~ s/--2$/.2/; # Xforms4Perl
 
 		my @r;
 		my $package_version_rules = $self->parent->_package_version_rules;
@@ -120,7 +121,10 @@ sub _src_uri_parse {
 				keys %$rules
 			){
 				if($filename =~ /($rule)/ or $src_uri =~ /($rule)/){
-					$matching_rules->{$type} = $1;
+					$matching_rules->{$type} = {
+						"1" => $1,
+						%+,
+					};
 
 					if($type eq "no_sep"){
 						$filename =~ s/($rule)/$1-/g;
@@ -131,12 +135,15 @@ sub _src_uri_parse {
 		
 		if($matching_rules->{no_package}){
 			@r = (undef, undef);
-			
+		
+		}elsif(my $match = $matching_rules->{custom_version}){
+			@r = ($match->{package}, $match->{version});
+
 		}elsif(($filename !~ /\d/)){
 			@r = ($filename, undef);
 			
-		}elsif(my $package = $matching_rules->{no_version}){
-			@r = ($package, undef);
+		}elsif(my $match_n = $matching_rules->{no_version}){
+			@r = ($match_n->{1}, undef);
 			
 		}elsif(
 			(@r = ($filename =~ /(.*?)[-_.]v?([\d._]+[-_]?[[:alnum:]_]*)$/i)) ||

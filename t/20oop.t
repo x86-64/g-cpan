@@ -9,7 +9,7 @@ use Gentoo;
 use Gentoo::CPAN::Object;
 use Gentoo::Portage::Package;
 
-plan tests => 17;
+plan tests => 18;
 
 my $g = Gentoo->new;
 
@@ -67,3 +67,5 @@ test_atom("Cwd", "virtual/perl-File-Spec");
 test_atom("strict", "dev-lang/perl");
 test_atom("warnings", "dev-lang/perl");
 test_atom("utf8", "dev-lang/perl");
+
+test_atom("G/GR/GRICHTER/HTTP-Webdav-0.1.18-0.17.1.tar.gz", "dev-perl/HTTP-Webdav");

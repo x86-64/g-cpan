@@ -25,6 +25,7 @@ no_version:
   'Ipv4_networks': 1
   'metaperl-dbix-dbh': 1
   'Mica': 1
+  'Model3D-Poser': 1
   'Model3D-Poser-GetStringRes': 1
   'Net-SMS-WAY2SMS': 1
   'Net-SSH2-Simple': 1
@@ -69,3 +70,5 @@ no_sep:
   '^WWW-TMDB-API(?=\d)': 1
   '^XMS-MotifSet(?=v?\d)': 1
   '^zfilter(?=\d)': 1
+custom_version:
+  '(?<package>HTTP-Webdav)-[\d.]+-(?<version>[\d.]+)': 1
