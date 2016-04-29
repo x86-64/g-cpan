@@ -311,18 +311,12 @@ Text-ParseWords:
 Text-Tabs+Wrap:
   category: virtual
   name: perl-Text-Tabs+Wrap
-Text-Template:
-  name: text-template
-Text-Wrapper:
-  name: text-wrapper
 Thread-Queue:
   category: virtual
   name: perl-Thread-Queue
 Thread-Semaphore:
   category: virtual
   name: perl-Thread-Semaphore
-Tie-EncryptedHash:
-  name: tie-encryptedhash
 Tie-RefHash:
   category: virtual
   name: perl-Tie-RefHash
@@ -335,6 +329,8 @@ Time-Local:
 Time-Piece:
   category: virtual
   name: perl-Time-Piece
+Time-modules:
+  name: Time-ParseDate
 Unicode-Collate:
   category: virtual
   name: perl-Unicode-Collate
