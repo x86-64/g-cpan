@@ -253,7 +253,6 @@ sub dependencies {
 	foreach my $type (keys %$depends){
 		my $dependencies_curr = $depends->{$type};
 		$type = "requires"       if $type eq "prereq_pm";
-		$type = "build_requires" if $type eq "test_requires";
 		
 		push @{ $dependencies->{$type} },
 			grep { $_->cpan_info }

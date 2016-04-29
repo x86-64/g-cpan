@@ -76,7 +76,7 @@ sub dependencies {
 		my $uniq = {};
 		
 		my $deps = $cpan_object->dependencies;
-		foreach my $type (qw/requires configure_requires build_requires/){
+		foreach my $type (qw/requires test_requires configure_requires build_requires/){
 			my $deps_curr = $deps->{$type};
 			
 			$self->{dependencies}->{$type} = [
