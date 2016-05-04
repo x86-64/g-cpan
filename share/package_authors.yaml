@@ -3890,8 +3890,6 @@ App-ArchiveDevelCover:
   DOMM: 1
 App-Asciio:
   NKH: 1
-App-Askell:
-  LOSYME: 1
 App-AutoBuild:
   YOBERT: 1
 App-AutoCRUD:
@@ -4639,13 +4637,19 @@ App-MultiModule-Tasks-Collector:
   DIEDERICH: 1
 App-MultiModule-Tasks-FollowTail:
   DIEDERICH: 1
+App-MultiModule-Tasks-HTTPClient:
+  DIEDERICH: 1
 App-MultiModule-Tasks-MongoDB:
+  DIEDERICH: 1
+App-MultiModule-Tasks-NagiosCmd:
   DIEDERICH: 1
 App-MultiModule-Tasks-ResourceWatcher:
   DIEDERICH: 1
 App-MultiModule-Tasks-Runner:
   DIEDERICH: 1
 App-MultiModule-Tasks-Scheduler:
+  DIEDERICH: 1
+App-MultiModule-Tasks-SmartMerge:
   DIEDERICH: 1
 App-MultiSsh:
   IVANWILLS: 1
@@ -5020,6 +5024,8 @@ App-ShellCompleter-cpanm:
 App-ShellCompleter-emacs:
   PERLANCAR: 1
 App-ShellCompleter-mpv:
+  PERLANCAR: 1
+App-ShellCompleter-perlbrew:
   PERLANCAR: 1
 App-Shotgun:
   GETTY: 1
@@ -6279,6 +6285,8 @@ Attean:
   GWILLIAMS: 1
 AtteanX-Endpoint:
   GWILLIAMS: 1
+AtteanX-RDFQueryTranslator:
+  GWILLIAMS: 1
 AtteanX-Store-LDF:
   KJETILK: 1
 AtteanX-Store-SPARQL:
@@ -7230,6 +7238,8 @@ Bencher-Scenarios-DataCSel:
   PERLANCAR: 1
 Bencher-Scenarios-DataCleansing:
   PERLANCAR: 1
+Bencher-Scenarios-DataDmp:
+  PERLANCAR: 1
 Bencher-Scenarios-DataSah:
   PERLANCAR: 1
 Bencher-Scenarios-DateModules:
@@ -7259,6 +7269,8 @@ Bencher-Scenarios-Perinci:
 Bencher-Scenarios-PerinciCmdLine:
   PERLANCAR: 1
 Bencher-Scenarios-Perl:
+  PERLANCAR: 1
+Bencher-Scenarios-RefUtil:
   PERLANCAR: 1
 Bencher-Scenarios-RegexpCommon:
   PERLANCAR: 1
@@ -8184,6 +8196,72 @@ Bundle-Latemp:
   SHLOMIF: 1
 Bundle-LawMonkey:
   MPRUNTY: 1
+Bundle-Locale-CLDR-Africa:
+  JGNI: 1
+Bundle-Locale-CLDR-Americas:
+  JGNI: 1
+Bundle-Locale-CLDR-Asia:
+  JGNI: 1
+Bundle-Locale-CLDR-Australasia:
+  JGNI: 1
+Bundle-Locale-CLDR-Caribbean:
+  JGNI: 1
+Bundle-Locale-CLDR-Centralamerica:
+  JGNI: 1
+Bundle-Locale-CLDR-Centralasia:
+  JGNI: 1
+Bundle-Locale-CLDR-Easternafrica:
+  JGNI: 1
+Bundle-Locale-CLDR-Easternasia:
+  JGNI: 1
+Bundle-Locale-CLDR-Easterneurope:
+  JGNI: 1
+Bundle-Locale-CLDR-Europe:
+  JGNI: 1
+Bundle-Locale-CLDR-Europeanunion:
+  JGNI: 1
+Bundle-Locale-CLDR-Everything:
+  JGNI: 1
+Bundle-Locale-CLDR-Latinamerica:
+  JGNI: 1
+Bundle-Locale-CLDR-Melanesia:
+  JGNI: 1
+Bundle-Locale-CLDR-Micronesianregion:
+  JGNI: 1
+Bundle-Locale-CLDR-Middleafrica:
+  JGNI: 1
+Bundle-Locale-CLDR-Northamerica:
+  JGNI: 1
+Bundle-Locale-CLDR-Northernafrica:
+  JGNI: 1
+Bundle-Locale-CLDR-Northernamerica:
+  JGNI: 1
+Bundle-Locale-CLDR-Northerneurope:
+  JGNI: 1
+Bundle-Locale-CLDR-Oceania:
+  JGNI: 1
+Bundle-Locale-CLDR-Outlyingoceania:
+  JGNI: 1
+Bundle-Locale-CLDR-Polynesia:
+  JGNI: 1
+Bundle-Locale-CLDR-Southamerica:
+  JGNI: 1
+Bundle-Locale-CLDR-Southeastasia:
+  JGNI: 1
+Bundle-Locale-CLDR-Southernafrica:
+  JGNI: 1
+Bundle-Locale-CLDR-Southernasia:
+  JGNI: 1
+Bundle-Locale-CLDR-Southerneurope:
+  JGNI: 1
+Bundle-Locale-CLDR-Westernafrica:
+  JGNI: 1
+Bundle-Locale-CLDR-Westernasia:
+  JGNI: 1
+Bundle-Locale-CLDR-Westerneurope:
+  JGNI: 1
+Bundle-Locale-CLDR-World:
+  JGNI: 1
 Bundle-MMS-Mail-Parser:
   ROBL: 1
 Bundle-MP3:
@@ -9821,6 +9899,8 @@ CHI-Driver-Ping:
   SWALTERS: 1
 CHI-Driver-Redis:
   IBURRELL: 1
+CHI-Driver-Rethinkdb:
+  DBURKE: 1
 CHI-Driver-SharedMem:
   NHORNE: 1
 CHI-Driver-TokyoTyrant:
@@ -13151,6 +13231,8 @@ Class-MakeMethods:
   EVO: 1
 Class-Maker:
   MUENALAN: 1
+Class-MaybeXSAccessor:
+  PERLANCAR: 1
 Class-Measure:
   BLUEFEET: 1
 Class-Member:
@@ -14747,8 +14829,6 @@ Crypt-OpenBSD-Blowfish:
   SCHWIGON: 1
 Crypt-OpenPGP:
   SROMANOV: 1
-Crypt-OpenSSH-ChachaPoly:
-  SCHWIGON: 1
 Crypt-OpenSSL-AES:
   TTAR: 1
 Crypt-OpenSSL-Bignum:
@@ -16889,6 +16969,8 @@ Dancer2-Logger-Console-Colored:
   BURNERSK: 1
 Dancer2-Logger-File-RotateLogs:
   MASAKYST: 1
+Dancer2-Logger-Radis:
+  ZURBORG: 1
 Dancer2-Logger-Syslog:
   ABEVERLEY: 1
 Dancer2-Plugin-Adapter:
@@ -20597,6 +20679,8 @@ Dist-Zilla-Plugin-GitFmtChanges:
   RUBYKAT: 1
 Dist-Zilla-Plugin-GitHub:
   ETHER: 1
+Dist-Zilla-Plugin-GitHub-UploadRelease:
+  ZURBORG: 1
 Dist-Zilla-Plugin-GitHubREADME-Badge:
   FAYLAND: 1
 Dist-Zilla-Plugin-GitObtain:
@@ -21054,7 +21138,7 @@ Dist-Zilla-Plugin-TidyAll:
 Dist-Zilla-Plugin-Travis-ConfigForReleaseBranch:
   RSRCHBOY: 1
 Dist-Zilla-Plugin-TravisCI:
-  GETTY: 1
+  KENTNL: 1
 Dist-Zilla-Plugin-TravisCI-StatusBadge:
   CHIM: 1
 Dist-Zilla-Plugin-TrialVersionComment:
@@ -25233,7 +25317,7 @@ Gentoo-Probe:
 Gentoo-Util-VirtualDepend:
   KENTNL: 1
 Geo-Address-Formatter:
-  MTMAIL: 1
+  EDF: 1
 Geo-Address-Mail:
   GPHAT: 1
 Geo-Address-Mail-Standardizer:
@@ -28400,6 +28484,8 @@ Hook-Modular:
   MARCEL: 1
 Hook-Output-File:
   SCHUBIGER: 1
+Hook-Output-Tiny:
+  STEVEB: 1
 Hook-Queue:
   RCLAMP: 1
 Hook-Scope:
@@ -29579,6 +29665,8 @@ Ingres-Utility-Netutil:
   WORM: 1
 IniConf:
   RBOW: 1
+Inky:
+  MFONTANI: 1
 Inline:
   INGY: 1
 Inline-ASM:
@@ -32429,17 +32517,31 @@ Locale-CLDR-Locales-Asa:
   JGNI: 1
 Locale-CLDR-Locales-Ast:
   JGNI: 1
+Locale-CLDR-Locales-Az:
+  JGNI: 1
 Locale-CLDR-Locales-Bas:
   JGNI: 1
 Locale-CLDR-Locales-Be:
+  JGNI: 1
+Locale-CLDR-Locales-Bem:
+  JGNI: 1
+Locale-CLDR-Locales-Bez:
   JGNI: 1
 Locale-CLDR-Locales-Bg:
   JGNI: 1
 Locale-CLDR-Locales-Bm:
   JGNI: 1
+Locale-CLDR-Locales-Bn:
+  JGNI: 1
 Locale-CLDR-Locales-Bo:
   JGNI: 1
 Locale-CLDR-Locales-Br:
+  JGNI: 1
+Locale-CLDR-Locales-Brx:
+  JGNI: 1
+Locale-CLDR-Locales-Bs:
+  JGNI: 1
+Locale-CLDR-Locales-Ca:
   JGNI: 1
 Locale-CLDR-Locales-Ce:
   JGNI: 1
@@ -32447,7 +32549,11 @@ Locale-CLDR-Locales-Cgg:
   JGNI: 1
 Locale-CLDR-Locales-Chr:
   JGNI: 1
+Locale-CLDR-Locales-Ckb:
+  JGNI: 1
 Locale-CLDR-Locales-Cs:
+  JGNI: 1
+Locale-CLDR-Locales-Cu:
   JGNI: 1
 Locale-CLDR-Locales-Cy:
   JGNI: 1
@@ -32468,6 +32574,8 @@ Locale-CLDR-Locales-Dz:
 Locale-CLDR-Locales-Ebu:
   JGNI: 1
 Locale-CLDR-Locales-Ee:
+  JGNI: 1
+Locale-CLDR-Locales-El:
   JGNI: 1
 Locale-CLDR-Locales-En:
   JGNI: 1
@@ -32667,8 +32775,6 @@ Locale-CLDR-Locales-Prg:
   JGNI: 1
 Locale-CLDR-Locales-Ps:
   JGNI: 1
-Locale-CLDR-Locales-Pt:
-  JGNI: 1
 Locale-CLDR-Locales-Qu:
   JGNI: 1
 Locale-CLDR-Locales-Rm:
@@ -32748,6 +32854,10 @@ Locale-CLDR-Locales-Uk:
 Locale-CLDR-Locales-Ur:
   JGNI: 1
 Locale-CLDR-Locales-Uz:
+  JGNI: 1
+Locale-CLDR-Locales-Yo:
+  JGNI: 1
+Locale-CLDR-Locales-Yue:
   JGNI: 1
 Locale-CLDR-Transformations:
   JGNI: 1
@@ -33265,6 +33375,8 @@ Log-ProgramInfo:
   BOUTROSLB: 1
 Log-QnD:
   MIKO: 1
+Log-Radis:
+  ZURBORG: 1
 Log-Report:
   MARKOV: 1
 Log-Report-Lexicon:
@@ -33295,6 +33407,8 @@ Log-Smart:
   SHIBUYA: 1
 Log-Sprintf:
   FREW: 1
+Log-Stack:
+  ZURBORG: 1
 Log-Stamper:
   BAYASHI: 1
 Log-Statistics:
@@ -35537,7 +35651,7 @@ MetaCPAN-Clients:
 MetaCPAN-Helper:
   NEILB: 1
 MetaCPAN-Moose:
-  OALDERS: 1
+  MICKEY: 1
 MetaPOD:
   KENTNL: 1
 MetaPOD-Format-JSON:
@@ -36450,6 +36564,8 @@ Mojo-Reactor-UV:
   DBOOK: 1
 Mojo-Redis:
   JHTHORSEN: 1
+Mojo-Redis-Processor:
+  BINARY: 1
 Mojo-Redis2:
   JHTHORSEN: 1
 Mojo-Role:
@@ -37278,7 +37394,7 @@ Monkeywrench:
 Monoceros:
   KAZEBURO: 1
 Monotone-AutomateStdio:
-  AECOOPER: 1
+  monotone: 1
 Month-Simple:
   MORITZ: 1
 Moo:
@@ -37399,7 +37515,7 @@ Moos:
 Moose:
   ETHER: 1
 Moose-Autobox:
-  RJBS: 1
+  ETHER: 1
 Moose-Micro:
   HDP: 1
 Moose-OldDocs:
@@ -39398,8 +39514,6 @@ Net-GeoPlanet:
   SKREUZER: 1
 Net-Geohash:
   SOCK: 1
-Net-GitHub:
-  FAYLAND: 1
 Net-Gitlab:
   AYOUNG: 1
 Net-Gmail-IMAP-Label:
@@ -40259,6 +40373,8 @@ Net-Rexster-Client:
   SHOHEIK: 1
 Net-Riak:
   RGE: 1
+Net-RocketChat:
+  DALEEVANS: 1
 Net-Route:
   TEQUETER: 1
 Net-Routing:
@@ -41799,6 +41915,8 @@ OpenID-Lite-Extension-UI:
   LYOKATO: 1
 OpenID-Login:
   REALHOLGI: 1
+OpenID-PayPal-LIPP:
+  PVIGIER: 1
 OpenIndex:
   SANDERSON: 1
 OpenInteract:
@@ -41979,6 +42097,8 @@ OurNet-Query:
   AUTRIJUS: 1
 OurNet-Site:
   AUTRIJUS: 1
+Ouroboros:
+  VYF: 1
 Outline-Lua:
   ALTREUS: 1
 OutlineNumber:
@@ -48248,6 +48368,8 @@ Religion-Islam-Quran:
   mewsoft: 1
 Remedy-ARSTools:
   AHICOX: 1
+Remember-Anything-AsPath:
+  SPEBERN: 1
 Remind-Client:
   PIOTO: 1
 Remind-Parser:
@@ -48809,6 +48931,8 @@ SMS-Send-NexmoUnicode:
   JNLIN: 1
 SMS-Send-RedOxygen:
   RedOxygen: 1
+SMS-Send-Retarus:
+  ABRAXXA: 1
 SMS-Send-SMSDiscount:
   BEANZ: 1
 SMS-Send-SMSGlobal-HTTP:
@@ -55053,6 +55177,8 @@ Test-ttserver:
   CRAFTWORK: 1
 Test-utf8:
   MARKF: 1
+Test2:
+  EXODIST: 1
 Test2-AsyncSubtest:
   EXODIST: 1
 Test2-Plugin-SpecDeclare:
@@ -59314,6 +59440,8 @@ WWW-Expand-More:
   BAYASHI: 1
 WWW-Extractor:
   GNALABS: 1
+WWW-FBX:
+  ARCHITEK: 1
 WWW-FMyLife:
   XSAWYERX: 1
 WWW-Facebook-API:
@@ -59646,6 +59774,8 @@ WWW-Mechanize-SpamCop:
   ADAMOWSKI: 1
 WWW-Mechanize-Timed:
   LBROCARD: 1
+WWW-Mechanize-Tor:
+  SPEBERN: 1
 WWW-Mechanize-TreeBuilder:
   ASH: 1
 WWW-Mechanize-XML:
@@ -64388,6 +64518,8 @@ namespace-functions:
   DEXTER: 1
 namespace-sweep:
   FRIEDO: 1
+net-github:
+  FAYLAND: 1
 net-lastfmapi:
   DRSTEVE: 1
 new.spirit:
