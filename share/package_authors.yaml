@@ -6103,6 +6103,8 @@ AsposeCellsCloud-CellsApi:
   ASPOSE: 1
 AsposeEmailCloud-EmailApi:
   ASPOSE: 1
+AsposePdfCloud-PdfApi:
+  ASPOSE: 1
 AsposeStorageCloud-StorageApi:
   ASPOSE: 1
 AsposeWordsCloud-WordsApi:
@@ -10934,7 +10936,7 @@ Catalyst-Authentication-Store-FromSub:
 Catalyst-Authentication-Store-FromSub-Hash:
   FAYLAND: 1
 Catalyst-Authentication-Store-Htpasswd:
-  BOBTFISH: 1
+  TBSLIVER: 1
 Catalyst-Authentication-Store-Jifty-DBI:
   ISHIGAKI: 1
 Catalyst-Authentication-Store-KiokuDB:
@@ -14681,7 +14683,6 @@ Crypt-Curve25519:
   AJGB: 1
 Crypt-DES:
   DPARIS: 1
-  GARY: 1
 Crypt-DES_EDE3:
   BTROTT: 1
 Crypt-DES_EEE3:
@@ -15197,8 +15198,6 @@ DB-Color:
   OVID: 1
 DB-CouchDB-Schema:
   ZAPHAR: 1
-DB-DataStore:
-  CANID: 1
 DB-Ent:
   ECALDER: 1
 DB-Evented:
@@ -18013,6 +18012,8 @@ Data-Record:
   OVID: 1
 Data-Record-Serialize:
   DJERIUS: 1
+Data-RecordStore:
+  CANID: 1
 Data-Recursive-Encode:
   TOKUHIROM: 1
 Data-RefQueue:
@@ -19333,6 +19334,8 @@ Devel-Diagram:
   GLENNWOOD: 1
 Devel-DidYouMean:
   SILLYMOOS: 1
+Devel-DieHandler-DumpINC:
+  PERLANCAR: 1
 Devel-Ditto:
   ANDYA: 1
 Devel-Dt:
@@ -20993,6 +20996,8 @@ Dist-Zilla-Plugin-RunByBranch:
   FFFINKEL: 1
 Dist-Zilla-Plugin-SVK:
   DRBEAN: 1
+Dist-Zilla-Plugin-Sah-Schemas:
+  PERLANCAR: 1
 Dist-Zilla-Plugin-SanityTests:
   FLORA: 1
 Dist-Zilla-Plugin-SchwartzRatio:
@@ -22801,6 +22806,8 @@ FTN-Message-serialno:
   VAL: 1
 FTN-Nodelist:
   STRO: 1
+FTN-Outbound-Reference_file:
+  VAL: 1
 FTN-Packet:
   JAME: 1
 FTN-Pkt:
@@ -24544,6 +24551,8 @@ Fuse-TM:
   ALPHAZULU: 1
 Fuse-TagLayer:
   CLIPLAND: 1
+FuseBead-From-PNG:
+  GAUDEON: 1
 FusionInventory-Agent:
   GONERI: 1
   GROUSSE: 1
@@ -26193,6 +26202,8 @@ Google-Client-Collection:
   ZIALI: 1
 Google-Code-Upload:
   DOHERTY: 1
+Google-DNS:
+  BAYASHI: 1
 Google-Data-JSON:
   TAKERU: 1
 Google-Directions:
@@ -26497,6 +26508,8 @@ Group-Git:
 Group-Git-Cmd-Ivan:
   IVANWILLS: 1
 Group-Git-Cmd-SinceRelease:
+  IVANWILLS: 1
+Group-Git-Cmd-Stats:
   IVANWILLS: 1
 Group-Git-Cmd-Todo:
   IVANWILLS: 1
@@ -36217,6 +36230,8 @@ Module-Install-Repository:
   MIYAGAWA: 1
 Module-Install-RequiresList:
   INGY: 1
+Module-Install-Rust:
+  VYF: 1
 Module-Install-ShareFile:
   KAZEBURO: 1
 Module-Install-StandardTests:
@@ -36722,6 +36737,8 @@ MojoX-Validator:
   VTI: 1
 Mojolicious:
   SRI: 1
+Mojolicious-Che:
+  MCHE: 1
 Mojolicious-Command-deploy:
   TEMPIRE: 1
 Mojolicious-Command-deploy-heroku:
@@ -37450,6 +37467,8 @@ MooX-ObjectBuilder:
   TOBYINK: 1
 MooX-Options:
   CELOGEEK: 1
+MooX-POE:
+  GETTY: 1
 MooX-PluginRoles:
   ZHTWN: 1
 MooX-ProtectedAttributes:
@@ -37723,7 +37742,7 @@ MooseX-FollowPBP:
 MooseX-FunkyAttributes:
   TOBYINK: 1
 MooseX-Getopt:
-  ETHER: 1
+  DROLSKY: 1
 MooseX-Getopt-Defanged:
   ELLIOTJS: 1
 MooseX-Getopt-Explicit:
@@ -41166,6 +41185,8 @@ Net_TCLink.pm:
   WITTEN: 1
 Netdot-Client-REST:
   CVICENTE: 1
+Netflow-Collector:
+  PALIK: 1
 Netflow-Parser:
   PALIK: 1
 Netgear-WGT624:
@@ -44393,6 +44414,8 @@ Pcore-API-Moz:
   ZDM: 1
 Pcore-API-Namecheap:
   ZDM: 1
+Pcore-API-Whois:
+  ZDM: 1
 Pcore-Captcha:
   ZDM: 1
 Pcore-DBD:
@@ -46466,7 +46489,7 @@ Pod-Weaver-Plugin-PERLANCAR-SortSections:
   PERLANCAR: 1
 Pod-Weaver-Plugin-Rinci:
   PERLANCAR: 1
-Pod-Weaver-Plugin-Sah-Schema:
+Pod-Weaver-Plugin-Sah-Schemas:
   PERLANCAR: 1
 Pod-Weaver-Plugin-StopWords:
   RWSTAUNER: 1
@@ -49085,6 +49108,8 @@ SOAP-UMRA:
   SEVEAS: 1
 SOAP-WSDL:
   SWALTERS: 1
+SOAP-WSDL-Server-Dancer2:
+  FAYLAND: 1
 SOAP-WSDL-Server-Plack:
   AST: 1
 SOAP-WSDL_XS:
@@ -49542,10 +49567,12 @@ Sah:
   PERLANCAR: 1
 Sah-Examples:
   PERLANCAR: 1
-Sah-Schema-Int:
+Sah-Schemas:
+  PERLANCAR: 1
+Sah-Schemas-Int:
   PERLANCAR: 1
 Sailthru-Client:
-  SAILTHRU: 1
+  WZHANG: 1
 Sakai-Nakamura:
   XEONTIME: 1
 Salesforce:
@@ -50858,6 +50885,8 @@ Spreadsheet-Read:
   HMBRAND: 1
 Spreadsheet-ReadSXC:
   TERHECHTE: 1
+Spreadsheet-Reader-ExcelXML:
+  JANDREW: 1
 Spreadsheet-Reader-Format:
   JANDREW: 1
 Spreadsheet-Simple:
@@ -55177,8 +55206,6 @@ Test-ttserver:
   CRAFTWORK: 1
 Test-utf8:
   MARKF: 1
-Test2:
-  EXODIST: 1
 Test2-AsyncSubtest:
   EXODIST: 1
 Test2-Plugin-SpecDeclare:
@@ -58308,6 +58335,8 @@ URI-UTF8-Punycode:
   TWINKLE: 1
 URI-Unredirect:
   GRAY: 1
+URI-XSEscape:
+  GONZUS: 1
 URI-chrome:
   ZIGOROU: 1
 URI-cpan:
@@ -59684,6 +59713,8 @@ WWW-Live-Contacts:
   JENKINSON: 1
 WWW-LiveDepartureBoards:
   GMCCAR: 1
+WWW-Lk4:
+  NKUITSE: 1
 WWW-LogicBoxes:
   DRZIGMAN: 1
 WWW-LongURL:
@@ -61249,6 +61280,8 @@ WebService-OMDB:
   ARJONES: 1
 WebService-OkiLab-ExtractPlace:
   TSUKAMOTO: 1
+WebService-Ooyala:
+  VROOM: 1
 WebService-Openaura:
   HONDALLIC: 1
 WebService-POEditor:
@@ -64660,6 +64693,7 @@ perl:
   JHI: 1
   NWCLARK: 1
   RGARCIA: 1
+  RJBS: 1
   SHAY: 1
 perl-Apache2-LogUtil:
   RYANGIES: 1
