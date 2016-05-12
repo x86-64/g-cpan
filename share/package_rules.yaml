@@ -340,8 +340,6 @@ Unicode-Normalize:
 XSLoader:
   category: virtual
   name: perl-XSLoader
-YAML:
-  name: yaml
 autodie:
   category: virtual
   name: perl-autodie

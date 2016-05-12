@@ -3890,8 +3890,6 @@ App-ArchiveDevelCover:
   DOMM: 1
 App-Asciio:
   NKH: 1
-App-Askell:
-  LOSYME: 1
 App-AutoBuild:
   YOBERT: 1
 App-AutoCRUD:
@@ -4639,13 +4637,19 @@ App-MultiModule-Tasks-Collector:
   DIEDERICH: 1
 App-MultiModule-Tasks-FollowTail:
   DIEDERICH: 1
+App-MultiModule-Tasks-HTTPClient:
+  DIEDERICH: 1
 App-MultiModule-Tasks-MongoDB:
+  DIEDERICH: 1
+App-MultiModule-Tasks-NagiosCmd:
   DIEDERICH: 1
 App-MultiModule-Tasks-ResourceWatcher:
   DIEDERICH: 1
 App-MultiModule-Tasks-Runner:
   DIEDERICH: 1
 App-MultiModule-Tasks-Scheduler:
+  DIEDERICH: 1
+App-MultiModule-Tasks-SmartMerge:
   DIEDERICH: 1
 App-MultiSsh:
   IVANWILLS: 1
@@ -5020,6 +5024,8 @@ App-ShellCompleter-cpanm:
 App-ShellCompleter-emacs:
   PERLANCAR: 1
 App-ShellCompleter-mpv:
+  PERLANCAR: 1
+App-ShellCompleter-perlbrew:
   PERLANCAR: 1
 App-Shotgun:
   GETTY: 1
@@ -6097,6 +6103,8 @@ AsposeCellsCloud-CellsApi:
   ASPOSE: 1
 AsposeEmailCloud-EmailApi:
   ASPOSE: 1
+AsposePdfCloud-PdfApi:
+  ASPOSE: 1
 AsposeStorageCloud-StorageApi:
   ASPOSE: 1
 AsposeWordsCloud-WordsApi:
@@ -6278,6 +6286,8 @@ Attach-Stuff:
 Attean:
   GWILLIAMS: 1
 AtteanX-Endpoint:
+  GWILLIAMS: 1
+AtteanX-RDFQueryTranslator:
   GWILLIAMS: 1
 AtteanX-Store-LDF:
   KJETILK: 1
@@ -7230,6 +7240,8 @@ Bencher-Scenarios-DataCSel:
   PERLANCAR: 1
 Bencher-Scenarios-DataCleansing:
   PERLANCAR: 1
+Bencher-Scenarios-DataDmp:
+  PERLANCAR: 1
 Bencher-Scenarios-DataSah:
   PERLANCAR: 1
 Bencher-Scenarios-DateModules:
@@ -7259,6 +7271,8 @@ Bencher-Scenarios-Perinci:
 Bencher-Scenarios-PerinciCmdLine:
   PERLANCAR: 1
 Bencher-Scenarios-Perl:
+  PERLANCAR: 1
+Bencher-Scenarios-RefUtil:
   PERLANCAR: 1
 Bencher-Scenarios-RegexpCommon:
   PERLANCAR: 1
@@ -8184,6 +8198,72 @@ Bundle-Latemp:
   SHLOMIF: 1
 Bundle-LawMonkey:
   MPRUNTY: 1
+Bundle-Locale-CLDR-Africa:
+  JGNI: 1
+Bundle-Locale-CLDR-Americas:
+  JGNI: 1
+Bundle-Locale-CLDR-Asia:
+  JGNI: 1
+Bundle-Locale-CLDR-Australasia:
+  JGNI: 1
+Bundle-Locale-CLDR-Caribbean:
+  JGNI: 1
+Bundle-Locale-CLDR-Centralamerica:
+  JGNI: 1
+Bundle-Locale-CLDR-Centralasia:
+  JGNI: 1
+Bundle-Locale-CLDR-Easternafrica:
+  JGNI: 1
+Bundle-Locale-CLDR-Easternasia:
+  JGNI: 1
+Bundle-Locale-CLDR-Easterneurope:
+  JGNI: 1
+Bundle-Locale-CLDR-Europe:
+  JGNI: 1
+Bundle-Locale-CLDR-Europeanunion:
+  JGNI: 1
+Bundle-Locale-CLDR-Everything:
+  JGNI: 1
+Bundle-Locale-CLDR-Latinamerica:
+  JGNI: 1
+Bundle-Locale-CLDR-Melanesia:
+  JGNI: 1
+Bundle-Locale-CLDR-Micronesianregion:
+  JGNI: 1
+Bundle-Locale-CLDR-Middleafrica:
+  JGNI: 1
+Bundle-Locale-CLDR-Northamerica:
+  JGNI: 1
+Bundle-Locale-CLDR-Northernafrica:
+  JGNI: 1
+Bundle-Locale-CLDR-Northernamerica:
+  JGNI: 1
+Bundle-Locale-CLDR-Northerneurope:
+  JGNI: 1
+Bundle-Locale-CLDR-Oceania:
+  JGNI: 1
+Bundle-Locale-CLDR-Outlyingoceania:
+  JGNI: 1
+Bundle-Locale-CLDR-Polynesia:
+  JGNI: 1
+Bundle-Locale-CLDR-Southamerica:
+  JGNI: 1
+Bundle-Locale-CLDR-Southeastasia:
+  JGNI: 1
+Bundle-Locale-CLDR-Southernafrica:
+  JGNI: 1
+Bundle-Locale-CLDR-Southernasia:
+  JGNI: 1
+Bundle-Locale-CLDR-Southerneurope:
+  JGNI: 1
+Bundle-Locale-CLDR-Westernafrica:
+  JGNI: 1
+Bundle-Locale-CLDR-Westernasia:
+  JGNI: 1
+Bundle-Locale-CLDR-Westerneurope:
+  JGNI: 1
+Bundle-Locale-CLDR-World:
+  JGNI: 1
 Bundle-MMS-Mail-Parser:
   ROBL: 1
 Bundle-MP3:
@@ -9821,6 +9901,8 @@ CHI-Driver-Ping:
   SWALTERS: 1
 CHI-Driver-Redis:
   IBURRELL: 1
+CHI-Driver-Rethinkdb:
+  DBURKE: 1
 CHI-Driver-SharedMem:
   NHORNE: 1
 CHI-Driver-TokyoTyrant:
@@ -10854,7 +10936,7 @@ Catalyst-Authentication-Store-FromSub:
 Catalyst-Authentication-Store-FromSub-Hash:
   FAYLAND: 1
 Catalyst-Authentication-Store-Htpasswd:
-  BOBTFISH: 1
+  TBSLIVER: 1
 Catalyst-Authentication-Store-Jifty-DBI:
   ISHIGAKI: 1
 Catalyst-Authentication-Store-KiokuDB:
@@ -13151,6 +13233,8 @@ Class-MakeMethods:
   EVO: 1
 Class-Maker:
   MUENALAN: 1
+Class-MaybeXSAccessor:
+  PERLANCAR: 1
 Class-Measure:
   BLUEFEET: 1
 Class-Member:
@@ -14599,7 +14683,6 @@ Crypt-Curve25519:
   AJGB: 1
 Crypt-DES:
   DPARIS: 1
-  GARY: 1
 Crypt-DES_EDE3:
   BTROTT: 1
 Crypt-DES_EEE3:
@@ -14747,8 +14830,6 @@ Crypt-OpenBSD-Blowfish:
   SCHWIGON: 1
 Crypt-OpenPGP:
   SROMANOV: 1
-Crypt-OpenSSH-ChachaPoly:
-  SCHWIGON: 1
 Crypt-OpenSSL-AES:
   TTAR: 1
 Crypt-OpenSSL-Bignum:
@@ -15117,8 +15198,6 @@ DB-Color:
   OVID: 1
 DB-CouchDB-Schema:
   ZAPHAR: 1
-DB-DataStore:
-  CANID: 1
 DB-Ent:
   ECALDER: 1
 DB-Evented:
@@ -16889,6 +16968,8 @@ Dancer2-Logger-Console-Colored:
   BURNERSK: 1
 Dancer2-Logger-File-RotateLogs:
   MASAKYST: 1
+Dancer2-Logger-Radis:
+  ZURBORG: 1
 Dancer2-Logger-Syslog:
   ABEVERLEY: 1
 Dancer2-Plugin-Adapter:
@@ -17931,6 +18012,8 @@ Data-Record:
   OVID: 1
 Data-Record-Serialize:
   DJERIUS: 1
+Data-RecordStore:
+  CANID: 1
 Data-Recursive-Encode:
   TOKUHIROM: 1
 Data-RefQueue:
@@ -19251,6 +19334,8 @@ Devel-Diagram:
   GLENNWOOD: 1
 Devel-DidYouMean:
   SILLYMOOS: 1
+Devel-DieHandler-DumpINC:
+  PERLANCAR: 1
 Devel-Ditto:
   ANDYA: 1
 Devel-Dt:
@@ -20597,6 +20682,8 @@ Dist-Zilla-Plugin-GitFmtChanges:
   RUBYKAT: 1
 Dist-Zilla-Plugin-GitHub:
   ETHER: 1
+Dist-Zilla-Plugin-GitHub-UploadRelease:
+  ZURBORG: 1
 Dist-Zilla-Plugin-GitHubREADME-Badge:
   FAYLAND: 1
 Dist-Zilla-Plugin-GitObtain:
@@ -20909,6 +20996,8 @@ Dist-Zilla-Plugin-RunByBranch:
   FFFINKEL: 1
 Dist-Zilla-Plugin-SVK:
   DRBEAN: 1
+Dist-Zilla-Plugin-Sah-Schemas:
+  PERLANCAR: 1
 Dist-Zilla-Plugin-SanityTests:
   FLORA: 1
 Dist-Zilla-Plugin-SchwartzRatio:
@@ -21054,7 +21143,7 @@ Dist-Zilla-Plugin-TidyAll:
 Dist-Zilla-Plugin-Travis-ConfigForReleaseBranch:
   RSRCHBOY: 1
 Dist-Zilla-Plugin-TravisCI:
-  GETTY: 1
+  KENTNL: 1
 Dist-Zilla-Plugin-TravisCI-StatusBadge:
   CHIM: 1
 Dist-Zilla-Plugin-TrialVersionComment:
@@ -22717,6 +22806,8 @@ FTN-Message-serialno:
   VAL: 1
 FTN-Nodelist:
   STRO: 1
+FTN-Outbound-Reference_file:
+  VAL: 1
 FTN-Packet:
   JAME: 1
 FTN-Pkt:
@@ -24460,6 +24551,8 @@ Fuse-TM:
   ALPHAZULU: 1
 Fuse-TagLayer:
   CLIPLAND: 1
+FuseBead-From-PNG:
+  GAUDEON: 1
 FusionInventory-Agent:
   GONERI: 1
   GROUSSE: 1
@@ -25233,7 +25326,7 @@ Gentoo-Probe:
 Gentoo-Util-VirtualDepend:
   KENTNL: 1
 Geo-Address-Formatter:
-  MTMAIL: 1
+  EDF: 1
 Geo-Address-Mail:
   GPHAT: 1
 Geo-Address-Mail-Standardizer:
@@ -26109,6 +26202,8 @@ Google-Client-Collection:
   ZIALI: 1
 Google-Code-Upload:
   DOHERTY: 1
+Google-DNS:
+  BAYASHI: 1
 Google-Data-JSON:
   TAKERU: 1
 Google-Directions:
@@ -26413,6 +26508,8 @@ Group-Git:
 Group-Git-Cmd-Ivan:
   IVANWILLS: 1
 Group-Git-Cmd-SinceRelease:
+  IVANWILLS: 1
+Group-Git-Cmd-Stats:
   IVANWILLS: 1
 Group-Git-Cmd-Todo:
   IVANWILLS: 1
@@ -28400,6 +28497,8 @@ Hook-Modular:
   MARCEL: 1
 Hook-Output-File:
   SCHUBIGER: 1
+Hook-Output-Tiny:
+  STEVEB: 1
 Hook-Queue:
   RCLAMP: 1
 Hook-Scope:
@@ -29579,6 +29678,8 @@ Ingres-Utility-Netutil:
   WORM: 1
 IniConf:
   RBOW: 1
+Inky:
+  MFONTANI: 1
 Inline:
   INGY: 1
 Inline-ASM:
@@ -32429,17 +32530,31 @@ Locale-CLDR-Locales-Asa:
   JGNI: 1
 Locale-CLDR-Locales-Ast:
   JGNI: 1
+Locale-CLDR-Locales-Az:
+  JGNI: 1
 Locale-CLDR-Locales-Bas:
   JGNI: 1
 Locale-CLDR-Locales-Be:
+  JGNI: 1
+Locale-CLDR-Locales-Bem:
+  JGNI: 1
+Locale-CLDR-Locales-Bez:
   JGNI: 1
 Locale-CLDR-Locales-Bg:
   JGNI: 1
 Locale-CLDR-Locales-Bm:
   JGNI: 1
+Locale-CLDR-Locales-Bn:
+  JGNI: 1
 Locale-CLDR-Locales-Bo:
   JGNI: 1
 Locale-CLDR-Locales-Br:
+  JGNI: 1
+Locale-CLDR-Locales-Brx:
+  JGNI: 1
+Locale-CLDR-Locales-Bs:
+  JGNI: 1
+Locale-CLDR-Locales-Ca:
   JGNI: 1
 Locale-CLDR-Locales-Ce:
   JGNI: 1
@@ -32447,7 +32562,11 @@ Locale-CLDR-Locales-Cgg:
   JGNI: 1
 Locale-CLDR-Locales-Chr:
   JGNI: 1
+Locale-CLDR-Locales-Ckb:
+  JGNI: 1
 Locale-CLDR-Locales-Cs:
+  JGNI: 1
+Locale-CLDR-Locales-Cu:
   JGNI: 1
 Locale-CLDR-Locales-Cy:
   JGNI: 1
@@ -32468,6 +32587,8 @@ Locale-CLDR-Locales-Dz:
 Locale-CLDR-Locales-Ebu:
   JGNI: 1
 Locale-CLDR-Locales-Ee:
+  JGNI: 1
+Locale-CLDR-Locales-El:
   JGNI: 1
 Locale-CLDR-Locales-En:
   JGNI: 1
@@ -32667,8 +32788,6 @@ Locale-CLDR-Locales-Prg:
   JGNI: 1
 Locale-CLDR-Locales-Ps:
   JGNI: 1
-Locale-CLDR-Locales-Pt:
-  JGNI: 1
 Locale-CLDR-Locales-Qu:
   JGNI: 1
 Locale-CLDR-Locales-Rm:
@@ -32748,6 +32867,10 @@ Locale-CLDR-Locales-Uk:
 Locale-CLDR-Locales-Ur:
   JGNI: 1
 Locale-CLDR-Locales-Uz:
+  JGNI: 1
+Locale-CLDR-Locales-Yo:
+  JGNI: 1
+Locale-CLDR-Locales-Yue:
   JGNI: 1
 Locale-CLDR-Transformations:
   JGNI: 1
@@ -33265,6 +33388,8 @@ Log-ProgramInfo:
   BOUTROSLB: 1
 Log-QnD:
   MIKO: 1
+Log-Radis:
+  ZURBORG: 1
 Log-Report:
   MARKOV: 1
 Log-Report-Lexicon:
@@ -33295,6 +33420,8 @@ Log-Smart:
   SHIBUYA: 1
 Log-Sprintf:
   FREW: 1
+Log-Stack:
+  ZURBORG: 1
 Log-Stamper:
   BAYASHI: 1
 Log-Statistics:
@@ -35537,7 +35664,7 @@ MetaCPAN-Clients:
 MetaCPAN-Helper:
   NEILB: 1
 MetaCPAN-Moose:
-  OALDERS: 1
+  MICKEY: 1
 MetaPOD:
   KENTNL: 1
 MetaPOD-Format-JSON:
@@ -36103,6 +36230,8 @@ Module-Install-Repository:
   MIYAGAWA: 1
 Module-Install-RequiresList:
   INGY: 1
+Module-Install-Rust:
+  VYF: 1
 Module-Install-ShareFile:
   KAZEBURO: 1
 Module-Install-StandardTests:
@@ -36450,6 +36579,8 @@ Mojo-Reactor-UV:
   DBOOK: 1
 Mojo-Redis:
   JHTHORSEN: 1
+Mojo-Redis-Processor:
+  BINARY: 1
 Mojo-Redis2:
   JHTHORSEN: 1
 Mojo-Role:
@@ -36606,6 +36737,8 @@ MojoX-Validator:
   VTI: 1
 Mojolicious:
   SRI: 1
+Mojolicious-Che:
+  MCHE: 1
 Mojolicious-Command-deploy:
   TEMPIRE: 1
 Mojolicious-Command-deploy-heroku:
@@ -37278,7 +37411,7 @@ Monkeywrench:
 Monoceros:
   KAZEBURO: 1
 Monotone-AutomateStdio:
-  AECOOPER: 1
+  monotone: 1
 Month-Simple:
   MORITZ: 1
 Moo:
@@ -37334,6 +37467,8 @@ MooX-ObjectBuilder:
   TOBYINK: 1
 MooX-Options:
   CELOGEEK: 1
+MooX-POE:
+  GETTY: 1
 MooX-PluginRoles:
   ZHTWN: 1
 MooX-ProtectedAttributes:
@@ -37399,7 +37534,7 @@ Moos:
 Moose:
   ETHER: 1
 Moose-Autobox:
-  RJBS: 1
+  ETHER: 1
 Moose-Micro:
   HDP: 1
 Moose-OldDocs:
@@ -37607,7 +37742,7 @@ MooseX-FollowPBP:
 MooseX-FunkyAttributes:
   TOBYINK: 1
 MooseX-Getopt:
-  ETHER: 1
+  DROLSKY: 1
 MooseX-Getopt-Defanged:
   ELLIOTJS: 1
 MooseX-Getopt-Explicit:
@@ -39398,8 +39533,6 @@ Net-GeoPlanet:
   SKREUZER: 1
 Net-Geohash:
   SOCK: 1
-Net-GitHub:
-  FAYLAND: 1
 Net-Gitlab:
   AYOUNG: 1
 Net-Gmail-IMAP-Label:
@@ -40259,6 +40392,8 @@ Net-Rexster-Client:
   SHOHEIK: 1
 Net-Riak:
   RGE: 1
+Net-RocketChat:
+  DALEEVANS: 1
 Net-Route:
   TEQUETER: 1
 Net-Routing:
@@ -41050,6 +41185,8 @@ Net_TCLink.pm:
   WITTEN: 1
 Netdot-Client-REST:
   CVICENTE: 1
+Netflow-Collector:
+  PALIK: 1
 Netflow-Parser:
   PALIK: 1
 Netgear-WGT624:
@@ -41799,6 +41936,8 @@ OpenID-Lite-Extension-UI:
   LYOKATO: 1
 OpenID-Login:
   REALHOLGI: 1
+OpenID-PayPal-LIPP:
+  PVIGIER: 1
 OpenIndex:
   SANDERSON: 1
 OpenInteract:
@@ -41979,6 +42118,8 @@ OurNet-Query:
   AUTRIJUS: 1
 OurNet-Site:
   AUTRIJUS: 1
+Ouroboros:
+  VYF: 1
 Outline-Lua:
   ALTREUS: 1
 OutlineNumber:
@@ -44273,6 +44414,8 @@ Pcore-API-Moz:
   ZDM: 1
 Pcore-API-Namecheap:
   ZDM: 1
+Pcore-API-Whois:
+  ZDM: 1
 Pcore-Captcha:
   ZDM: 1
 Pcore-DBD:
@@ -46346,7 +46489,7 @@ Pod-Weaver-Plugin-PERLANCAR-SortSections:
   PERLANCAR: 1
 Pod-Weaver-Plugin-Rinci:
   PERLANCAR: 1
-Pod-Weaver-Plugin-Sah-Schema:
+Pod-Weaver-Plugin-Sah-Schemas:
   PERLANCAR: 1
 Pod-Weaver-Plugin-StopWords:
   RWSTAUNER: 1
@@ -48248,6 +48391,8 @@ Religion-Islam-Quran:
   mewsoft: 1
 Remedy-ARSTools:
   AHICOX: 1
+Remember-Anything-AsPath:
+  SPEBERN: 1
 Remind-Client:
   PIOTO: 1
 Remind-Parser:
@@ -48809,6 +48954,8 @@ SMS-Send-NexmoUnicode:
   JNLIN: 1
 SMS-Send-RedOxygen:
   RedOxygen: 1
+SMS-Send-Retarus:
+  ABRAXXA: 1
 SMS-Send-SMSDiscount:
   BEANZ: 1
 SMS-Send-SMSGlobal-HTTP:
@@ -48961,6 +49108,8 @@ SOAP-UMRA:
   SEVEAS: 1
 SOAP-WSDL:
   SWALTERS: 1
+SOAP-WSDL-Server-Dancer2:
+  FAYLAND: 1
 SOAP-WSDL-Server-Plack:
   AST: 1
 SOAP-WSDL_XS:
@@ -49418,10 +49567,12 @@ Sah:
   PERLANCAR: 1
 Sah-Examples:
   PERLANCAR: 1
-Sah-Schema-Int:
+Sah-Schemas:
+  PERLANCAR: 1
+Sah-Schemas-Int:
   PERLANCAR: 1
 Sailthru-Client:
-  SAILTHRU: 1
+  WZHANG: 1
 Sakai-Nakamura:
   XEONTIME: 1
 Salesforce:
@@ -50734,6 +50885,8 @@ Spreadsheet-Read:
   HMBRAND: 1
 Spreadsheet-ReadSXC:
   TERHECHTE: 1
+Spreadsheet-Reader-ExcelXML:
+  JANDREW: 1
 Spreadsheet-Reader-Format:
   JANDREW: 1
 Spreadsheet-Simple:
@@ -58182,6 +58335,8 @@ URI-UTF8-Punycode:
   TWINKLE: 1
 URI-Unredirect:
   GRAY: 1
+URI-XSEscape:
+  GONZUS: 1
 URI-chrome:
   ZIGOROU: 1
 URI-cpan:
@@ -59314,6 +59469,8 @@ WWW-Expand-More:
   BAYASHI: 1
 WWW-Extractor:
   GNALABS: 1
+WWW-FBX:
+  ARCHITEK: 1
 WWW-FMyLife:
   XSAWYERX: 1
 WWW-Facebook-API:
@@ -59556,6 +59713,8 @@ WWW-Live-Contacts:
   JENKINSON: 1
 WWW-LiveDepartureBoards:
   GMCCAR: 1
+WWW-Lk4:
+  NKUITSE: 1
 WWW-LogicBoxes:
   DRZIGMAN: 1
 WWW-LongURL:
@@ -59646,6 +59805,8 @@ WWW-Mechanize-SpamCop:
   ADAMOWSKI: 1
 WWW-Mechanize-Timed:
   LBROCARD: 1
+WWW-Mechanize-Tor:
+  SPEBERN: 1
 WWW-Mechanize-TreeBuilder:
   ASH: 1
 WWW-Mechanize-XML:
@@ -61119,6 +61280,8 @@ WebService-OMDB:
   ARJONES: 1
 WebService-OkiLab-ExtractPlace:
   TSUKAMOTO: 1
+WebService-Ooyala:
+  VROOM: 1
 WebService-Openaura:
   HONDALLIC: 1
 WebService-POEditor:
@@ -64388,6 +64551,8 @@ namespace-functions:
   DEXTER: 1
 namespace-sweep:
   FRIEDO: 1
+net-github:
+  FAYLAND: 1
 net-lastfmapi:
   DRSTEVE: 1
 new.spirit:
@@ -64528,6 +64693,7 @@ perl:
   JHI: 1
   NWCLARK: 1
   RGARCIA: 1
+  RJBS: 1
   SHAY: 1
 perl-Apache2-LogUtil:
   RYANGIES: 1
