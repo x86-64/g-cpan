@@ -131,6 +131,8 @@ sub ebuild_generate {
 	copy($metadata_filepath, dirname($ebuild_filepath));
 	
 	$g->generate_digest($ebuild_filepath);
+	
+	unlink(sprintf("%s/.kill", dirname($ebuild_filepath)));
 }
 
 sub _share_file {
