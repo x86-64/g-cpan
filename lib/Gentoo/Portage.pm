@@ -35,7 +35,7 @@ require Exporter;
 our @ISA = qw(Exporter Gentoo);
 
 our @EXPORT =
-  qw( getEnv getAltName getAvailableEbuilds getAvailableVersions generate_digest emerge_ebuild import_fields listOverlays ebuild_read );
+  qw( getEnv getAltName getAvailableEbuilds getAvailableVersions generate_digest emerge_ebuild import_fields listOverlays ebuild_read cpan_version_convert );
 
 our $VERSION = '0.01';
 
@@ -400,6 +400,34 @@ sub listOverlays {
 			(split /\s+/, __PACKAGE__->getEnv('PORTDIR_OVERLAY')),
 			"/usr/portage",
 		);
+}
+
+sub cpan_version_convert {
+	my ($self, $version) = @_;
+	
+	if(not defined $version){
+		return 0;
+
+	}elsif($version =~ /^v(.*)$/){ # dotted
+		return $1;
+		
+	}elsif($version =~ /^(\d+)\.(\d+)$/){ # float
+		return sprintf(
+			"%d.%s",
+			$1,
+			(
+				join ".",
+				grep { length($_) == 3 }
+				split /(...)/, "${2}00"
+			),
+		);
+	
+	}else{
+		warn "Unsupported version $version";
+		...;
+	}
+	
+	return undef;
 }
 
 1;

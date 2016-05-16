@@ -18,30 +18,12 @@ sub from_cpan {
 	
 	my $version = $cpan_object->version
 		or return undef;
-
+	
+	$opts->{version}  = $opts->{parent}->cpan_version_convert($version);
 	$opts->{category} = "dev-perl";
 	$opts->{name}     = $cpan_object->package_name
 		or return undef;
 	
-	if($version =~ /^v(.*)$/){ # dotted
-		$opts->{version} = $1;
-		
-	}elsif($version =~ /^(\d+)\.(\d+)$/){ # float
-		$opts->{version} = sprintf(
-			"%d.%s",
-			$1,
-			(
-				join ".",
-				grep { length($_) == 3 }
-				split /(...)/, "${2}00"
-			),
-		);
-	
-	}else{
-		warn "Unsupported version $version";
-		...;
-	}
-
 	my $package_rules = $opts->{parent}->_package_rules;	
 	if(my $rule = $package_rules->{$opts->{name}}){
 		$opts = {
