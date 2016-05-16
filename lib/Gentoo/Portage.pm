@@ -407,6 +407,9 @@ sub cpan_version_convert {
 	
 	if(not defined $version){
 		return 0;
+	
+	}elsif($version =~ /^\d+$/){ # number
+		return $version;
 
 	}elsif($version =~ /^v(.*)$/){ # dotted
 		return $1;
