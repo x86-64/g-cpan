@@ -406,10 +406,10 @@ sub cpan_version_convert {
 	my ($self, $version) = @_;
 	
 	if(not defined $version){
-		return 0;
+		return "0.000";
 	
-	}elsif($version =~ /^\d+$/){ # number
-		return $version;
+	}elsif($version =~ /^(\d+)$/){ # number
+		return "${1}.000";
 
 	}elsif($version =~ /^v(.*)$/){ # dotted
 		return $1;
