@@ -4635,6 +4635,8 @@ App-MultiModule:
   DIEDERICH: 1
 App-MultiModule-Tasks-Collector:
   DIEDERICH: 1
+App-MultiModule-Tasks-DocGateway:
+  DIEDERICH: 1
 App-MultiModule-Tasks-FollowTail:
   DIEDERICH: 1
 App-MultiModule-Tasks-HTTPClient:
@@ -5233,6 +5235,8 @@ App-UuidUtils:
   PERLANCAR: 1
 App-VOJournal:
   MAMAWE: 1
+App-VTide:
+  IVANWILLS: 1
 App-VW:
   BEPPU: 1
 App-Validation-Automation:
@@ -5382,6 +5386,8 @@ App-dategrep:
 App-dateseq:
   PERLANCAR: 1
 App-depak:
+  PERLANCAR: 1
+App-depakable:
   PERLANCAR: 1
 App-derived:
   KAZEBURO: 1
@@ -6105,6 +6111,8 @@ AsposeEmailCloud-EmailApi:
   ASPOSE: 1
 AsposePdfCloud-PdfApi:
   ASPOSE: 1
+AsposeSlidesCloud-SlidesApi:
+  ASPOSE: 1
 AsposeStorageCloud-StorageApi:
   ASPOSE: 1
 AsposeWordsCloud-WordsApi:
@@ -6287,6 +6295,8 @@ Attean:
   GWILLIAMS: 1
 AtteanX-Endpoint:
   GWILLIAMS: 1
+AtteanX-Query-Cache:
+  KJETILK: 1
 AtteanX-RDFQueryTranslator:
   GWILLIAMS: 1
 AtteanX-Store-LDF:
@@ -7281,6 +7291,8 @@ Bencher-Scenarios-RegexpGrammars:
 Bencher-Scenarios-RoleTinyCommonsTree:
   PERLANCAR: 1
 Bencher-Scenarios-TextANSIUtil:
+  PERLANCAR: 1
+Bencher-Scenarios-TimeDurationParse:
   PERLANCAR: 1
 Bencher-Scenarios-TreeObject:
   PERLANCAR: 1
@@ -8336,6 +8348,8 @@ Bundle-Padre-Plugin:
   ATCROFT: 1
 Bundle-Perl6:
   MARCEL: 1
+Bundle-Personal-lze:
+  LZE: 1
 Bundle-Pgreet:
   ELAGACHE: 1
 Bundle-Pugs-SmokeKit:
@@ -13659,6 +13673,8 @@ Code-TidyAll-Plugin-UniqueLines:
   OALDERS: 1
 Code-TidyAll-Plugin-YAML:
   OALDERS: 1
+Code-Tooling:
+  STEVAN: 1
 CodeBase:
   ANDREWF: 1
 CodeManager:
@@ -17377,6 +17393,8 @@ Data-Dump-AutoEncode:
   ISHIGAKI: 1
 Data-Dump-Color:
   PERLANCAR: 1
+Data-Dump-JavaScript:
+  ABRAXXA: 1
 Data-Dump-OneLine:
   PERLANCAR: 1
 Data-Dump-PHP:
@@ -18086,6 +18104,8 @@ Data-SUID:
   CPANIC: 1
 Data-Sah:
   PERLANCAR: 1
+Data-Sah-Coerce:
+  PERLANCAR: 1
 Data-Sah-From-JSONSchema:
   PERLANCAR: 1
 Data-Sah-Normalize:
@@ -18093,6 +18113,8 @@ Data-Sah-Normalize:
 Data-Sah-Object:
   PERLANCAR: 1
 Data-Sah-Terse:
+  PERLANCAR: 1
+Data-Sah-Util-JS:
   PERLANCAR: 1
 Data-Sah-Util-Type:
   PERLANCAR: 1
@@ -20432,6 +20454,10 @@ Dist-Zilla-Deb:
   MMCLERIC: 1
 Dist-Zilla-LocaleTextDomain:
   DWHEELER: 1
+Dist-Zilla-MintingProfile-AppKit:
+  ALTREUS: 1
+Dist-Zilla-MintingProfile-AppKitX:
+  ALTREUS: 1
 Dist-Zilla-MintingProfile-Author-ARODLAND:
   ARODLAND: 1
 Dist-Zilla-MintingProfile-Author-Caelum:
@@ -20630,6 +20656,8 @@ Dist-Zilla-Plugin-DynamicPrereqs:
   ETHER: 1
 Dist-Zilla-Plugin-EmailNotify:
   XSAWYERX: 1
+Dist-Zilla-Plugin-EnsureDepakable:
+  PERLANCAR: 1
 Dist-Zilla-Plugin-EnsurePrereqsInstalled:
   ETHER: 1
 Dist-Zilla-Plugin-EnsureSQLSchemaVersionedTest:
@@ -20646,6 +20674,10 @@ Dist-Zilla-Plugin-FileKeywords:
   SWESTRUP: 1
 Dist-Zilla-Plugin-FindDirByRegex:
   MARCEL: 1
+Dist-Zilla-Plugin-For-App-shcompgen:
+  PERLANCAR: 1
+Dist-Zilla-Plugin-For-Data-Sah:
+  PERLANCAR: 1
 Dist-Zilla-Plugin-FullFaker:
   STRO: 1
 Dist-Zilla-Plugin-GatherFromManifest:
@@ -22806,6 +22838,8 @@ FTN-Message-serialno:
   VAL: 1
 FTN-Nodelist:
   STRO: 1
+FTN-Outbound-BSO:
+  VAL: 1
 FTN-Outbound-Reference_file:
   VAL: 1
 FTN-Packet:
@@ -24560,6 +24594,8 @@ FusqlFS:
   KSTEPME: 1
 Future:
   PEVANS: 1
+Future-HTTP:
+  CORION: 1
 Future-Mojo:
   DBOOK: 1
 Future-Q:
@@ -24916,6 +24952,8 @@ Games-FEAR-Log:
   EVANK: 1
 Games-FrogJump:
   TADEG: 1
+Games-FrogLump:
+  ZENBAE: 1
 Games-FrozenBubble:
   KTHAKORE: 1
 Games-Go-AGA-BayRate:
@@ -25297,6 +25335,8 @@ Genome:
   SAKOHT: 1
 Genome-Model-Tools-Music:
   NNUTTER: 1
+Gentoo-App-Pram:
+  MONSIEURP: 1
 Gentoo-ChangeLog-Parser-Eventual:
   KENTNL: 1
 Gentoo-Dependency-AST:
@@ -28463,6 +28503,8 @@ HiD-Generator-Sass:
   DUCKS: 1
 HiPi:
   MDOOTSON: 1
+Hibiscus-XMLRPC:
+  CORION: 1
 Hijk:
   AVAR: 1
 Hiredis-Raw:
@@ -29059,6 +29101,8 @@ IPC-GimpFu:
   KIBI: 1
 IPC-LDT:
   JSTENZEL: 1
+IPC-LeaderBoard:
+  BINARY: 1
 IPC-Lite:
   EARONESTY: 1
 IPC-Lock:
@@ -32290,6 +32334,8 @@ Linux-Proc-Net-TCP:
   SALVA: 1
 Linux-ProcessInfo:
   MART: 1
+Linux-RTC-Ioctl:
+  TOUGHY: 1
 Linux-Setns:
   HACKMAN: 1
 Linux-Smaps:
@@ -33121,6 +33167,8 @@ Log-Common:
 Log-Contextual:
   FREW: 1
 Log-Contextual-LogDispatchouli:
+  KENTNL: 1
+Log-Contextual-WarnLogger-Fancy:
   KENTNL: 1
 Log-Declare:
   CHGOVUK: 1
@@ -34757,6 +34805,8 @@ Math-BigRat:
   PJACKLAM: 1
 Math-BigSimple:
   SPECTRUM: 1
+Math-BigSym:
+  TRIZEN: 1
 Math-Brent:
   JGAMBLE: 1
 Math-Business-BlackScholes:
@@ -34901,8 +34951,6 @@ Math-Function-Interpolator:
   BINARY: 1
 Math-Function-Roots:
   SJO: 1
-Math-GAP:
-  GALAND: 1
 Math-GMP:
   SHLOMIF: 1
 Math-GMPf:
@@ -35868,8 +35916,6 @@ Mobile-Messaging-ParlayX:
   TCHATZI: 1
 Mobile-UserAgent:
   CMANLEY: 1
-Mobile-WURFL:
-  VALDEZ: 1
 Mobile-Wurfl:
   AWRIGLEY: 1
 MobileDetect:
@@ -36071,6 +36117,8 @@ Module-CryptSource:
 Module-Data:
   KENTNL: 1
 Module-DataPack:
+  PERLANCAR: 1
+Module-Depakable:
   PERLANCAR: 1
 Module-Dependency:
   TIMB: 1
@@ -36871,8 +36919,6 @@ Mojolicious-Plugin-ConfigAny:
   ZITSEN: 1
 Mojolicious-Plugin-ConfigHashMerge:
   DOTAN: 1
-Mojolicious-Plugin-ConfigRoutes:
-  MCHE: 1
 Mojolicious-Plugin-ConfigSimple:
   HESCO: 1
 Mojolicious-Plugin-ConsoleLogger:
@@ -36977,6 +37023,8 @@ Mojolicious-Plugin-HamlRenderer:
   RWSTAUNER: 1
 Mojolicious-Plugin-HandlebarsJSRenderer:
   RMZG: 1
+Mojolicious-Plugin-Helper-Vars:
+  MCHE: 1
 Mojolicious-Plugin-HostMeta:
   AKRON: 1
 Mojolicious-Plugin-HttpBasicAuth:
@@ -38606,8 +38654,6 @@ Nagios-NRPE:
   AMARSCHKE: 1
 Nagios-NSCA:
   MOCONNOR: 1
-Nagios-Nrpe:
-  AVERNA: 1
 Nagios-Object:
   DUNCS: 1
 Nagios-Passive:
@@ -41309,6 +41355,8 @@ NoSQL-PL2SQL-Simple:
   TQISJIM: 1
 NoZone:
   DANBERR: 1
+Nodejs-Util:
+  PERLANCAR: 1
 Noid:
   JAK: 1
 Nokia-File-NFB:
@@ -42012,11 +42060,14 @@ Opt-Imistic:
   ALTREUS: 1
 OptArgs:
   MLAWREN: 1
+OptArgs2:
+  MLAWREN: 1
 Options:
   PCHRISTE: 1
 Options-Generator:
   INFRARED: 1
 OpusVL-AppKit:
+  ALTREUS: 1
   NEWELLC: 1
 OpusVL-Preferences:
   NEWELLC: 1
@@ -43924,6 +43975,12 @@ Params-Validate-Micro:
   HDP: 1
 Paranoid:
   Paranoid: 1
+Paranoid-BerkeleyDB:
+  Paranoid-BerkeleyDB: 1
+Paranoid-Log-Email:
+  Paranoid-Log-Email: 1
+Paranoid-Log-Syslog:
+  Paranoid-Log-Syslog: 1
 Parcel-Track:
   KEEDI: 1
 Parcel-Track-KR-CJKorea:
@@ -46801,6 +46858,8 @@ PrankCall:
   LOGIE: 1
 PrayMind:
   TASMIN: 1
+Preproc-Tiny:
+  PSCUST: 1
 PriQueue.pm:
   strpris: 1
 Prima:
@@ -47161,12 +47220,16 @@ QBit-Application:
   MADSKILL: 1
 QBit-Class:
   MADSKILL: 1
+QBit-TimeLog:
+  MADSKILL: 1
 QBit-TimeLog-XS:
-  SVISTUNOV: 1
+  MADSKILL: 1
 QDBM_File:
   YAMATO: 1
 QML-File:
   ZBLAIR: 1
+QMail-QueueHandler:
+  DAVECROSS: 1
 QMake-Project:
   ROHANPM: 1
 QWizard:
@@ -47676,7 +47739,7 @@ RT-Condition-UntouchedInBusinessHours:
 RT-Extension-ACNS:
   ALEXMV: 1
 RT-Extension-ActivityReports:
-  ALEXMV: 1
+  BPS: 1
 RT-Extension-AddAdminCcsOnQueueChange:
   ALEXMV: 1
 RT-Extension-AddAttachmentsFromTransactions:
@@ -48167,6 +48230,8 @@ Redland:
   DJBECKETT: 1
 Redmine-API:
   CELOGEEK: 1
+Redmine-Fetch:
+  MOVEAX: 1
 Redmine-Stat:
   FBORSHEV: 1
 Ref-Explicit:
@@ -49015,7 +49080,7 @@ SNMP-BridgeQuery:
 SNMP-Class:
   ADUITSIS: 1
 SNMP-Effective:
-  JHTHORSEN: 1
+  OLIVER: 1
 SNMP-Extension-PassPersist:
   SAPER: 1
 SNMP-Info:
@@ -49735,6 +49800,8 @@ ScheduleSGE:
   SGE: 1
 Schema-RDBMS-AUS:
   CRAKRJACK: 1
+Schema-RackTables:
+  SAPER: 1
 SchemaEvolution:
   CYCLES: 1
 SchemaView-Plus:
@@ -50999,6 +51066,8 @@ Starman:
   MIYAGAWA: 1
 Starman-ModCluster:
   WINFINIT: 1
+StartCom-API:
+  PHILIPPE: 1
 Startup:
   MSCHWARTZ: 1
 Stash-Manip:
@@ -51637,6 +51706,8 @@ Stringify-Deep:
   AQUILINA: 1
 Struct-Compare:
   ZENSPIDER: 1
+Struct-Diff:
+  MIXAS: 1
 Struct-Dumb:
   PEVANS: 1
 Struct-Flatten-Template:
@@ -53021,6 +53092,10 @@ Template-JavaScript:
 Template-Like:
   ASKADNA: 1
 Template-Liquid:
+  SANKO: 1
+Template-LiquidX-Tag-Dump:
+  SANKO: 1
+Template-LiquidX-Tag-Include:
   SANKO: 1
 Template-Magic:
   DOMIZIO: 1
@@ -54618,6 +54693,8 @@ Test-Name-FromLine:
   SATOH: 1
 Test-NameNote:
   NCLEATON: 1
+Test-Needs:
+  HAARG: 1
 Test-NeedsDisplay:
   ADAMK: 1
 Test-Net-Connect:
@@ -59375,6 +59452,8 @@ WWW-Compete:
   CMILLS: 1
 WWW-ConfixxBackup:
   RENEEB: 1
+WWW-Connpass:
+  KARUPA: 1
 WWW-Contact:
   FAYLAND: 1
 WWW-Correios-CEP:
@@ -60090,8 +60169,6 @@ WWW-Scraper-ISBN:
   BARBIE: 1
 WWW-Scraper-ISBN-AmazonDE_Driver:
   RENEEB: 1
-WWW-Scraper-ISBN-AmazonFR_Driver:
-  GALAND: 1
 WWW-Scraper-ISBN-Amazon_Driver:
   BARBIE: 1
 WWW-Scraper-ISBN-BarnesNoble_Driver:
@@ -61430,6 +61507,8 @@ WebService-SimpleAPI-Wikipedia:
   YAPPO: 1
 WebService-Simplenote:
   IOANR: 1
+WebService-Site24x7:
+  KABLAMO: 1
 WebService-Slack-IncomingWebHook:
   MASASUZU: 1
 WebService-Slack-WebApi:
@@ -62639,6 +62718,8 @@ XML-Compile-SOAP-AnyEvent:
   MARKOV: 1
 XML-Compile-SOAP-Daemon:
   MARKOV: 1
+XML-Compile-SOAP-Daemon-Dancer2:
+  PVIGIER: 1
 XML-Compile-SOAP-Mojolicious:
   MARKOV: 1
 XML-Compile-SOAP-WSA:
@@ -64431,8 +64512,6 @@ libnet:
   SHAY: 1
 libparse:
   JWIEGLEY: 1
-libqbit-timelog-perl:
-  SVISTUNOV: 1
 libservlet:
   IX: 1
 libsirc:
