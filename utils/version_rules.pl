@@ -58,7 +58,7 @@ sub _check_perl_versions {
 
 	my $v1 = shift @check;
 	while(my $v2 = shift @check){
-		unless($v1 <= $v2){
+		unless($v1 < $v2){
 			return 0;
 			last;
 		}
