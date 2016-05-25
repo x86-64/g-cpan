@@ -4423,6 +4423,8 @@ App-HTTP_Proxy_IMP:
   SULLR: 1
 App-HasPrereqs:
   PERLANCAR: 1
+App-Hasher:
+  BESSARABV: 1
 App-Hashl:
   DERF: 1
 App-Highlander:
@@ -5409,6 +5411,8 @@ App-dux:
   PERLANCAR: 1
 App-eachgit:
   VANSTYN: 1
+App-elsquid:
+  SALVOR: 1
 App-envfile:
   XAICRON: 1
 App-epoch:
@@ -6105,6 +6109,8 @@ Aspect-Library-Trace:
   ADAMK: 1
 Aspect-Loader:
   HAOSAN: 1
+AsposeBarCodeCloud-BarcodeApi:
+  ASPOSE: 1
 AsposeCellsCloud-CellsApi:
   ASPOSE: 1
 AsposeEmailCloud-EmailApi:
@@ -7196,6 +7202,8 @@ Bencher-Scenario-IODParsingModules:
   PERLANCAR: 1
 Bencher-Scenario-IPCSystemOptions:
   PERLANCAR: 1
+Bencher-Scenario-IntValidation:
+  PERLANCAR: 1
 Bencher-Scenario-Interpreters:
   PERLANCAR: 1
 Bencher-Scenario-LevenshteinModules:
@@ -7254,6 +7262,8 @@ Bencher-Scenarios-DataDmp:
   PERLANCAR: 1
 Bencher-Scenarios-DataSah:
   PERLANCAR: 1
+Bencher-Scenarios-DataSahVSTypeTiny:
+  PERLANCAR: 1
 Bencher-Scenarios-DateModules:
   PERLANCAR: 1
 Bencher-Scenarios-DateTimeFormatAlami:
@@ -7279,6 +7289,8 @@ Bencher-Scenarios-PERLANCARModuleList:
 Bencher-Scenarios-Perinci:
   PERLANCAR: 1
 Bencher-Scenarios-PerinciCmdLine:
+  PERLANCAR: 1
+Bencher-Scenarios-PerinciSubValidateArgs:
   PERLANCAR: 1
 Bencher-Scenarios-Perl:
   PERLANCAR: 1
@@ -10202,6 +10214,8 @@ CPAN-Test-Dummy-Perl5-Build-Fails:
   ANDK: 1
 CPAN-Test-Dummy-Perl5-BuildOrMake:
   ANDK: 1
+CPAN-Test-Dummy-Perl5-Deps-UndefModule:
+  MIYAGAWA: 1
 CPAN-Test-Dummy-Perl5-Deps-VersionRange:
   MIYAGAWA: 1
 CPAN-Test-Dummy-Perl5-DifferentProvides:
@@ -12089,6 +12103,8 @@ CatalystX-Imports:
   FLORA: 1
 CatalystX-InjectComponent:
   ROKR: 1
+CatalystX-InjectModule:
+  DAB: 1
 CatalystX-LeakChecker:
   FLORA: 1
 CatalystX-ListFramework:
@@ -13717,6 +13733,8 @@ Colloquy-Data:
   NICOLAW: 1
 Color-ANSI-Util:
   PERLANCAR: 1
+Color-Brewer:
+  PABLROD: 1
 Color-Calc:
   CFAERBER: 1
 Color-Fade:
@@ -18106,6 +18124,12 @@ Data-Sah:
   PERLANCAR: 1
 Data-Sah-Coerce:
   PERLANCAR: 1
+Data-Sah-Coerce-perl-date-str_alami:
+  PERLANCAR: 1
+Data-Sah-Coerce-perl-date-str_natural:
+  PERLANCAR: 1
+Data-Sah-CoerceRule-array-str_comma_sep:
+  PERLANCAR: 1
 Data-Sah-From-JSONSchema:
   PERLANCAR: 1
 Data-Sah-Normalize:
@@ -18113,8 +18137,6 @@ Data-Sah-Normalize:
 Data-Sah-Object:
   PERLANCAR: 1
 Data-Sah-Terse:
-  PERLANCAR: 1
-Data-Sah-Util-JS:
   PERLANCAR: 1
 Data-Sah-Util-Type:
   PERLANCAR: 1
@@ -19250,6 +19272,8 @@ Devel-Caller-Util:
   PERLANCAR: 1
 Devel-Callsite:
   ROCKY: 1
+Devel-Camelcadedb:
+  HURRICUP: 1
 Devel-Carnivore:
   MALTEU: 1
 Devel-Carp:
@@ -20691,7 +20715,7 @@ Dist-Zilla-Plugin-GenShellCompletion:
 Dist-Zilla-Plugin-GenerateFile-FromShareDir:
   ETHER: 1
 Dist-Zilla-Plugin-Git:
-  CJM: 1
+  ETHER: 1
 Dist-Zilla-Plugin-Git-Contributors:
   ETHER: 1
 Dist-Zilla-Plugin-Git-Describe:
@@ -22600,6 +22624,8 @@ Exporter-WithBase:
   DOLMEN: 1
 ExtJS-AutoForm-Moose:
   MET: 1
+ExtJS-Generator-DBIC:
+  ABRAXXA: 1
 ExtUtils-AutoInstall:
   AUTRIJUS: 1
 ExtUtils-Autoconf:
@@ -23071,6 +23097,8 @@ File-Convert-CSV:
   MUENALAN: 1
 File-Copy-Link:
   RMBARKER: 1
+File-Copy-NoClobber:
+  TORBJORN: 1
 File-Copy-Recursive:
   DMUEY: 1
 File-Copy-Reliable:
@@ -23757,6 +23785,8 @@ File-Which:
   PLICEASE: 1
 File-Which-Cached:
   LEOCHARRE: 1
+File-Which-Patch-Hide:
+  PERLANCAR: 1
 File-Wildcard:
   IVORW: 1
 File-Write-Rotate:
@@ -25335,6 +25365,10 @@ Genome:
   SAKOHT: 1
 Genome-Model-Tools-Music:
   NNUTTER: 1
+Gentoo-App-Demerge:
+  KENTNL: 1
+Gentoo-App-PerlInfo:
+  KENTNL: 1
 Gentoo-App-Pram:
   MONSIEURP: 1
 Gentoo-ChangeLog-Parser-Eventual:
@@ -25439,7 +25473,7 @@ Geo-Coder-Navteq:
 Geo-Coder-OSM:
   GRAY: 1
 Geo-Coder-OpenCage:
-  KAORU: 1
+  EDF: 1
 Geo-Coder-Ovi:
   GRAY: 1
 Geo-Coder-RandMcnally:
@@ -26770,6 +26804,8 @@ Gtk3-Notify:
   TVIGNAUD: 1
 Gtk3-SimpleList:
   TVIGNAUD: 1
+Gtk3-SourceView:
+  PERLMAX: 1
 Gtk3-WebKit:
   POTYL: 1
 Guard:
@@ -29462,6 +29498,8 @@ Image-Magick-PixelMosaic:
   TURUGINA: 1
 Image-Magick-PolyText:
   RSAVAGE: 1
+Image-Magick-Safer:
+  LEEJO: 1
 Image-Magick-Square:
   LEOCHARRE: 1
 Image-Magick-Stencilize:
@@ -30106,6 +30144,7 @@ JSON-Typist:
 JSON-Util:
   JKUTEJ: 1
 JSON-Validator:
+  ASHIMEMA: 1
   JHTHORSEN: 1
 JSON-WebEncryption:
   CHGOVUK: 1
@@ -30388,6 +30427,8 @@ Juju:
   ADAMJS: 1
 Junction-Quotelike:
   BLADE: 1
+Junkai-HUANG-Utils:
+  JUNKAI: 1
 Juno:
   XSAWYERX: 1
 Just-Another-Perl-Hacker:
@@ -36348,7 +36389,6 @@ Module-MetaInfo:
   MIKEDLR: 1
 Module-Metadata:
   ETHER: 1
-  MSTROUT: 1
 Module-Metadata-Changes:
   RSAVAGE: 1
 Module-Metadata-CoreList:
@@ -37211,6 +37251,8 @@ Mojolicious-Plugin-RelativeUrlFor:
   MEMOWE: 1
 Mojolicious-Plugin-RemoteAddr:
   KOORCHIK: 1
+Mojolicious-Plugin-RenderCGI:
+  MCHE: 1
 Mojolicious-Plugin-RenderFile:
   KOORCHIK: 1
 Mojolicious-Plugin-RenderSteps:
@@ -37303,6 +37345,8 @@ Mojolicious-Plugin-TagHelpers-Pagination:
   AKRON: 1
 Mojolicious-Plugin-TagHelpersI18N:
   RENEEB: 1
+Mojolicious-Plugin-TemplatePerlish:
+  POLETTIX: 1
 Mojolicious-Plugin-TemplateToolkit:
   DBOOK: 1
 Mojolicious-Plugin-Thumbnail:
@@ -37517,6 +37561,8 @@ MooX-Options:
   CELOGEEK: 1
 MooX-POE:
   GETTY: 1
+MooX-PluginKit:
+  BLUEFEET: 1
 MooX-PluginRoles:
   ZHTWN: 1
 MooX-ProtectedAttributes:
@@ -38591,6 +38637,8 @@ NEXT:
   FLORA: 1
 NG:
   NG: 1
+NGS-Tools-BAMSurgeon:
+  BOUTROSLB: 1
 NIS:
   RIK: 1
 NIS-DBM:
@@ -38706,6 +38754,8 @@ NanoMsg-Raw:
   BORISZ: 1
 Narada:
   POWERMAN: 1
+NativeCall:
+  ETJ: 1
 NcFTPd-Log-Parse:
   SHAW: 1
 Neovim-RPC:
@@ -41628,6 +41678,8 @@ ORLite-Statistics:
   ADAMK: 1
 ORM:
   AKIMOV: 1
+OS-CheckUpdates-AUR:
+  THREEED: 1
 OS-Package:
   JFWILKUS: 1
 OS2-Focus:
@@ -43927,6 +43979,8 @@ Params-Check:
   BINGOS: 1
 Params-Check-Faster:
   DAMS: 1
+Params-CheckCompiler:
+  DROLSKY: 1
 Params-Classify:
   ZEFRAM: 1
 Params-Clean:
@@ -44643,8 +44697,6 @@ Perinci-Sub-ArgEntity-timezone:
   PERLANCAR: 1
 Perinci-Sub-ArgEntity-unix_user:
   PERLANCAR: 1
-Perinci-Sub-CoerceArgs:
-  PERLANCAR: 1
 Perinci-Sub-Complete:
   PERLANCAR: 1
 Perinci-Sub-Convert:
@@ -44716,6 +44768,8 @@ Perinci-Sub-To-FishComplete:
 Perinci-Sub-Util:
   PERLANCAR: 1
 Perinci-Sub-Util-PropertyModule:
+  PERLANCAR: 1
+Perinci-Sub-ValidateArgs:
   PERLANCAR: 1
 Perinci-Sub-Wrapper:
   PERLANCAR: 1
@@ -46544,6 +46598,8 @@ Pod-Weaver-Plugin-Exec:
   FREW: 1
 Pod-Weaver-Plugin-PERLANCAR-SortSections:
   PERLANCAR: 1
+Pod-Weaver-Plugin-PatchModule:
+  PERLANCAR: 1
 Pod-Weaver-Plugin-Rinci:
   PERLANCAR: 1
 Pod-Weaver-Plugin-Sah-Schemas:
@@ -47165,6 +47221,8 @@ Protocol-Yadis:
   VTI: 1
 Provision-Unix:
   MSIMERSON: 1
+Prty:
+  FSEITZ: 1
 Pry:
   TOBYINK: 1
 PsionToGnomecard:
@@ -49898,6 +49956,8 @@ Search-Elasticsearch-Cxn-NetCurl:
   DRTECH: 1
 Search-Elasticsearch-Plugin-Watcher:
   DRTECH: 1
+Search-Elasticsearch-Plugin-XPack:
+  DRTECH: 1
 Search-Equidistance:
   HSLEE: 1
 Search-Estraier:
@@ -51712,6 +51772,8 @@ Struct-Dumb:
   PEVANS: 1
 Struct-Flatten-Template:
   RRWO: 1
+Struct-Path:
+  MIXAS: 1
 Stump:
   INGY: 1
 StupidMarkov:
@@ -52846,6 +52908,8 @@ Task-Kensho-XML:
   ETHER: 1
 Task-KiokuDB:
   DOY: 1
+Task-LMDB:
+  FRACTAL: 1
 Task-Labyrinth-Plugin-Music:
   BARBIE: 1
 Task-Latemp:
@@ -55186,7 +55250,7 @@ Test-WWW-Mechanize-MultiMech:
 Test-WWW-Mechanize-Object:
   HDP: 1
 Test-WWW-Mechanize-PSGI:
-  LBROCARD: 1
+  OALDERS: 1
 Test-WWW-Selenium:
   LUKEC: 1
   MATTP: 1
@@ -55285,6 +55349,10 @@ Test-utf8:
   MARKF: 1
 Test2-AsyncSubtest:
   EXODIST: 1
+Test2-Harness:
+  EXODIST: 1
+Test2-Plugin-NoWarnings:
+  DROLSKY: 1
 Test2-Plugin-SpecDeclare:
   EXODIST: 1
 Test2-Suite:
@@ -59097,6 +59165,8 @@ Vero-API:
   CARLOS: 1
 Version-Compare:
   TEX: 1
+Version-Monotonic:
+  PERLANCAR: 1
 Version-Next:
   DAGOLDEN: 1
 Version-Requirements:
@@ -59268,7 +59338,7 @@ WWW-A9Toolbar:
 WWW-ASN:
   MSTRAT: 1
 WWW-AUR:
-  JUSTER: 1
+  JNBEK: 1
 WWW-ActiveState-PPM:
   ADAMK: 1
 WWW-AdManager:
@@ -61074,6 +61144,8 @@ WebService-Cryptsy:
   ZOFFIX: 1
 WebService-DMM:
   SYOHEX: 1
+WebService-DNSMadeEasy:
+  KABLAMO: 1
 WebService-DNSwatch:
   TAINT: 1
 WebService-DPD-API:
@@ -64113,7 +64185,7 @@ coroutine0:
 cpan-listchanges:
   MIYAGAWA: 1
 cpan-outdated:
-  TOKUHIROM: 1
+  DOLMEN: 1
 cppref:
   KAZUHO: 1
 crap:
@@ -64319,8 +64391,6 @@ generics:
   STEVAN: 1
 genomics:
   test: 1
-geo-ecef:
-  MSICKEL: 1
 gestalt:
   KITE: 1
 getaddress:
