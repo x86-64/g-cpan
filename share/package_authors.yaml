@@ -708,6 +708,8 @@ Acme-EvaTitlenize:
   SAISA: 1
 Acme-Everything:
   ADAMK: 1
+Acme-Evil:
+  MGV: 1
 Acme-EvilLicense:
   KIRILLM: 1
 Acme-ExceptionEater:
@@ -6121,6 +6123,8 @@ AsposeSlidesCloud-SlidesApi:
   ASPOSE: 1
 AsposeStorageCloud-StorageApi:
   ASPOSE: 1
+AsposeTasksCloud-TasksApi:
+  ASPOSE: 1
 AsposeWordsCloud-WordsApi:
   ASPOSE: 1
 Assert-Conditional:
@@ -7262,6 +7266,8 @@ Bencher-Scenarios-DataDmp:
   PERLANCAR: 1
 Bencher-Scenarios-DataSah:
   PERLANCAR: 1
+Bencher-Scenarios-DataSahParams:
+  PERLANCAR: 1
 Bencher-Scenarios-DataSahVSTypeTiny:
   PERLANCAR: 1
 Bencher-Scenarios-DateModules:
@@ -7476,6 +7482,8 @@ Bio-AutomatedAnnotation:
   AJPAGE: 1
 Bio-BLAST:
   RBUELS: 1
+Bio-BPWrapper:
+  ROCKY: 1
 Bio-Biblio:
   CDRAUG: 1
 Bio-BigFile:
@@ -7713,6 +7721,8 @@ BioX-CLPM:
   CRABTREE: 1
 BioX-FedDB:
   ROGERHALL: 1
+BioX-Map:
+  PEKINGSAM: 1
 BioX-SeqUtils-Promoter:
   CSTEPHENE: 1
 BioX-SeqUtils-RandomSequence:
@@ -8140,6 +8150,8 @@ Bundle-COG:
   COG: 1
 Bundle-CPAN:
   ANDK: 1
+Bundle-CPAN-Reporter-Smoker-Tests:
+  ARFREITAS: 1
 Bundle-CPANPLUS:
   KANE: 1
 Bundle-CPANPLUS-Dependencies:
@@ -10629,7 +10641,7 @@ Cache-Mmap:
 Cache-Moustache:
   TOBYINK: 1
 Cache-Profile:
-  NUFFIN: 1
+  ETHER: 1
 Cache-RamDisk:
   MAHT: 1
 Cache-Range:
@@ -10787,7 +10799,7 @@ Carp-Assert-More:
 Carp-Capture:
   THAIRMAN: 1
 Carp-Clan:
-  STBEY: 1
+  KENTNL: 1
 Carp-Clan-Share:
   RKRIMEN: 1
 Carp-Datum:
@@ -12017,6 +12029,8 @@ Catalyst-View-TextForge:
   MAURICE: 1
 Catalyst-View-Thumbnail:
   ALTREUS: 1
+Catalyst-View-Vega:
+  TSIBLEY: 1
 Catalyst-View-Wkhtmltopdf:
   ARTHAS: 1
 Catalyst-View-XML-Feed:
@@ -12303,7 +12317,7 @@ Catmandu-XLS:
 Catmandu-XML:
   VOJ: 1
 Catmandu-Z3950:
-  NICS: 1
+  HOCHSTEN: 1
 Catmandu-Zotero:
   HOCHSTEN: 1
 Cave-Wrapper:
@@ -12449,7 +12463,7 @@ Cheat-Meta:
 Cheater:
   AGENT: 1
 Check-ISA:
-  NUFFIN: 1
+  MANWAR: 1
 Check-UnitCheck:
   AJGOUGH: 1
 Checkout-CyberSource-SOAP:
@@ -15435,6 +15449,8 @@ DBG:
   GSG: 1
 DBGp-Client:
   MBARBON: 1
+DBGp-Client-AnyEvent:
+  MBARBON: 1
 DBI:
   TIMB: 1
 DBI-BabyConnect:
@@ -16522,6 +16538,8 @@ DPKG-Tools:
   SHARRISON: 1
 DR-Money:
   UNERA: 1
+DR-Msgpuck:
+  UNERA: 1
 DR-SunDown:
   UNERA: 1
 DR-Tarantool:
@@ -16680,7 +16698,7 @@ Dancer-Plugin-Captcha-AreYouAHuman:
 Dancer-Plugin-Captcha-SecurityImage:
   AAR: 1
 Dancer-Plugin-Catmandu-OAI:
-  NJFRANCK: 1
+  NICS: 1
 Dancer-Plugin-Catmandu-SRU:
   NICS: 1
 Dancer-Plugin-Cerberus:
@@ -17019,9 +17037,11 @@ Dancer2-Plugin-Auth-ActiveDirectory:
 Dancer2-Plugin-Auth-Extensible:
   HORNBURG: 1
 Dancer2-Plugin-Auth-Extensible-Provider-DBIC:
-  ABEVERLEY: 1
+  SYSPETE: 1
+Dancer2-Plugin-Auth-Extensible-Provider-Database:
+  HORNBURG: 1
 Dancer2-Plugin-Auth-Extensible-Provider-Usergroup:
-  HVOERS: 1
+  SYSPETE: 1
 Dancer2-Plugin-Auth-HTTP-Basic-DWIW:
   LITTLEFOX: 1
 Dancer2-Plugin-Auth-OAuth:
@@ -17066,6 +17086,8 @@ Dancer2-Plugin-HTTP-ConditionalRequest:
   VANHOESEL: 1
 Dancer2-Plugin-HTTP-ContentNegotiation:
   VANHOESEL: 1
+Dancer2-Plugin-Interchange6:
+  SYSPETE: 1
 Dancer2-Plugin-JWT:
   AMBS: 1
 Dancer2-Plugin-Locale:
@@ -17087,7 +17109,7 @@ Dancer2-Plugin-OAuth2-Server:
 Dancer2-Plugin-ParamKeywords:
   CAMSPI: 1
 Dancer2-Plugin-Passphrase:
-  HVOERS: 1
+  SYSPETE: 1
 Dancer2-Plugin-Path-Class:
   HVOERS: 1
 Dancer2-Plugin-Pg:
@@ -17122,6 +17144,8 @@ Dancer2-Plugin-Swagger2:
   DBOEHMER: 1
 Dancer2-Plugin-Syntax-GetPost:
   DAGOLDEN: 1
+Dancer2-Plugin-TemplateFlute:
+  SYSPETE: 1
 Dancer2-Plugin-UnicodeNormalize:
   JBARRETT: 1
 Dancer2-Plugin-reCAPTCHA:
@@ -17159,7 +17183,7 @@ Dancer2-Template-Mason2:
 Dancer2-Template-MojoTemplate:
   VEROLOM: 1
 Dancer2-Template-TemplateFlute:
-  MRMALOOF: 1
+  SYSPETE: 1
 Dancer2-Template-TextTemplate:
   THILP: 1
 Dancer2-Template-Xslate:
@@ -18136,7 +18160,11 @@ Data-Sah-Normalize:
   PERLANCAR: 1
 Data-Sah-Object:
   PERLANCAR: 1
+Data-Sah-Params:
+  PERLANCAR: 1
 Data-Sah-Terse:
+  PERLANCAR: 1
+Data-Sah-Util-Subschema:
   PERLANCAR: 1
 Data-Sah-Util-Type:
   PERLANCAR: 1
@@ -19252,6 +19280,8 @@ Devel-Backtrace:
   PEPE: 1
 Devel-BeginLift:
   FLORA: 1
+Devel-CCompat-C99-VariableLengthArrays:
+  EHERMAN: 1
 Devel-CCov:
   JPRIT: 1
 Devel-CallChecker:
@@ -19622,6 +19652,8 @@ Devel-QuickCover:
 Devel-REPL:
   ETHER: 1
   MSTROUT: 1
+Devel-REPL-InProcess:
+  MBARBON: 1
 Devel-REPL-Plugin-Clipboard:
   MCSNOLTE: 1
 Devel-REPL-Plugin-DDP:
@@ -20926,6 +20958,8 @@ Dist-Zilla-Plugin-PERLANCAR-UploadToCPAN:
   PERLANCAR: 1
 Dist-Zilla-Plugin-PPPort:
   LEONT: 1
+Dist-Zilla-Plugin-PatchModule:
+  PERLANCAR: 1
 Dist-Zilla-Plugin-PerlStripper:
   PERLANCAR: 1
 Dist-Zilla-Plugin-PerlTidy:
@@ -22898,6 +22932,8 @@ Facebook-OpenGraph:
   OKLAHOMER: 1
 FactorOracle:
   IWOODHEAD: 1
+Fake-Encode:
+  Encode: 1
 Fake-Our:
   Our: 1
 FakeHash:
@@ -25300,6 +25336,7 @@ GeNUScreen-Config:
   MAMAWE: 1
 Gearman:
   DORMANDO: 1
+  PALIK: 1
 Gearman-Client-Async:
   BRADFITZ: 1
 Gearman-Driver:
@@ -29744,6 +29781,8 @@ Inferno-RegMgr:
   POWERMAN: 1
 InfluxDB:
   HIROSE: 1
+InfluxDB-HTTP:
+  RAPHI: 1
 InfluxDB-LineProtocol:
   KOKI: 1
 InfluxDB-Writer:
@@ -29984,6 +30023,8 @@ JKML:
   TOKUHIROM: 1
 JLogger:
   UNDEF: 1
+JMAP-Tester:
+  RJBS: 1
 JOAP:
   EVAN: 1
 JPEG-Comment:
@@ -30144,7 +30185,6 @@ JSON-Typist:
 JSON-Util:
   JKUTEJ: 1
 JSON-Validator:
-  ASHIMEMA: 1
   JHTHORSEN: 1
 JSON-WebEncryption:
   CHGOVUK: 1
@@ -30427,8 +30467,6 @@ Juju:
   ADAMJS: 1
 Junction-Quotelike:
   BLADE: 1
-Junkai-HUANG-Utils:
-  JUNKAI: 1
 Juno:
   XSAWYERX: 1
 Just-Another-Perl-Hacker:
@@ -31168,6 +31206,8 @@ LaTeX-Writer-Simple:
 LaTeXML:
   BRMILLER: 1
 LaTeXML-Plugin-LtxMojo:
+  DGINEV: 1
+LaTeXML-Plugin-latexmls:
   DGINEV: 1
 Lab-Instrument:
   Lab: 1
@@ -31926,8 +31966,6 @@ Lingua-LO-Romanize:
   JOKKE: 1
 Lingua-Lexicon-IDP:
   ASCOPE: 1
-Lingua-Lid:
-  ALINKE: 1
 Lingua-LinkParser:
   DBRIAN: 1
 Lingua-LinkParser-FindPath:
@@ -35536,6 +35574,8 @@ MealMaster:
   LBROCARD: 1
 Measure-Everything:
   DOMM: 1
+Measure-Everything-Adapter-InfluxDB-Direct:
+  DOMM: 1
 Measure-Everything-Adapter-InfluxDB-UDP:
   JAVIER: 1
 Mecom:
@@ -36598,6 +36638,8 @@ Mojo-APNS:
   JHTHORSEN: 1
 Mojo-Autobox:
   JBERGER: 1
+Mojo-Base-Lib:
+  MCHE: 1
 Mojo-Base-XS:
   YKO: 1
 Mojo-CSV:
@@ -36655,6 +36697,8 @@ Mojo-PgX-Cursor:
   NNUTTER: 1
 Mojo-Phantom:
   JBERGER: 1
+Mojo-Pua:
+  ALEXBYK: 1
 Mojo-Reactor-Epoll:
   DBOOK: 1
 Mojo-Reactor-Glib:
@@ -39752,7 +39796,7 @@ Net-Hadoop-HuahinManager:
 Net-Hadoop-WebHDFS:
   TAGOMORIS: 1
 Net-Hadoop-WebHDFS-LWP:
-  DMOR: 1
+  BURAK: 1
 Net-Hadoop-YARN:
   DMOR: 1
 Net-Halo-Status:
@@ -42520,7 +42564,7 @@ PDL-SVDLIBC:
 PDL-SVDSLEPc:
   MOOCOW: 1
 PDL-Stats:
-  MAGGIEXYZ: 1
+  ETJ: 1
 PDL-Util:
   JBERGER: 1
 PDL-VectorValued:
@@ -44232,7 +44276,7 @@ Parse-Matroska:
 Parse-MediaWikiDump:
   TRIDDLE: 1
 Parse-Method-Signatures:
-  ILMARI: 1
+  KENTNL: 1
 Parse-Native:
   GSLONDON: 1
 Parse-Nessus-ENX:
@@ -44255,6 +44299,8 @@ Parse-Number-ID:
   PERLANCAR: 1
 Parse-PAUSE:
   ATOM: 1
+Parse-PEM-Lax:
+  BJOERN: 1
 Parse-PMFile:
   ISHIGAKI: 1
 Parse-Path:
@@ -46786,6 +46832,8 @@ Polycom-Contact-Directory:
   ZBLAIR: 1
 Polyglot:
   BDFOY: 1
+PomBase-Chobo:
+  KIM: 1
 Pony-Object:
   BUGOV: 1
 PoolController:
@@ -47916,6 +47964,8 @@ RT-Extension-MenubarUserTickets:
   RT-Extension-MenubarUserTickets: 1
 RT-Extension-MergeUsers:
   ALEXMV: 1
+RT-Extension-MessageSizeLimit:
+  ELACOUR: 1
 RT-Extension-MobileUI:
   FALCONE: 1
 RT-Extension-MoveRules:
@@ -50396,6 +50446,8 @@ Siebel-COM:
   ARFREITAS: 1
 Siebel-Integration-Com:
   BOYDLE: 1
+Siebel-Params-Checker:
+  ARFREITAS: 1
 Siebel-SOAP-Auth:
   ARFREITAS: 1
 Siebel-Srvrmgr:
@@ -54699,8 +54751,6 @@ Test-Mojibake:
   SYP: 1
 Test-Mojo-More:
   COOLMEN: 1
-Test-Mojo-Most:
-  LEEJO: 1
 Test-Mojo-Pg:
   RICHE: 1
 Test-Mojo-Plack:
@@ -58616,6 +58666,8 @@ Ufal-NameTag:
   STRAKA: 1
 Ufal-Parsito:
   STRAKA: 1
+Ufal-UDPipe:
+  STRAKA: 1
 Ukigumo-Agent:
   MOZNION: 1
 Ukigumo-Client:
@@ -61451,6 +61503,8 @@ WebService-Pingboard:
   RCL: 1
 WebService-Pinterest:
   FERREIRA: 1
+WebService-PivotalTracker:
+  MAXMIND: 1
 WebService-PlayaEvents:
   LEV: 1
 WebService-Plotly:
@@ -62424,6 +62478,8 @@ WordLists:
   PERRETTDL: 1
 WordNet-BestStem:
   MAGGIEXYZ: 1
+WordNet-Insert:
+  WordNetInsert: 1
 WordNet-QueryData:
   JRENNIE: 1
 WordNet-SenseKey:
