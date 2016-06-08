@@ -955,10 +955,14 @@ Acme-MetaSyntactic-cpanauthors:
   BOOK: 1
 Acme-MetaSyntactic-daleks:
   SAPER: 1
+Acme-MetaSyntactic-dangdut:
+  PERLANCAR: 1
 Acme-MetaSyntactic-dune:
   MCARTMELL: 1
 Acme-MetaSyntactic-errno:
   BOOK: 1
+Acme-MetaSyntactic-id_names:
+  PERLANCAR: 1
 Acme-MetaSyntactic-legobatman:
   BINGOS: 1
 Acme-MetaSyntactic-legocityundercover:
@@ -987,6 +991,8 @@ Acme-MetaSyntactic-morning_musume:
   ELBEHO: 1
 Acme-MetaSyntactic-nethack:
   ELLIOTJS: 1
+Acme-MetaSyntactic-seinfeld:
+  PERLANCAR: 1
 Acme-MetaSyntactic-soviet:
   JFORGET: 1
 Acme-MetaSyntactic-vim:
@@ -4619,6 +4625,8 @@ App-Module-Template:
   TSC: 1
 App-ModuleBuildTiny:
   LEONT: 1
+App-ModulePatchUtils:
+  PERLANCAR: 1
 App-MojoSlides:
   JBERGER: 1
 App-MonM:
@@ -4663,6 +4671,8 @@ App-Multigit:
   ALTREUS: 1
 App-Munner:
   MICVU: 1
+App-Music-ChordPro:
+  JV: 1
 App-Music-PlayTab:
   JV: 1
 App-MusicExpo:
@@ -4997,8 +5007,6 @@ App-SSH-Cluster:
   MCMILLHJ: 1
 App-SVN-Bisect:
   INFINOID: 1
-App-SahUtils:
-  PERLANCAR: 1
 App-Sass:
   WWOLF: 1
 App-Scaffolder:
@@ -5296,6 +5304,8 @@ App-Ylastic-CostAgent:
 App-Zapzi:
   RUPERTL: 1
 App-ZodiacUtils:
+  PERLANCAR: 1
+App-ZodiacUtils-Lite:
   PERLANCAR: 1
 App-ZofCMS:
   ZOFFIX: 1
@@ -5711,6 +5721,8 @@ App-sourcepan:
   PEVANS: 1
 App-spaceless:
   PLICEASE: 1
+App-ssl4curl:
+  ZDENEK: 1
 App-sslmaker:
   JHTHORSEN: 1
 App-starbucksloginator:
@@ -6116,6 +6128,10 @@ AsposeBarCodeCloud-BarcodeApi:
 AsposeCellsCloud-CellsApi:
   ASPOSE: 1
 AsposeEmailCloud-EmailApi:
+  ASPOSE: 1
+AsposeImagingCloud-ImagingApi:
+  ASPOSE: 1
+AsposeOcrCloud-OcrApi:
   ASPOSE: 1
 AsposePdfCloud-PdfApi:
   ASPOSE: 1
@@ -7734,6 +7750,8 @@ BioX-Workflow-Plugin-Drake:
 BioX-Workflow-Plugin-ENV:
   JILLROWE: 1
 BioX-Workflow-Plugin-FileDetails:
+  JILLROWE: 1
+BioX-Workflow-Plugin-FileExists:
   JILLROWE: 1
 BioX-Wrapper:
   JILLROWE: 1
@@ -10823,6 +10841,8 @@ Carp-Parse:
   KATE: 1
 Carp-Parse-Redact:
   KATE: 1
+Carp-Patch-Config:
+  PERLANCAR: 1
 Carp-Perror:
   CHENGANG: 1
 Carp-Proxy:
@@ -11036,7 +11056,7 @@ Catalyst-Controller-FormBuilder:
 Catalyst-Controller-FormBuilder-MultiForm:
   DWARREN: 1
 Catalyst-Controller-HTML-FormFu:
-  CFRANKS: 1
+  NIGELM: 1
 Catalyst-Controller-Imager:
   WKI: 1
 Catalyst-Controller-LeakTracker:
@@ -15956,6 +15976,8 @@ DBIx-DoMore:
   EMAZEP: 1
 DBIx-Dump:
   ISTERIN: 1
+DBIx-EAV:
+  CAFEGRATZ: 1
 DBIx-Easy:
   HORNBURG: 1
 DBIx-EnumConstraints:
@@ -16068,6 +16090,8 @@ DBIx-MultiDB:
   NFERRAZ: 1
 DBIx-MultiStatementDo:
   EMAZEP: 1
+DBIx-MyDatabaseMunger:
+  JKUPFERER: 1
 DBIx-MyParse:
   PHILIPS: 1
 DBIx-MyParsePP:
@@ -17106,6 +17130,8 @@ Dancer2-Plugin-Negotiate:
   ZURBORG: 1
 Dancer2-Plugin-OAuth2-Server:
   PVIGIER: 1
+Dancer2-Plugin-PageHistory:
+  SYSPETE: 1
 Dancer2-Plugin-ParamKeywords:
   CAMSPI: 1
 Dancer2-Plugin-Passphrase:
@@ -19280,6 +19306,8 @@ Devel-Backtrace:
   PEPE: 1
 Devel-BeginLift:
   FLORA: 1
+Devel-CCompat-C99-ScopedVariables:
+  EHERMAN: 1
 Devel-CCompat-C99-VariableLengthArrays:
   EHERMAN: 1
 Devel-CCov:
@@ -19384,6 +19412,8 @@ Devel-Debug-DBGp:
   MBARBON: 1
 Devel-Debug-Server:
   JCHASSLER: 1
+Devel-DebugHooks:
+  KES: 1
 Devel-DebugInit:
   JASONS: 1
 Devel-Declare:
@@ -19906,7 +19936,11 @@ Device-Chip-PCA9685:
   SIMCOP: 1
 Device-Chip-PCF8563:
   PEVANS: 1
+Device-Chip-PCF8574:
+  PEVANS: 1
 Device-Chip-SDCard:
+  PEVANS: 1
+Device-Chip-SSD1306:
   PEVANS: 1
 Device-Conrad-RelaisControl:
   NOHA: 1
@@ -22491,7 +22525,7 @@ Event-ScreenSaver:
 Event-SlidingWindow:
   PATL: 1
 Event-Stats:
-  JPRIT: 1
+  ETJ: 1
 Event-Wrappable:
   WINTER: 1
 Event-tcp:
@@ -22593,7 +22627,7 @@ Exobrain-Idonethis:
 Exobrain-Twitter:
   PJF: 1
 Expect:
-  SZABGAB: 1
+  JACOBY: 1
 Expect-Simple:
   DJERIUS: 1
 Expense-Tracker:
@@ -24029,6 +24063,8 @@ Finance-Bank-AllianceAndLeicester:
   TEHSI: 1
 Finance-Bank-BNPParibas:
   BRIAC: 1
+Finance-Bank-BR-Caixa-CSV:
+  CASCARDO: 1
 Finance-Bank-BR-Santander-Spreadsheet:
   CASCARDO: 1
 Finance-Bank-Bankwest:
@@ -27181,6 +27217,7 @@ HTML-FormEngine-DBSQL:
   MORNI: 1
 HTML-FormFu:
   CFRANKS: 1
+  NIGELM: 1
   PERLER: 1
 HTML-FormFu-Element-reCAPTCHA:
   CFRANKS: 1
@@ -27191,7 +27228,7 @@ HTML-FormFu-Filter-Demoroniser:
 HTML-FormFu-Imager:
   CFRANKS: 1
 HTML-FormFu-Model-DBIC:
-  CFRANKS: 1
+  NIGELM: 1
 HTML-FormFu-MultiForm:
   CFRANKS: 1
 HTML-FormFu-Role-JQueryValidation:
@@ -29131,8 +29168,6 @@ IP-Unique:
   JAYBONCI: 1
 IP-World:
   MACKENNA: 1
-IPA:
-  KARASIK: 1
 IPC-AnyEvent-Gearman:
   KHS: 1
 IPC-Cache:
@@ -29784,7 +29819,7 @@ InfluxDB:
 InfluxDB-HTTP:
   RAPHI: 1
 InfluxDB-LineProtocol:
-  KOKI: 1
+  DOMM: 1
 InfluxDB-Writer:
   DOMM: 1
 InfoBrief:
@@ -30025,6 +30060,8 @@ JLogger:
   UNDEF: 1
 JMAP-Tester:
   RJBS: 1
+JMAP-Validation:
+  ALFIE: 1
 JOAP:
   EVAN: 1
 JPEG-Comment:
@@ -32415,8 +32452,6 @@ Linux-ProcessInfo:
   MART: 1
 Linux-RTC-Ioctl:
   TOUGHY: 1
-Linux-Setns:
-  HACKMAN: 1
 Linux-Smaps:
   OPI: 1
 Linux-Smaps-Tiny:
@@ -32439,6 +32474,8 @@ Linux-Taskstats-Read:
   SCOTTW: 1
 Linux-TempFile:
   JIRO: 1
+Linux-Termios2:
+  PEVANS: 1
 Linux-TunTap:
   MOOLI: 1
 Linux-USBKeyboard:
@@ -34886,6 +34923,8 @@ Math-BigSimple:
   SPECTRUM: 1
 Math-BigSym:
   TRIZEN: 1
+Math-BivariateCDF:
+  BINARY: 1
 Math-Brent:
   JGAMBLE: 1
 Math-Business-BlackScholes:
@@ -35576,6 +35615,8 @@ Measure-Everything:
   DOMM: 1
 Measure-Everything-Adapter-InfluxDB-Direct:
   DOMM: 1
+Measure-Everything-Adapter-InfluxDB-TCP:
+  DOMM: 1
 Measure-Everything-Adapter-InfluxDB-UDP:
   JAVIER: 1
 Mecom:
@@ -35787,7 +35828,6 @@ MetaCPAN-API-Tiny:
   JLUIS: 1
 MetaCPAN-Client:
   MICKEY: 1
-  XSAWYERX: 1
 MetaCPAN-Clients:
   SZABGAB: 1
 MetaCPAN-Helper:
@@ -36741,6 +36781,8 @@ Mojo-TFTPd:
   HARRYL: 1
 Mojo-Unicode-UTF8:
   DBOOK: 1
+Mojo-UserAgent-CookieJar-ChromeMacOS:
+  FAYLAND: 1
 Mojo-UserAgent-DigestAuth:
   JHTHORSEN: 1
 Mojo-UserAgent-Mockable:
@@ -36749,6 +36791,8 @@ Mojo-UserAgent-UnixSocket:
   BTYLER: 1
 Mojo-WebService-Twitter:
   DBOOK: 1
+Mojo-WebSocketProxy:
+  BINARY: 1
 Mojo-Webqq:
   SJDY: 1
 Mojo-Weixin:
@@ -37433,6 +37477,8 @@ Mojolicious-Plugin-WWWSession:
   Mojolicious: 1
 Mojolicious-Plugin-Web-Auth:
   HAYAJO: 1
+Mojolicious-Plugin-Web-Auth-Site-Runkeeper:
+  OALDERS: 1
 Mojolicious-Plugin-Web-Auth-Site-Spotify:
   OALDERS: 1
 Mojolicious-Plugin-WebAPI:
@@ -39798,7 +39844,7 @@ Net-Hadoop-WebHDFS:
 Net-Hadoop-WebHDFS-LWP:
   BURAK: 1
 Net-Hadoop-YARN:
-  DMOR: 1
+  BURAK: 1
 Net-Halo-Status:
   LINK: 1
 Net-Heroku:
@@ -42434,6 +42480,8 @@ PDF-OCR:
   LEOCHARRE: 1
 PDF-OCR2:
   LEOCHARRE: 1
+PDF-PDFUnit:
+  SALVOR: 1
 PDF-Report:
   TEEJAY: 1
 PDF-Report-Table:
@@ -44637,6 +44685,8 @@ Perf-ARM:
   BBACKER: 1
 Perf-Stopwatch:
   KITDEKAT: 1
+Performance-Probability:
+  BINARY: 1
 Perinci:
   PERLANCAR: 1
 Perinci-Access:
@@ -45462,6 +45512,8 @@ PgSQL:
   GTHYNI: 1
 Pgreet:
   ELAGACHE: 1
+Pgtools:
+  TOMBO: 1
 Ph:
   GDAMORE: 1
 Phash-FFI:
@@ -46970,6 +47022,8 @@ Prima:
   KARASIK: 1
 Prima-Cairo:
   KARASIK: 1
+Prima-IPA:
+  KARASIK: 1
 Prima-Image-Magick:
   KARASIK: 1
 Prima-OpenGL:
@@ -47323,6 +47377,8 @@ Python-Serialise-Pickle:
 Python-Serialize-Pickle-InlinePython:
   TOKUHIROM: 1
 QBit-Application:
+  MADSKILL: 1
+QBit-Application-Model-DB:
   MADSKILL: 1
 QBit-Class:
   MADSKILL: 1
@@ -47866,6 +47922,8 @@ RT-Extension-Assets-AppleGSX:
   ALEXMV: 1
 RT-Extension-Assets-Import-CSV:
   BPS: 1
+RT-Extension-AttachmentFilter:
+  ELACOUR: 1
 RT-Extension-AttachmentWarning:
   TSIBLEY: 1
 RT-Extension-AttributeWalker:
@@ -55035,7 +55093,7 @@ Test-SFTP:
 Test-SMTP:
   JLMARTIN: 1
 Test-SSH:
-  SALVA: 1
+  ANDK: 1
 Test-STDmaker:
   SOFTDIA: 1
 Test-STF-MockServer:
@@ -58460,6 +58518,8 @@ URI-CrawlableHash:
   MALA: 1
 URI-Encode:
   MITHUN: 1
+URI-Encode-XS:
+  DFARRELL: 1
 URI-Escape-JavaScript:
   TANIGUCHI: 1
 URI-Escape-XS:
@@ -61325,6 +61385,8 @@ WebService-Hatena-Fotolife:
   KENTARO: 1
 WebService-Hatena-Graph:
   KENTARO: 1
+WebService-HealthGraph:
+  OALDERS: 1
 WebService-Heartrails-Express:
   SUENAGA: 1
 WebService-HipChat:
@@ -62437,6 +62499,10 @@ WordList-FR-ODS3-7To8:
 WordList-FR-WiktionaryES:
   PERLANCAR: 1
 WordList-ID-KBBI:
+  PERLANCAR: 1
+WordList-MetaSyntactic:
+  PERLANCAR: 1
+WordList-MetaSyntactic-dangdut:
   PERLANCAR: 1
 WordList-Phrase-EN-Idiom-Wiktionary:
   PERLANCAR: 1
