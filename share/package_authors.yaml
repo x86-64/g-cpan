@@ -949,8 +949,12 @@ Acme-MetaSyntactic-Themes:
   BOOK: 1
 Acme-MetaSyntactic-Themes-Abigail:
   ABIGAIL: 1
+Acme-MetaSyntactic-WordList:
+  PERLANCAR: 1
 Acme-MetaSyntactic-buzzwords:
   JQUELIN: 1
+Acme-MetaSyntactic-countries:
+  PERLANCAR: 1
 Acme-MetaSyntactic-cpanauthors:
   BOOK: 1
 Acme-MetaSyntactic-daleks:
@@ -961,6 +965,8 @@ Acme-MetaSyntactic-dune:
   MCARTMELL: 1
 Acme-MetaSyntactic-errno:
   BOOK: 1
+Acme-MetaSyntactic-frasier:
+  PERLANCAR: 1
 Acme-MetaSyntactic-id_names:
   PERLANCAR: 1
 Acme-MetaSyntactic-legobatman:
@@ -1350,6 +1356,8 @@ Acme-Stegano:
   ANARION: 1
 Acme-Steganography-Image-Png:
   NWCLARK: 1
+Acme-Sterling:
+  TEDKAT: 1
 Acme-String-Trim:
   ABHIISNOT: 1
 Acme-StringFormat:
@@ -2177,6 +2185,8 @@ Alien-TinyCCx:
   DCMERTENS: 1
 Alien-UDUNITS2:
   ZMUGHAL: 1
+Alien-UnRTF:
+  JOENIO: 1
 Alien-Uninum:
   ZMUGHAL: 1
 Alien-V8:
@@ -5007,6 +5017,8 @@ App-SSH-Cluster:
   MCMILLHJ: 1
 App-SVN-Bisect:
   INFINOID: 1
+App-SahUtils:
+  PERLANCAR: 1
 App-Sass:
   WWOLF: 1
 App-Scaffolder:
@@ -5259,6 +5271,8 @@ App-VirtPerl:
   CREIN: 1
 App-WIoZ:
   YVESAGO: 1
+App-WUPHF:
+  MCMILLHJ: 1
 App-Wallflower:
   BOOK: 1
 App-War:
@@ -5283,6 +5297,8 @@ App-Widget-JSApp:
   SPADKINS: 1
 App-WithSound:
   MOZNION: 1
+App-WordListUtils:
+  PERLANCAR: 1
 App-WordPressTools:
   CCM: 1
 App-Wx-PodEditor:
@@ -5463,6 +5479,8 @@ App-gitfancy:
   GYPARK: 1
 App-githook-perltidy:
   MLAWREN: 1
+App-gitwrap:
+  PERLANCAR: 1
 App-grindperl:
   DAGOLDEN: 1
 App-highlight:
@@ -5681,6 +5699,8 @@ App-relpath:
   PERLANCAR: 1
 App-remarkpl:
   JHTHORSEN: 1
+App-reposdb:
+  PERLANCAR: 1
 App-revealup:
   YUSUKEBE: 1
 App-riap:
@@ -7894,7 +7914,7 @@ Bot-BasicBot:
 Bot-BasicBot-CommandBot:
   ALTREUS: 1
 Bot-BasicBot-Pluggable:
-  DIZ: 1
+  BIGPRESH: 1
 Bot-BasicBot-Pluggable-FromConfig:
   MRF: 1
 Bot-BasicBot-Pluggable-Module-Abuse-YourMomma:
@@ -8136,8 +8156,6 @@ Build-Simple:
   LEONT: 1
 Builder:
   DRAEGTUN: 1
-Builtin-Logged:
-  PERLANCAR: 1
 Bundle-AndyA:
   ANDYA: 1
 Bundle-Apache-Wombat:
@@ -10768,6 +10786,8 @@ Cantella-Worker:
   GRODITI: 1
 Cantella-Worker-Role-Beanstalk:
   GRODITI: 1
+CanvasCloud:
+  TEDKAT: 1
 Capstone:
   TOSH: 1
 Captcha-AreYouAHuman:
@@ -11820,6 +11840,8 @@ Catalyst-Plugin-XMLRPC:
   MRAMBERG: 1
 Catalyst-Plugin-XSendFile:
   TYPESTER: 1
+Catalyst-ResponseHelpers:
+  TSIBLEY: 1
 Catalyst-Runtime:
   BOBTFISH: 1
   FLORA: 1
@@ -12226,6 +12248,8 @@ Catmandu-BibTeX:
   VPEIL: 1
 Catmandu-Blacklight:
   HOCHSTEN: 1
+Catmandu-Breaker:
+  HOCHSTEN: 1
 Catmandu-Cmd-repl:
   NICS: 1
 Catmandu-CrossRef:
@@ -12272,7 +12296,6 @@ Catmandu-MAB2:
   JOROL: 1
 Catmandu-MARC:
   HOCHSTEN: 1
-  NICS: 1
 Catmandu-MODS:
   NJFRANCK: 1
 Catmandu-Markdown:
@@ -12430,6 +12453,8 @@ Chart:
   CHARTGRP: 1
 Chart-Clicker:
   GPHAT: 1
+Chart-Dygraphs:
+  PABLROD: 1
 Chart-EPS_graph:
   APLONIS: 1
 Chart-GRACE:
@@ -18180,6 +18205,10 @@ Data-Sah-Coerce-perl-date-str_natural:
   PERLANCAR: 1
 Data-Sah-CoerceRule-array-str_comma_sep:
   PERLANCAR: 1
+Data-Sah-Format:
+  PERLANCAR: 1
+Data-Sah-Format-perl-boolstr:
+  PERLANCAR: 1
 Data-Sah-From-JSONSchema:
   PERLANCAR: 1
 Data-Sah-Normalize:
@@ -19902,8 +19931,6 @@ Device-BusPirate:
   PEVANS: 1
 Device-BusPirate-Chip-AVR_HVSP:
   PEVANS: 1
-Device-BusPirate-Chip-SSD1306:
-  PEVANS: 1
 Device-BusPirate-Chip-nRF24L01P:
   PEVANS: 1
 Device-CableModem-Motorola-SB4200:
@@ -19974,6 +20001,10 @@ Device-Gsm:
   COSIMO: 1
 Device-Hue:
   ZUMMO: 1
+Device-I2C:
+  SVOLKOV: 1
+Device-I2C-ADV7611:
+  SVOLKOV: 1
 Device-IRU_GE:
   TROXEL: 1
 Device-ISDN-OCLM:
@@ -20499,7 +20530,7 @@ Dist-Metadata:
 Dist-Milla:
   MIYAGAWA: 1
 Dist-Surveyor:
-  SEMUELF: 1
+  DBOOK: 1
 Dist-Util:
   PERLANCAR: 1
 Dist-Zilla:
@@ -26965,6 +26996,8 @@ HPC-Runner-Threads:
   JILLROWE: 1
 HPCD-SGE:
   BOUTROSLB: 1
+HPCD-SLURM:
+  BOUTROSLB: 1
 HPCI:
   BOUTROSLB: 1
 HPSG-Mason:
@@ -29663,6 +29696,8 @@ Image-Robohash:
   JWANG: 1
 Image-SVG-Path:
   BKB: 1
+Image-SVG-Transform:
+  COLINK: 1
 Image-Scale:
   AGRUNDMA: 1
 Image-Seek:
@@ -31718,6 +31753,8 @@ Lingua-EN-Ngram:
   EMORGAN: 1
 Lingua-EN-Nickname:
   BRIANL: 1
+Lingua-EN-Number-Format-MixWithWords:
+  PERLANCAR: 1
 Lingua-EN-Number-IsOrdinal:
   RKITOVER: 1
 Lingua-EN-Numbers:
@@ -32396,6 +32433,8 @@ Linux-Fuser:
   JSTOWE: 1
 Linux-Futex:
   PHRED: 1
+Linux-GetPidstat:
+  YOHEIMUTA: 1
 Linux-IO_Prio:
   LEEPEN: 1
 Linux-IRPulses:
@@ -33254,6 +33293,8 @@ Log-Any-For-Class:
   PERLANCAR: 1
 Log-Any-For-DBI:
   PERLANCAR: 1
+Log-Any-For-File-chdir:
+  PERLANCAR: 1
 Log-Any-For-HTTP-Tiny:
   PERLANCAR: 1
 Log-Any-For-LWP:
@@ -33320,6 +33361,8 @@ Log-Dispatch-Configurator-Perl:
   BAYASHI: 1
 Log-Dispatch-Configurator-YAML:
   FMERGES: 1
+Log-Dispatch-CronoDir:
+  YOWCOW: 1
 Log-Dispatch-DBI:
   MIYAGAWA: 1
 Log-Dispatch-DesktopNotification:
@@ -34462,7 +34505,7 @@ Mail-SendGrid-SmtpApiHeader:
 Mail-SendVarious:
   modules: 1
 Mail-Sender:
-  JENDA: 1
+  CAPOEIRAB: 1
 Mail-Sender-Easy:
   DMUEY: 1
 Mail-Sendmail:
@@ -36678,8 +36721,6 @@ Mojo-APNS:
   JHTHORSEN: 1
 Mojo-Autobox:
   JBERGER: 1
-Mojo-Base-Lib:
-  MCHE: 1
 Mojo-Base-XS:
   YKO: 1
 Mojo-CSV:
@@ -36845,6 +36886,8 @@ MojoX-Log-Fast:
   POWERMAN: 1
 MojoX-Log-Log4perl:
   GARU: 1
+MojoX-Log-Syslog:
+  FAYLAND: 1
 MojoX-Logite:
   AREGGIORI: 1
 MojoX-Moose-Controller:
@@ -37277,6 +37320,8 @@ Mojolicious-Plugin-OAuth2-Server:
   LEEJO: 1
 Mojolicious-Plugin-OnFork:
   GRAF: 1
+Mojolicious-Plugin-OpenAPI:
+  JHTHORSEN: 1
 Mojolicious-Plugin-PDFRenderer:
   AMIRITE: 1
 Mojolicious-Plugin-PPI:
@@ -42214,7 +42259,7 @@ OpusVL-AppKit:
 OpusVL-Preferences:
   NEWELLC: 1
 OpusVL-SysParams:
-  NEWELLC: 1
+  ALTREUS: 1
 Orac:
   ANDYDUNC: 1
 Orac-alpha:
@@ -42549,8 +42594,6 @@ PDL-Finance-TA:
   KMX: 1
 PDL-Finance-Talib:
   KMX: 1
-PDL-Fit-ExpRate:
-  DCMERTENS: 1
 PDL-FuncND:
   DJERIUS: 1
 PDL-GA:
@@ -43652,6 +43695,8 @@ PPIx-IndexOffsets:
   LBROCARD: 1
 PPIx-LineToSub:
   LBROCARD: 1
+PPIx-QuoteLike:
+  WYANT: 1
 PPIx-Refactor:
   ZARQUON: 1
 PPIx-Regexp:
@@ -44050,6 +44095,8 @@ Parallel-Supervisor:
   KLYNC: 1
 Parallel-ThreadContext:
   TSAFSERGE: 1
+Parallel-Tiny:
+  SUTT: 1
 Parallel-WorkUnit:
   JMASLAK: 1
 Parallel-Workers:
@@ -44786,6 +44833,8 @@ Perinci-Sub-ArgEntity-modulename:
 Perinci-Sub-ArgEntity-perl_version:
   PERLANCAR: 1
 Perinci-Sub-ArgEntity-riap_url:
+  PERLANCAR: 1
+Perinci-Sub-ArgEntity-sah-type_name:
   PERLANCAR: 1
 Perinci-Sub-ArgEntity-software_license:
   PERLANCAR: 1
@@ -45538,6 +45587,8 @@ Photography-EV:
   PLICEASE: 1
 Photography-Website:
   JJVENS: 1
+Photonic:
+  WLMB: 1
 Physics-Lorentz:
   SMUELLER: 1
 Physics-Particles:
@@ -45712,6 +45763,8 @@ Plack-App-REST:
   VASEKD: 1
 Plack-App-SeeAlso:
   VOJ: 1
+Plack-App-ServiceStatus:
+  DOMM: 1
 Plack-App-SourceViewer:
   BAYASHI: 1
 Plack-App-TemplateToolkit:
@@ -49567,6 +49620,8 @@ SVG-Convert-Driver-XAML:
   ZIGOROU: 1
 SVG-DOM2:
   DOCTORMO: 1
+SVG-Estimate:
+  RIZEN: 1
 SVG-Fill:
   JEGADE: 1
 SVG-GD:
@@ -57575,6 +57630,8 @@ TimeDate:
   GBARR: 1
 TimeOut.pm:
   timeouts: 1
+TimeSeries-AdaptiveFilter:
+  BINARY: 1
 Timed-Logger:
   KOLYA: 1
 Timed-Logger-Dancer-AdoptPlack:
@@ -59439,6 +59496,8 @@ WSRF-Lite:
   EKAWAS: 1
 WSST:
   KAWASAKI: 1
+WUPHF:
+  MCMILLHJ: 1
 WWW-256locksMaker:
   YTURTLE: 1
 WWW-2ch:
@@ -60339,6 +60398,8 @@ WWW-SchneierFacts:
   NUFFIN: 1
 WWW-Scramble:
   CLSUNG: 1
+WWW-Scrape-FindaGrave:
+  NHORNE: 1
 WWW-Scrape-Mailman-RSS:
   HESCO: 1
 WWW-Scraper-Delicious:
@@ -62312,7 +62373,7 @@ Win32-SAPI4:
 Win32-SAPI5:
   JOUKE: 1
 Win32-SDDL:
-  TOJO: 1
+  HYDAHY: 1
 Win32-Scanner-EZTWAIN:
   LENNERTO: 1
 Win32-Screenshot:
@@ -63229,6 +63290,8 @@ XML-IODEF-Simple:
   iodef: 1
 XML-Jing:
   BYUTRG: 1
+XML-Lenient:
+  DAVIES: 1
 XML-LibRSVG:
   MSERGEANT: 1
 XML-LibXML:
@@ -64242,6 +64305,8 @@ cPanel-MemTest:
   DMUEY: 1
 cPanel-PublicAPI:
   CPANEL: 1
+cPanel-RESTivus:
+  DMUEY: 1
 cPanel-SyncUtil:
   CPANEL: 1
 cPanel-TaskQueue:
