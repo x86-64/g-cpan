@@ -3977,7 +3977,7 @@ App-Benchmark-Accessors:
 App-Bernard:
   MARNANEL: 1
 App-BigQuery-Importer-MySQL:
-  MYFINDER: 1
+  YOHEIMUTA: 1
 App-Birthday:
   FARHAD: 1
 App-Bondage:
@@ -5357,6 +5357,8 @@ App-chalk:
   PERLANCAR: 1
 App-chkfacl:
   IVANWILLS: 1
+App-cloc:
+  FIBO: 1
 App-cloudconvert:
   VOJ: 1
 App-codefork:
@@ -6784,6 +6786,8 @@ Authen-TypeKey:
   BTROTT: 1
 Authen-TypeKey-Sign:
   TIMA: 1
+Authen-U2F:
+  ROBN: 1
 Authen-Users:
   BILLH: 1
 Authorization-RBAC:
@@ -7218,8 +7222,6 @@ Bench:
   SHARYANTO: 1
 Bencher:
   PERLANCAR: 1
-Bencher-Backend:
-  PERLANCAR: 1
 Bencher-Scenario-AcmePERLANCARTestPerformance:
   PERLANCAR: 1
 Bencher-Scenario-Allocations:
@@ -7274,6 +7276,8 @@ Bencher-Scenario-Sprintf:
   PERLANCAR: 1
 Bencher-Scenario-TextTableModules:
   PERLANCAR: 1
+Bencher-Scenario-URIEscaping:
+  PERLANCAR: 1
 Bencher-Scenario-WordListModules:
   PERLANCAR: 1
 Bencher-Scenario-ZodiacModules:
@@ -7320,13 +7324,19 @@ Bencher-Scenarios-GetoptLongComplete:
   PERLANCAR: 1
 Bencher-Scenarios-GetoptLongEvenLess:
   PERLANCAR: 1
+Bencher-Scenarios-LanguageExpr:
+  PERLANCAR: 1
 Bencher-Scenarios-LogDispatch:
+  PERLANCAR: 1
+Bencher-Scenarios-MathScientificNotationUtil:
   PERLANCAR: 1
 Bencher-Scenarios-MojoDOM:
   PERLANCAR: 1
 Bencher-Scenarios-PERLANCAR:
   PERLANCAR: 1
 Bencher-Scenarios-PERLANCARModuleList:
+  PERLANCAR: 1
+Bencher-Scenarios-PERLANCARParseArithmetic:
   PERLANCAR: 1
 Bencher-Scenarios-Perinci:
   PERLANCAR: 1
@@ -18209,6 +18219,8 @@ Data-Sah-Format:
   PERLANCAR: 1
 Data-Sah-Format-perl-boolstr:
   PERLANCAR: 1
+Data-Sah-Format-perl-sci2dec:
+  PERLANCAR: 1
 Data-Sah-From-JSONSchema:
   PERLANCAR: 1
 Data-Sah-Normalize:
@@ -21109,6 +21121,8 @@ Dist-Zilla-Plugin-ReadmeFromPod:
   FAYLAND: 1
 Dist-Zilla-Plugin-ReadmeMarkdownFromPod:
   RTHOMPSON: 1
+Dist-Zilla-Plugin-ReleaseStatus-FromVersion:
+  DAGOLDEN: 1
 Dist-Zilla-Plugin-RemovePhasedPrereqs:
   DAGOLDEN: 1
 Dist-Zilla-Plugin-RemovePrereqs-Provided:
@@ -21838,6 +21852,8 @@ EO:
   JDUNCAN: 1
 EOL:
   modules: 1
+EPL2:
+  TEDKAT: 1
 EPUB-Parser:
   TOKUBASS: 1
 EPublisher:
@@ -25085,8 +25101,6 @@ Games-FEAR-Log:
   EVANK: 1
 Games-FrogJump:
   TADEG: 1
-Games-FrogLump:
-  ZENBAE: 1
 Games-FrozenBubble:
   KTHAKORE: 1
 Games-Go-AGA-BayRate:
@@ -26359,6 +26373,8 @@ GoXML-XQI:
   MATTMK: 1
 GoferTransport-http:
   TIMB: 1
+Golger:
+  FAXMODEM: 1
 Goo:
   NIGE: 1
 Goo-Canvas:
@@ -27251,7 +27267,6 @@ HTML-FormEngine-DBSQL:
 HTML-FormFu:
   CFRANKS: 1
   NIGELM: 1
-  PERLER: 1
 HTML-FormFu-Element-reCAPTCHA:
   CFRANKS: 1
 HTML-FormFu-ExtJS:
@@ -28403,6 +28418,10 @@ Ham-Resources-Utils:
   CJUAN: 1
 Ham-Scraper:
   KWITTMER: 1
+Ham-WSJTX-Logparse:
+  DEVZENDO: 1
+Ham-WorldMap:
+  DEVZENDO: 1
 Handel:
   CLACO: 1
 Handel-Storage-RDBO:
@@ -29426,6 +29445,8 @@ Icon-Theme-Index-Parse:
   VVELOX: 1
 Icon-Theme-List:
   VVELOX: 1
+Identifier-PL-PESEL:
+  ERRNO: 1
 IfLoop:
   WILLIS: 1
 IkiWiki-Plugin-disqus:
@@ -30338,8 +30359,6 @@ Java-Maven-Artifact-Version:
   PANDRAGON: 1
 Java-SJ:
   WIGGLY: 1
-Java-Swing:
-  PHILCROW: 1
 JavaBin:
   RAZ: 1
 JavaScript:
@@ -30621,6 +30640,8 @@ Keyword-Declare:
   DCONWAY: 1
 Keyword-Simple:
   MAUKE: 1
+Keyword-With:
+  MCMILLHJ: 1
 KeywordsSpider:
   KATKAD: 1
 KinoSearch:
@@ -31356,7 +31377,7 @@ Language-DATR-DATR2XML:
 Language-Dashrep:
   FOBES: 1
 Language-Expr:
-  SHARYANTO: 1
+  PERLANCAR: 1
 Language-FP:
   SEANO: 1
 Language-Farnsworth:
@@ -35030,6 +35051,7 @@ Math-Counting:
   GENE: 1
 Math-Currency:
   JPEACOCK: 1
+  MSCHOUT: 1
 Math-Curve-Hilbert:
   TEEJAY: 1
 Math-Decimal:
@@ -36020,6 +36042,8 @@ Minion-Backend-Pg91:
   VIKAS: 1
 Minion-Backend-SQLite:
   DBOOK: 1
+Minion-Backend-Storable:
+  NICZERO: 1
 Minion-Backend-mysql:
   BPMEDLEY: 1
 Minion-Notifier:
@@ -37176,6 +37200,8 @@ Mojolicious-Plugin-FormValidatorLazy:
   JAMADAM: 1
 Mojolicious-Plugin-Geo:
   ELBOW: 1
+Mojolicious-Plugin-Google-Cloud-UserAgent:
+  SCOTTW: 1
 Mojolicious-Plugin-GoogleAnalytics:
   ADAMJS: 1
 Mojolicious-Plugin-Gravatar:
@@ -37532,6 +37558,8 @@ Mojolicious-Plugin-WebFinger:
   AKRON: 1
 Mojolicious-Plugin-Webtail:
   HAYAJO: 1
+Mojolicious-Plugin-WithCSRFProtection:
+  MAXMIND: 1
 Mojolicious-Plugin-Wolowitz:
   GUGOD: 1
 Mojolicious-Plugin-WriteExcel:
@@ -37971,7 +37999,7 @@ MooseX-FollowPBP:
 MooseX-FunkyAttributes:
   TOBYINK: 1
 MooseX-Getopt:
-  DROLSKY: 1
+  ETHER: 1
 MooseX-Getopt-Defanged:
   ELLIOTJS: 1
 MooseX-Getopt-Explicit:
@@ -38613,6 +38641,8 @@ Music-NeoRiemannianTonnetz:
   JMATES: 1
 Music-Note:
   BDAGLISH: 1
+Music-Note-Role-Operators:
+  ZARQUON: 1
 Music-PitchNum:
   JMATES: 1
 Music-Scala:
@@ -38679,6 +38709,7 @@ MySQL-DateFormat:
   TONKIN: 1
 MySQL-Diff:
   ASPIERS: 1
+  ESTRABD: 1
 MySQL-Easy:
   JETTERO: 1
 MySQL-Explain-Parser:
@@ -39740,6 +39771,8 @@ Net-FreshBooks-API:
   OALDERS: 1
 Net-Friends:
   RBRASE: 1
+Net-Fritz:
+  CGARBS: 1
 Net-FullAuto:
   REEDFISH: 1
 Net-GNUDBSearch:
@@ -42694,6 +42727,8 @@ PERLANCAR-List-Util-PP:
   PERLANCAR: 1
 PERLANCAR-Module-List:
   PERLANCAR: 1
+PERLANCAR-Parse-Arithmetic:
+  PERLANCAR: 1
 PERLANCAR-Permute-Named:
   PERLANCAR: 1
 PERLANCAR-Sort-Sub:
@@ -43614,6 +43649,8 @@ POEx-ZMQ:
 PONAPI-Client:
   MICKEY: 1
 PONAPI-Server:
+  MICKEY: 1
+PONAPI-Tools:
   MICKEY: 1
 POOF:
   BMILLARES: 1
@@ -45002,10 +45039,16 @@ Perl-Critic-Policy-Dynamic-NoIndirect:
   VPIT: 1
 Perl-Critic-Policy-HTTPCookies:
   TOMHUKINS: 1
+Perl-Critic-Policy-Moo-ProhibitMakeImmutable:
+  BLUEFEET: 1
 Perl-Critic-Policy-Perlsecret:
   LANCEW: 1
 Perl-Critic-Policy-References-ProhibitComplexDoubleSigils:
   XENU: 1
+Perl-Critic-Policy-TryTiny-RequireBlockTermination:
+  BLUEFEET: 1
+Perl-Critic-Policy-TryTiny-RequireUse:
+  BLUEFEET: 1
 Perl-Critic-Policy-ValuesAndExpressions-PreventSQLInjection:
   AUBERTG: 1
 Perl-Critic-Policy-Variables-ProhibitUnusedVarsStricter:
@@ -47971,6 +48014,8 @@ RT-Extension-ArticleSubjectOverride:
   TSIBLEY: 1
 RT-Extension-ArticleTemplates:
   ALEXMV: 1
+RT-Extension-AssetSQL:
+  BPS: 1
 RT-Extension-Assets-AppleGSX:
   ALEXMV: 1
 RT-Extension-Assets-Import-CSV:
@@ -48651,8 +48696,6 @@ Relations-Query:
   GAFFER: 1
 ReleaseAction:
   TILLY: 1
-Religion:
-  KJALB: 1
 Religion-Bible-Reference:
   RJBS: 1
 Religion-Bible-Regex-Builder:
@@ -50659,6 +50702,8 @@ Skype-Any:
   AKIYM: 1
 SkypeAPI:
   LAOMOI: 1
+Slack-RTM-Bot:
+  SHMAEDA: 1
 Slackware-Slackget:
   DUPUISARN: 1
 Slackware-Slackget-Network-Connection-DEBUG:
@@ -51595,6 +51640,8 @@ Strict-Perl:
   Perl: 1
 String-Alignment:
   CLSUNG: 1
+String-Any-Extensions:
+  MZIESCHA: 1
 String-Approx:
   JHI: 1
 String-BOM:
@@ -51961,6 +52008,8 @@ Sub-Assert:
   SMUELLER: 1
 Sub-Attribute:
   GFUJI: 1
+Sub-Attributes:
+  DFARRELL: 1
 Sub-Auto:
   OSFAMERON: 1
 Sub-Become:
@@ -61275,6 +61324,8 @@ WebService-Buxfer:
   NHEINRIC: 1
 WebService-BuzzurlAPI:
   HOLLY: 1
+WebService-CEPH:
+  VSESPB: 1
 WebService-CIA:
   IMALPASS: 1
 WebService-CRUST:
@@ -61710,6 +61761,8 @@ WebService-SOP-Auth-V1_1:
   YOWCOW: 1
 WebService-SOS:
   JDAVIS: 1
+WebService-SQLFormat:
+  OALDERS: 1
 WebService-SSLLabs:
   DDICK: 1
 WebService-SagawaKyubin:
@@ -62549,6 +62602,8 @@ Word-Segmenter-Chinese-Lite:
   CHENGANG: 1
 WordList:
   PERLANCAR: 1
+WordList-BEW-Betawi:
+  PERLANCAR: 1
 WordList-EN-CountryNames:
   PERLANCAR: 1
 WordList-EN-Enable:
@@ -63328,6 +63383,8 @@ XML-LibXML-Tools:
   SINISTER: 1
 XML-LibXML-TreeDumper:
   RENEEB: 1
+XML-LibXML-jQuery:
+  CAFEGRATZ: 1
 XML-LibXSLT:
   SHLOMIF: 1
 XML-LibXSLT-Easy:
@@ -64653,8 +64710,6 @@ invoker:
   CLKAO: 1
 io-page:
   RMITZ: 1
-iodbc-wwwtools:
-  BJEPS: 1
 iodbc_ext:
   JMAHAN: 1
 jBilling-Client-SOAP:
@@ -65528,7 +65583,7 @@ xdbfdump:
 xisofs:
   SHERWOOD: 1
 xml-binddata:
-  CURSORK: 1
+  GHARPER: 1
 xml-rax:
   RHANSON: 1
 xml-tag:
