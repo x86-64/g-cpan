@@ -418,6 +418,8 @@ Acme-Be-Modern:
   SLU: 1
 Acme-BeCool:
   SEANO: 1
+Acme-Beamerang-Logger:
+  KENTNL: 1
 Acme-Beatnik:
   BEATNIK: 1
 Acme-BeyondPerl-ToSQL:
@@ -666,6 +668,8 @@ Acme-Debug:
   RFOLEY: 1
 Acme-DeepThoughts:
   PODMASTER: 1
+Acme-Devel-Hide-Tiny:
+  DAGOLDEN: 1
 Acme-Dice:
   BOFTX: 1
 Acme-DieOnLoad:
@@ -4521,6 +4525,8 @@ App-LedgerSMB-Admin:
   EINHVERFR: 1
 App-LedgerUtils:
   PERLANCAR: 1
+App-Licensecheck:
+  JONASS: 1
 App-Lingua-BO-Wylie-Transliteration:
   DBR: 1
 App-LinguaENUtils:
@@ -4597,6 +4603,8 @@ App-MatrixClient:
   PEVANS: 1
 App-MatrixTool:
   PEVANS: 1
+App-MediaInfo:
+  PERLANCAR: 1
 App-MediaWiki2Git:
   MCAST: 1
 App-Memcached-CLI:
@@ -5231,8 +5239,6 @@ App-Twimap:
   LBROCARD: 1
 App-Twitch:
   GETTY: 1
-App-Twpin:
-  REDICAPS: 1
 App-USBKeyCopyCon:
   GRANTM: 1
 App-Uni:
@@ -7222,6 +7228,8 @@ Bench:
   SHARYANTO: 1
 Bencher:
   PERLANCAR: 1
+Bencher-Backend:
+  PERLANCAR: 1
 Bencher-Scenario-AcmePERLANCARTestPerformance:
   PERLANCAR: 1
 Bencher-Scenario-Allocations:
@@ -7275,6 +7283,8 @@ Bencher-Scenario-SortBySpec:
 Bencher-Scenario-Sprintf:
   PERLANCAR: 1
 Bencher-Scenario-TextTableModules:
+  PERLANCAR: 1
+Bencher-Scenario-Textsprintfn:
   PERLANCAR: 1
 Bencher-Scenario-URIEscaping:
   PERLANCAR: 1
@@ -10132,6 +10142,8 @@ CPAN-Faker-HTTPD:
   PSHANGOV: 1
 CPAN-FindDependencies:
   DCANTRELL: 1
+CPAN-Flatten:
+  SKAJI: 1
 CPAN-Index:
   ADAMK: 1
 CPAN-Index-API:
@@ -12837,8 +12849,6 @@ Class-Accessor-Tiny:
   GRIAN: 1
 Class-Accessor-TrackDirty:
   HIRATARA: 1
-Class-Accessor-WithDefault:
-  REDICAPS: 1
 Class-AccessorMaker:
   SINISTER: 1
 Class-Action:
@@ -13273,6 +13283,7 @@ Class-HasA:
 Class-Hash:
   Class-Hash: 1
 Class-Hook:
+  NEILB: 1
   PDENIS: 1
 Class-ISA:
   SMUELLER: 1
@@ -14117,6 +14128,8 @@ Config-File-Simple:
   KAIW: 1
 Config-FileManager:
   DOCCY: 1
+Config-Files-Simple:
+  MZIESCHA: 1
 Config-Find:
   SALVA: 1
 Config-Format-Ini:
@@ -15005,6 +15018,8 @@ Crypt-Passwd-XS:
   CPANEL: 1
 Crypt-PasswdMD5:
   RSAVAGE: 1
+Crypt-Password:
+  DRSTEVE: 1
 Crypt-Password-StretchedHash:
   RITOU: 1
 Crypt-Password-Util:
@@ -17205,6 +17220,8 @@ Dancer2-Plugin-Swagger2:
   DBOEHMER: 1
 Dancer2-Plugin-Syntax-GetPost:
   DAGOLDEN: 1
+Dancer2-Plugin-Tail:
+  JACKB: 1
 Dancer2-Plugin-TemplateFlute:
   SYSPETE: 1
 Dancer2-Plugin-UnicodeNormalize:
@@ -17706,6 +17723,8 @@ Data-Google-Visualization-DataSource:
   SARGIE: 1
 Data-Google-Visualization-DataTable:
   SARGIE: 1
+Data-Graph-Util:
+  PERLANCAR: 1
 Data-Grouper:
   FERRANCE: 1
 Data-HAL:
@@ -18111,6 +18130,8 @@ Data-Random-String:
   MAKIS: 1
 Data-Random-Structure:
   MALLEN: 1
+Data-Random-Tree:
+  PERLANCAR: 1
 Data-Random-Weighted:
   GEISTBERG: 1
 Data-RandomKeep:
@@ -18212,6 +18233,10 @@ Data-Sah-Coerce:
 Data-Sah-Coerce-perl-date-str_alami:
   PERLANCAR: 1
 Data-Sah-Coerce-perl-date-str_natural:
+  PERLANCAR: 1
+Data-Sah-Coerce-perl-duration-str_alami_en:
+  PERLANCAR: 1
+Data-Sah-Coerce-perl-duration-str_alami_id:
   PERLANCAR: 1
 Data-Sah-CoerceRule-array-str_comma_sep:
   PERLANCAR: 1
@@ -18694,6 +18719,8 @@ Date-Discordian:
   RBOW: 1
 Date-Easter:
   RBOW: 1
+Date-Easy:
+  BAREFOOT: 1
 Date-Ethiopic:
   DYACOB: 1
 Date-Exception:
@@ -18883,7 +18910,7 @@ Date-Tie:
 Date-Time2fmtstr:
   TURNERJW: 1
 Date-Tiny:
-  ADAMK: 1
+  DAGOLDEN: 1
 Date-Tolkien-Shire:
   TBRAUN: 1
 Date-Transform:
@@ -19006,6 +19033,8 @@ DateTime-Format-Duration:
   ETHER: 1
 DateTime-Format-Duration-DurationString:
   BOLAV: 1
+DateTime-Format-Duration-ISO8601:
+  PERLANCAR: 1
 DateTime-Format-Duration-XSD:
   NUF: 1
 DateTime-Format-EMIUCP:
@@ -19127,7 +19156,7 @@ DateTime-TimeZone-SystemV:
 DateTime-TimeZone-Tzfile:
   ZEFRAM: 1
 DateTime-Tiny:
-  ADAMK: 1
+  DAGOLDEN: 1
 DateTime-Util-Astro:
   DMAKI: 1
 DateTime-Util-Calc:
@@ -20981,8 +21010,6 @@ Dist-Zilla-Plugin-ModuleInstall:
   KENTNL: 1
 Dist-Zilla-Plugin-MojibakeTests:
   SYP: 1
-Dist-Zilla-Plugin-Moz:
-  REDICAPS: 1
 Dist-Zilla-Plugin-Munge-Whitespace:
   KENTNL: 1
 Dist-Zilla-Plugin-MungeFile:
@@ -24575,8 +24602,6 @@ FormValidator-Simple-ProfileManager-YAML:
   HORIUCHI: 1
 FormValidator-Simple-Struct:
   SATOSIN: 1
-Format-CN:
-  REDICAPS: 1
 Format-Human-Bytes:
   SEWI: 1
 Format-LongNumber:
@@ -24989,6 +25014,8 @@ Game-TextPacMonster:
   UNLEARNED: 1
 Game-Theory-TwoPersonMatrix:
   GENE: 1
+Game-WordBrain:
+  DRZIGMAN: 1
 Games-2048:
   BLAIZER: 1
 Games-3D:
@@ -27265,7 +27292,6 @@ HTML-FormEngine:
 HTML-FormEngine-DBSQL:
   MORNI: 1
 HTML-FormFu:
-  CFRANKS: 1
   NIGELM: 1
 HTML-FormFu-Element-reCAPTCHA:
   CFRANKS: 1
@@ -29216,6 +29242,8 @@ IP-Location:
   LOVEKY: 1
 IP-QQWry:
   SUNNAVY: 1
+IP-Random:
+  JMASLAK: 1
 IP-Unique:
   JAYBONCI: 1
 IP-World:
@@ -30640,6 +30668,8 @@ Keyword-Declare:
   DCONWAY: 1
 Keyword-Simple:
   MAUKE: 1
+Keyword-TreeFold:
+  LEMBARK: 1
 Keyword-With:
   MCMILLHJ: 1
 KeywordsSpider:
@@ -31302,8 +31332,6 @@ LaTeXML-Plugin-LtxMojo:
   DGINEV: 1
 LaTeXML-Plugin-latexmls:
   DGINEV: 1
-Lab-Instrument:
-  Lab: 1
 Lab-Measurement:
   AKHUETTEL: 1
 Lab-VISA:
@@ -35444,6 +35472,8 @@ Math-SO3:
   FISCH: 1
 Math-SZaru:
   SMUELLER: 1
+Math-ScientificNotation-Util:
+  PERLANCAR: 1
 Math-SegmentedEnvelope:
   EGOR: 1
 Math-Sequence:
@@ -36318,6 +36348,8 @@ Module-DevAid:
   RUBYKAT: 1
 Module-DynamicSubModule:
   XOR: 1
+Module-EnforceLoad:
+  EXODIST: 1
 Module-Extract:
   ADAMK: 1
 Module-Extract-DeclaredMinimumPerl:
@@ -38641,6 +38673,8 @@ Music-NeoRiemannianTonnetz:
   JMATES: 1
 Music-Note:
   BDAGLISH: 1
+Music-Note-Frequency:
+  KROH: 1
 Music-Note-Role-Operators:
   ZARQUON: 1
 Music-PitchNum:
@@ -39556,8 +39590,6 @@ Net-Domain-TMCH:
   MARKOV: 1
 Net-Dopplr:
   SIMONW: 1
-Net-Douban:
-  REDICAPS: 1
 Net-Download-Queue:
   JOHANL: 1
 Net-Download-XMLScripted-XMLScripted:
@@ -42287,7 +42319,8 @@ Options:
 Options-Generator:
   INFRARED: 1
 OpusVL-AppKit:
-  ALTREUS: 1
+  NEWELLC: 1
+OpusVL-AppKit-Schema-AppKitAuthDB:
   NEWELLC: 1
 OpusVL-Preferences:
   NEWELLC: 1
@@ -42865,8 +42898,6 @@ PITA-XML:
   ADAMK: 1
 PIX-Walker:
   LIFO: 1
-PJob:
-  REDICAPS: 1
 PL-sort:
   STRZELEC: 1
 PLDelphi:
@@ -44080,6 +44111,8 @@ Parallel-DataPipe:
   OKHARCH: 1
 Parallel-Downloader:
   MITHALDU: 1
+Parallel-Dragons:
+  NEVES: 1
 Parallel-Fork-BossWorker:
   TWILDE: 1
 Parallel-Fork-BossWorkerAsync:
@@ -44717,8 +44750,6 @@ Pcore-MySQL:
   ZDM: 1
 Pcore-Nginx:
   ZDM: 1
-Pcore-PSGI:
-  ZDM: 1
 Pcore-Pg:
   ZDM: 1
 Pcore-Redis:
@@ -45103,6 +45134,8 @@ Perl-Dist-WiX-BuildPerl-5123:
 Perl-Exactly:
   Exactly: 1
 Perl-Examples:
+  PERLANCAR: 1
+Perl-Examples-Accessors:
   PERLANCAR: 1
 Perl-Folder:
   INGY: 1
@@ -45620,6 +45653,8 @@ PheMail-Vhost:
   DECIUS: 1
 Phenyx-Utils:
   ALEXMASS: 1
+Pherkin-Extension-Weasel:
+  EHUELS: 1
 Phone-Info:
   VVELOX: 1
 PhotoIndex:
@@ -46679,7 +46714,7 @@ Pod-PseudoPod:
 Pod-PseudoPod-CrossReference:
   TIMA: 1
 Pod-PseudoPod-LaTeX:
-  CHROMATIC: 1
+  MORITZ: 1
 Pod-PseudoPod-PerlTricks:
   BDFOY: 1
 Pod-PseudoPod-XHTML:
@@ -51818,6 +51853,8 @@ String-Multibyte:
   SADAHIRO: 1
 String-Mutate:
   TBONE: 1
+String-Normal:
+  JEFFA: 1
 String-Nudge:
   CSSON: 1
 String-Numeric:
@@ -51985,6 +52022,8 @@ Struct-Dumb:
 Struct-Flatten-Template:
   RRWO: 1
 Struct-Path:
+  MIXAS: 1
+Struct-Path-PerlStyle:
   MIXAS: 1
 Stump:
   INGY: 1
@@ -54460,7 +54499,7 @@ Test-Deep-YAML:
 Test-DeepFile:
   GAM: 1
 Test-Dependencies:
-  ZEV: 1
+  EHUELS: 1
 Test-DependentModules:
   DROLSKY: 1
 Test-Depends:
@@ -57642,7 +57681,7 @@ Time-TimeTick:
 Time-Timecode:
   SHAW: 1
 Time-Tiny:
-  ADAMK: 1
+  DAGOLDEN: 1
 Time-Tradedates:
   DSPIZZ: 1
 Time-Tzfile:
@@ -58350,6 +58389,7 @@ Treemap:
 Treex-CS:
   VARISD: 1
 Treex-Core:
+  POPEL: 1
   TKR: 1
   VARISD: 1
   ZABA: 1
@@ -61046,6 +61086,12 @@ WeakRef:
   LUKKA: 1
 WeakRef-Auto:
   GFUJI: 1
+Weasel:
+  EHUELS: 1
+Weasel-Driver-Selenium2:
+  EHUELS: 1
+Weasel-Widgets-Dojo:
+  EHUELS: 1
 Weather-Airport:
   DROOGIE: 1
 Weather-Bug:
@@ -61413,6 +61459,8 @@ WebService-FC2-SpamAPI:
   FUJIWARA: 1
 WebService-Face:
   AASSAD: 1
+WebService-FaucetBOX:
+  TRWWW: 1
 WebService-FileCloud:
   DEFCON: 1
 WebService-FindMyiPhone:
