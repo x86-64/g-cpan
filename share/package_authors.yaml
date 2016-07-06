@@ -241,6 +241,8 @@ API-Plesk:
   NRG: 1
 API-PleskExpand:
   NRG: 1
+API-PureStorage:
+  BENNIE: 1
 API-ReviewBoard:
   CHETANG: 1
 API-Stripe:
@@ -992,6 +994,8 @@ Acme-MetaSyntactic-legomarvelsuperheroes:
 Acme-MetaSyntactic-legomovievideogame:
   BINGOS: 1
 Acme-MetaSyntactic-legopiratesofthecaribbean:
+  BINGOS: 1
+Acme-MetaSyntactic-legostarwarstheforceawakens:
   BINGOS: 1
 Acme-MetaSyntactic-legothehobbit:
   BINGOS: 1
@@ -5037,6 +5041,8 @@ App-Scaffolder-Puppet:
   MSTOCK: 1
 App-Scrobble:
   AJCT: 1
+App-Seacan:
+  GUGOD: 1
 App-SerializeUtils:
   PERLANCAR: 1
 App-Services:
@@ -5659,6 +5665,8 @@ App-plackbench:
   PBOYD: 1
 App-plmetrics:
   BAYASHI: 1
+App-plockf:
+  SREZIC: 1
 App-plstrace:
   PERLANCAR: 1
 App-pmdeps:
@@ -5707,6 +5715,8 @@ App-relpath:
   PERLANCAR: 1
 App-remarkpl:
   JHTHORSEN: 1
+App-repo:
+  ZDENEK: 1
 App-reposdb:
   PERLANCAR: 1
 App-revealup:
@@ -8632,7 +8642,6 @@ Business-CreditCard-Object:
   TMTM: 1
 Business-CyberSource:
   HGDEV: 1
-  XENO: 1
 Business-CyberSource-Report:
   AUBERTG: 1
 Business-DE-KontoCheck:
@@ -12292,6 +12301,8 @@ Catmandu-Fix-XML:
   NJFRANCK: 1
 Catmandu-Fix-cmd:
   NICS: 1
+Catmandu-Fix-marc_spec:
+  KLEE: 1
 Catmandu-Geocode:
   HOCHSTEN: 1
 Catmandu-Identifier:
@@ -13486,7 +13497,7 @@ Class-Refresh:
 Class-ReturnValue:
   JESSE: 1
 Class-Role:
-  LPALMER: 1
+  NEILB: 1
 Class-Roles:
   CHROMATIC: 1
 Class-Root:
@@ -15503,6 +15514,7 @@ DBD-monetdb:
   SGOELDNER: 1
 DBD-mysql:
   CAPTTOFU: 1
+  MICHIELB: 1
 DBD-mysql-AutoTypes:
   GRISHACE: 1
 DBD-mysql-SimpleMySQL:
@@ -17201,7 +17213,7 @@ Dancer2-Plugin-Queue-MongoDB:
 Dancer2-Plugin-REST:
   YANICK: 1
 Dancer2-Plugin-Redis:
-  BURNERSK: 1
+  SYSPETE: 1
 Dancer2-Plugin-Res:
   MANWAR: 1
 Dancer2-Plugin-RootURIFor:
@@ -17247,7 +17259,7 @@ Dancer2-Session-MongoDB:
 Dancer2-Session-PSGI:
   RUSSELLJ: 1
 Dancer2-Session-Redis:
-  BURNERSK: 1
+  SYSPETE: 1
 Dancer2-Session-Sereal:
   DAGOLDEN: 1
 Dancer2-Template-Caribou:
@@ -17869,8 +17881,6 @@ Data-MessagePack-Stream:
   TYPESTER: 1
 Data-Microformat:
   USSJOIN: 1
-Data-Mining-Apriori:
-  AGRACIANO: 1
 Data-Mining-AssociationRules:
   DFRANKOW: 1
 Data-Miscellany:
@@ -18231,6 +18241,12 @@ Data-Sah:
 Data-Sah-Coerce:
   PERLANCAR: 1
 Data-Sah-Coerce-perl-date-str_alami:
+  PERLANCAR: 1
+Data-Sah-Coerce-perl-date-str_alami_en:
+  PERLANCAR: 1
+Data-Sah-Coerce-perl-date-str_alami_id:
+  PERLANCAR: 1
+Data-Sah-Coerce-perl-date-str_flexible:
   PERLANCAR: 1
 Data-Sah-Coerce-perl-date-str_natural:
   PERLANCAR: 1
@@ -19326,6 +19342,8 @@ Deep-Hash-Utils:
   NEILB: 1
 DefHash:
   PERLANCAR: 1
+DefHash-Examples:
+  PERLANCAR: 1
 Defaults-Mauke:
   MAUKE: 1
 Defaults-Modern:
@@ -19764,6 +19782,8 @@ Devel-REPL-Plugin-Editor:
   RHOELZ: 1
 Devel-REPL-Plugin-LazyLoad:
   RHOELZ: 1
+Devel-REPL-Plugin-ModuleAutoLoader:
+  JAMESR: 1
 Devel-REPL-Plugin-ReadLineHistory-WithoutExpansion:
   TSIBLEY: 1
 Devel-REPL-Profile-TSIBLEY:
@@ -19985,6 +20005,8 @@ Device-CableModem-Zoom5341J:
 Device-Cdio:
   ROCKY: 1
 Device-Chip:
+  PEVANS: 1
+Device-Chip-AVR_HVSP:
   PEVANS: 1
 Device-Chip-Adapter-LinuxKernel:
   SIMCOP: 1
@@ -22993,7 +23015,7 @@ FTDI-D2XX:
 FTN-Addr:
   VAL: 1
 FTN-Address:
-  STRO: 1
+  JAME: 1
 FTN-Bit_flags:
   VAL: 1
 FTN-Database:
@@ -23005,7 +23027,7 @@ FTN-Log:
 FTN-Message-serialno:
   VAL: 1
 FTN-Nodelist:
-  STRO: 1
+  JAME: 1
 FTN-Outbound-BSO:
   VAL: 1
 FTN-Outbound-Reference_file:
@@ -24079,6 +24101,8 @@ Filter-Dockerfile:
   CORYB: 1
 Filter-EOF:
   PHAYLON: 1
+Filter-Encoding:
+  SPROUT: 1
 Filter-ExtractSource:
   JONALLEN: 1
 Filter-HereDocIndent:
@@ -25748,6 +25772,8 @@ Geo-Google-StaticMaps-Navigation:
   DANJOU: 1
 Geo-Google-StaticMaps-V2:
   MRDVT: 1
+Geo-GoogleEarth-AutoTour:
+  GRYPHON: 1
 Geo-GoogleEarth-Document:
   DAHILLMA: 1
 Geo-GoogleEarth-Pluggable:
@@ -28665,6 +28691,8 @@ HeliosX-Logger-Log4perl:
   LAJANDY: 1
 HeliosX-Logger-Syslog:
   LAJANDY: 1
+Helper-Deck:
+  ZENBAE: 1
 Here-Template:
   ZZZ: 1
 Heritable-Types:
@@ -32540,6 +32568,8 @@ Linux-ProcessInfo:
   MART: 1
 Linux-RTC-Ioctl:
   TOUGHY: 1
+Linux-Seccomp:
+  MGV: 1
 Linux-Smaps:
   OPI: 1
 Linux-Smaps-Tiny:
@@ -33863,6 +33893,8 @@ MARC-Record-Generic:
   CFOUTS: 1
 MARC-Record-Stats:
   CRUSOE: 1
+MARC-Spec:
+  KLEE: 1
 MARC-SubjectMap:
   ESUMMERS: 1
 MARC-Transform:
@@ -34783,6 +34815,8 @@ Map-Tube-Warsaw:
   SKIM: 1
 Map-Tube-Yekaterinburg:
   SKIM: 1
+MapReduce-Framework-Simple:
+  ADOKOY: 1
 Maplat:
   CAVAC: 1
 Maple:
@@ -35078,10 +35112,13 @@ Math-ConvexHull-MonotoneChain:
 Math-Counting:
   GENE: 1
 Math-Currency:
-  JPEACOCK: 1
   MSCHOUT: 1
 Math-Curve-Hilbert:
   TEEJAY: 1
+Math-DWT:
+  KROH: 1
+Math-DWT-UDWT:
+  KROH: 1
 Math-Decimal:
   ZEFRAM: 1
 Math-Decimal128:
@@ -36942,6 +36979,8 @@ MojoX-Log-Fast:
   POWERMAN: 1
 MojoX-Log-Log4perl:
   GARU: 1
+MojoX-Log-Log4perl-Tiny:
+  YOWCOW: 1
 MojoX-Log-Syslog:
   FAYLAND: 1
 MojoX-Logite:
@@ -40172,6 +40211,8 @@ Net-LDAP-LDAPhash:
   VVELOX: 1
 Net-LDAP-Makepath:
   VVELOX: 1
+Net-LDAP-SID:
+  KARMAN: 1
 Net-LDAP-Server:
   AAR: 1
 Net-LDAP-Server-Test:
@@ -42123,7 +42164,7 @@ Ogg-Theora-LibTheora:
 Ogg-Vorbis-Decoder:
   DANIEL: 1
 Ogg-Vorbis-Header:
-  DBP: 1
+  DAVECROSS: 1
 Ogg-Vorbis-Header-PurePerl:
   DANIEL: 1
 Ogg-Vorbis-LibVorbis:
@@ -44236,6 +44277,8 @@ Params-Validate-Dependencies-all_or_none_of:
   DCANTRELL: 1
 Params-Validate-Micro:
   HDP: 1
+Params-ValidationCompiler:
+  DROLSKY: 1
 Paranoid:
   Paranoid: 1
 Paranoid-BerkeleyDB:
@@ -44742,11 +44785,7 @@ Pcore-Captcha:
   ZDM: 1
 Pcore-DBD:
   ZDM: 1
-Pcore-Firebird:
-  ZDM: 1
 Pcore-GeoIP:
-  ZDM: 1
-Pcore-MySQL:
   ZDM: 1
 Pcore-Nginx:
   ZDM: 1
@@ -45684,6 +45723,7 @@ Physics-UEMColumn:
 Physics-Udunits2:
   HEIKOK: 1
 Physics-Unit:
+  JBERGER: 1
   KLORTHO: 1
 Physics-Water-SoundSpeed:
   TROXEL: 1
@@ -46309,6 +46349,8 @@ Plack-Middleware-SetAccept:
   RHOELZ: 1
 Plack-Middleware-SetEnvFromHeader:
   TSIBLEY: 1
+Plack-Middleware-SetLocalEnv:
+  FUJIWARA: 1
 Plack-Middleware-SignedCookies:
   ARISTOTLE: 1
 Plack-Middleware-SizeLimit:
@@ -49256,6 +49298,8 @@ SMS-Handler:
   LUISMUNOZ: 1
 SMS-Matrix:
   MINEK: 1
+SMS-MessageBird:
+  JAMESR: 1
 SMS-OVH:
   PACOEB: 1
 SMS-Ringtone-RTTTL-MIDI:
@@ -49302,6 +49346,8 @@ SMS-Send-KR-CoolSMS:
   KEEDI: 1
 SMS-Send-Kannel-SMSbox:
   MRDVT: 1
+SMS-Send-MessageBird:
+  JAMESR: 1
 SMS-Send-NANP-Raco_TMO:
   MRDVT: 1
 SMS-Send-NANP-TextPower:
@@ -54729,6 +54775,8 @@ Test-Inspector:
   STRYTOAST: 1
 Test-Install-METArequires:
   JKUTEJ: 1
+Test-Instance-Apache:
+  TBSLIVER: 1
 Test-Inter:
   SBECK: 1
 Test-Internet:
@@ -55458,7 +55506,7 @@ Test-VariousBits:
 Test-Varnish:
   COSIMO: 1
 Test-Vars:
-  DROLSKY: 1
+  GFUJI: 1
 Test-Verbose:
   RBS: 1
 Test-Version:
@@ -60334,6 +60382,8 @@ WWW-PGXN:
   DWHEELER: 1
 WWW-PIDS:
   LTP: 1
+WWW-PSN:
+  ZSHENGLI: 1
 WWW-PTV:
   LTP: 1
 WWW-Page:
@@ -63957,6 +64007,7 @@ YAMC:
   APIOLI: 1
 YAML:
   INGY: 1
+  TINITA: 1
 YAML-Accessor:
   JANE: 1
 YAML-Active:
@@ -64974,8 +65025,6 @@ multidimensional:
   ILMARI: 1
 mylib:
   GAAS: 1
-mysubs:
-  CHOCOLATE: 1
 namespace:
   AMICHAUER: 1
 namespace-alias:
@@ -65530,8 +65579,6 @@ use:
   AUDREYT: 1
 utf8-all:
   DOHERTY: 1
-v6:
-  FGLOCK: 1
 v6-alpha:
   AUDREYT: 1
 vFeed:
