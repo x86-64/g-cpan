@@ -48,8 +48,6 @@ ACME-Error-IgpayAtinlay:
   CWEST: 1
 ACME-Error-Translate:
   CWEST: 1
-ACME-Frobozz:
-  NEILB: 1
 ACME-MBHall:
   MBHALL: 1
 ACME-MSDN-SPUtility:
@@ -1145,6 +1143,8 @@ Acme-PERLANCAR-Test-Depak:
 Acme-PERLANCAR-Test-DuplicateScript:
   PERLANCAR: 1
 Acme-PERLANCAR-Test-FlipFlop:
+  PERLANCAR: 1
+Acme-PERLANCAR-Test-Images:
   PERLANCAR: 1
 Acme-PERLANCAR-Test-Performance:
   PERLANCAR: 1
@@ -2297,6 +2297,8 @@ Alt-Date-Extract-SHARYANTO:
   SHARYANTO: 1
 Alt-Devel-GlobalDestruction-XS-Inline:
   INGY: 1
+Alt-FFI-libffi:
+  PLICEASE: 1
 Alt-IO-All-new:
   INGY: 1
 Alt-Math-Prime-FastSieve-Inline:
@@ -4162,6 +4164,8 @@ App-DBCritic:
   MJGARDNER: 1
 App-DBI-Loader:
   YAKEX: 1
+App-DBIUtils:
+  PERLANCAR: 1
 App-DDFlare:
   PWR: 1
 App-DDNS-Namecheap:
@@ -4505,6 +4509,8 @@ App-JSON-to:
   DOLMEN: 1
 App-Jawk:
   JOSHR: 1
+App-JenkinsCli:
+  IVANWILLS: 1
 App-JobLog:
   DFH: 1
 App-KGB:
@@ -4935,6 +4941,8 @@ App-Prove-RunScripts:
   YSASAKI: 1
 App-Prove-Watch:
   CREIN: 1
+App-ProveWithPrereqsOnly:
+  PERLANCAR: 1
 App-Provision-Tiny:
   GENE: 1
 App-ProxyHunter-Model-Schema-Pg:
@@ -6703,7 +6711,7 @@ Authen-NTLM-HTTP:
 Authen-NZRealMe:
   GRANTM: 1
 Authen-OATH:
-  SIFUKURT: 1
+  OALDERS: 1
 Authen-OATH-KeyURI:
   RITOU: 1
 Authen-OATH-OCRA:
@@ -6925,7 +6933,7 @@ B-Hooks-OP-Check-EntersubForCV:
 B-Hooks-OP-Check-StashChange:
   FLORA: 1
 B-Hooks-OP-PPAddr:
-  FLORA: 1
+  ETHER: 1
 B-Hooks-Parser:
   ETHER: 1
 B-Hooks-XSUB-CallAsOp:
@@ -7218,8 +7226,6 @@ Be-Query:
   TSPIN: 1
 Beagle:
   SUNNAVY: 1
-Beam-Emitter:
-  PREACTION: 1
 Beam-Wire:
   PREACTION: 1
 Beam-Wire-Moose:
@@ -7274,6 +7280,8 @@ Bencher-Scenario-ListUtil:
   PERLANCAR: 1
 Bencher-Scenario-LogAny:
   PERLANCAR: 1
+Bencher-Scenario-Nums2WordsModules:
+  PERLANCAR: 1
 Bencher-Scenario-PERLANCARTreeExamples:
   PERLANCAR: 1
 Bencher-Scenario-PermuteNamedModules:
@@ -7299,6 +7307,8 @@ Bencher-Scenario-Textsprintfn:
 Bencher-Scenario-URIEscaping:
   PERLANCAR: 1
 Bencher-Scenario-WordListModules:
+  PERLANCAR: 1
+Bencher-Scenario-Words2NumsModules:
   PERLANCAR: 1
 Bencher-Scenario-ZodiacModules:
   PERLANCAR: 1
@@ -7711,8 +7721,6 @@ Bio-RNA-SpliceSites-Scoring-MaxEntScan:
   BRYKETOS: 1
 Bio-Regexp:
   FRACTAL: 1
-Bio-Resistome:
-  AJPAGE: 1
 Bio-RetrieveAssemblies:
   AJPAGE: 1
 Bio-Roary:
@@ -13762,6 +13770,8 @@ Code-Statistics:
 Code-TidyAll:
   DROLSKY: 1
   JSWARTZ: 1
+Code-TidyAll-Plugin-ESLint:
+  MAXMIND: 1
 Code-TidyAll-Plugin-Go:
   MAXMIND: 1
 Code-TidyAll-Plugin-Perl-AlignMooseAttributes:
@@ -15362,6 +15372,8 @@ DBD-Amazon:
 DBD-AnyData:
   JZUCKER: 1
   REHSACK: 1
+DBD-AnyData2:
+  REHSACK: 1
 DBD-CSV:
   HMBRAND: 1
   JZUCKER: 1
@@ -15857,6 +15869,8 @@ DBIx-Class-Result-ProxyField:
   NOUDARD: 1
 DBIx-Class-Result-Validation:
   NOUDARD: 1
+DBIx-Class-ResultClass-HashRefInflator-UTF8:
+  AKZHAN: 1
 DBIx-Class-ResultSet-AccessorsEverywhere:
   MGRIMES: 1
 DBIx-Class-ResultSet-Data-Pageset:
@@ -15974,6 +15988,8 @@ DBIx-Connection:
   ADRIANWIT: 1
 DBIx-Connector:
   DWHEELER: 1
+DBIx-Connector-Pool:
+  ANTONPETR: 1
 DBIx-ContextualFetch:
   TMTM: 1
 DBIx-Cookbook:
@@ -16225,6 +16241,8 @@ DBIx-Perlish:
   GRUBER: 1
 DBIx-Pg-CallFunction:
   JOELJAC: 1
+DBIx-PgCoroAnyEvent:
+  ANTONPETR: 1
 DBIx-PgLink:
   ASVBR: 1
 DBIx-PhraseBook:
@@ -17140,6 +17158,8 @@ Dancer2-Plugin-Cache-CHI:
   YANICK: 1
 Dancer2-Plugin-Captcha:
   MANWAR: 1
+Dancer2-Plugin-Cart:
+  AMORTEGUI: 1
 Dancer2-Plugin-Chain:
   MANWAR: 1
 Dancer2-Plugin-ConditionalCaching:
@@ -17253,7 +17273,7 @@ Dancer2-Session-DBIC:
 Dancer2-Session-JSON:
   CROMEDOME: 1
 Dancer2-Session-Memcached:
-  DAGOLDEN: 1
+  YANICK: 1
 Dancer2-Session-MongoDB:
   DAGOLDEN: 1
 Dancer2-Session-PSGI:
@@ -17791,6 +17811,8 @@ Data-ID-URL-Shrink:
   YAKUBORI: 1
 Data-IEEE754:
   DROLSKY: 1
+Data-IEEE754-Tools:
+  PETERCJ: 1
 Data-IPV4-Range-Parse:
   AKALINUX: 1
 Data-Importer:
@@ -17881,6 +17903,8 @@ Data-MessagePack-Stream:
   TYPESTER: 1
 Data-Microformat:
   USSJOIN: 1
+Data-Mining-Apriori:
+  AGRACIANO: 1
 Data-Mining-AssociationRules:
   DFRANKOW: 1
 Data-Miscellany:
@@ -20862,6 +20886,8 @@ Dist-Zilla-Plugin-For-App-shcompgen:
   PERLANCAR: 1
 Dist-Zilla-Plugin-For-Data-Sah:
   PERLANCAR: 1
+Dist-Zilla-Plugin-For-DefHash-Examples:
+  PERLANCAR: 1
 Dist-Zilla-Plugin-FullFaker:
   STRO: 1
 Dist-Zilla-Plugin-GatherFromManifest:
@@ -20934,6 +20960,8 @@ Dist-Zilla-Plugin-InsertCommandOutput:
   PERLANCAR: 1
 Dist-Zilla-Plugin-InsertCopyright:
   DAGOLDEN: 1
+Dist-Zilla-Plugin-InsertDistImage:
+  PERLANCAR: 1
 Dist-Zilla-Plugin-InsertExample:
   PLICEASE: 1
 Dist-Zilla-Plugin-InsertExample-FromMojoTemplates:
@@ -21228,6 +21256,8 @@ Dist-Zilla-Plugin-ShareDir-Clean:
   PERLANCAR: 1
 Dist-Zilla-Plugin-ShareDir-Tarball:
   YANICK: 1
+Dist-Zilla-Plugin-ShareEmbed:
+  SKAJI: 1
 Dist-Zilla-Plugin-Signature:
   GBARR: 1
 Dist-Zilla-Plugin-SmokeTests:
@@ -21370,6 +21400,8 @@ Dist-Zilla-Plugin-Twitter:
   DOHERTY: 1
 Dist-Zilla-Plugin-Upload-SCP:
   DAGOLDEN: 1
+Dist-Zilla-Plugin-UploadToCPAN-WWWPAUSESimple:
+  PERLANCAR: 1
 Dist-Zilla-Plugin-UploadToCpanSite:
   STEPHENCA: 1
 Dist-Zilla-Plugin-UploadToDuckPAN:
@@ -21470,6 +21502,8 @@ Dist-Zilla-PluginBundle-Author-MELO:
   MELO: 1
 Dist-Zilla-PluginBundle-Author-NMBOOKER:
   NMBOOKER: 1
+Dist-Zilla-PluginBundle-Author-OALDERS:
+  OALDERS: 1
 Dist-Zilla-PluginBundle-Author-OLIVER:
   OLIVER: 1
 Dist-Zilla-PluginBundle-Author-OpusVL:
@@ -21923,6 +21957,8 @@ ESplit:
   HCAMP: 1
 ETL-Pequel3-PlaceHolder:
   GAFFIE: 1
+ETL-Pipeline:
+  RBWOHLFAR: 1
 ETL-Yertl:
   PREACTION: 1
 ETLp:
@@ -22636,6 +22672,8 @@ EvilBoss:
   evilboss: 1
 Evo:
   ALEXBYK: 1
+Evo-XS:
+  ALEXBYK: 1
 Example-XS-FasterHashes:
   examples: 1
 Examples-Generator:
@@ -22857,6 +22895,8 @@ ExtUtils-ModuleMaker-PBP:
   JKEENAN: 1
 ExtUtils-ModuleMaker-TT:
   DAGOLDEN: 1
+ExtUtils-PL2Bat:
+  LEONT: 1
 ExtUtils-ParseXS:
   SMUELLER: 1
 ExtUtils-PerlPP:
@@ -25478,7 +25518,7 @@ Gearman-Glutch:
 Gearman-JobScheduler:
   LVALIUKAS: 1
 Gearman-Server:
-  DORMANDO: 1
+  PALIK: 1
 Gearman-SlotManager:
   KHS: 1
 Gearman-Spawner:
@@ -25979,6 +26019,8 @@ Geo-Yandex:
   ANDY: 1
 Geo-iArea:
   KOKOGIKO: 1
+Geo-libpostal:
+  DFARRELL: 1
 GeoHash:
   YAPPO: 1
 GeoIP2:
@@ -27040,6 +27082,8 @@ HOI-Match:
 HON-Deploy:
   ALEXMASS: 1
 HON-EC2-Snapshots-Monitoring:
+  WILLBELL: 1
+HON-Http-UrlChecker-Service:
   WILLBELL: 1
 HON-I18N-Converter:
   WILLBELL: 1
@@ -29501,8 +29545,6 @@ Icon-Theme-Index-Parse:
   VVELOX: 1
 Icon-Theme-List:
   VVELOX: 1
-Identifier-PL-PESEL:
-  ERRNO: 1
 IfLoop:
   WILLIS: 1
 IkiWiki-Plugin-disqus:
@@ -30078,8 +30120,6 @@ Interval:
   KTORP: 1
 IntervalTree:
   BENBOOTH: 1
-Introspector:
-  MDUPONT: 1
 Iodef-Pb-Simple:
   iodef: 1
 Ipernity-API:
@@ -31344,6 +31384,8 @@ LaTeX-Parser:
   SVENH: 1
 LaTeX-Pod:
   SCHUBIGER: 1
+LaTeX-Recode:
+  AMBS: 1
 LaTeX-TOM:
   SCHUBIGER: 1
 LaTeX-Table:
@@ -31590,6 +31632,8 @@ Lexical-Hints:
   DCONWAY: 1
 Lexical-Import:
   ZEFRAM: 1
+Lexical-Importer:
+  EXODIST: 1
 Lexical-Persistence:
   RCAPUTO: 1
 Lexical-SealRequireHints:
@@ -35842,7 +35886,7 @@ Memoize:
 Memoize-Expire-ByInstance:
   JBEVERLY: 1
 Memoize-ExpireLRU:
-  BPOWERS: 1
+  NEILB: 1
 Memoize-HashKey-Ignore:
   BINARY: 1
 Memoize-Lift:
@@ -36148,7 +36192,7 @@ Mixin-Linewise:
 Mknod:
   RLZWART: 1
 Mo:
-  INGY: 1
+  TINITA: 1
 Mo-Benchmarks:
   INGY: 1
 Mo-xxx:
@@ -36644,6 +36688,10 @@ Module-Patch:
 Module-Path:
   NEILB: 1
 Module-Path-More:
+  PERLANCAR: 1
+Module-Path-More-Patch-Hide:
+  PERLANCAR: 1
+Module-Path-Patch-Hide:
   PERLANCAR: 1
 Module-Pluggable:
   SIMONW: 1
@@ -37635,6 +37683,8 @@ Mojolicious-Plugin-Wolowitz:
   GUGOD: 1
 Mojolicious-Plugin-WriteExcel:
   ZAKAME: 1
+Mojolicious-Plugin-XML-LX:
+  RSHADOW: 1
 Mojolicious-Plugin-XML-Loy:
   AKRON: 1
 Mojolicious-Plugin-XRD:
@@ -39934,8 +39984,6 @@ Net-GraphSpace:
   IRONCAMEL: 1
 Net-Graphite:
   SLANNING: 1
-Net-Graphite-Reader:
-  GIMPSON: 1
 Net-Graylog-Client:
   MOODFARM: 1
 Net-Groonga-HTTP:
@@ -42836,7 +42884,7 @@ PGObject-Type-BigFloat:
 PGObject-Type-Composite:
   EINHVERFR: 1
 PGObject-Type-DateTime:
-  EINHVERFR: 1
+  EHUELS: 1
 PGObject-Type-JSON:
   EINHVERFR: 1
 PGObject-Util-BulkLoad:
@@ -46029,6 +46077,8 @@ Plack-Middleware-CookieMonster:
   MANNI: 1
 Plack-Middleware-CrossOrigin:
   HAARG: 1
+Plack-Middleware-Curlizer:
+  BAYASHI: 1
 Plack-Middleware-CustomErrorDocument:
   MJEMMESON: 1
 Plack-Middleware-DBGp:
@@ -46477,6 +46527,8 @@ Platform-Windows:
   TOBYINK: 1
 Plient:
   SUNNAVY: 1
+Plift:
+  CAFEGRATZ: 1
 Plone-UserAgent:
   DROLSKY: 1
 Plosurin:
@@ -48288,6 +48340,8 @@ RT-Extension-StallFutureTicket:
   BHEISIG: 1
 RT-Extension-SummaryByUser:
   ALEXMV: 1
+RT-Extension-Tags:
+  BPS: 1
 RT-Extension-TicketAging:
   RUZ: 1
 RT-Extension-TicketLocking:
@@ -49202,7 +49256,6 @@ SDK-SoundCloud:
   DESERTFOX: 1
 SDL:
   FROGGS: 1
-  JTPALMER: 1
   KTHAKORE: 1
 SDL-App-FPS:
   sdl: 1
@@ -49568,6 +49621,8 @@ SQL-Abstract-Query:
   BLUEFEET: 1
 SQL-Admin:
   BARNEY: 1
+SQL-AlterTable-SQLite:
+  PERLANCAR: 1
 SQL-AnchoredWildcards:
   MLFISHER: 1
 SQL-Beautify:
@@ -50971,6 +51026,8 @@ Socket-PassAccessRights:
   SAMPO: 1
 Socket6:
   UMEMOTO: 1
+SocketIO-Emitter:
+  TORITSUYO: 1
 Softref:
   modules: 1
 Software-Catalog:
@@ -53692,7 +53749,7 @@ Template-Plugin-LLHash:
 Template-Plugin-LanguageName:
   NICS: 1
 Template-Plugin-Latex:
-  EINHVERFR: 1
+  EHUELS: 1
 Template-Plugin-Ligature:
   PATCH: 1
 Template-Plugin-Lingua-Conjunction:
@@ -55048,6 +55105,8 @@ Test-More-Unlike:
   BAYASHI: 1
 Test-Most:
   OVID: 1
+Test-Mountebank:
+  DAGFINNR: 1
 Test-MultiFork:
   modules: 1
 Test-MultiProcess:
@@ -60790,7 +60849,7 @@ WWW-Shorten-Google:
 WWW-Shorten-ISSM:
   ALYX: 1
 WWW-Shorten-IsGd:
-  DOHERTY: 1
+  CAPOEIRAB: 1
 WWW-Shorten-LYTN:
   ABLAKELY: 1
 WWW-Shorten-MahewinSexyUrl:
@@ -60824,7 +60883,7 @@ WWW-Shorten-SnipURL:
 WWW-Shorten-URLchen:
   DATA: 1
 WWW-Shorten-VGd:
-  DOHERTY: 1
+  CAPOEIRAB: 1
 WWW-Shorten-Yahooit:
   CWIMMER: 1
 WWW-Shorten-Yourls:
@@ -64891,6 +64950,8 @@ lib-ini:
   PSHANGOV: 1
 lib-none:
   SHARYANTO: 1
+lib-prereqs-only:
+  PERLANCAR: 1
 lib-projectroot:
   DOMM: 1
 lib-remote:
