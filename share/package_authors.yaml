@@ -793,6 +793,8 @@ Acme-HidamariSketch:
   AKIHIRO: 1
 Acme-Hidek:
   GFUJI: 1
+Acme-Hodor:
+  ZJT: 1
 Acme-Hoge:
   MAHITO: 1
 Acme-Holy:
@@ -1162,8 +1164,6 @@ Acme-PM-Barcelona:
   ALEXM: 1
 Acme-PM-Berlin-Meetings:
   SREZIC: 1
-Acme-PM-Chicago:
-  PETDANCE: 1
 Acme-PM-Paris-Meetings:
   DOLMEN: 1
 Acme-POE-Acronym-Generator:
@@ -2697,8 +2697,6 @@ AnyEvent-Handle-ZeroMQ:
   CINDY: 1
 AnyEvent-Hiredis:
   WHITNEY: 1
-AnyEvent-HiveJSO:
-  GETTY: 1
 AnyEvent-I3:
   MSTPLBG: 1
 AnyEvent-IMAP:
@@ -3987,7 +3985,7 @@ App-Benchmark-Accessors:
 App-Bernard:
   MARNANEL: 1
 App-BigQuery-Importer-MySQL:
-  YOHEIMUTA: 1
+  MERU: 1
 App-Birthday:
   FARHAD: 1
 App-Bondage:
@@ -4263,6 +4261,8 @@ App-ElasticSearch-Utilities:
   BLHOTSKY: 1
 App-Env:
   DJERIUS: 1
+App-Env-Login:
+  DJERIUS: 1
 App-ErrorCalculator:
   SMUELLER: 1
 App-EvalServer:
@@ -4461,8 +4461,6 @@ App-Highlander:
   MCMILLHJ: 1
 App-HistHub:
   TYPESTER: 1
-App-HiveHub:
-  GETTY: 1
 App-I18N:
   CORNELIUS: 1
 App-INIUtils:
@@ -4681,6 +4679,8 @@ App-MultiModule-Tasks-FollowTail:
   DIEDERICH: 1
 App-MultiModule-Tasks-HTTPClient:
   DIEDERICH: 1
+App-MultiModule-Tasks-Heartbeat:
+  DIEDERICH: 1
 App-MultiModule-Tasks-MongoDB:
   DIEDERICH: 1
 App-MultiModule-Tasks-NagiosCmd:
@@ -4876,6 +4876,8 @@ App-PigLatin:
   DELON: 1
 App-Pimpd:
   WOLDRICH: 1
+App-Pinpp:
+  PJF: 1
 App-PipeFilter:
   RCAPUTO: 1
 App-Pipeline-Simple:
@@ -5789,6 +5791,8 @@ App-td:
   PERLANCAR: 1
 App-test-travis:
   GFUJI: 1
+App-testyourears:
+  WLMB: 1
 App-texttable:
   PERLANCAR: 1
 App-tfind:
@@ -5801,6 +5805,8 @@ App-tmblr:
   BIE: 1
 App-todoist:
   NEILB: 1
+App-tonematch:
+  WLMB: 1
 App-tracepm:
   PERLANCAR: 1
 App-tt:
@@ -7226,6 +7232,8 @@ Be-Query:
   TSPIN: 1
 Beagle:
   SUNNAVY: 1
+Beam-Emitter:
+  PREACTION: 1
 Beam-Wire:
   PREACTION: 1
 Beam-Wire-Moose:
@@ -7334,6 +7342,8 @@ Bencher-Scenarios-DataCleansing:
   PERLANCAR: 1
 Bencher-Scenarios-DataDmp:
   PERLANCAR: 1
+Bencher-Scenarios-DataModeMerge:
+  PERLANCAR: 1
 Bencher-Scenarios-DataSah:
   PERLANCAR: 1
 Bencher-Scenarios-DataSahParams:
@@ -7353,6 +7363,8 @@ Bencher-Scenarios-GetoptLong:
 Bencher-Scenarios-GetoptLongComplete:
   PERLANCAR: 1
 Bencher-Scenarios-GetoptLongEvenLess:
+  PERLANCAR: 1
+Bencher-Scenarios-HumanDateParsingModules:
   PERLANCAR: 1
 Bencher-Scenarios-LanguageExpr:
   PERLANCAR: 1
@@ -7991,8 +8003,6 @@ Bot-BasicBot-Pluggable-Module-Nagios:
   BIGPRESH: 1
 Bot-BasicBot-Pluggable-Module-Network:
   SIMONW: 1
-Bot-BasicBot-Pluggable-Module-NorskEngelsk:
-  COSIMO: 1
 Bot-BasicBot-Pluggable-Module-Notes:
   JROBINSON: 1
 Bot-BasicBot-Pluggable-Module-Notify:
@@ -12106,8 +12116,6 @@ Catalyst-View-Text-MicroTemplate-PerRequest:
   JJNAPIORK: 1
 Catalyst-View-Text-Template:
   RJBS: 1
-Catalyst-View-TextForge:
-  MAURICE: 1
 Catalyst-View-Thumbnail:
   ALTREUS: 1
 Catalyst-View-Vega:
@@ -12291,8 +12299,6 @@ Catmandu-Breaker:
   HOCHSTEN: 1
 Catmandu-Cmd-repl:
   NICS: 1
-Catmandu-CrossRef:
-  VPEIL: 1
 Catmandu-DBI:
   NJFRANCK: 1
 Catmandu-DOI:
@@ -16328,8 +16334,7 @@ DBIx-SchemaChecksum:
 DBIx-ScopedTransaction:
   AUBERTG: 1
 DBIx-SearchBuilder:
-  ALEXMV: 1
-  TSIBLEY: 1
+  BPS: 1
 DBIx-SecureCGI:
   POWERMAN: 1
 DBIx-Sequence:
@@ -17909,8 +17914,6 @@ Data-Mining-AssociationRules:
   DFRANKOW: 1
 Data-Miscellany:
   MARCEL: 1
-Data-ModeMerge:
-  PERLANCAR: 1
 Data-Model:
   YAPPO: 1
 Data-Monad:
@@ -18294,6 +18297,8 @@ Data-Sah-Object:
   PERLANCAR: 1
 Data-Sah-Params:
   PERLANCAR: 1
+Data-Sah-Resolve:
+  PERLANCAR: 1
 Data-Sah-Terse:
   PERLANCAR: 1
 Data-Sah-Util-Subschema:
@@ -18626,7 +18631,7 @@ Data-VarPrint:
 Data-Variant:
   LEIJON: 1
 Data-Verifier:
-  GPHAT: 1
+  MANWAR: 1
 Data-Visitor:
   DOY: 1
 Data-Visitor-Encode:
@@ -20190,8 +20195,6 @@ Device-PiGlow:
   JSTOWE: 1
 Device-PiLite:
   JSTOWE: 1
-Device-Plugwise:
-  HOLLIE: 1
 Device-ProXR:
   PDURDEN: 1
 Device-Quasar3108:
@@ -21404,8 +21407,6 @@ Dist-Zilla-Plugin-UploadToCPAN-WWWPAUSESimple:
   PERLANCAR: 1
 Dist-Zilla-Plugin-UploadToCpanSite:
   STEPHENCA: 1
-Dist-Zilla-Plugin-UploadToDuckPAN:
-  GETTY: 1
 Dist-Zilla-Plugin-UploadToGoogleCode:
   DOHERTY: 1
 Dist-Zilla-Plugin-UploadToSFTP:
@@ -22320,7 +22321,6 @@ Email-Template:
 Email-Thread:
   RJBS: 1
 Email-Valid:
-  MAURICE: 1
   RJBS: 1
 Email-Valid-Loose:
   MIYAGAWA: 1
@@ -22336,8 +22336,6 @@ Embedix-ECD:
   BEPPU: 1
 Embperl:
   GRICHTER: 1
-Empyrion:
-  GETTY: 1
 Enbld:
   MAGNOLIA: 1
 Enbugger:
@@ -25608,6 +25606,8 @@ Gentoo-Probe:
   RPAUL: 1
 Gentoo-Util-VirtualDepend:
   KENTNL: 1
+Gentoo-VDB:
+  KENTNL: 1
 Geo-Address-Formatter:
   EDF: 1
 Geo-Address-Mail:
@@ -28771,8 +28771,6 @@ Hiredis-Raw:
   WHITNEY: 1
 Hither:
   INGY: 1
-HiveJSO:
-  GETTY: 1
 Hobocamp:
   AFLOTT: 1
 Homer:
@@ -29545,6 +29543,8 @@ Icon-Theme-Index-Parse:
   VVELOX: 1
 Icon-Theme-List:
   VVELOX: 1
+Identifier-PL-PESEL:
+  ERRNO: 1
 IfLoop:
   WILLIS: 1
 IkiWiki-Plugin-disqus:
@@ -30737,6 +30737,8 @@ Keyword-Declare:
 Keyword-Simple:
   MAUKE: 1
 Keyword-TreeFold:
+  LEMBARK: 1
+Keyword-Value:
   LEMBARK: 1
 Keyword-With:
   MCMILLHJ: 1
@@ -33273,6 +33275,8 @@ Locale-Maketext-Lexicon-Properties:
   MOZNION: 1
 Locale-Maketext-Lexicon-Slurp:
   NUFFIN: 1
+Locale-Maketext-ManyPluralForms:
+  BINARY: 1
 Locale-Maketext-Pseudo:
   DMUEY: 1
 Locale-Maketext-Simple:
@@ -37037,6 +37041,8 @@ MojoX-Moose-Controller:
   CHGOVUK: 1
 MojoX-Mysql:
   KOSTYA: 1
+MojoX-NetstringStream:
+  WIEGEROP: 1
 MojoX-Ping:
   UNDEF: 1
 MojoX-Plugin-AnyCache:
@@ -37111,6 +37117,8 @@ Mojolicious-Command-generate-bootstrap:
   GHANDI: 1
 Mojolicious-Command-generate-bootstrap_app:
   MKRULL: 1
+Mojolicious-Command-generate-controller:
+  DVINCI: 1
 Mojolicious-Command-generate-dbicdump:
   WESAL: 1
 Mojolicious-Command-generate-lexicon:
@@ -38099,6 +38107,8 @@ MooseX-Error-Exception-Class:
   CSJEWELL: 1
 MooseX-Error-Trap:
   NOTBENH: 1
+MooseX-ErrorHandling:
+  CREIN: 1
 MooseX-ErsatzMethod:
   TOBYINK: 1
 MooseX-Event:
@@ -38767,6 +38777,8 @@ Music-Note-Frequency:
 Music-Note-Role-Operators:
   ZARQUON: 1
 Music-PitchNum:
+  JMATES: 1
+Music-RecRhythm:
   JMATES: 1
 Music-Scala:
   JMATES: 1
@@ -41570,8 +41582,6 @@ Net_TCLink.pm:
   WITTEN: 1
 Netdot-Client-REST:
   CVICENTE: 1
-Netflow-Collector:
-  PALIK: 1
 Netflow-Parser:
   PALIK: 1
 Netgear-WGT624:
@@ -42183,8 +42193,6 @@ Object-Util:
   TOBYINK: 1
 Object-WithParams:
   JALDHAR: 1
-Object-Wrapper:
-  LEMBARK: 1
 Object-eBay:
   MNDRIX: 1
 ObjectDB:
@@ -42892,6 +42900,8 @@ PGObject-Util-BulkLoad:
 PGObject-Util-Catalog-Types:
   EINHVERFR: 1
 PGObject-Util-DBAdmin:
+  EINHVERFR: 1
+PGObject-Util-DBChange:
   EINHVERFR: 1
 PGObject-Util-DBMethod:
   EINHVERFR: 1
@@ -44831,7 +44841,7 @@ Pcore-API-Whois:
   ZDM: 1
 Pcore-Captcha:
   ZDM: 1
-Pcore-DBD:
+Pcore-DBH:
   ZDM: 1
 Pcore-GeoIP:
   ZDM: 1
@@ -45933,8 +45943,6 @@ Plack-App-ServiceStatus:
   DOMM: 1
 Plack-App-SourceViewer:
   BAYASHI: 1
-Plack-App-TemplateToolkit:
-  LLAP: 1
 Plack-App-TemplatedDirectory:
   KAARE: 1
 Plack-App-URLHashMap:
@@ -48237,7 +48245,7 @@ RT-Extension-ManageAutoCreatedUsers:
 RT-Extension-MandatoryFields:
   BHEISIG: 1
 RT-Extension-MandatoryOnTransition:
-  BPS: 1
+  ALEXMV: 1
   TSIBLEY: 1
 RT-Extension-MandatoryRequestor:
   ELACOUR: 1
@@ -48547,6 +48555,8 @@ Readonly-Tiny:
   BMORROW: 1
 Readonly-XS:
   ROODE: 1
+ReadonlyX:
+  SANKO: 1
 Real-Handy:
   GRIAN: 1
 Reaper:
@@ -48944,7 +48954,6 @@ RevRefHash.pm:
 ReverseProxy-FormFiller:
   DELTOMBE: 1
 Rex:
-  FERKI: 1
   JFRIED: 1
 Rex-Apache-Deploy:
   JFRIED: 1
@@ -50034,7 +50043,13 @@ Sah-Examples:
   PERLANCAR: 1
 Sah-Schemas:
   PERLANCAR: 1
+Sah-Schemas-Examples:
+  PERLANCAR: 1
 Sah-Schemas-Int:
+  PERLANCAR: 1
+Sah-Schemas-Path:
+  PERLANCAR: 1
+Sah-Schemas-Perl:
   PERLANCAR: 1
 Sailthru-Client:
   WZHANG: 1
@@ -50966,6 +50981,8 @@ Snail-CSV:
   MIT: 1
 Snapback2:
   MIKEH: 1
+Snapforce-API:
+  SNAPFORCE: 1
 Sniffer-HTTP:
   CORION: 1
 Snort-Rule:
@@ -54780,6 +54797,8 @@ Test-HTTP:
   LUKEC: 1
 Test-HTTP-AnyEvent-Server:
   SYP: 1
+Test-HTTP-MockServer:
+  DRUOSO: 1
 Test-HTTP-Response:
   TEEJAY: 1
 Test-HTTP-Server:
@@ -57587,6 +57606,8 @@ Tiffany:
   TOKUHIROM: 1
 Tiger-hash:
   DIDO: 1
+Time-Ago:
+  MAURICE: 1
 Time-AutoRes:
   NKUITSE: 1
 Time-Avail:
@@ -58058,6 +58079,8 @@ Tk-JListbox:
   DJBERG: 1
 Tk-JPEG-Lite:
   SREZIC: 1
+Tk-Knob:
+  WLMB: 1
 Tk-LCD:
   LUSOL: 1
 Tk-LabPopEntry:
@@ -60419,6 +60442,8 @@ WWW-Ohloh-API:
   YANICK: 1
 WWW-Omegle:
   REVMISCHA: 1
+WWW-OneAll:
+  BINARY: 1
 WWW-OpenResty:
   AGENT: 1
 WWW-OpenSVN:
@@ -61909,7 +61934,7 @@ WebService-ReviewBoard:
 WebService-Riya:
   SHIGETA: 1
 WebService-Rollbar-Notifier:
-  ZOFFIX: 1
+  BJAKUBSKI: 1
 WebService-SEOmoz-API:
   FAYLAND: 1
 WebService-SEOmoz-FreeAPI:
@@ -64083,6 +64108,8 @@ YAML-Full:
   INGY: 1
 YAML-LibYAML:
   TINITA: 1
+YAML-LoadBundle:
+  GSG: 1
 YAML-LoadFileCached:
   FLORIAN: 1
 YAML-LoadURI:
@@ -64317,6 +64344,8 @@ Zabbix-Reporter:
   TEX: 1
 Zabbix-Sender:
   TEX: 1
+Zabbix-ServerScript:
+  AKINT: 1
 Zabbix-Tiny:
   WHOSGONNA: 1
 Zabbix2-API:
