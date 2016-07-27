@@ -30,18 +30,12 @@ Cache-Mmap:
 Carp:
   category: virtual
   name: perl-Carp
-Class-Loader:
-  name: class-loader
 Compress-Raw-Bzip2:
   category: virtual
   name: perl-Compress-Raw-Bzip2
 Compress-Raw-Zlib:
   category: virtual
   name: perl-Compress-Raw-Zlib
-Convert-ASCII-Armour:
-  name: convert-ascii-armour
-Convert-PEM:
-  name: convert-pem
 DBIx-SearchBuilder:
   name: dbix-searchbuilder
 DB_File:

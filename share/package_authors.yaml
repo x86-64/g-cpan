@@ -2836,6 +2836,8 @@ AnyEvent-ReverseHTTP:
 AnyEvent-Riak:
   DAMS: 1
   FRANCKC: 1
+AnyEvent-RipeRedis:
+  IPH: 1
 AnyEvent-Run:
   AGRUNDMA: 1
 AnyEvent-SCGI:
@@ -5227,6 +5229,8 @@ App-TimeTracker-Command-Category:
   DOMM: 1
 App-TimeTracker-Command-Jira:
   PEPL: 1
+App-TimeTracker-Command-TellSlack:
+  DOMM: 1
 App-TimeTracker-Command-Trello:
   DOMM: 1
 App-TimeTracker-Gtk2TrayIcon:
@@ -5285,8 +5289,12 @@ App-VTide:
   IVANWILLS: 1
 App-VW:
   BEPPU: 1
+App-ValidateCPANMetaWithSah:
+  PERLANCAR: 1
 App-Validation-Automation:
   LIBVENUS: 1
+App-VersionUtils:
+  PERLANCAR: 1
 App-Video-Generator:
   SKIM: 1
 App-VirtPerl:
@@ -5791,8 +5799,6 @@ App-td:
   PERLANCAR: 1
 App-test-travis:
   GFUJI: 1
-App-testyourears:
-  WLMB: 1
 App-texttable:
   PERLANCAR: 1
 App-tfind:
@@ -6848,8 +6854,6 @@ Aviation-Report:
   JBRIGGS: 1
 Aw:
   DYACOB: 1
-AxKit:
-  MSERGEANT: 1
 AxKit-App-Gallery:
   NIKC: 1
 AxKit-App-TABOO:
@@ -6908,6 +6912,8 @@ B-CodeLines:
   ROCKY: 1
 B-Compiling:
   FLORA: 1
+B-ConstOptree:
+  ATOURBIN: 1
 B-Debug:
   RURBAN: 1
 B-Debugger:
@@ -7347,6 +7353,8 @@ Bencher-Scenarios-DataModeMerge:
 Bencher-Scenarios-DataSah:
   PERLANCAR: 1
 Bencher-Scenarios-DataSahParams:
+  PERLANCAR: 1
+Bencher-Scenarios-DataSahResolve:
   PERLANCAR: 1
 Bencher-Scenarios-DataSahVSTypeTiny:
   PERLANCAR: 1
@@ -13676,6 +13684,8 @@ ClearCase-Wrapper-MGi:
   MGI: 1
 ClearPress:
   RPETTETT: 1
+ClickHouse:
+  ELCAMLOST: 1
 Client.pm:
   TCP: 1
 Clio:
@@ -16170,6 +16180,8 @@ DBIx-MoCo:
   JKONDO: 1
 DBIx-MoCo-Pageset:
   MATSUMOTO: 1
+DBIx-Mojo-Template:
+  MCHE: 1
 DBIx-MultiDB:
   NFERRAZ: 1
 DBIx-MultiStatementDo:
@@ -17122,7 +17134,7 @@ Dancer-Template-Tiny:
 Dancer-Template-Xslate:
   RSIMOES: 1
 Dancer2:
-  XSAWYERX: 1
+  CROMEDOME: 1
 Dancer2-Debugger:
   SYSPETE: 1
 Dancer2-Logger-Console-Colored:
@@ -17914,6 +17926,8 @@ Data-Mining-AssociationRules:
   DFRANKOW: 1
 Data-Miscellany:
   MARCEL: 1
+Data-ModeMerge:
+  PERLANCAR: 1
 Data-Model:
   YAPPO: 1
 Data-Monad:
@@ -18553,7 +18567,7 @@ Data-Unixish:
 Data-Unixish-ANSI:
   PERLANCAR: 1
 Data-Util:
-  GFUJI: 1
+  SYOHEX: 1
 Data-Utilities:
   CORNELIS: 1
 Data-VRM-GB:
@@ -18780,6 +18794,8 @@ Date-Extract-Surprise:
   SSCAFFIDI: 1
 Date-EzDate:
   MIKO: 1
+Date-EzDate2:
+  MIKO: 1
 Date-Fmtstr2time:
   TURNERJW: 1
 Date-Formatter:
@@ -18878,6 +18894,8 @@ Date-LastModified:
   MLFISHER: 1
 Date-Leapyear:
   RBOW: 1
+Date-Lectionary-Time:
+  MARMANOLD: 1
 Date-LibICal:
   ACID: 1
 Date-Lima:
@@ -21546,8 +21564,6 @@ Dist-Zilla-PluginBundle-BerryGenomics:
 Dist-Zilla-PluginBundle-BioPerl:
   CDRAUG: 1
   CJFIELDS: 1
-Dist-Zilla-PluginBundle-Bioperl:
-  RBUELS: 1
 Dist-Zilla-PluginBundle-CEBJYRE:
   CEBJYRE: 1
 Dist-Zilla-PluginBundle-CHGOVUK:
@@ -21597,6 +21613,8 @@ Dist-Zilla-PluginBundle-JROCKWAY:
   JROCKWAY: 1
 Dist-Zilla-PluginBundle-LEONT:
   LEONT: 1
+Dist-Zilla-PluginBundle-MANWAR:
+  MANWAR: 1
 Dist-Zilla-PluginBundle-MARCEL:
   DOLMEN: 1
 Dist-Zilla-PluginBundle-MAXMIND:
@@ -24073,6 +24091,8 @@ Filesys-DiskUsage-Fast:
   RYOCHIN: 1
 Filesys-Ext2:
   JPIERCE: 1
+Filesys-Ext2-Dump:
+  PERLANCAR: 1
 Filesys-MakeISO:
   UVOELKER: 1
 Filesys-MakeISO-Driver-MagicISO:
@@ -24793,7 +24813,7 @@ Functional-Utility:
 Funifs:
   VOVA: 1
 Furl:
-  TOKUHIROM: 1
+  SYOHEX: 1
 Furl-Cookies:
   KAZUNORI: 1
 Furl-S3:
@@ -29690,8 +29710,6 @@ Image-JpegCheck:
   TOKUHIROM: 1
 Image-JpegMinimal:
   CORION: 1
-Image-JpegTran:
-  MONS: 1
 Image-JpegTran-AutoRotate:
   AUDREYT: 1
 Image-Kimdaba:
@@ -37469,6 +37487,8 @@ Mojolicious-Plugin-Number-Commify:
   NICZERO: 1
 Mojolicious-Plugin-OAuth2:
   JHTHORSEN: 1
+Mojolicious-Plugin-OAuth2-Che:
+  MCHE: 1
 Mojolicious-Plugin-OAuth2-Server:
   LEEJO: 1
 Mojolicious-Plugin-OnFork:
@@ -37811,6 +37831,8 @@ MooX-Attributes-Shadow:
   DJERIUS: 1
 MooX-BuildArgs:
   BLUEFEET: 1
+MooX-CalcTime:
+  PEKINGSAM: 1
 MooX-ChainedAttributes:
   BLUEFEET: 1
 MooX-ClassAttribute:
@@ -39412,7 +39434,7 @@ Net-CSTA:
 Net-CSTAv3-Client:
   TIMOS: 1
 Net-CUPS:
-  DHAGEMAN: 1
+  NINE: 1
 Net-CalDAVTalk:
   BRONG: 1
 Net-Calais:
@@ -40427,6 +40449,8 @@ Net-MythWeb:
   LBROCARD: 1
 Net-NAT-PMP:
   DAVID: 1
+Net-NATS-Client:
+  CARWYNM: 1
 Net-NBName:
   JMACFARLA: 1
 Net-NBsocket:
@@ -44571,6 +44595,8 @@ Parse-PMFile:
   ISHIGAKI: 1
 Parse-Path:
   BBYRD: 1
+Parse-PayPal-TxDetailReport:
+  PERLANCAR: 1
 Parse-Pegex:
   INGY: 1
 Parse-Perl:
@@ -44611,6 +44637,8 @@ Parse-RecDescent-FAQ:
   TBONE: 1
 Parse-RecDescent-Topiary:
   IVORW: 1
+Parse-SAMGov:
+  VIKAS: 1
 Parse-SQL:
   TEAM: 1
 Parse-SQLOutput:
@@ -44660,6 +44688,8 @@ Parse-Vipar:
   SFINK: 1
 Parse-WBXML:
   TEAM: 1
+Parse-WWWAuthenticate:
+  RENEEB: 1
 Parse-WebCounter:
   VAGNERR: 1
 Parse-YALALR:
@@ -44914,6 +44944,8 @@ Perinci-Access-Lite:
 Perinci-Access-Perl:
   PERLANCAR: 1
 Perinci-Access-Schemeless-DBI:
+  PERLANCAR: 1
+Perinci-Access-Schemeless-Hash:
   PERLANCAR: 1
 Perinci-Access-Simple-Client:
   PERLANCAR: 1
@@ -47223,6 +47255,8 @@ PowerDNS-Control-Client:
   AUGIE: 1
 PowerDNS-Control-Server:
   AUGIE: 1
+PowerShell:
+  LTHEISEN: 1
 PowerTools-Data:
   GBSHOUSE: 1
 PowerTools-Upload-Blob:
@@ -50043,6 +50077,10 @@ Sah-Examples:
   PERLANCAR: 1
 Sah-Schemas:
   PERLANCAR: 1
+Sah-Schemas-CPANMeta:
+  PERLANCAR: 1
+Sah-Schemas-DefHash:
+  PERLANCAR: 1
 Sah-Schemas-Examples:
   PERLANCAR: 1
 Sah-Schemas-Int:
@@ -50050,6 +50088,16 @@ Sah-Schemas-Int:
 Sah-Schemas-Path:
   PERLANCAR: 1
 Sah-Schemas-Perl:
+  PERLANCAR: 1
+Sah-Schemas-Riap:
+  PERLANCAR: 1
+Sah-Schemas-Rinci:
+  PERLANCAR: 1
+Sah-Schemas-Sah:
+  PERLANCAR: 1
+Sah-Schemas-URL:
+  PERLANCAR: 1
+Sah-Schemas-YouTube:
   PERLANCAR: 1
 Sailthru-Client:
   WZHANG: 1
@@ -50349,6 +50397,8 @@ Search-Lemur:
   PKAEDING: 1
 Search-Mousse:
   LBROCARD: 1
+Search-MultiMatch:
+  TRIZEN: 1
 Search-Namazu:
   KNOK: 1
 Search-Odeum:
@@ -51287,6 +51337,8 @@ Sphinx-Search:
   JJSCHUTZ: 1
 Sphinx-XML-Pipe2:
   EGOR: 1
+Sphinx-XMLpipe2:
+  BBON: 1
 Spica:
   RYMIZUKI: 1
 Spice:
@@ -51851,6 +51903,8 @@ String-Compare-ConstantTime:
   FRACTAL: 1
 String-Compare-Length:
   ACCARDO: 1
+String-Copyright:
+  JONASS: 1
 String-Cushion:
   CSSON: 1
 String-CyclicRotation:
@@ -55360,7 +55414,7 @@ Test-RunValgrind:
 Test-SFTP:
   XSAWYERX: 1
 Test-SMTP:
-  JLMARTIN: 1
+  BENNING: 1
 Test-SSH:
   ANDK: 1
 Test-STDmaker:
@@ -58112,6 +58166,8 @@ Tk-MK:
 Tk-MListbox:
   HJHELGE: 1
   RCS: 1
+Tk-MTDial:
+  WLMB: 1
 Tk-Markdown:
   JIMI: 1
 Tk-MarkdownTk:
@@ -61771,8 +61827,6 @@ WebService-Mackerel:
   PAPIX: 1
 WebService-MailJet:
   KANISHKA: 1
-WebService-Mandrill:
-  LEV: 1
 WebService-Mappoint:
   CGARCIA: 1
 WebService-Megaplan:
@@ -64447,8 +64501,6 @@ autobless:
   BRUMLEVE: 1
 autobox:
   CHOCOLATE: 1
-autobox-Array-Transform:
-  JOHANL: 1
 autobox-Base64:
   RSRCHBOY: 1
 autobox-Bless:
@@ -65380,6 +65432,8 @@ podlinkcheck:
   KRYDE: 1
 poest:
   CWEST: 1
+pokemon_go_server_status:
+  AYRAT: 1
 ponfish:
   DCLEE: 1
 pop:
@@ -65545,8 +65599,6 @@ swat:
   MELEZHIK: 1
 swd:
   VIDUL: 1
-swig:
-  DBEAZLEY: 1
 swished:
   JOSHR: 1
 switchman:
