@@ -253,8 +253,6 @@ Pod-Simple:
 Pod-Usage:
   category: virtual
   name: perl-Pod-Usage
-Regexp-Common:
-  name: regexp-common
 Safe:
   category: virtual
   name: perl-Safe

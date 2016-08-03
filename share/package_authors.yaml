@@ -4144,6 +4144,8 @@ App-Context:
   SPADKINS: 1
 App-Control:
   AWRIGLEY: 1
+App-CopyrightImage:
+  STEVEB: 1
 App-Countdown:
   SHLOMIF: 1
 App-CreateAcmeCPANListsImportModules:
@@ -4238,7 +4240,6 @@ App-DubiousHTTP:
   SULLR: 1
 App-DuckPAN:
   MOOLLAZA: 1
-  PHWAAP: 1
 App-DumpPERLANCARSampleTree:
   PERLANCAR: 1
 App-Duppy:
@@ -4911,7 +4912,7 @@ App-Prefix:
 App-PrereqGrapher:
   NEILB: 1
 App-Presto:
-  BPHILLIPS: 1
+  MPERRY: 1
 App-PrettyRes:
   PERLANCAR: 1
 App-Prima-REPL:
@@ -5585,6 +5586,8 @@ App-makebeamerinfo:
   JBERGER: 1
 App-makedpkg:
   VOJ: 1
+App-merge_cpanfile:
+  AEREAL: 1
 App-metacpansearch:
   AWWAIID: 1
 App-mgen:
@@ -6572,6 +6575,8 @@ Audio-Ofa:
   PEPE: 1
 Audio-Ofa-Util:
   PEPE: 1
+Audio-Opusfile:
+  MGV: 1
 Audio-Play-MPG123:
   MLEHMANN: 1
 Audio-Play-MPlayer:
@@ -8722,6 +8727,8 @@ Business-Hours:
   RUZ: 1
 Business-IBAN:
   TINITA: 1
+Business-IBAN-NL-BIC:
+  ZEBAZ: 1
 Business-IBAN-Validator:
   ABELTJE: 1
 Business-ID-BCA:
@@ -11359,6 +11366,8 @@ Catalyst-Model-Riak:
   NLTBO: 1
 Catalyst-Model-S3:
   DCARDWELL: 1
+Catalyst-Model-SCP:
+  SHARDIWAL: 1
 Catalyst-Model-SMS:
   MATLADS: 1
 Catalyst-Model-SOAP:
@@ -11583,6 +11592,8 @@ Catalyst-Plugin-Email-Page:
   GHENRY: 1
 Catalyst-Plugin-EnableMiddleware:
   JJNAPIORK: 1
+Catalyst-Plugin-EncryptID:
+  SHARDIWAL: 1
 Catalyst-Plugin-Environment:
   PRAVUS: 1
 Catalyst-Plugin-EnvironmentDetector:
@@ -17193,8 +17204,12 @@ Dancer2-Plugin-Email:
   IRONCAMEL: 1
 Dancer2-Plugin-Emailesque:
   Dancer: 1
+Dancer2-Plugin-EncryptID:
+  SHARDIWAL: 1
 Dancer2-Plugin-Feed:
   HOBBESTIG: 1
+Dancer2-Plugin-Flash:
+  SHARDIWAL: 1
 Dancer2-Plugin-GoogleAnalytics:
   GARCER: 1
 Dancer2-Plugin-Growler:
@@ -17378,6 +17393,8 @@ Data-Beacon:
   VOJ: 1
 Data-BenchmarkResults:
   JTITUS: 1
+Data-BiaB:
+  JV: 1
 Data-Binary:
   SNKWATT: 1
 Data-BinaryBuffer:
@@ -18682,6 +18699,8 @@ Data-Zipper:
   CYCLES: 1
 Data-asXML:
   JKUTEJ: 1
+Data-iRealPro:
+  JV: 1
 DataCube:
   DAVEGMX: 1
 DataDog-DogStatsd:
@@ -18740,6 +18759,8 @@ Database-Sophia:
   LASTMAC: 1
 Database-Wrapper:
   Wrapper: 1
+Date-Advent:
+  MARMANOLD: 1
 Date-Baha-i:
   GENE: 1
 Date-Bahai-Simple:
@@ -22289,6 +22310,8 @@ Email-Send-Test-DataDumper:
   DANJOU: 1
 Email-Send-TheSchwartz:
   BTROTT: 1
+Email-Send-YYClouds:
+  YHPENG: 1
 Email-Send-Zoho:
   YHPENG: 1
 Email-Sender:
@@ -22474,6 +22497,8 @@ Encode-StdIO:
   DMAKI: 1
 Encode-TECkit:
   MHOSKEN: 1
+Encode-UTF8-Slow:
+  DFARRELL: 1
 Encode-UTF8Mac:
   TOMITA: 1
 Encode-UTR22:
@@ -25525,7 +25550,6 @@ Gcode-Interpreter:
 GeNUScreen-Config:
   MAMAWE: 1
 Gearman:
-  DORMANDO: 1
   PALIK: 1
 Gearman-Client-Async:
   BRADFITZ: 1
@@ -32185,8 +32209,6 @@ Lingua-LinkParser:
   DBRIAN: 1
 Lingua-LinkParser-FindPath:
   XERN: 1
-Lingua-LinkParser-MatchPath:
-  XERN: 1
 Lingua-MSWordSpell:
   BBC: 1
 Lingua-MY-Zawgyi2Unicode:
@@ -34462,6 +34484,8 @@ Mail-Chimp:
   DPIROTTE: 1
 Mail-Chimp2:
   NORBU: 1
+Mail-Chimp3:
+  DIGORY: 1
 Mail-ClamAV:
   CONVERTER: 1
 Mail-Convert-Mbox-ToEml:
@@ -36164,6 +36188,7 @@ Minecraft-SectionFilter:
 MiniPAN:
   LEV: 1
 Minilla:
+  SYOHEX: 1
   TOKUHIROM: 1
 Minion:
   SRI: 1
@@ -36625,6 +36650,8 @@ Module-Install-VersionCheck:
   INGY: 1
 Module-Install-XSUtil:
   GFUJI: 1
+Module-Installed-Tiny:
+  PERLANCAR: 1
 Module-InstalledVersion:
   SKUD: 1
 Module-JSAN:
@@ -36641,6 +36668,8 @@ Module-Load:
   BINGOS: 1
 Module-Load-Conditional:
   BINGOS: 1
+Module-Loadable:
+  PERLANCAR: 1
 Module-Loaded:
   BINGOS: 1
 Module-Loader:
@@ -38958,6 +38987,7 @@ NETIOM:
   ADAMC: 1
 NEXT:
   FLORA: 1
+  NEILB: 1
 NG:
   NG: 1
 NGS-Tools-BAMSurgeon:
@@ -41685,7 +41715,7 @@ Nginx-Log-Statistics:
 Nginx-Module-Gallery:
   RSHADOW: 1
 Nginx-ParseLog:
-  NRG: 1
+  VERISSIMO: 1
 Nginx-Perl:
   ZZZ: 1
 Nginx-ReadBody:
@@ -42865,6 +42895,8 @@ PDLDM-Rank:
   MBTLFDO: 1
 PEF-CacheLRU:
   PEFSECURE: 1
+PEF-Front:
+  ANTONPETR: 1
 PERLANCAR-AppUtil-PerlStripper:
   PERLANCAR: 1
 PERLANCAR-Debian-Releases:
@@ -45189,6 +45221,8 @@ Perl-Critic-PetPeeves-JTRAMMELL:
   JTRAMMELL: 1
 Perl-Critic-Policy-BuiltinFunctions-ProhibitDeleteOnArrays:
   LIOSHA: 1
+Perl-Critic-Policy-BuiltinFunctions-ProhibitReturnOr:
+  JLEADER: 1
 Perl-Critic-Policy-CodeLayout-ProhibitSpaceIndentation:
   IXA: 1
 Perl-Critic-Policy-CodeLayout-TabIndentSpaceAlign:
@@ -47394,7 +47428,7 @@ Proc-LoadMonitor:
 Proc-NiceSleep:
   JOSHR: 1
 Proc-PID-File:
-  ECALDER: 1
+  DMITRI: 1
 Proc-PID-File-Fcntl:
   JGMYERS: 1
 Proc-Parallel:
@@ -48136,7 +48170,7 @@ RT-Authen-Bitcard:
 RT-Authen-CookieAuth:
   ZORDRAK: 1
 RT-Authen-ExternalAuth:
-  FALCONE: 1
+  BPS: 1
 RT-Authen-Federation:
   RT: 1
 RT-Authen-OpenID:
@@ -49690,6 +49724,8 @@ SQL-Executor:
   TSUCCHI: 1
 SQL-Format:
   XAICRON: 1
+SQL-Functional:
+  TMURRAY: 1
 SQL-Generator:
   MUENALAN: 1
 SQL-Interp:
@@ -50343,6 +50379,8 @@ SeaBASS-File:
   JLEFLER: 1
 Search-Binary:
   XAERXESS: 1
+Search-ByPrefix:
+  TRIZEN: 1
 Search-Circa:
   ALIAN: 1
 Search-ContextGraph:
@@ -56438,6 +56476,8 @@ Text-Ngrams:
   VLADO: 1
 Text-Nimble:
   TOPAZ: 1
+Text-NonWideChar-Util:
+  PERLANCAR: 1
 Text-Normalize-NACO:
   BRICAS: 1
 Text-Number:
@@ -57230,6 +57270,8 @@ Tie-Cache-LRU-Expires:
   OESTERHOL: 1
 Tie-CacheHash:
   JAMCC: 1
+Tie-CacheRedisDB:
+  INSPIRE: 1
 Tie-Cacher:
   THOSPEL: 1
 Tie-Cfg:
@@ -58133,8 +58175,6 @@ Tk-JListbox:
   DJBERG: 1
 Tk-JPEG-Lite:
   SREZIC: 1
-Tk-Knob:
-  WLMB: 1
 Tk-LCD:
   LUSOL: 1
 Tk-LabPopEntry:
@@ -58888,6 +58928,8 @@ URI-NamespaceMap:
   KJETILK: 1
 URI-Nested:
   DWHEELER: 1
+URI-Normalize:
+  HANENKAMP: 1
 URI-OpenURL:
   TIMBRODY: 1
 URI-ParseSearchString:
@@ -59278,6 +59320,8 @@ Untappd-API:
   RLOPES: 1
 Unwind-Protect:
   SARTAK: 1
+Update-Immutable:
+  FRACTAL: 1
 Upp-Reader:
   MPAPP: 1
 Uptake:
@@ -61008,7 +61052,7 @@ WWW-SpinnerChief:
 WWW-Splunk:
   LKUNDRAK: 1
 WWW-Spotify:
-  AARONJJ: 1
+  OALDERS: 1
 WWW-Spyder:
   ASHLEY: 1
 WWW-StaticBlog:
@@ -64436,7 +64480,6 @@ Zodiac-Tiny:
   PERLANCAR: 1
 Zoidberg:
   JBERGER: 1
-  zoidberg: 1
 Zonemaster:
   IIS: 1
 Zonemaster-CLI:
@@ -64492,7 +64535,7 @@ asa:
 assertions:
   SALVA: 1
 asterisk-perl:
-  JAMESGOL: 1
+  ITCHARLIE: 1
 authen-rbac:
   DOPACKI: 1
 authority:
@@ -65084,8 +65127,6 @@ like:
   ANDYA: 1
 link_NCBI:
   CHI: 1
-llg:
-  YVESP: 1
 load:
   ELIZABETH: 1
 local-lib:
@@ -65721,6 +65762,8 @@ use:
   AUDREYT: 1
 utf8-all:
   DOHERTY: 1
+v6:
+  FGLOCK: 1
 v6-alpha:
   AUDREYT: 1
 vFeed:
