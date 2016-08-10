@@ -1314,8 +1314,6 @@ Acme-Samurai:
   TOMITA: 1
 Acme-Schlong:
   DBR: 1
-Acme-Schrodinger-Do:
-  ROOTKWOK: 1
 Acme-Scripticide:
   DMUEY: 1
 Acme-ScriptoPhrenic:
@@ -4156,6 +4154,8 @@ App-CreateSelfSignedSSLCert:
   PERLANCAR: 1
 App-CreateSparseFile:
   PERLANCAR: 1
+App-Critique:
+  STEVAN: 1
 App-Cronjob:
   RJBS: 1
 App-D:
@@ -4506,6 +4506,8 @@ App-IsGitSynced:
   BESSARABV: 1
 App-JIRAPrint:
   JETEVE: 1
+App-JSON-Tools:
+  KABLAMO: 1
 App-JSON-to:
   DOLMEN: 1
 App-Jawk:
@@ -4851,6 +4853,8 @@ App-ParseNetstat:
   PERLANCAR: 1
 App-Pastebin-sprunge:
   DOHERTY: 1
+App-PayPalUtils:
+  PERLANCAR: 1
 App-PeriSeq:
   PERLANCAR: 1
 App-PericmdUtils:
@@ -5628,6 +5632,8 @@ App-nrun:
   TBENK: 1
 App-olson:
   ZEFRAM: 1
+App-opan:
+  MSTROUT: 1
 App-orgdaemon:
   SREZIC: 1
 App-orgsel:
@@ -7103,6 +7109,8 @@ BSD-stat:
   DANKOGAI: 1
 BSON:
   MONGODB: 1
+BSON-Decode:
+  FDULAU: 1
 BSON-Stream:
   RUNARB: 1
 BT368i:
@@ -7283,6 +7291,8 @@ Bencher-Scenario-GamesWordlistModules:
   PERLANCAR: 1
 Bencher-Scenario-GetoptModules:
   PERLANCAR: 1
+Bencher-Scenario-GraphTopologicalSortModules:
+  PERLANCAR: 1
 Bencher-Scenario-IODParsingModules:
   PERLANCAR: 1
 Bencher-Scenario-IPCSystemOptions:
@@ -7298,6 +7308,10 @@ Bencher-Scenario-ListMoreUtils:
 Bencher-Scenario-ListUtil:
   PERLANCAR: 1
 Bencher-Scenario-LogAny:
+  PERLANCAR: 1
+Bencher-Scenario-ModuleInstalledTiny:
+  PERLANCAR: 1
+Bencher-Scenario-ModulePathMore:
   PERLANCAR: 1
 Bencher-Scenario-Nums2WordsModules:
   PERLANCAR: 1
@@ -8836,8 +8850,6 @@ Business-OnlinePayment-Multiplex:
   MOCK: 1
 Business-OnlinePayment-NMI:
   IVAN: 1
-Business-OnlinePayment-Network1Financial:
-  Business-OnlinePayment-Network1Financial-002targ: 1
 Business-OnlinePayment-OCV:
   IVAN: 1
 Business-OnlinePayment-Ogone:
@@ -9029,6 +9041,8 @@ Business-iDEAL-Adyen:
   BLOM: 1
 Business-iDEAL-Mollie:
   BLOM: 1
+Business-xISBN:
+  BDFOY: 1
 BusyBird:
   TOSHIOITO: 1
 BusyBird-DateTime-Format:
@@ -12950,7 +12964,7 @@ Class-C3-Adopt-NEXT:
 Class-C3-Componentised:
   FREW: 1
 Class-C3-XS:
-  FLORA: 1
+  ETHER: 1
 Class-CGI:
   OVID: 1
 Class-CGI-DateTime:
@@ -16403,7 +16417,7 @@ DBIx-Skinny-Schema-Loader:
 DBIx-SpatialKey:
   MLEHMANN: 1
 DBIx-Struct:
-  PEFSECURE: 1
+  ANTONPETR: 1
 DBIx-Sunny:
   KAZEBURO: 1
 DBIx-TNDBO:
@@ -16849,7 +16863,7 @@ Dancer-Plugin-Database:
   AMBS: 1
   BIGPRESH: 1
 Dancer-Plugin-Database-Core:
-  AMBS: 1
+  BIGPRESH: 1
 Dancer-Plugin-DebugDump:
   BIGPRESH: 1
 Dancer-Plugin-DebugToolbar:
@@ -17307,7 +17321,7 @@ Dancer2-Session-JSON:
 Dancer2-Session-Memcached:
   YANICK: 1
 Dancer2-Session-MongoDB:
-  DAGOLDEN: 1
+  CROMEDOME: 1
 Dancer2-Session-PSGI:
   RUSSELLJ: 1
 Dancer2-Session-Redis:
@@ -18425,6 +18439,8 @@ Data-StackedHash:
   RMURRI: 1
 Data-StackedMap:
   CLAESJAC: 1
+Data-Stacker:
+  CADE: 1
 Data-Stag:
   CMUNGALL: 1
 Data-Startup:
@@ -18555,6 +18571,8 @@ Data-TxnBuffer:
   TYPESTER: 1
 Data-Type:
   MUENALAN: 1
+Data-Type-Digger:
+  ANTONC: 1
 Data-Typed-Expression:
   PWES: 1
 Data-Types:
@@ -19568,8 +19586,6 @@ Devel-Debug-DBGp:
   MBARBON: 1
 Devel-Debug-Server:
   JCHASSLER: 1
-Devel-DebugHooks:
-  KES: 1
 Devel-DebugInit:
   JASONS: 1
 Devel-Declare:
@@ -20826,6 +20842,8 @@ Dist-Zilla-Plugin-CheckChangeLog:
   FAYLAND: 1
 Dist-Zilla-Plugin-CheckChangesHasContent:
   DAGOLDEN: 1
+Dist-Zilla-Plugin-CheckDeploymentHandlerFiles:
+  ALTREUS: 1
 Dist-Zilla-Plugin-CheckEmacsChangeLog:
   TULSOFT: 1
 Dist-Zilla-Plugin-CheckExtraTests:
@@ -22571,6 +22589,8 @@ Env-Export:
   RJRAY: 1
 Env-Heroku:
   PNU: 1
+Env-Modify:
+  MOB: 1
 Env-Modulecmd:
   ISAACSON: 1
 Env-PS1:
@@ -23857,7 +23877,7 @@ File-Share:
 File-ShareDir:
   REHSACK: 1
 File-ShareDir-Install:
-  GWYN: 1
+  ETHER: 1
 File-ShareDir-Override:
   ODYNIEC: 1
 File-ShareDir-PAR:
@@ -26219,6 +26239,8 @@ Getopt-Long-Modern:
   DBOOK: 1
 Getopt-Long-Negate-EN:
   PERLANCAR: 1
+Getopt-Long-Negate-ID:
+  PERLANCAR: 1
 Getopt-Long-Spec:
   SSCAFFIDI: 1
 Getopt-Long-Subcommand:
@@ -26822,6 +26844,8 @@ Graphviz-DSL:
 Gravatar-URL:
   FMARIER: 1
   MSCHWERN: 1
+Grep-Query:
+  KNTH: 1
 Grid-Coord:
   OSFAMERON: 1
 Grid-Request:
@@ -27053,7 +27077,7 @@ Gtk2-WebKit-Mechanize:
   BOSU: 1
 Gtk3:
   XAOC: 1
-Gtk3-Ex-DBI-Form:
+Gtk3-Ex-DBI:
   DKASAK: 1
 Gtk3-Ex-PdfViewer:
   RBWOHLFAR: 1
@@ -32656,6 +32680,8 @@ Linux-RTC-Ioctl:
   TOUGHY: 1
 Linux-Seccomp:
   MGV: 1
+Linux-Slackware-SystemTests:
+  TTKCIAR: 1
 Linux-Smaps:
   OPI: 1
 Linux-Smaps-Tiny:
@@ -36056,6 +36082,8 @@ MetaCPAN-Helper:
   NEILB: 1
 MetaCPAN-Moose:
   MICKEY: 1
+MetaMap-DataStructures:
+  HENRYST: 1
 MetaPOD:
   KENTNL: 1
 MetaPOD-Format-JSON:
@@ -36204,6 +36232,8 @@ Minion-Backend-Storable:
   NICZERO: 1
 Minion-Backend-mysql:
   BPMEDLEY: 1
+Minion-Command-minion-jobx:
+  BFAIST: 1
 Minion-Notifier:
   JBERGER: 1
 Minions:
@@ -36966,6 +36996,8 @@ Mojo-PDF:
   ZOFFIX: 1
 Mojo-Pg:
   SRI: 1
+Mojo-Pg-Che:
+  MCHE: 1
 Mojo-PgX-Cursor:
   NNUTTER: 1
 Mojo-Phantom:
@@ -38986,7 +39018,6 @@ NET-MitM:
 NETIOM:
   ADAMC: 1
 NEXT:
-  FLORA: 1
   NEILB: 1
 NG:
   NG: 1
@@ -39961,7 +39992,7 @@ Net-Fritz:
 Net-FullAuto:
   REEDFISH: 1
 Net-GNUDBSearch:
-  DUMB: 1
+  Net-GNUDBSearch: 1
 Net-GPSD:
   MRDVT: 1
 Net-GPSD-Server-Fake:
@@ -42831,8 +42862,6 @@ PDL-Graphics-X-Fits:
   HBABCOCK: 1
 PDL-HMM:
   MOOCOW: 1
-PDL-IO-BareStore:
-  ROOTKWOK: 1
 PDL-IO-CSV:
   KMX: 1
 PDL-IO-DBI:
@@ -45229,6 +45258,8 @@ Perl-Critic-Policy-CodeLayout-TabIndentSpaceAlign:
   AUBERTG: 1
 Perl-Critic-Policy-CompileTime:
   XAN: 1
+Perl-Critic-Policy-Documentation-RequirePod:
+  AUTINITY: 1
 Perl-Critic-Policy-Dynamic-NoIndirect:
   VPIT: 1
 Perl-Critic-Policy-HTTPCookies:
@@ -46437,6 +46468,8 @@ Plack-Middleware-ReverseProxy:
   MIYAGAWA: 1
 Plack-Middleware-ReverseProxyPath:
   BOWMANBS: 1
+Plack-Middleware-ReviseEnv:
+  POLETTIX: 1
 Plack-Middleware-RevisionPlate:
   ASTJ: 1
 Plack-Middleware-Rewrite:
@@ -47495,6 +47528,8 @@ Process-MaxSize:
   MSCHILLI: 1
 Process-Pipeline:
   SKAJI: 1
+Process-Results:
+  MIKO: 1
 Process-SizeLimit-Core:
   AUDREYT: 1
 Process-Status:
@@ -47793,8 +47828,6 @@ Queue-Worker:
   BOSU: 1
 Queue.pm:
   strpris: 1
-Quiki:
-  Quiki: 1
 Quilt:
   KMACLEOD: 1
 Quine:
@@ -48115,6 +48148,8 @@ RPSL-Parser:
   LMC: 1
 RPerl:
   WBRASWELL: 1
+RPi-DHT11-EnvControl:
+  STEVEB: 1
 RRD-CGI-Image:
   JOSHUA: 1
 RRD-Daemon:
@@ -48404,6 +48439,8 @@ RT-Extension-ServiceUpdates:
   JESSE: 1
 RT-Extension-ShiftPlanning:
   ShiftPlanning: 1
+RT-Extension-ShowEmailAction:
+  ELEMECCA: 1
 RT-Extension-ShowTransactionSquelching:
   ALEXMV: 1
 RT-Extension-SideBySideView:
@@ -50529,6 +50566,8 @@ SelfLoader:
   SMUELLER: 1
 SelfUnzip:
   modules: 1
+SemMed-Interface:
+  AYMULYAR: 1
 SemVer:
   DWHEELER: 1
 SemVer-V2-Strict:
@@ -52477,6 +52516,8 @@ SuffixTree:
   DAVIDO: 1
 SugarSync-API:
   JV: 1
+Suggest-PrePop:
+  INSPIRE: 1
 Summerset-IsbnConverter:
   DJCURTIS: 1
 Sun-Solaris-Exacct:
@@ -53549,6 +53590,8 @@ Teamspeak:
   Teamspeak: 1
 Tee:
   DAGOLDEN: 1
+Telegram-Bot:
+  JUSTIN: 1
 Telephone-Lookup-Americom:
   SMALHOTRA: 1
 Telephone-Mnemonic-US:
@@ -58785,6 +58828,8 @@ UAV-Pilot-SDL:
   TMURRAY: 1
 UAV-Pilot-Video-Ffmpeg:
   TMURRAY: 1
+UAV-Pilot-Wumpus-Server:
+  TMURRAY: 1
 UAV-Pilot-WumpusRover:
   TMURRAY: 1
 UAV-Pilot-WumpusRover-Server:
@@ -60381,7 +60426,7 @@ WWW-Marvel:
 WWW-MeGa:
   FISH: 1
 WWW-Mechanize:
-  ETHER: 1
+  OALDERS: 1
 WWW-Mechanize-AutoPager:
   MIYAGAWA: 1
 WWW-Mechanize-Boilerplate:
@@ -61713,6 +61758,8 @@ WebService-FreeDB:
   RURBAN: 1
 WebService-Freebox:
   VADZ: 1
+WebService-Freshservice:
+  TECHMAN: 1
 WebService-FritzBox:
   RCL: 1
 WebService-FuncNet:
@@ -62669,22 +62716,14 @@ Win32-Process:
   JDB: 1
 Win32-Process-CommandLine:
   KXJ: 1
-Win32-Process-Critical:
-  ROOTKWOK: 1
-Win32-Process-Hide:
-  ROOTKWOK: 1
 Win32-Process-Info:
   PLICEASE: 1
-Win32-Process-Kill:
-  ROOTKWOK: 1
 Win32-Process-List:
   RPAGITSCH: 1
 Win32-Process-Memory:
   QJZHOU: 1
 Win32-Process-Perf:
   RPAGITSCH: 1
-Win32-Process-Suspend:
-  ROOTKWOK: 1
 Win32-Process-User:
   RPAGITSCH: 1
 Win32-RASE:
@@ -62761,8 +62800,6 @@ Win32-StrictFileNames:
   JLMOREL: 1
 Win32-Symlink:
   AUDREYT: 1
-Win32-SysPrivilege:
-  ROOTKWOK: 1
 Win32-SysTray:
   MAHNKONG: 1
 Win32-SystemInfo:
@@ -65761,7 +65798,7 @@ urpmi:
 use:
   AUDREYT: 1
 utf8-all:
-  DOHERTY: 1
+  HAYOBAAN: 1
 v6:
   FGLOCK: 1
 v6-alpha:
