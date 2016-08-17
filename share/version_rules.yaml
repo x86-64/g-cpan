@@ -18,6 +18,7 @@ float2dotted:
   Lingua-Phonology: 1
   Math-MatrixReal: 1
   Mojolicious-Plugin-Notifications: 1
+  Mojolicious-Plugin-Vparam: 1
   Net-Gandi: 1
   Net-Whois-Proxy: 1
   OWNet: 1
@@ -67,7 +68,6 @@ ignore:
   Amon2-Web-Dispatcher-RouterSimple-Extended: 'mixed version style: 0.01 0.02 0.03 0.04 0.05 0.05.01'
   Ananke-SqlLink: 'mixed version style: 1.0 1.1 1.1.1 1.1.2'
   Ananke-Utils: 'mixed version style: 1.0 1.0.1 1.0.2'
-  AnyEvent-HTTPD-SendMultiHeaderPatch: 'mixed version style: 0.1.2 0.001003'
   AnyEvent-Proc: 'mixed version style: 0.1.0 0.101 0.102 0.103 0.104 0.105'
   AnyEvent-STOMP-Client: 'unknown version style: 0.1 0.11 0.2 0.21 0.22 0.23 0.24 0.25 0.25a 0.3 0.31 0.32 0.33 0.34 0.35 0.36 0.37 0.38 0.39'
   AnyEvent-TLS-SNI: 'mixed version style: 0.01 0.01.1 0.01.2 0.01.3 0.02 0.03'
@@ -201,7 +201,7 @@ ignore:
   Crypt-MatrixSSL: 'mixed version style: 0.01 0.05 0.06 0.07 1.73 1.8 1.83 1.86.0'
   Crypt-OpenSSL-X509: 'mixed version style: 0.7 0.9 1.0 1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.7.1 1.8 1.800.1 1.800.2 1.803 1.804 1.805 1.806 1.807'
   Crypt-Password: 'incorrect float version: 0.10 0.11 0.12 0.13 0.14 0.15 0.16 0.17 0.18 0.19 0.2 0.20 0.21 0.22 0.23 0.24 0.25 0.26 0.27 0.28'
-  Curses: 'unknown version style: 1.07 1.17 1.27 1.28 1.29 1.30a 1.31 1.32 1.33 1.34'
+  Curses: 'unknown version style: 1.07 1.17 1.27 1.28 1.29 1.30a 1.31 1.32 1.33 1.34 1.36'
   Curses-Simp: 'unknown version style: 1.0.41V0L3a 1.2.A7DDCh3 1.4.A8UG1gG'
   Cvs-Simple: 'mixed version style: 0.04 0.0.5 0.06'
   DB-Introspector: 'unknown version style: 0.01a 0.01 0.02 0.03 0.031 0.04 0.005 0.06 0.07 0.08'
@@ -287,7 +287,7 @@ ignore:
   Dist-Zilla-PluginBundle-SHANTANU: 'incorrect float version: 0.03 0.05 0.04 0.08 0.09 0.10 0.11 0.12 0.13 0.14 0.15 0.16 0.17 0.18 0.19 0.20 0.21 0.22 0.23 0.24 0.25 0.26 0.27 0.28 0.38 0.39 0.40 0.41 0.42 0.43'
   Dist-Zilla-Util-SimpleMunge: 'mixed version style: 0.2.2 1.000000 1.000001'
   Document: 'unknown version style: 0.03-3'
-  Domain-PublicSuffix: 'mixed version style: 0.10 0.11 0.12 0.13 0.14 0.14.1'
+  Domain-PublicSuffix: 'mixed version style: 0.10 0.14.1'
   Domain-Register-TK: 'mixed version style: 2.0.1 2.1'
   Dotiac-addon-json: 'mixed version style: 0.1 0.1.1'
   Drupal-Admin: 'unknown version style: .01 0.02 0.03 0.04'
@@ -508,7 +508,7 @@ ignore:
   Mojolicious-Plugin-Qooxdoo: 'mixed version style: 0.4 0.5 0.6 0.7 0.8 0.9 0.9.1 0.901 0.902 0.903 0.904'
   Money-ChangeMaker: 'mixed version style: 0.2 0.3.1'
   MongoDB-Async: 'mixed version style: 0.503.2 0.702 0.702.3'
-  Monitoring-GLPlugin: 'mixed version style: 1.3 1.4.1 1.4.1.1 1.4.2 1.4.2.1 1.4.2.2 2.0.10 2.0.18 2.1 2.1.2.1 2.1.2.2 2.1.3 2.2.0.1 2.3 2.3.0.1'
+  Monitoring-GLPlugin: 'mixed version style: 1.3 1.4.1 1.4.1.1 1.4.2 1.4.2.1 1.4.2.2 2.0.10 2.0.18 2.1 2.1.2.1 2.1.2.2 2.1.3 2.2.0.1 2.3 2.3.0.1 2.3.0.2 2.3.1'
   MooX-Log-Any: 'mixed version style: 0.001 0.0.2 0.003 0.003001 0.004000 0.004001 0.004002 0.004003 0.004004'
   MooseX-Attribute-Deflator: 'mixed version style: 1.130002 2.1.2 2.1.4 2.1.5 2.1.6 2.1.7 2.1.8 2.2.0 2.2.1 2.2.2'
   MooseX-AttributeIndexes: 'mixed version style: 1.0.2 1.0.3 2.000000'
@@ -559,7 +559,7 @@ ignore:
   Net-SynchroEdit-Service: 'unknown version style: 0.039r2'
   Net-Telnet-Cisco-IOS: 'unknown version style: 0.4beta 0.5beta 0.5abeta 0.6beta'
   Net-UPnP: 'mixed version style: 1.1 1.1.2 1.1.3 1.2 1.2.1 1.2.4 1.4 1.4.1 1.4.2 1.4.3'
-  Net-Whois-Raw: 'mixed version style: 2.55 2.57 2.59 2.60 2.63 2.70 2.75 2.76 2.78 2.79 2.80 2.80.1 2.81 2.82 2.83 2.84 2.85 2.86 2.87 2.88 2.89 2.90 2.90.1 2.91 2.92 2.93 2.94 2.95 2.96 2.99'
+  Net-Whois-Raw: 'mixed version style: 2.55 2.57 2.59 2.60 2.63 2.70 2.75 2.76 2.78 2.79 2.80 2.80.1 2.81 2.82 2.83 2.84 2.85 2.86 2.87 2.88 2.89 2.90 2.90.1 2.91 2.92 2.93 2.94 2.95 2.96 2.99 2.100'
   Net-Z3950-PQF: 'incorrect float version: 0.02 0.03 0.01 0.04'
   Net-iTMS: 'unknown version style: 0.01 0.01a 0.02 0.03a 0.04 0.10 0.11 0.12 0.13 0.14 0.15'
   Net-sFlow: 'unknown version style: 0.04X 0.05 0.06 0.07 0.08 0.09 0.10 0.11'
@@ -635,7 +635,7 @@ ignore:
   Process-Child-Leash: 'incorrect float version: 000.001 000.002 000.003 1.00 000.004'
   ProgressMonitor: 'mixed version style: 0.32 0.32.1 0.33'
   Project-Euler: 'mixed version style: 0.1.3 0.1.4 0.1.5 0.20'
-  Protocol-ACME: 'mixed version style: 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09 0.10 0.10.1 0.11 0.12 0.13 0.14 0.15'
+  Protocol-ACME: 'mixed version style: 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09 0.10 0.10.1 0.11 0.12 0.13 0.14 0.15 0.16'
   Puppet-Tidy: 'mixed version style: 0.1 0.2 0.3 0.3.1 0.3.2 0.3.3'
   Pushmi: 'mixed version style: 0.991.0 0.992.0 0.993.0 0.994.0 0.995 1.0.0'
   Qt: 'mixed version style: 0.01 0.02 0.03 0.96.0'
@@ -889,7 +889,7 @@ ignore:
   tinyperl: 'unknown version style: 1.0-580'
   tkShortcuts: 'unknown version style: 1.00a'
   triceps: 'unknown version style: 1.0.1 1.0.91-20121129 1.0.92-20130527 1.0.93-20130623 2.0.0 2.0.1'
-  urpmi: 'mixed version style: 7.1 7.2 7.4 7.7 7.8.1 7.8 7.8.2 7.8.3 7.9 7.10 7.11 7.11.1 7.12 7.12.1 7.13 7.14 7.15 7.15.1 7.16 7.17 7.18 7.19 7.20 7.22 7.23 7.24 7.25 7.26 7.27 7.27.1 7.27.2 7.27.3 7.27.4 7.27.5 7.28 7.29 7.30 7.31 7.32 8.00 8.01 8.02 8.03 8.06 8.07 8.08 8.09 8.10 8.101 8.102'
+  urpmi: 'mixed version style: 7.1 7.2 7.4 7.7 7.8.1 7.8 7.8.2 7.8.3 7.9 7.10 7.11 7.11.1 7.12 7.12.1 7.13 7.14 7.15 7.15.1 7.16 7.17 7.18 7.19 7.20 7.22 7.23 7.24 7.25 7.26 7.27 7.27.1 7.27.2 7.27.3 7.27.4 7.27.5 7.28 7.29 7.30 7.31 7.32 8.00 8.01 8.02 8.03 8.06 8.07 8.08 8.09 8.10 8.101 8.102 8.103'
   vm: 'mixed version style: 1.0 1.0.1'
   vms-icc: 'unknown version style: 0_02'
   vms-stat: 'unknown version style: 0_02 0_03'

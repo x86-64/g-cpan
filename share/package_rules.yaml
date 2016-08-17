@@ -25,8 +25,6 @@ CPAN-Meta-Requirements:
 CPAN-Meta-YAML:
   category: virtual
   name: perl-CPAN-Meta-YAML
-Cache-Mmap:
-  name: cache-mmap
 Carp:
   category: virtual
   name: perl-Carp

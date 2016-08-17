@@ -590,6 +590,8 @@ Acme-CPANPLUS-Module-With-Failing-Configure-Requires:
   BINGOS: 1
 Acme-CPANPLUS-PreReq-Text-Tabs:
   BINGOS: 1
+Acme-CPANTesters-Experiment:
+  UREE: 1
 Acme-Cake:
   MIKEGRB: 1
 Acme-Canadian:
@@ -2369,6 +2371,8 @@ Amazon-SimpleDB:
   TIMA: 1
 Amb:
   KARASIK: 1
+Ambassador-API-V2:
+  DREAMHOST: 1
 AmbientOrb-Serial:
   SOZIN: 1
 Ambrosia:
@@ -3263,8 +3267,6 @@ Apache-Hadoop-WebHDFS:
   AFARIS: 1
 Apache-Handlers:
   JSMITH: 1
-Apache-HealthCheck:
-  MGREGORO: 1
 Apache-HeavyCGI:
   ANDK: 1
 Apache-Hendrix:
@@ -4306,6 +4308,8 @@ App-FileSummoner:
   MAIO: 1
 App-FileTools-BulkRename:
   SWESTRUP: 1
+App-FindCallers:
+  TADZIK: 1
 App-Foca:
   PFISCHER: 1
 App-Followme:
@@ -4693,6 +4697,8 @@ App-MultiModule-Tasks-NagiosCmd:
 App-MultiModule-Tasks-ResourceWatcher:
   DIEDERICH: 1
 App-MultiModule-Tasks-Runner:
+  DIEDERICH: 1
+App-MultiModule-Tasks-SMTPGateway:
   DIEDERICH: 1
 App-MultiModule-Tasks-Scheduler:
   DIEDERICH: 1
@@ -6613,8 +6619,6 @@ Audio-SoundFile:
   TAIY: 1
 Audio-TagLib:
   GLEACH: 1
-Audio-TagLib-Shell:
-  DONGXU: 1
 Audio-WMA:
   DANIEL: 1
 Audio-Wav:
@@ -7393,6 +7397,8 @@ Bencher-Scenarios-GetoptLongEvenLess:
   PERLANCAR: 1
 Bencher-Scenarios-HumanDateParsingModules:
   PERLANCAR: 1
+Bencher-Scenarios-IPManipulation:
+  PERLANCAR: 1
 Bencher-Scenarios-LanguageExpr:
   PERLANCAR: 1
 Bencher-Scenarios-LogDispatch:
@@ -7511,8 +7517,6 @@ BerkeleyDB-Locks:
   TQISJIM: 1
 BerkeleyDB-Manager:
   NUFFIN: 1
-BerkeleyDB-SecIndices-Accessor:
-  DONGXU: 1
 Bessarabv-Sleep:
   BESSARABV: 1
 Bessarabv-Weight:
@@ -7783,7 +7787,7 @@ Bio-SeqReader:
 Bio-Taxonomy-GlobalNames:
   DGKONTOP: 1
 Bio-ToolBox:
-  tjparnell: 1
+  TJPARNELL: 1
 Bio-Tools-Alignment-Overview:
   LEPREVOST: 1
 Bio-Tools-CodonOptTable:
@@ -8187,6 +8191,8 @@ Bread-Board-LazyLoader:
   DANIELR: 1
 Bread-Board-LifeCycle-Session:
   GSG: 1
+Bread-Board-Svc:
+  DANIELR: 1
 Brick:
   BDFOY: 1
 Bricklayer-Templater:
@@ -9647,6 +9653,7 @@ CGI-Form-Table:
 CGI-Form2XML:
   JSTOWE: 1
 CGI-FormBuilder:
+  BIGPRESH: 1
   NWIGER: 1
 CGI-FormBuilder-Config-Simple:
   HESCO: 1
@@ -12332,6 +12339,8 @@ Catmandu-Breaker:
   HOCHSTEN: 1
 Catmandu-Cmd-repl:
   NICS: 1
+Catmandu-CrossRef:
+  VPEIL: 1
 Catmandu-DBI:
   NJFRANCK: 1
 Catmandu-DOI:
@@ -16147,8 +16156,6 @@ DBIx-HTML-PopupRadio:
   RSAVAGE: 1
 DBIx-HTMLTable:
   RKIES: 1
-DBIx-HTMLView-LATEST:
-  HAKANARDO: 1
 DBIx-HTMLinterface:
   JFURNESS: 1
 DBIx-Handler:
@@ -16860,7 +16867,6 @@ Dancer-Plugin-DataFormValidator:
 Dancer-Plugin-DataTransposeValidator:
   SYSPETE: 1
 Dancer-Plugin-Database:
-  AMBS: 1
   BIGPRESH: 1
 Dancer-Plugin-Database-Core:
   BIGPRESH: 1
@@ -17209,7 +17215,7 @@ Dancer2-Plugin-ConditionalCaching:
 Dancer2-Plugin-DBIC:
   IRONCAMEL: 1
 Dancer2-Plugin-Database:
-  AMBS: 1
+  BIGPRESH: 1
 Dancer2-Plugin-Deferred:
   YANICK: 1
 Dancer2-Plugin-ElasticSearch:
@@ -17327,7 +17333,7 @@ Dancer2-Session-PSGI:
 Dancer2-Session-Redis:
   SYSPETE: 1
 Dancer2-Session-Sereal:
-  DAGOLDEN: 1
+  YANICK: 1
 Dancer2-Template-Caribou:
   YANICK: 1
 Dancer2-Template-HTCompiled:
@@ -21419,7 +21425,7 @@ Dist-Zilla-Plugin-Test-Pod-No404s:
 Dist-Zilla-Plugin-Test-PodSpelling:
   ETHER: 1
 Dist-Zilla-Plugin-Test-Portability:
-  DOHERTY: 1
+  ETHER: 1
 Dist-Zilla-Plugin-Test-ReportMetadata:
   dist-zilla-plugin-test-reportmetadata: 1
 Dist-Zilla-Plugin-Test-ReportPrereqs:
@@ -23974,8 +23980,6 @@ File-Tail-Inotify2:
   YSASAKI: 1
 File-Tail-Lite:
   CHENGANG: 1
-File-Tail-Multi:
-  ATRIPPS: 1
 File-Tail-Scribe:
   JJSCHUTZ: 1
 File-Tasks:
@@ -26842,7 +26846,6 @@ Graphite-Enumerator:
 Graphviz-DSL:
   SYOHEX: 1
 Gravatar-URL:
-  FMARIER: 1
   MSCHWERN: 1
 Grep-Query:
   KNTH: 1
@@ -28739,7 +28742,7 @@ Hash-Storage:
 Hash-Storage-Driver-DBI:
   KOORCHIK: 1
 Hash-StoredIterator:
-  EXODIST: 1
+  MSCHWERN: 1
 Hash-Tally:
   ADAPAY: 1
 Hash-Transform:
@@ -30754,6 +30757,8 @@ KappaCUDA:
   psilambdallc: 1
 Karas:
   TOKUHIROM: 1
+Karel:
+  CHOROBA: 1
 Kasago:
   LBROCARD: 1
 Kavorka:
@@ -33347,6 +33352,8 @@ Locale-Maketext-Pseudo:
   DMUEY: 1
 Locale-Maketext-Simple:
   JESSE: 1
+Locale-Maketext-Test:
+  BINARY: 1
 Locale-Maketext-Utils:
   DMUEY: 1
 Locale-Memories:
@@ -37480,6 +37487,8 @@ Mojolicious-Plugin-LinkEmbedder:
   JHTHORSEN: 1
 Mojolicious-Plugin-LinkedContent:
   OLG: 1
+Mojolicious-Plugin-LocaleTextDomainOO:
+  CLICKTX: 1
 Mojolicious-Plugin-Log-Access:
   NICZERO: 1
 Mojolicious-Plugin-Log-Elasticsearch:
@@ -39206,6 +39215,8 @@ Net-AMQP-PP:
   BOBTFISH: 1
 Net-AMQP-RabbitMQ:
   MARKELLIS: 1
+Net-AMQP-RabbitMQ-PP:
+  LEEJO: 1
 Net-AOLIM:
   RWAHBY: 1
 Net-API-Gett:
@@ -39256,6 +39267,8 @@ Net-Amazon-AWIS:
   SHEVEK: 1
 Net-Amazon-AWSSign:
   NATON: 1
+Net-Amazon-AlexaValidator:
+  SSIEGAL: 1
 Net-Amazon-Config:
   DAGOLDEN: 1
 Net-Amazon-DVD2IMDB:
@@ -40458,6 +40471,8 @@ Net-MacMap:
   CLINTDW: 1
 Net-Magrathea:
   GHENRY: 1
+Net-Mailboxlayer:
+  THINC: 1
 Net-ManageSieve:
   SKA: 1
 Net-MarkLogic-XDBC:
@@ -41472,6 +41487,8 @@ Net-WholesaleSystem:
   FAYLAND: 1
 Net-Wigle:
   MALLRED: 1
+Net-WinRM:
+  KARASIK: 1
 Net-Wire10:
   DUBEX: 1
 Net-Wireless-802_11-AP:
@@ -42363,7 +42380,7 @@ OpenDNS-MyIP:
 OpenDocument-Template:
   KEEDI: 1
 OpenERP-OOM:
-  NMBOOKER: 1
+  NEWELLC: 1
 OpenERP-XMLRPC-Simple:
   NEWELLC: 1
 OpenFrame:
@@ -44904,6 +44921,8 @@ Paw:
   UGANSERT: 1
 Paws:
   JLMARTIN: 1
+Paws-Kinesis-MemoryCaller:
+  KEITHBRO: 1
 PayflowPro:
   VKHERA: 1
 Payment-Sisow:
@@ -48018,6 +48037,8 @@ RDR-Collector:
   SHAMROCK: 1
 REST-Application:
   MOCONNOR: 1
+REST-Buildbot:
+  DCOLLINS: 1
 REST-Client:
   KKANE: 1
 REST-Consumer:
@@ -48149,6 +48170,12 @@ RPSL-Parser:
 RPerl:
   WBRASWELL: 1
 RPi-DHT11-EnvControl:
+  STEVEB: 1
+RPi-WiringPi:
+  STEVEB: 1
+RPi-WiringPi-Constant:
+  STEVEB: 1
+RPi-WiringPi-Core:
   STEVEB: 1
 RRD-CGI-Image:
   JOSHUA: 1
@@ -48290,7 +48317,7 @@ RT-Extension-CustomField-Checkbox:
 RT-Extension-CustomField-HideEmptyValues:
   ALEXMV: 1
 RT-Extension-CustomFieldsOnUpdate:
-  FALCONE: 1
+  ALEXMV: 1
 RT-Extension-CustomerGroups:
   RINGERC: 1
 RT-Extension-CustomizeContentType:
@@ -50157,6 +50184,8 @@ Sah-Schemas-DefHash:
 Sah-Schemas-Examples:
   PERLANCAR: 1
 Sah-Schemas-Int:
+  PERLANCAR: 1
+Sah-Schemas-Net:
   PERLANCAR: 1
 Sah-Schemas-Path:
   PERLANCAR: 1
@@ -53226,6 +53255,8 @@ Task-BeLike-DBR:
   DBR: 1
 Task-BeLike-DOY:
   DOY: 1
+Task-BeLike-DRAKO:
+  DRAKO: 1
 Task-BeLike-FELLIOTT:
   FELLIOTT: 1
 Task-BeLike-FIBO:
@@ -54235,8 +54266,6 @@ Term-App-Roles:
   PERLANCAR: 1
 Term-Bash-Completion-Generator:
   NKH: 1
-Term-BashTab:
-  DONGXU: 1
 Term-Caca:
   YANICK: 1
 Term-CallEditor:
@@ -55312,7 +55341,7 @@ Test-Numeric:
 Test-Object:
   ADAMK: 1
 Test-OpenID-Consumer:
-  JESSE: 1
+  TSIBLEY: 1
 Test-OpenID-Server:
   JESSE: 1
 Test-OpenLDAP:
@@ -58623,6 +58652,8 @@ Tree-Simple-View:
   STEVAN: 1
 Tree-Simple-VisitorFactory:
   RSAVAGE: 1
+Tree-SizeBalanced:
+  CINDY: 1
 Tree-Suffix:
   GRAY: 1
 Tree-Template-Declare:
@@ -61918,6 +61949,8 @@ WebService-Mackerel:
   PAPIX: 1
 WebService-MailJet:
   KANISHKA: 1
+WebService-Mailgun:
+  MIKIHOSHI: 1
 WebService-Mappoint:
   CGARCIA: 1
 WebService-Megaplan:
@@ -62899,6 +62932,8 @@ Winamp-Controller:
   MAIA: 1
 Wing-Client:
   RIZEN: 1
+WiringPi-API:
+  STEVEB: 1
 Wizard:
   AMAR: 1
   JWIED: 1
