@@ -90,6 +90,8 @@ AI-Classifier:
   ZBY: 1
 AI-Classifier-Japanese:
   SHINGT: 1
+AI-ConfusionMatrix:
+  SKYSYMBOL: 1
 AI-DecisionTree:
   KWILLIAMS: 1
 AI-Evolve-Befunge:
@@ -4508,6 +4510,8 @@ App-Iptables2Dot:
   MAMAWE: 1
 App-IsGitSynced:
   BESSARABV: 1
+App-JESP:
+  JETEVE: 1
 App-JIRAPrint:
   JETEVE: 1
 App-JSON-Tools:
@@ -7400,6 +7404,8 @@ Bencher-Scenarios-HumanDateParsingModules:
 Bencher-Scenarios-IPManipulation:
   PERLANCAR: 1
 Bencher-Scenarios-LanguageExpr:
+  PERLANCAR: 1
+Bencher-Scenarios-LogAny:
   PERLANCAR: 1
 Bencher-Scenarios-LogDispatch:
   PERLANCAR: 1
@@ -11737,7 +11743,7 @@ Catalyst-Plugin-Observe:
 Catalyst-Plugin-OrderedParams:
   AGRUNDMA: 1
 Catalyst-Plugin-PageCache:
-  TIMB: 1
+  VERISSIMO: 1
 Catalyst-Plugin-Params-Demoronize:
   DIZ: 1
 Catalyst-Plugin-Params-Nested:
@@ -12148,6 +12154,8 @@ Catalyst-View-Template-Declare:
   JROCKWAY: 1
 Catalyst-View-Template-PHP:
   MOB: 1
+Catalyst-View-Template-Pure:
+  JJNAPIORK: 1
 Catalyst-View-Templated:
   JROCKWAY: 1
 Catalyst-View-Tenjin:
@@ -17459,6 +17467,8 @@ Data-Checker:
   SBECK: 1
 Data-ChipsChallenge:
   KIRSLE: 1
+Data-Chronicle:
+  BINARY: 1
 Data-Circular-Util:
   PERLANCAR: 1
 Data-CircularList:
@@ -23165,6 +23175,8 @@ Facebook-Graph:
   RIZEN: 1
 Facebook-Graph-Cmdline:
   SPAZM: 1
+Facebook-InstantArticle:
+  TOREAU: 1
 Facebook-OpenGraph:
   OKLAHOMER: 1
 FactorOracle:
@@ -28149,6 +28161,8 @@ HTTP-CDN:
   MSMITH: 1
 HTTP-Cache-Transparent:
   MATTIASH: 1
+HTTP-Caching:
+  VANHOESEL: 1
 HTTP-CheckProxy:
   DHUDES: 1
 HTTP-Client:
@@ -28272,6 +28286,8 @@ HTTP-Message:
   ETHER: 1
 HTTP-MessageParser:
   CHANSEN: 1
+HTTP-Method:
+  VANHOESEL: 1
 HTTP-MobileAgent:
   KURIHARA: 1
 HTTP-MobileAgent-Flash:
@@ -30016,6 +30032,8 @@ Imager-Tiler:
   ZOFFIX: 1
 Imager-TimelineDiagram:
   MZSANFORD: 1
+Imager-Trim:
+  SPOT: 1
 Import-Base:
   PREACTION: 1
 Import-Into:
@@ -32685,6 +32703,8 @@ Linux-RTC-Ioctl:
   TOUGHY: 1
 Linux-Seccomp:
   MGV: 1
+Linux-Setns:
+  HACKMAN: 1
 Linux-Slackware-SystemTests:
   TTKCIAR: 1
 Linux-Smaps:
@@ -36837,8 +36857,6 @@ Module-Runtime-Conflicts:
   ETHER: 1
 Module-ScanDeps:
   RSCHUPP: 1
-Module-Selector:
-  OKROEGER: 1
 Module-Setup:
   YAPPO: 1
 Module-Setup-Flavor-JJNAPIORK:
@@ -37251,6 +37269,8 @@ Mojolicious-Plugin-Args:
   AMIRITE: 1
 Mojolicious-Plugin-AssetPack:
   JHTHORSEN: 1
+Mojolicious-Plugin-AssetPack-Backcompat:
+  JHTHORSEN: 1
 Mojolicious-Plugin-AttributeMaker:
   HAMMER: 1
 Mojolicious-Plugin-Authentication:
@@ -37539,6 +37559,8 @@ Mojolicious-Plugin-MozPersona:
   HJANSEN: 1
 Mojolicious-Plugin-MultiConfig:
   BVINNERD: 1
+Mojolicious-Plugin-Multiplex:
+  JBERGER: 1
 Mojolicious-Plugin-MySQLViewerLite:
   KIMOTO: 1
 Mojolicious-Plugin-NYTProf:
@@ -37653,6 +37675,8 @@ Mojolicious-Plugin-RoutesAuthDBI:
   MCHE: 1
 Mojolicious-Plugin-SMS:
   YSYROTA: 1
+Mojolicious-Plugin-SPNEGO:
+  OETIKER: 1
 Mojolicious-Plugin-SQLMaker:
   FUKATA: 1
 Mojolicious-Plugin-SQLiteViewerLite:
@@ -40369,6 +40393,8 @@ Net-LDAP-Makepath:
   VVELOX: 1
 Net-LDAP-SID:
   KARMAN: 1
+Net-LDAP-SPNEGO:
+  OETIKER: 1
 Net-LDAP-Server:
   AAR: 1
 Net-LDAP-Server-Test:
@@ -41253,6 +41279,8 @@ Net-Statsd-Client:
   ARODLAND: 1
 Net-Statsd-Server:
   COSIMO: 1
+Net-Statsite-Client:
+  JASEI: 1
 Net-Stomp:
   DAKKAR: 1
 Net-Stomp-MooseHelpers:
@@ -41912,6 +41940,8 @@ Number-Phone-DE-Mobile:
   NETSRAK: 1
 Number-Phone-FR:
   DOLMEN: 1
+Number-Phone-Formatter-EPP:
+  MSCHOUT: 1
 Number-Phone-IE:
   DERMOT: 1
 Number-Phone-JP:
@@ -44340,6 +44370,8 @@ Parallel-MapReduce:
   DRRHO: 1
 Parallel-Mpich-MPD:
   ALEXMASS: 1
+Parallel-Pipes:
+  SKAJI: 1
 Parallel-Prefork:
   KAZUHO: 1
 Parallel-Pvm:
@@ -44499,8 +44531,6 @@ Parse-CPAN-Cached:
   SYSMON: 1
 Parse-CPAN-Distributions:
   BARBIE: 1
-Parse-CPAN-Meta:
-  DAGOLDEN: 1
 Parse-CPAN-MirroredBy:
   ADAMK: 1
 Parse-CPAN-Modlist:
@@ -48175,8 +48205,6 @@ RPi-WiringPi:
   STEVEB: 1
 RPi-WiringPi-Constant:
   STEVEB: 1
-RPi-WiringPi-Core:
-  STEVEB: 1
 RRD-CGI-Image:
   JOSHUA: 1
 RRD-Daemon:
@@ -48293,6 +48321,8 @@ RT-Extension-AttachmentWarning:
   TSIBLEY: 1
 RT-Extension-AttributeWalker:
   FALCONE: 1
+RT-Extension-AutomaticAssignment:
+  BPS: 1
 RT-Extension-BounceEmail:
   HOFSTETTM: 1
 RT-Extension-BrandedQueues:
@@ -49943,7 +49973,7 @@ SVG-Convert-Driver-XAML:
 SVG-DOM2:
   DOCTORMO: 1
 SVG-Estimate:
-  RIZEN: 1
+  COLINK: 1
 SVG-Fill:
   JEGADE: 1
 SVG-GD:
@@ -55343,7 +55373,7 @@ Test-Object:
 Test-OpenID-Consumer:
   TSIBLEY: 1
 Test-OpenID-Server:
-  JESSE: 1
+  TSIBLEY: 1
 Test-OpenLDAP:
   DDICK: 1
 Test-Out:
@@ -55661,7 +55691,7 @@ Test-TAP-Model:
 Test-TAPv13:
   SCHWIGON: 1
 Test-TCP:
-  TOKUHIROM: 1
+  SYOHEX: 1
 Test-TCP-Multi:
   DMAKI: 1
 Test-TT:
@@ -55698,6 +55728,8 @@ Test-Tiny:
   SEANO: 1
 Test-TinyMocker:
   SUKRIA: 1
+Test-Toolbox:
+  MIKO: 1
 Test-TrailingSpace:
   SHLOMIF: 1
 Test-Trap:
@@ -56573,6 +56605,7 @@ Text-Overflow:
 Text-Oyster:
   MCKAY: 1
 Text-PDF:
+  BHALLISSY: 1
   MHOSKEN: 1
 Text-PDF2XML:
   TIEDEMANN: 1
@@ -61030,7 +61063,7 @@ WWW-Shorten:
 WWW-Shorten-0rz:
   CAPOEIRAB: 1
 WWW-Shorten-5gp:
-  MICHIELB: 1
+  CAPOEIRAB: 1
 WWW-Shorten-Akari:
   KOVENSKY: 1
 WWW-Shorten-Bitly:
@@ -61353,7 +61386,7 @@ WWW-canihazip:
 WWW-curlmyip:
   DFARRELL: 1
 WWW-eNom:
-  RSIMOES: 1
+  DRZIGMAN: 1
 WWW-eiNetwork:
   AQUILINA: 1
 WWW-hmaip:
@@ -62364,6 +62397,8 @@ Webservice-InterMine-Bio:
   INTERMINE: 1
 Webservice-InterMine-Simple:
   INTERMINE: 1
+Webservice-OVH:
+  SFPAJEND: 1
 Webservice-Shipment:
   JBERGER: 1
 Website:
@@ -63234,6 +63269,16 @@ XAO-PodView:
 XAO-Web:
   AMALTSEV: 1
 XAS:
+  KESTEB: 1
+XAS-Collector:
+  KESTEB: 1
+XAS-Logmon:
+  KESTEB: 1
+XAS-Model:
+  KESTEB: 1
+XAS-Spooler:
+  KESTEB: 1
+XAS-Supervisor:
   KESTEB: 1
 XBRL:
   MGANNON: 1
