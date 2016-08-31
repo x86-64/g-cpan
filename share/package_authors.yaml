@@ -232,6 +232,8 @@ API-ISPManager:
   PGRIFFIN: 1
 API-Instagram:
   GABRIEL: 1
+API-Medium:
+  DOMM: 1
 API-Name:
   AWNCORP: 1
 API-ParallelsWPB:
@@ -803,6 +805,8 @@ Acme-Hoge:
   MAHITO: 1
 Acme-Holy:
   IBB: 1
+Acme-Holy-Shit-Here-Come-s-An-S:
+  ILMARI: 1
 Acme-Homer:
   DMUEY: 1
 Acme-Honkidasu:
@@ -1048,8 +1052,6 @@ Acme-MorseComments:
   JWHEELER: 1
 Acme-MotorcycleGang:
   ACE: 1
-Acme-MyFirstModule-ANALL:
-  ANALL: 1
 Acme-MyFirstModule-APIERRE:
   APIERRE: 1
 Acme-MyFirstModule-ASTPL:
@@ -1612,12 +1614,6 @@ AddressBook:
   DLEIGH: 1
 Ado:
   BEROV: 1
-Ado-Plugin-Admin:
-  BEROV: 1
-Ado-Plugin-Site:
-  BEROV: 1
-Ado-Plugin-Vest:
-  BEROV: 1
 Advent-Bundles:
   DAVIDRW: 1
 Affix-Infix2Postfix:
@@ -2013,6 +2009,8 @@ Alien-BatToExeConverter:
   ADAMK: 1
 Alien-Box2D:
   FROGGS: 1
+Alien-CImg:
+  GUGOD: 1
 Alien-CMake:
   PLICEASE: 1
 Alien-Chipmunk:
@@ -2231,6 +2229,8 @@ Alien-gmake:
   PLICEASE: 1
 Alien-gputils:
   VIKAS: 1
+Alien-libsndfile:
+  GUGOD: 1
 Alien-libtermkey:
   PEVANS: 1
 Alien-libtool24:
@@ -2841,6 +2841,8 @@ AnyEvent-Riak:
   DAMS: 1
   FRANCKC: 1
 AnyEvent-RipeRedis:
+  IPH: 1
+AnyEvent-RipeRedis-Cluster:
   IPH: 1
 AnyEvent-Run:
   AGRUNDMA: 1
@@ -4142,6 +4144,8 @@ App-CompleteCLIs:
   PERLANCAR: 1
 App-CompleteUtils:
   PERLANCAR: 1
+App-Config-Chronicle:
+  BINARY: 1
 App-Context:
   SPADKINS: 1
 App-Control:
@@ -4883,8 +4887,6 @@ App-Perldoc-Search:
   JJORE: 1
 App-PersistentSSH:
   NUFFIN: 1
-App-PgCryobit:
-  JETEVE: 1
 App-Physics-ParticleMotion:
   SMUELLER: 1
 App-PickRandomLines:
@@ -5552,6 +5554,8 @@ App-jpath:
   PERLANCAR: 1
 App-jsonschema:
   ANDREFS: 1
+App-jsonsel:
+  PERLANCAR: 1
 App-jt:
   GUGOD: 1
 App-lcpan:
@@ -5868,6 +5872,8 @@ App-xkcdpass:
   GCJ: 1
 App-xml_grep2:
   MIROD: 1
+App-yamlsel:
+  PERLANCAR: 1
 AppConfig:
   NEILB: 1
 AppConfig-Exporter:
@@ -7371,6 +7377,8 @@ Bencher-Scenarios-CompleteUtil:
   PERLANCAR: 1
 Bencher-Scenarios-DataCSel:
   PERLANCAR: 1
+Bencher-Scenarios-DataCSelWrapStruct:
+  PERLANCAR: 1
 Bencher-Scenarios-DataCleansing:
   PERLANCAR: 1
 Bencher-Scenarios-DataDmp:
@@ -7398,6 +7406,8 @@ Bencher-Scenarios-GetoptLong:
 Bencher-Scenarios-GetoptLongComplete:
   PERLANCAR: 1
 Bencher-Scenarios-GetoptLongEvenLess:
+  PERLANCAR: 1
+Bencher-Scenarios-HashPicking:
   PERLANCAR: 1
 Bencher-Scenarios-HumanDateParsingModules:
   PERLANCAR: 1
@@ -10064,6 +10074,8 @@ CHI-Driver-Ping:
   SWALTERS: 1
 CHI-Driver-Redis:
   IBURRELL: 1
+CHI-Driver-Redis-SortedSet:
+  ATANCASIS: 1
 CHI-Driver-Rethinkdb:
   DBURKE: 1
 CHI-Driver-SharedMem:
@@ -10457,6 +10469,8 @@ CPAN-Testers-Reports-Counts:
   NEILB: 1
 CPAN-Testers-Reports-Query-JSON:
   LLAP: 1
+CPAN-Testers-TailLog:
+  KENTNL: 1
 CPAN-Testers-WWW-Admin:
   BARBIE: 1
 CPAN-Testers-WWW-Blog:
@@ -15570,6 +15584,8 @@ DBD-Wire10:
   DUBEX: 1
 DBD-XBase:
   JANPAZ: 1
+DBD-XMLSimple:
+  NHORNE: 1
 DBD-Yaswi:
   SALVA: 1
 DBD-cego:
@@ -17453,6 +17469,8 @@ Data-COW:
   LPALMER: 1
 Data-CSel:
   PERLANCAR: 1
+Data-CSel-WrapStruct:
+  PERLANCAR: 1
 Data-CTable:
   CHTHORMAN: 1
 Data-CapabilityBased:
@@ -18616,6 +18634,8 @@ Data-Uniqid:
 Data-Unixish:
   PERLANCAR: 1
 Data-Unixish-ANSI:
+  PERLANCAR: 1
+Data-Unixish-Perl:
   PERLANCAR: 1
 Data-Util:
   SYOHEX: 1
@@ -20404,6 +20424,8 @@ Dicom-DCMTK-DCMQRSCP-Config:
   SKIM: 1
 Dicom-File-Detect:
   SKIM: 1
+Dicom-UID-Generator:
+  SKIM: 1
 DicomPack:
   ZBS: 1
 Dict-FSA:
@@ -20468,6 +20490,8 @@ Digest-FNV-XS:
   MLEHMANN: 1
 Digest-FP56x1xor:
   JNW: 1
+Digest-FarmHash:
+  JIRO: 1
 Digest-Fugue:
   GRAY: 1
 Digest-GOST:
@@ -24553,8 +24577,6 @@ Finance-Wesabe:
   BRICAS: 1
 Finance-YahooChart:
   DJPADZ: 1
-Finance-YahooJPN-Quote:
-  HATA: 1
 Finance-YahooJPN-QuoteDetail:
   TAKASHI: 1
 Finance-YahooProfile:
@@ -24652,7 +24674,7 @@ Font-GlyphNames:
 Font-TFM:
   JANPAZ: 1
 Font-TTF:
-  MHOSKEN: 1
+  BHALLISSY: 1
 Font-TTF-OpenTypeLigatures:
   SIMON: 1
 Font-TTF-Scripts:
@@ -26497,6 +26519,8 @@ Glib-Object-Introspection:
   XAOC: 1
 Global-Context:
   RJBS: 1
+Global-MutexLock:
+  ITSUSONY: 1
 Global-Rainbow-Map:
   TOBYINK: 1
 Gloom:
@@ -28769,6 +28793,8 @@ Hash-Union:
   LONERR: 1
 Hash-Util-FieldHash-Compat:
   ETHER: 1
+Hash-Util-Pick:
+  PINE: 1
 Hash-Weighted-Categorize:
   BOOK: 1
 Hash-WithDefaults:
@@ -33362,6 +33388,8 @@ Locale-Maketext-Lexicon-DB:
   CUBABIT: 1
 Locale-Maketext-Lexicon-DBI:
   MDIETRICH: 1
+Locale-Maketext-Lexicon-Getcontext:
+  SAPER: 1
 Locale-Maketext-Lexicon-Properties:
   MOZNION: 1
 Locale-Maketext-Lexicon-Slurp:
@@ -33416,6 +33444,8 @@ Locale-Tie:
   PERLANCAR: 1
 Locale-US:
   ACCARDO: 1
+Locale-US-CensusDivisions:
+  PERLSUFI: 1
 Locale-Utils-Autotranslator:
   STEFFENW: 1
 Locale-Utils-PlaceholderBabelFish:
@@ -33469,8 +33499,8 @@ Log-Analyze:
 Log-AndError:
   TBOLIOLI: 1
 Log-Any:
-  DAGOLDEN: 1
   JSWARTZ: 1
+  PREACTION: 1
 Log-Any-Adapter-Callback:
   SHARYANTO: 1
 Log-Any-Adapter-Carp:
@@ -37295,8 +37325,6 @@ Mojolicious-Plugin-BindSessionToIP:
   KOORCHIK: 1
 Mojolicious-Plugin-BlogSpam:
   AKRON: 1
-Mojolicious-Plugin-Bootstrap3:
-  JHTHORSEN: 1
 Mojolicious-Plugin-BootstrapAlerts:
   RENEEB: 1
 Mojolicious-Plugin-BootstrapHelpers:
@@ -37307,8 +37335,6 @@ Mojolicious-Plugin-Breadcrumbs:
   ZOFFIX: 1
 Mojolicious-Plugin-BrowserDetect:
   UVOELKER: 1
-Mojolicious-Plugin-Browserify:
-  JHTHORSEN: 1
 Mojolicious-Plugin-Bundle:
   SIDD: 1
 Mojolicious-Plugin-CBOR:
@@ -37343,6 +37369,8 @@ Mojolicious-Plugin-ChromeLogger:
   KOORCHIK: 1
 Mojolicious-Plugin-ClientIP:
   SIXAPART: 1
+Mojolicious-Plugin-ClosedRedirect:
+  AKRON: 1
 Mojolicious-Plugin-ConfigAny:
   ZITSEN: 1
 Mojolicious-Plugin-ConfigHashMerge:
@@ -37413,8 +37441,6 @@ Mojolicious-Plugin-FeedReader:
   DOTAN: 1
 Mojolicious-Plugin-FillInFormLite:
   UCHIKO: 1
-Mojolicious-Plugin-FontAwesome4:
-  JHTHORSEN: 1
 Mojolicious-Plugin-ForkCart:
   BPMEDLEY: 1
 Mojolicious-Plugin-Form:
@@ -37908,6 +37934,8 @@ Monkeywrench:
   CNATION: 1
 Monoceros:
   KAZEBURO: 1
+Monorail:
+  CREIN: 1
 Monotone-AutomateStdio:
   monotone: 1
 Month-Simple:
@@ -38650,7 +38678,7 @@ MooseX-Types-Perl:
 MooseX-Types-PerlVersion:
   ROMANF: 1
 MooseX-Types-PortNumber:
-  TBR: 1
+  DROLSKY: 1
 MooseX-Types-Ro:
   ILMARI: 1
 MooseX-Types-Set-Object:
@@ -42225,6 +42253,8 @@ Object-Factory-Declarative:
   JSCHNEID: 1
 Object-ForkAware:
   ETHER: 1
+Object-FromData:
+  OVID: 1
 Object-Generic:
   JMAHONEY: 1
 Object-Generic-Session:
@@ -42972,6 +43002,8 @@ PDLDM-Rank:
 PEF-CacheLRU:
   PEFSECURE: 1
 PEF-Front:
+  ANTONPETR: 1
+PEF-Front-WebSocket:
   ANTONPETR: 1
 PERLANCAR-AppUtil-PerlStripper:
   PERLANCAR: 1
@@ -44988,6 +45020,8 @@ Pcore-GeoIP:
 Pcore-Nginx:
   ZDM: 1
 Pcore-Pg:
+  ZDM: 1
+Pcore-PgSQL:
   ZDM: 1
 Pcore-Redis:
   ZDM: 1
@@ -47251,6 +47285,8 @@ Pointy-Counter:
   TOBYINK: 1
 Poker-Eval:
   NGRAHAM: 1
+Poker-Robot:
+  NGRAHAM: 1
 Politics-AU-Geo:
   ADAMK: 1
 Polloc:
@@ -49423,8 +49459,6 @@ SCUBA-Blender:
   NARKED: 1
 SCUBA-Table-NoDeco:
   PJF: 1
-SDK-SoundCloud:
-  DESERTFOX: 1
 SDL:
   FROGGS: 1
   KTHAKORE: 1
@@ -50871,6 +50905,8 @@ Shell-Verbose:
   DINOMITE: 1
 ShellCompleter-Util:
   PERLANCAR: 1
+ShellQuote-Any:
+  BAYASHI: 1
 ShellScript-Env:
   SVENH: 1
 ShiftJIS-CP932-Correct:
@@ -52839,6 +52875,8 @@ Sys-Load:
   BARABAS: 1
 Sys-LoadAvg:
   JEREMY: 1
+Sys-LoopDevice:
+  PERLANCAR: 1
 Sys-MemInfo:
   SCRESTO: 1
 Sys-Mknod:
@@ -54346,6 +54384,8 @@ Term-ExtendedColor-Xresources:
   WOLDRICH: 1
 Term-Filter:
   DOY: 1
+Term-Form:
+  KUERBIS: 1
 Term-FormatColumns:
   PREACTION: 1
 Term-GentooFunctions:
@@ -54496,6 +54536,8 @@ Term-TtyRec:
   MIYAGAWA: 1
 Term-TtyRec-Plus:
   SARTAK: 1
+Term-TtyWrite:
+  JMATES: 1
 Term-Twiddle:
   SCOTTW: 1
 Term-Twiddle-Quiet:
@@ -58774,6 +58816,8 @@ Try-Tiny-ByClass:
   MAUKE: 1
 Try-Tiny-Except:
   OPI: 1
+Try-Tiny-NoDie:
+  ATANCASIS: 1
 Try-Tiny-Retry:
   DAGOLDEN: 1
 Try-Tiny-SmartCatch:
@@ -60009,6 +60053,8 @@ WWW-BackpackTF:
   MGV: 1
 WWW-Baidu:
   AGENT: 1
+WWW-Baidu-ZhanZhang:
+  FAYLAND: 1
 WWW-Baseball-NPB:
   MIYAGAWA: 1
 WWW-BashOrg:
@@ -64019,6 +64065,8 @@ XML-Simple:
   GRANTM: 1
 XML-Simple-DTDReader:
   ALEXMV: 1
+XML-Simple-Sorted:
+  SINI: 1
 XML-Simple-Sugar:
   CAMSPI: 1
 XML-Simple-Tree:
