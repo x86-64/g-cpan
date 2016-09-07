@@ -2746,7 +2746,7 @@ AnyEvent-Mac-Pasteboard:
 AnyEvent-Memcached:
   MONS: 1
 AnyEvent-MessagePack:
-  TOKUHIROM: 1
+  SYOHEX: 1
 AnyEvent-MockTCPServer:
   BEANZ: 1
 AnyEvent-Monitor:
@@ -5154,6 +5154,8 @@ App-Software-License:
   ETHER: 1
 App-SourcePlot:
   GSB: 1
+App-Spec:
+  TINITA: 1
 App-SpeedTest:
   HMBRAND: 1
 App-Sqitch:
@@ -5234,6 +5236,8 @@ App-Termcast:
   DOY: 1
 App-Test-Tapat:
   JEREMIAH: 1
+App-TextTableUtils:
+  PERLANCAR: 1
 App-Textcast:
   NKH: 1
 App-ThinPacker:
@@ -7291,6 +7295,8 @@ Bencher-Scenario-AcmePERLANCARTestPerformance:
   PERLANCAR: 1
 Bencher-Scenario-Allocations:
   PERLANCAR: 1
+Bencher-Scenario-ArrayVsHashBuilding:
+  PERLANCAR: 1
 Bencher-Scenario-BigFloat:
   PERLANCAR: 1
 Bencher-Scenario-BigInt:
@@ -7306,6 +7312,8 @@ Bencher-Scenario-GamesWordlistModules:
 Bencher-Scenario-GetoptModules:
   PERLANCAR: 1
 Bencher-Scenario-GraphTopologicalSortModules:
+  PERLANCAR: 1
+Bencher-Scenario-HashBuilding:
   PERLANCAR: 1
 Bencher-Scenario-IODParsingModules:
   PERLANCAR: 1
@@ -7412,6 +7420,8 @@ Bencher-Scenarios-HashPicking:
 Bencher-Scenarios-HumanDateParsingModules:
   PERLANCAR: 1
 Bencher-Scenarios-IPManipulation:
+  PERLANCAR: 1
+Bencher-Scenarios-JSONDecodeRegexp:
   PERLANCAR: 1
 Bencher-Scenarios-LanguageExpr:
   PERLANCAR: 1
@@ -7661,6 +7671,8 @@ Bio-Das-ProServer:
   RPETTETT: 1
 Bio-Draw-FeatureStack:
   CHRISFR: 1
+Bio-EBI-RNAseqAPI:
+  MKEAYS: 1
 Bio-ECell:
   GAOU: 1
 Bio-EUtilities:
@@ -8253,6 +8265,8 @@ Build-Simple:
   LEONT: 1
 Builder:
   DRAEGTUN: 1
+Builtin-Logged:
+  PERLANCAR: 1
 Bundle-AndyA:
   ANDYA: 1
 Bundle-Apache-Wombat:
@@ -10665,6 +10679,8 @@ CSV-HistoryPlayer:
   BINARY: 1
 CSV-Template:
   STEVAN: 1
+CSel-Examples:
+  PERLANCAR: 1
 CTKlib:
   ABALAMA: 1
 CTM:
@@ -10988,6 +11004,8 @@ Cartography-Projection-GCTP:
   DSTAHLKE: 1
 Carton:
   MIYAGAWA: 1
+Cassandra-Client:
+  TVDW: 1
 Cassandra-Lite:
   GSLIN: 1
 Catalog:
@@ -11866,7 +11884,7 @@ Catalyst-Plugin-Session-Store-Memcached-Fast:
 Catalyst-Plugin-Session-Store-MongoDB:
   CHIPMUNK: 1
 Catalyst-Plugin-Session-Store-Redis:
-  GPHAT: 1
+  DOMM: 1
 Catalyst-Plugin-Session-Store-TestMemcached:
   JJNAPIORK: 1
 Catalyst-Plugin-Setenv:
@@ -12258,6 +12276,8 @@ CatalystX-ExtJS-REST:
   PERLER: 1
 CatalystX-FacebookURI:
   NACHBAUR: 1
+CatalystX-Fastly-Role-Response:
+  LLAP: 1
 CatalystX-Features:
   VTI: 1
 CatalystX-FeedbackMessages:
@@ -14076,7 +14096,7 @@ Compress-LZMA-External:
 Compress-LZMA-Simple:
   MIKIO: 1
 Compress-LZO:
-  MFX: 1
+  PEPL: 1
 Compress-LZV1:
   MLEHMANN: 1
 Compress-LZW:
@@ -14099,6 +14119,8 @@ Compress-Snappy:
   GRAY: 1
 Compress-Zlib-Perl:
   NWCLARK: 1
+Compress-Zstd:
+  JIRO: 1
 Compress-unLZMA:
   FERREIRA: 1
 Comskil-JIRA:
@@ -15761,6 +15783,8 @@ DBIx-Class-DateTime-Epoch:
   BRICAS: 1
 DBIx-Class-DeleteAction:
   MAROS: 1
+DBIx-Class-DeploymentAdapter:
+  MOVEAX: 1
 DBIx-Class-DeploymentHandler:
   FREW: 1
 DBIx-Class-DeploymentHandler-CLI:
@@ -15783,6 +15807,8 @@ DBIx-Class-EncodeColumns:
   ESSKAR: 1
 DBIx-Class-EncodedColumn:
   WREIS: 1
+DBIx-Class-EncodedColumn-Crypt-PBKDF2:
+  CNG: 1
 DBIx-Class-EncodedColumn-Crypt-Scrypt:
   FBELTON: 1
 DBIx-Class-Factory:
@@ -16042,6 +16068,8 @@ DBIx-Class-Validation-Structure:
   LJR: 1
 DBIx-Class-VirtualColumns:
   MAROS: 1
+DBIx-Class-Visualizer:
+  CSSON: 1
 DBIx-Class-WebForm:
   JROBINSON: 1
 DBIx-Class-Wrapper:
@@ -17982,7 +18010,7 @@ Data-Message:
 Data-MessagePack:
   SYOHEX: 1
 Data-MessagePack-Stream:
-  TYPESTER: 1
+  SYOHEX: 1
 Data-Microformat:
   USSJOIN: 1
 Data-Mining-Apriori:
@@ -22842,7 +22870,7 @@ Exception-Tiny:
 Exception-Warning:
   DEXTER: 1
 Exceptions:
-  PSEIBEL: 1
+  CAPOEIRAB: 1
 ExclusiveLock-Guard:
   YAPPO: 1
 Exherbo-Packager:
@@ -25866,7 +25894,7 @@ Geo-ECEF:
 Geo-EOP:
   MARKOV: 1
 Geo-Ellipsoid:
-  JGIBSON: 1
+  PJACKLAM: 1
 Geo-Ellipsoids:
   MRDVT: 1
 Geo-Fips55:
@@ -26519,6 +26547,8 @@ Glib-Object-Introspection:
   XAOC: 1
 Global-Context:
   RJBS: 1
+Global-IPC-StaticVariable:
+  ITSUSONY: 1
 Global-MutexLock:
   ITSUSONY: 1
 Global-Rainbow-Map:
@@ -27169,7 +27199,7 @@ HAM-Device-IcomCIV:
 HAM-Device-IcomCIVSerialIO:
   EKKIP: 1
 HBase-JSONRest:
-  BDEVETAK: 1
+  CHCAT: 1
 HCKit-Template:
   HANGIL: 1
 HDB:
@@ -30288,6 +30318,8 @@ Ivrs:
 JBD:
   JBD: 1
 JCM-Boilerplate:
+  JMASLAK: 1
+JCM-Net-Patricia:
   JMASLAK: 1
 JCONF-Writer:
   OLEG: 1
@@ -34017,6 +34049,8 @@ Lyrics-Fetcher-LyricWiki:
   BIGPRESH: 1
 Lyrics-Fetcher-LyricsDownload:
   RABUSPA: 1
+Lyrics-Fetcher-LyricsTranslate:
+  MGV: 1
 M:
   MSTROUT: 1
 M3-ServerView:
@@ -34057,6 +34091,8 @@ MARC-Loader:
 MARC-Loop:
   NKUITSE: 1
 MARC-Parser-RAW:
+  JOROL: 1
+MARC-Parser-XML:
   JOROL: 1
 MARC-Record:
   GMCHARLT: 1
@@ -34776,6 +34812,8 @@ Mail-SpamAssassin:
   SpamAssassin: 1
 Mail-SpamAssassin-Contrib-Plugin-IPFilter:
   TRIZK: 1
+Mail-SpamAssassin-Plugin-AttachmentPresent:
+  MERIJNVDK: 1
 Mail-SpamAssassin-Plugin-GoogleSafeBrowsing:
   DANBORN: 1
 Mail-SpamAssassin-Plugin-Konfidi:
@@ -37229,6 +37267,8 @@ MojoX-Transaction-WebSocket76:
   DIONYS: 1
 MojoX-Tree:
   KOSTYA: 1
+MojoX-Twitter:
+  FAYLAND: 1
 MojoX-UserAgent:
   ACAJOU: 1
 MojoX-UserAgent-Throttler:
@@ -37637,6 +37677,8 @@ Mojolicious-Plugin-PlackMiddleware:
   JAMADAM: 1
 Mojolicious-Plugin-PlainRoutes:
   CTHOR: 1
+Mojolicious-Plugin-Plift:
+  CAFEGRATZ: 1
 Mojolicious-Plugin-ProRenderer:
   SLOBIN: 1
 Mojolicious-Plugin-Prove:
@@ -38267,6 +38309,8 @@ MooseX-ExtraArgs:
   BLUEFEET: 1
 MooseX-FSM:
   GORAXE: 1
+MooseX-Fastly-Role:
+  LLAP: 1
 MooseX-FileAttribute:
   JROCKWAY: 1
 MooseX-FollowPBP:
@@ -39585,6 +39629,8 @@ Net-Chaton-API:
   POCKET: 1
 Net-ChooseFName:
   modules: 1
+Net-Cisco-ACS:
+  BEATNIK: 1
 Net-Cisco-AccessList-Extended:
   OLIVER: 1
 Net-Cisco-ConfigGenerator:
@@ -40078,6 +40124,8 @@ Net-GeoPlanet:
   SKREUZER: 1
 Net-Geohash:
   SOCK: 1
+Net-GitHub:
+  FAYLAND: 1
 Net-Gitlab:
   AYOUNG: 1
 Net-Gmail-IMAP-Label:
@@ -40197,7 +40245,7 @@ Net-Hadoop-DFSAdmin-ReportParser:
 Net-Hadoop-HuahinManager:
   TAGOMORIS: 1
 Net-Hadoop-WebHDFS:
-  TAGOMORIS: 1
+  BURAK: 1
 Net-Hadoop-WebHDFS-LWP:
   BURAK: 1
 Net-Hadoop-YARN:
@@ -45019,8 +45067,6 @@ Pcore-GeoIP:
   ZDM: 1
 Pcore-Nginx:
   ZDM: 1
-Pcore-Pg:
-  ZDM: 1
 Pcore-PgSQL:
   ZDM: 1
 Pcore-Redis:
@@ -47801,11 +47847,29 @@ QBit-Application:
   MADSKILL: 1
 QBit-Application-Model-DB:
   MADSKILL: 1
+QBit-Application-Model-DB-mysql:
+  MADSKILL: 1
+QBit-Application-Model-DB-mysql-Table-MultistateActionLog:
+  MADSKILL: 1
+QBit-Application-Model-DBManager:
+  MADSKILL: 1
+QBit-Application-Model-Multistate:
+  MADSKILL: 1
+QBit-Application-Model-Multistate-DB:
+  MADSKILL: 1
+QBit-Application-Model-SendMail:
+  MADSKILL: 1
 QBit-Class:
+  MADSKILL: 1
+QBit-Cron:
   MADSKILL: 1
 QBit-TimeLog:
   MADSKILL: 1
 QBit-TimeLog-XS:
+  MADSKILL: 1
+QBit-WebInterface:
+  MADSKILL: 1
+QBit-WebInterface-FastCGI:
   MADSKILL: 1
 QDBM_File:
   YAMATO: 1
@@ -48235,7 +48299,7 @@ RPSL-Parser:
   LMC: 1
 RPerl:
   WBRASWELL: 1
-RPi-DHT11-EnvControl:
+RPi-DHT11:
   STEVEB: 1
 RPi-WiringPi:
   STEVEB: 1
@@ -48707,6 +48771,8 @@ RandomJungle:
   RFREIMUTH: 1
 Randomize:
   BHILTON: 1
+Range-Merge:
+  JMASLAK: 1
 Range-Object:
   TOKAREV: 1
 RangeQuery:
@@ -49582,6 +49648,10 @@ SMS-Send-BulkSMS:
   MARIOCT: 1
 SMS-Send-CSoft:
   BEANZ: 1
+SMS-Send-CZ-Neogate:
+  RADIUSCZ: 1
+SMS-Send-CZ-Smsmidlet:
+  RADIUSCZ: 1
 SMS-Send-ClickSend:
   FAYLAND: 1
 SMS-Send-Clickatell:
@@ -49890,6 +49960,8 @@ SQL-QueryBuilder-OO:
   SCHIECHEO: 1
 SQL-QueryBuilder-Pretty:
   RIVOTTI: 1
+SQL-QueryBuilder-WebApi:
+  ACTIVEDB: 1
 SQL-QueryMaker:
   KAZUHO: 1
 SQL-ReservedWords:
@@ -50481,6 +50553,8 @@ Script-Daemonizer:
   KROMG: 1
 Script-Ichigeki:
   SONGMU: 1
+Script-NeedsRestart:
+  JKUTEJ: 1
 Script-Nohup:
   MACOTASU: 1
 Script-Remote:
@@ -52793,6 +52867,8 @@ Syntax-Keyword-Gather:
   FREW: 1
 Syntax-Keyword-Junction:
   FREW: 1
+Syntax-Keyword-Try:
+  PEVANS: 1
 Syntax-Keyword-Val:
   SPROINGIE: 1
 SyntaxHighlight-Any:
@@ -54824,6 +54900,8 @@ Test-Declare:
   NEKOKAK: 1
 Test-Deep:
   RJBS: 1
+Test-Deep-ArrayEachNotEmpty:
+  MIHYAERU: 1
 Test-Deep-Between:
   MACOPY: 1
 Test-Deep-Cond:
@@ -56219,6 +56297,8 @@ Text-Darts:
   DANKOGAI: 1
 Text-DeDuper:
   JANPOM: 1
+Text-DeLoreanIpsum:
+  MARIANOS: 1
 Text-DeSupercite:
   SIMONW: 1
 Text-Decorator:
@@ -57849,6 +57929,10 @@ Tiffany:
   TOKUHIROM: 1
 Tiger-hash:
   DIDO: 1
+Tilt-Email-BlueHornet:
+  TILDEDAVE: 1
+Time-Activated:
+  GBARCO: 1
 Time-Ago:
   MAURICE: 1
 Time-AutoRes:
@@ -59185,6 +59269,8 @@ URL-Normalize:
   TOREAU: 1
 URL-RegexMatching:
   TIMA: 1
+URL-Search:
+  MAUKE: 1
 URL-Signature:
   GARU: 1
 URL-Signature-Google-Maps-API:
@@ -60045,8 +60131,6 @@ WWW-BF2Player:
   WILSOND: 1
 WWW-BF2S:
   WILSOND: 1
-WWW-B_Rail:
-  BEATNIK: 1
 WWW-Babelfish:
   DURIST: 1
 WWW-BackpackTF:
@@ -63322,6 +63406,8 @@ XAS-Logmon:
   KESTEB: 1
 XAS-Model:
   KESTEB: 1
+XAS-Service:
+  KESTEB: 1
 XAS-Spooler:
   KESTEB: 1
 XAS-Supervisor:
@@ -65133,6 +65219,8 @@ iPerl:
   PFEIFFER: 1
 iPod-Squish:
   NUFFIN: 1
+iRedAdmin:
+  LUCAS: 1
 iTransact-Lite:
   RIZEN: 1
 if:
@@ -65387,8 +65475,6 @@ namespace-functions:
   DEXTER: 1
 namespace-sweep:
   FRIEDO: 1
-net-github:
-  FAYLAND: 1
 net-lastfmapi:
   DRSTEVE: 1
 new.spirit:
