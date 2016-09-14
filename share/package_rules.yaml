@@ -34,13 +34,9 @@ Compress-Raw-Bzip2:
 Compress-Raw-Zlib:
   category: virtual
   name: perl-Compress-Raw-Zlib
-DBIx-SearchBuilder:
-  name: dbix-searchbuilder
 DB_File:
   category: virtual
   name: perl-DB_File
-Data-Buffer:
-  name: data-buffer
 Data-Dumper:
   category: virtual
   name: perl-Data-Dumper
@@ -53,10 +49,6 @@ Devel-SelfStubber:
 Digest:
   category: virtual
   name: perl-Digest
-Digest-BubbleBabble:
-  name: digest-bubblebabble
-Digest-MD2:
-  name: digest-md2
 Digest-MD5:
   category: virtual
   name: perl-Digest-MD5

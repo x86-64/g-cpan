@@ -2013,6 +2013,8 @@ Alien-CImg:
   GUGOD: 1
 Alien-CMake:
   PLICEASE: 1
+Alien-Capstone:
+  VIKAS: 1
 Alien-Chipmunk:
   JTPALMER: 1
 Alien-CodePress:
@@ -2081,6 +2083,8 @@ Alien-Jerl:
   MTSHOMSKY: 1
 Alien-Judy:
   JJORE: 1
+Alien-Keystone:
+  VIKAS: 1
 Alien-LIBSVM:
   ZMUGHAL: 1
 Alien-LMDB:
@@ -2195,6 +2199,8 @@ Alien-UDUNITS2:
   ZMUGHAL: 1
 Alien-UnRTF:
   JOENIO: 1
+Alien-UnicornEngine:
+  VIKAS: 1
 Alien-Uninum:
   ZMUGHAL: 1
 Alien-V8:
@@ -2894,6 +2900,8 @@ AnyEvent-Twitter:
   PUNYTAN: 1
 AnyEvent-Twitter-Stream:
   MIYAGAWA: 1
+AnyEvent-UWSGI:
+  ALKAZAKOV: 1
 AnyEvent-UserAgent:
   DIONYS: 1
 AnyEvent-Watchdog:
@@ -4108,6 +4116,8 @@ App-Charon:
   FREW: 1
 App-Chart:
   KRYDE: 1
+App-CheckArchiveFilename:
+  PERLANCAR: 1
 App-Chorus:
   YANICK: 1
 App-Chronicle:
@@ -4348,6 +4358,8 @@ App-Genpass:
   XSAWYERX: 1
 App-Getconf:
   DOZZIE: 1
+App-GetoptLongUtils:
+  PERLANCAR: 1
 App-Git-Ribbon:
   KABLAMO: 1
 App-Git-SitePerl:
@@ -5015,6 +5027,8 @@ App-Reg:
   GLITCHMR: 1
 App-RegexFileUtils:
   PLICEASE: 1
+App-RegexpPatternUtils:
+  PERLANCAR: 1
 App-Relate:
   DOOM: 1
 App-Relate-Complex:
@@ -7377,6 +7391,8 @@ Bencher-Scenarios-AppHr:
   PERLANCAR: 1
 Bencher-Scenarios-AppLcpan:
   PERLANCAR: 1
+Bencher-Scenarios-ArchiveTarModules:
+  PERLANCAR: 1
 Bencher-Scenarios-Bencher:
   PERLANCAR: 1
 Bencher-Scenarios-CloneModules:
@@ -7451,7 +7467,11 @@ Bencher-Scenarios-RefUtil:
   PERLANCAR: 1
 Bencher-Scenarios-RegexpCommon:
   PERLANCAR: 1
+Bencher-Scenarios-RegexpCommonVsRegexpPattern:
+  PERLANCAR: 1
 Bencher-Scenarios-RegexpGrammars:
+  PERLANCAR: 1
+Bencher-Scenarios-RegexpPattern:
   PERLANCAR: 1
 Bencher-Scenarios-RoleTinyCommonsTree:
   PERLANCAR: 1
@@ -16459,6 +16479,8 @@ DBIx-SimplePerl:
   LANDMAN: 1
 DBIx-SimpleQuery:
   SSIMMS: 1
+DBIx-Simplish:
+  STAUGAARD: 1
 DBIx-Skinny:
   NEKOKAK: 1
 DBIx-Skinny-InflateColumn-DateTime:
@@ -18398,6 +18420,8 @@ Data-Sah-Format-perl-sci2dec:
   PERLANCAR: 1
 Data-Sah-From-JSONSchema:
   PERLANCAR: 1
+Data-Sah-JS:
+  PERLANCAR: 1
 Data-Sah-Normalize:
   PERLANCAR: 1
 Data-Sah-Object:
@@ -19765,7 +19789,7 @@ Devel-Hints:
 Devel-Hook:
   FERREIRA: 1
 Devel-INC-Sorted:
-  NUFFIN: 1
+  ETHER: 1
 Devel-IPerl:
   ZMUGHAL: 1
 Devel-InPackage:
@@ -21326,6 +21350,8 @@ Dist-Zilla-Plugin-ReadmeFromPod:
   FAYLAND: 1
 Dist-Zilla-Plugin-ReadmeMarkdownFromPod:
   RTHOMPSON: 1
+Dist-Zilla-Plugin-Regexp-Pattern:
+  PERLANCAR: 1
 Dist-Zilla-Plugin-ReleaseStatus-FromVersion:
   DAGOLDEN: 1
 Dist-Zilla-Plugin-RemovePhasedPrereqs:
@@ -21633,7 +21659,7 @@ Dist-Zilla-PluginBundle-Author-OALDERS:
 Dist-Zilla-PluginBundle-Author-OLIVER:
   OLIVER: 1
 Dist-Zilla-PluginBundle-Author-OpusVL:
-  ALTREUS: 1
+  NEWELLC: 1
 Dist-Zilla-PluginBundle-Author-PERLANCAR:
   PERLANCAR: 1
 Dist-Zilla-PluginBundle-Author-Plicease:
@@ -22958,7 +22984,7 @@ ExtJS-AutoForm-Moose:
 ExtJS-Generator-DBIC:
   ABRAXXA: 1
 ExtUtils-AutoInstall:
-  AUTRIJUS: 1
+  INGY: 1
 ExtUtils-Autoconf:
   FLORA: 1
 ExtUtils-BuildRC:
@@ -23746,6 +23772,8 @@ File-MimeInfo-Simple:
   DAMOG: 1
 File-Mirror:
   File-Mirror: 1
+File-Misc:
+  MIKO: 1
 File-MkTemp:
   TGUMMELS: 1
 File-Modified:
@@ -24927,6 +24955,8 @@ Furl:
   SYOHEX: 1
 Furl-Cookies:
   KAZUNORI: 1
+Furl-HTTP-OAuth:
+  ASCRA: 1
 Furl-S3:
   IKEBE: 1
 FurlX-Coro:
@@ -33897,6 +33927,8 @@ Log-SelfHistory:
   TUSHAR: 1
 Log-Sentry:
   Log-Sentry: 1
+Log-Shiras:
+  JANDREW: 1
 Log-Sigil:
   KUNIYOSHI: 1
 Log-Simple:
@@ -35582,6 +35614,8 @@ Math-OEIS:
   KRYDE: 1
 Math-Orthonormalize:
   SMUELLER: 1
+Math-PRBS:
+  PETERCJ: 1
 Math-PRSG:
   GARY: 1
 Math-PSNR:
@@ -36176,7 +36210,9 @@ MetaCPAN-Clients:
 MetaCPAN-Helper:
   NEILB: 1
 MetaCPAN-Moose:
-  MICKEY: 1
+  OALDERS: 1
+MetaCPAN-Role:
+  LLAP: 1
 MetaMap-DataStructures:
   HENRYST: 1
 MetaPOD:
@@ -37737,8 +37773,6 @@ Mojolicious-Plugin-RevealJS:
   JBERGER: 1
 Mojolicious-Plugin-ReverseProxy:
   OETIKER: 1
-Mojolicious-Plugin-Riotjs:
-  JHTHORSEN: 1
 Mojolicious-Plugin-RoutesAuthDBI:
   MCHE: 1
 Mojolicious-Plugin-SMS:
@@ -37833,8 +37867,6 @@ Mojolicious-Plugin-UTF8:
   AMIRITE: 1
 Mojolicious-Plugin-UnicodeNormalize:
   CHROMATIC: 1
-Mojolicious-Plugin-UrlWith:
-  JHTHORSEN: 1
 Mojolicious-Plugin-UserMessages:
   BMAVT: 1
 Mojolicious-Plugin-Util-Callback:
@@ -38049,6 +38081,8 @@ MooX-Role-CachedURL:
   NEILB: 1
 MooX-Role-Chatty:
   CBAIL: 1
+MooX-Role-CloneSet:
+  ROAM: 1
 MooX-Role-DependsOn:
   AVENJ: 1
 MooX-Role-Logger:
@@ -42743,6 +42777,8 @@ Outthentic:
   MELEZHIK: 1
 Outthentic-DSL:
   MELEZHIK: 1
+OvhApi:
+  PACOEB: 1
 Ovid:
   GYEPI: 1
 Ovirt:
@@ -47159,6 +47195,8 @@ Pod-Weaver-Plugin-PERLANCAR-SortSections:
   PERLANCAR: 1
 Pod-Weaver-Plugin-PatchModule:
   PERLANCAR: 1
+Pod-Weaver-Plugin-Regexp-Pattern:
+  PERLANCAR: 1
 Pod-Weaver-Plugin-Rinci:
   PERLANCAR: 1
 Pod-Weaver-Plugin-Sah-Schemas:
@@ -47845,17 +47883,29 @@ Python-Serialize-Pickle-InlinePython:
   TOKUHIROM: 1
 QBit-Application:
   MADSKILL: 1
+QBit-Application-Model-Authorization:
+  MADSKILL: 1
 QBit-Application-Model-DB:
   MADSKILL: 1
 QBit-Application-Model-DB-mysql:
   MADSKILL: 1
+QBit-Application-Model-DB-mysql-Authorization:
+  MADSKILL: 1
+QBit-Application-Model-DB-mysql-RBAC:
+  MADSKILL: 1
 QBit-Application-Model-DB-mysql-Table-MultistateActionLog:
   MADSKILL: 1
+QBit-Application-Model-DB-mysql-Users:
+  MADSKILL: 1
 QBit-Application-Model-DBManager:
+  MADSKILL: 1
+QBit-Application-Model-DBManager-Users:
   MADSKILL: 1
 QBit-Application-Model-Multistate:
   MADSKILL: 1
 QBit-Application-Model-Multistate-DB:
+  MADSKILL: 1
+QBit-Application-Model-RBAC-DB:
   MADSKILL: 1
 QBit-Application-Model-SendMail:
   MADSKILL: 1
@@ -47869,7 +47919,21 @@ QBit-TimeLog-XS:
   MADSKILL: 1
 QBit-WebInterface:
   MADSKILL: 1
+QBit-WebInterface-Apache2:
+  MADSKILL: 1
+QBit-WebInterface-Controller-Multistate:
+  MADSKILL: 1
+QBit-WebInterface-Controller-Pod:
+  MADSKILL: 1
+QBit-WebInterface-Controller-RBAC:
+  MADSKILL: 1
 QBit-WebInterface-FastCGI:
+  MADSKILL: 1
+QBit-WebInterface-OwnServer:
+  MADSKILL: 1
+QBit-WebInterface-PSGI:
+  MADSKILL: 1
+QBit-WebInterface-Routing:
   MADSKILL: 1
 QDBM_File:
   YAMATO: 1
@@ -48464,6 +48528,8 @@ RT-Extension-EasyRelatedTickets:
   SUNNAVY: 1
 RT-Extension-EscalationDates:
   BHEISIG: 1
+RT-Extension-ExcelFeed:
+  BPS: 1
 RT-Extension-ExternalStorage:
   ALEXMV: 1
 RT-Extension-ExtractCustomFieldValues:
@@ -48963,6 +49029,8 @@ Regexp-Common-IRC:
   PERIGRIN: 1
 Regexp-Common-Other:
   KRYDE: 1
+Regexp-Common-RegexpPattern:
+  PERLANCAR: 1
 Regexp-Common-VATIN:
   RSIMOES: 1
 Regexp-Common-WithActions:
@@ -49059,6 +49127,12 @@ Regexp-Parser:
   TODDR: 1
 Regexp-Parsertron:
   RSAVAGE: 1
+Regexp-Pattern:
+  PERLANCAR: 1
+Regexp-Pattern-RegexpCommon:
+  PERLANCAR: 1
+Regexp-Pattern-YouTube:
+  PERLANCAR: 1
 Regexp-RegGrp:
   LEEJO: 1
 Regexp-Result:
@@ -49195,8 +49269,6 @@ Rest-Client-Builder:
   ALEXKOM: 1
 Rest-HtmlVis:
   VASEKD: 1
-RestrictionDigest:
-  JINPENG: 1
 Rethinkdb:
   NJLG: 1
 Retry:
@@ -52563,6 +52635,8 @@ Sub-Lazy:
   TOBYINK: 1
 Sub-Lexical:
   BROQ: 1
+Sub-Lvalue:
+  MONS: 1
 Sub-Mage:
   BRADH: 1
 Sub-Metadata:
@@ -56629,6 +56703,8 @@ Text-Md2Inao:
   GFUJI: 1
 Text-MeCab:
   DMAKI: 1
+Text-Mecabist:
+  TOMITA: 1
 Text-Median:
   LMETCALF: 1
 Text-MediawikiFormat:
@@ -57046,6 +57122,8 @@ Text-Tokenizer:
 Text-Trac:
   MIZZY: 1
   SZABGAB: 1
+Text-Trac2GFM:
+  JSIME: 1
 Text-Tradition:
   AURUM: 1
 Text-Tradition-Analysis:
@@ -57963,6 +58041,8 @@ Time-DayOfWeek:
   PIP: 1
 Time-Decimal:
   PFEIFFER: 1
+Time-DoAfter:
+  GRYPHON: 1
 Time-Duration:
   NEILB: 1
 Time-Duration-Abbreviated:
@@ -59648,8 +59728,6 @@ VCfs:
   EWILHELM: 1
 VFS:
   SHEVEK: 1
-VFS-Gnome:
-  PIERS: 1
 VFSsimple:
   VFSsimple: 1
 VFSsimple-Drv-File:
@@ -64701,6 +64779,8 @@ Zabbix2-API:
   FGA: 1
 Zeal:
   MGV: 1
+Zed:
+  ZUYIS: 1
 Zen-Koans:
   LUKEC: 1
 Zenoss:
