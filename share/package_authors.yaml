@@ -3,6 +3,7 @@
   582+: 1
   BMIDD: 1
   MICB: 1
+  ORANGE: 1
   TIMB: 1
   os2: 1
   tk: 1
@@ -2829,6 +2830,8 @@ AnyEvent-RabbitMQ-RPC:
   ALEXMV: 1
 AnyEvent-RabbitMQ-Simple:
   AJGB: 1
+AnyEvent-Radius:
+  PORTAONE: 1
 AnyEvent-ReadLine-Gnu:
   MLEHMANN: 1
 AnyEvent-Redis:
@@ -4004,8 +4007,6 @@ App-Birthday:
   FARHAD: 1
 App-Bondage:
   HINRIK: 1
-App-Booklist:
-  GENEHACK: 1
 App-BoolFindGrep:
   JIMMY: 1
 App-Bootstrap:
@@ -7392,6 +7393,8 @@ Bencher-Scenarios-AppHr:
 Bencher-Scenarios-AppLcpan:
   PERLANCAR: 1
 Bencher-Scenarios-ArchiveTarModules:
+  PERLANCAR: 1
+Bencher-Scenarios-ArraySet:
   PERLANCAR: 1
 Bencher-Scenarios-Bencher:
   PERLANCAR: 1
@@ -10939,12 +10942,12 @@ Captcha-Peoplesign:
   ARTHAS: 1
 Captcha-noCAPTCHA:
   CLARSON: 1
-Captcha-reCAPTCHA:
-  PHRED: 1
 Captcha-reCAPTCHA-Mailhide:
   ANDYA: 1
 Captcha-reCAPTCHA-V2:
   PATTAWAN: 1
+Captcha-reCaptcha:
+  SUNNYP: 1
 Captive-Portal:
   GAISSMAI: 1
 Capture-Attribute:
@@ -14894,6 +14897,8 @@ Crypt-Anubis:
   JCDUQUE: 1
 Crypt-AppleTwoFish:
   BILLH: 1
+Crypt-Argon2:
+  LEONT: 1
 Crypt-Blowfish:
   DPARIS: 1
 Crypt-Blowfish-Mod:
@@ -16648,6 +16653,8 @@ DDC-Concordance:
   MOOCOW: 1
 DDC-XS:
   MOOCOW: 1
+DDG:
+  DDG: 1
 DDL-Oracle:
   RVSUTHERL: 1
 DDLock-Client:
@@ -18282,6 +18289,8 @@ Data-Quantity:
   EVO: 1
 Data-Queue-Persistent:
   REVMISCHA: 1
+Data-Radius:
+  PORTAONE: 1
 Data-Rand:
   DMUEY: 1
 Data-Rand-Obscure:
@@ -19674,6 +19683,8 @@ Devel-Debug-DBGp:
   MBARBON: 1
 Devel-Debug-Server:
   JCHASSLER: 1
+Devel-DebugHooks:
+  KES: 1
 Devel-DebugInit:
   JASONS: 1
 Devel-Declare:
@@ -20203,6 +20214,8 @@ Device-Chip-PCF8574:
 Device-Chip-SDCard:
   PEVANS: 1
 Device-Chip-SSD1306:
+  PEVANS: 1
+Device-Chip-TSL256x:
   PEVANS: 1
 Device-Conrad-RelaisControl:
   NOHA: 1
@@ -21987,6 +22000,8 @@ Doxygen-Filter-Perl:
   Doxygen-Filter-Perl: 1
 Doxygen-Lua:
   ALEC: 1
+DracPerl-Client:
+  APCROS: 1
 Draft:
   BPOSTLE: 1
 Dreamhack-Solitaire:
@@ -22336,6 +22351,8 @@ Email-FolderType-Net:
   RJBS: 1
 Email-Forward-Dispatch:
   HIROBANEX: 1
+Email-IsEmail:
+  LEANDR: 1
 Email-IsFree:
   TJMATHER: 1
 Email-IsFree-CN:
@@ -22497,6 +22514,8 @@ Encode:
   DANKOGAI: 1
 Encode-Arabic:
   SMRZ: 1
+Encode-Arabic-Franco:
+  ATHREEF: 1
 Encode-Argv:
   DMAKI: 1
 Encode-BOCU1:
@@ -24755,6 +24774,8 @@ Forest-Tree-Viewer-Gtk2:
   PMURIAS: 1
 Forex:
   BPATEL: 1
+Fork-Promise:
+  TYNOVSKY: 1
 Forks-Super:
   MOB: 1
 Form-Diva:
@@ -27883,6 +27904,8 @@ HTML-SiteTear:
   TKURITA: 1
 HTML-SocialMedia:
   NHORNE: 1
+HTML-SocialMedia-Hashtag:
+  GERMANS: 1
 HTML-SocialMeta:
   LNATION: 1
 HTML-Spelling-Site:
@@ -27935,6 +27958,8 @@ HTML-Table-FromDatabase:
   BIGPRESH: 1
 HTML-TableBracket:
   JEEK: 1
+HTML-TableContent:
+  LNATION: 1
 HTML-TableContentParser:
   SDRABBLE: 1
 HTML-TableExtract:
@@ -28556,6 +28581,8 @@ HTTP-Thin-UserAgent:
 HTTP-Throwable:
   RJBS: 1
   STEVAN: 1
+HTTP-Throwable-JSONFactory:
+  WOLFSAGE: 1
 HTTP-Tiny:
   DAGOLDEN: 1
 HTTP-Tiny-Bandwidth:
@@ -28737,6 +28764,8 @@ Hash-AutoHash-MultiValued:
   NATG: 1
 Hash-AutoHash-Record:
   NATG: 1
+Hash-BulkKeyCopy:
+  ITSUSONY: 1
 Hash-Case:
   MARKOV: 1
 Hash-CoerceToArray:
@@ -30528,6 +30557,8 @@ JSON-Schema-AsType:
   YANICK: 1
 JSON-Schema-Fit:
   LIOSHA: 1
+JSON-Schema-Shorthand:
+  YANICK: 1
 JSON-Streaming-Reader:
   MART: 1
 JSON-Streaming-Writer:
@@ -30903,6 +30934,8 @@ KeyedMutex:
   KAZUHO: 1
 KeyedMutex-Memcached:
   KARUPA: 1
+Keystone:
+  TOSH: 1
 Keystone-Resolver:
   MIRK: 1
 Keyword-API:
@@ -31312,7 +31345,7 @@ Kwim:
 Kwim-Plugin-badge:
   INGY: 1
 Kx:
-  MARKPF: 1
+  SLOYD: 1
 L:
   SONGMU: 1
 LARC-DB:
@@ -34227,6 +34260,8 @@ MIME-Charset:
   NEZUMI: 1
 MIME-DecodeText:
   VLAD: 1
+MIME-Detect:
+  CORION: 1
 MIME-EcoEncode:
   MURATAYA: 1
 MIME-EncWords:
@@ -37096,6 +37131,8 @@ Mojo-IOLoop-ProcBackground:
   BPMEDLEY: 1
 Mojo-IOLoop-ReadWriteFork:
   JHTHORSEN: 1
+Mojo-IOLoop-Subprocess-Sereal:
+  DBOOK: 1
 Mojo-IOLoop-Tail:
   BPMEDLEY: 1
 Mojo-IRC:
@@ -37314,7 +37351,7 @@ MojoX-ValidateHeadLinks:
 MojoX-Validator:
   VTI: 1
 Mojolicious:
-  SRI: 1
+  JBERGER: 1
 Mojolicious-Che:
   MCHE: 1
 Mojolicious-Command-deploy:
@@ -40300,6 +40337,8 @@ Net-IANA-Services:
   LESPEA: 1
 Net-ICAP:
   Net-ICAP: 1
+Net-ICAP-Client:
+  DDICK: 1
 Net-ICB:
   JMV: 1
 Net-ICQ:
@@ -42335,8 +42374,6 @@ Object-Factory-Declarative:
   JSCHNEID: 1
 Object-ForkAware:
   ETHER: 1
-Object-FromData:
-  OVID: 1
 Object-Generic:
   JMAHONEY: 1
 Object-Generic-Session:
@@ -48686,6 +48723,8 @@ RT-Extension-TicketPDF:
   WESAL: 1
 RT-Extension-TimeTracking:
   CBRANDT: 1
+RT-Extension-TimeTracking-Automatic:
+  BPS: 1
 RT-Extension-TimeWorkedReport:
   WESAL: 1
 RT-Extension-ToggleSuperUser:
@@ -49517,6 +49556,8 @@ Router-Resource:
   DWHEELER: 1
 Router-Simple:
   TOKUHIROM: 1
+Router-Simple-Reversible:
+  MOTEMEN: 1
 Router-Simple-Sinatraish:
   TOKUHIROM: 1
 Routes-Tiny:
@@ -56192,6 +56233,8 @@ Text-Aspell:
   HANK: 1
 Text-Authinfo:
   BCLAWSIE: 1
+Text-AutoCSV:
+  MILLETSEB: 1
 Text-AutoLink:
   DMAKI: 1
 Text-Autoformat:
@@ -58021,6 +58064,8 @@ Time-Available:
   DPAVLIN: 1
 Time-Business:
   DAVIDP: 1
+Time-C:
+  COFFEE: 1
 Time-Checkpoint:
   JANE: 1
 Time-Checkpoint-Sequential:
@@ -59058,6 +59103,8 @@ Types-DBIx-Class:
   YARY: 1
 Types-DateTime:
   TOBYINK: 1
+Types-Digest:
+  JASEI: 1
 Types-Encodings:
   TOBYINK: 1
 Types-Git:
@@ -59124,6 +59171,8 @@ UI-Dialog-Util-MenuControl:
   AHERNIT: 1
 UI-KeyboardLayout:
   modules: 1
+UI-Notify-Cocoa:
+  ATHREEF: 1
 UID:
   PLATO: 1
 UML-Class-Simple:
@@ -59559,8 +59608,12 @@ Unicode-Unihan:
   DANKOGAI: 1
 Unicode-Util:
   PATCH: 1
+UnicodeOperators:
+  PRBRENAN: 1
 Unicorn-Manager:
   MUGENKEN: 1
+UnicornEngine:
+  VIKAS: 1
 Uniden-BC75XLT:
   KESHOV: 1
 Uninets-Check:
@@ -59928,6 +59981,10 @@ Variable-Watcher:
   KANE: 1
 Varnish-CLI:
   RCL: 1
+Vayne:
+  ZUYIS: 1
+Vayne-SSH-Tunnel:
+  ZUYIS: 1
 Vcdiff:
   FRACTAL: 1
 Vcdiff-OpenVcdiff:
@@ -61275,7 +61332,7 @@ WWW-Shorten-5gp:
 WWW-Shorten-Akari:
   KOVENSKY: 1
 WWW-Shorten-Bitly:
-  PJAIN: 1
+  CAPOEIRAB: 1
 WWW-Shorten-Digg:
   BROERSE: 1
 WWW-Shorten-Durl:
@@ -65474,8 +65531,6 @@ lsid-perl:
   EKAWAS: 1
 lsutils:
   LEOCHARRE: 1
-lvalue:
-  MONS: 1
 mGen:
   CYBER: 1
 mRuby:
