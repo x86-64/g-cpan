@@ -926,6 +926,8 @@ Acme-MTINBERG:
   MTINBERG: 1
 Acme-MUDLike:
   SWALTERS: 1
+Acme-Machi:
+  UINTAHORN: 1
 Acme-Madness:
   URI: 1
 Acme-Magic-Pony:
@@ -1143,6 +1145,8 @@ Acme-PEPM:
   Win32: 1
 Acme-PERL-Autocorrect:
   CHROMATIC: 1
+Acme-PERLANCAR-Prime:
+  PERLANCAR: 1
 Acme-PERLANCAR-Test:
   PERLANCAR: 1
 Acme-PERLANCAR-Test-CaseVariation:
@@ -2826,6 +2830,8 @@ AnyEvent-RabbitMQ:
   DLAMBLEY: 1
 AnyEvent-RabbitMQ-Fork:
   MYDMNSN: 1
+AnyEvent-RabbitMQ-PubSub:
+  TYNOVSKY: 1
 AnyEvent-RabbitMQ-RPC:
   ALEXMV: 1
 AnyEvent-RabbitMQ-Simple:
@@ -4177,6 +4183,8 @@ App-Critique:
   STEVAN: 1
 App-Cronjob:
   RJBS: 1
+App-CrossPericmd:
+  PERLANCAR: 1
 App-D:
   BESSARABV: 1
 App-DBBrowser:
@@ -4258,6 +4266,7 @@ App-DualLivedList:
 App-DubiousHTTP:
   SULLR: 1
 App-DuckPAN:
+  DDG: 1
   MOOLLAZA: 1
 App-DumpPERLANCARSampleTree:
   PERLANCAR: 1
@@ -4898,6 +4907,8 @@ App-PerlbrewUtils:
   PERLANCAR: 1
 App-Perldoc-Search:
   JJORE: 1
+App-PermuteNamed:
+  PERLANCAR: 1
 App-PersistentSSH:
   NUFFIN: 1
 App-Physics-ParticleMotion:
@@ -4946,6 +4957,8 @@ App-PrettyRes:
   PERLANCAR: 1
 App-Prima-REPL:
   DCMERTENS: 1
+App-PrimesPericmd:
+  PERLANCAR: 1
 App-ProcTrends:
   SYAGI: 1
 App-ProcUtils:
@@ -5087,6 +5100,8 @@ App-Scrobble:
   AJCT: 1
 App-Seacan:
   GUGOD: 1
+App-SeqPericmd:
+  PERLANCAR: 1
 App-SerializeUtils:
   PERLANCAR: 1
 App-Services:
@@ -6385,6 +6400,8 @@ Async-Chain:
   REZNIKOV: 1
 Async-Defer:
   POWERMAN: 1
+Async-Event-Interval:
+  STEVEB: 1
 Async-Group:
   DDUMONT: 1
 Async-Hooks:
@@ -6439,6 +6456,8 @@ Attribute-Args:
   SWINED: 1
 Attribute-Benchmark:
   TOBYINK: 1
+Attribute-Boolean:
+  CMS: 1
 Attribute-Cached:
   OSFAMERON: 1
 Attribute-Constructor:
@@ -7346,6 +7365,8 @@ Bencher-Scenario-ListUtil:
   PERLANCAR: 1
 Bencher-Scenario-LogAny:
   PERLANCAR: 1
+Bencher-Scenario-MathPrimeModules:
+  PERLANCAR: 1
 Bencher-Scenario-ModuleInstalledTiny:
   PERLANCAR: 1
 Bencher-Scenario-ModulePathMore:
@@ -7365,6 +7386,8 @@ Bencher-Scenario-ScalarUtilNumeric:
 Bencher-Scenario-Serializers:
   PERLANCAR: 1
 Bencher-Scenario-SetOperationModules:
+  PERLANCAR: 1
+Bencher-Scenario-ShellQuoteAny:
   PERLANCAR: 1
 Bencher-Scenario-SortBySpec:
   PERLANCAR: 1
@@ -7660,6 +7683,8 @@ Bio-BioStudio:
   NOTDOCTOR: 1
 Bio-BioVeL:
   RVOSA: 1
+Bio-CIPRES:
+  VOLKENING: 1
 Bio-CUA:
   FORTUNE: 1
 Bio-Cellucidate:
@@ -14160,6 +14185,8 @@ ConditionSystem:
   CYCLES: 1
 Conductrics-Agent:
   FERZ: 1
+Conductrics-Client:
+  Commercial_Software_Interfaces: 1
 Conf-Libconfig:
   CNANGEL: 1
 ConfInt:
@@ -15139,7 +15166,7 @@ Crypt-PGP5:
 Crypt-PGPSimple:
   JHINKLE: 1
 Crypt-PKCS10:
-  MRSCOTTY: 1
+  TLHACKQUE: 1
 Crypt-PKCS11:
   JELU: 1
 Crypt-PKCS11-Easy:
@@ -20601,6 +20628,8 @@ Digest-ManberHash:
   DigestManberHash: 1
 Digest-MurmurHash:
   TMAESAKA: 1
+Digest-MurmurHash2-Neutral:
+  FREW: 1
 Digest-MurmurHash3:
   DMAKI: 1
 Digest-MurmurHash3-PurePerl:
@@ -20811,6 +20840,8 @@ Dist-Zilla-App-Command-podpreview:
   PSHANGOV: 1
 Dist-Zilla-App-Command-pot:
   JQUELIN: 1
+Dist-Zilla-App-Command-regenerate:
+  KENTNL: 1
 Dist-Zilla-App-Command-self:
   KENTNL: 1
 Dist-Zilla-App-Command-update:
@@ -22445,6 +22476,8 @@ Email-Send-Zoho:
   YHPENG: 1
 Email-Sender:
   RJBS: 1
+Email-Sender-Transport-Mailgun:
+  SDT: 1
 Email-Sender-Transport-QMQP:
   MDORMAN: 1
 Email-Sender-Transport-Redirect:
@@ -22846,8 +22879,6 @@ EvilBoss:
   evilboss: 1
 Evo:
   ALEXBYK: 1
-Evo-XS:
-  ALEXBYK: 1
 Example-XS-FasterHashes:
   examples: 1
 Examples-Generator:
@@ -23196,6 +23227,8 @@ FFprobe:
   KOVENSKY: 1
 FIX-Lite:
   THEUS: 1
+FIX-Parser:
+  BINARY: 1
 FLAT:
   ESTRABD: 1
 FLAT-Legacy-FA:
@@ -23487,6 +23520,8 @@ File-Copy-Reliable:
   LBROCARD: 1
 File-Copy-Undoable:
   PERLANCAR: 1
+File-Copy-Verify:
+  JASEI: 1
 File-Copy-Vigilant:
   KILNA: 1
 File-Corresponding:
@@ -26085,6 +26120,8 @@ Geo-OGC-Service-WFS:
   AJOLMA: 1
 Geo-OGC-Service-WMTS:
   AJOLMA: 1
+Geo-OLC:
+  JGREELY: 1
 Geo-OSM-MapFeatures:
   BOBKARE: 1
 Geo-OSM-StaticMap:
@@ -26455,6 +26492,8 @@ Git-Code-Review:
   BLHOTSKY: 1
 Git-Crypt:
   HERNAN: 1
+Git-Database:
+  BOOK: 1
 Git-Demo:
   RCL: 1
 Git-DescribeVersion:
@@ -31934,6 +31973,8 @@ Lingua-AM-Abbreviate:
   DYACOB: 1
 Lingua-AR-MacArabic:
   SADAHIRO: 1
+Lingua-AR-Tashkeel:
+  ATHREEF: 1
 Lingua-AR-Word:
   BENAZZO: 1
 Lingua-Abbreviate-Hierarchy:
@@ -32844,6 +32885,8 @@ Linux-SysInfo:
   VPIT: 1
 Linux-Sysfs:
   FLORA: 1
+Linux-Systemd:
+  IOANR: 1
 Linux-Systemd-Journal:
   IOANR: 1
 Linux-Taskstats-Read:
@@ -34973,6 +35016,8 @@ Mandel:
   JHTHORSEN: 1
 Mango:
   ODC: 1
+Mango-BSON-Dump:
+  FERREIRA: 1
 MangoX-Queue:
   IANKENT: 1
 Manip-END:
@@ -35120,7 +35165,7 @@ Markdown-Foswiki:
 Markdown-Pod:
   KEEDI: 1
 Markdown-To-POD:
-  SHARYANTO: 1
+  PERLANCAR: 1
 Markdown-phpBB:
   PJF: 1
 Marketplace-Ebay:
@@ -37351,7 +37396,7 @@ MojoX-ValidateHeadLinks:
 MojoX-Validator:
   VTI: 1
 Mojolicious:
-  JBERGER: 1
+  SRI: 1
 Mojolicious-Che:
   MCHE: 1
 Mojolicious-Command-deploy:
@@ -37904,6 +37949,8 @@ Mojolicious-Plugin-UTF8:
   AMIRITE: 1
 Mojolicious-Plugin-UnicodeNormalize:
   CHROMATIC: 1
+Mojolicious-Plugin-UniqueTagHelpers:
+  RSHADOW: 1
 Mojolicious-Plugin-UserMessages:
   BMAVT: 1
 Mojolicious-Plugin-Util-Callback:
@@ -39077,6 +39124,8 @@ MusicBrainz-DiscID:
   NJH: 1
 MusicRoom:
   SJHAWTIN: 1
+Mustache-Simple:
+  CMS: 1
 Mvalve:
   DMAKI: 1
 My-Object:
@@ -40315,6 +40364,8 @@ Net-Hadoop-DFSAdmin-ReportParser:
   TAGOMORIS: 1
 Net-Hadoop-HuahinManager:
   TAGOMORIS: 1
+Net-Hadoop-Oozie:
+  BURAK: 1
 Net-Hadoop-WebHDFS:
   BURAK: 1
 Net-Hadoop-WebHDFS-LWP:
@@ -40486,6 +40537,8 @@ Net-Interface:
   MIKER: 1
 Net-Interface-Wireless-FreeBSD:
   VVELOX: 1
+Net-Intermapper:
+  BEATNIK: 1
 Net-Iugu:
   BLABOS: 1
 Net-JBoss:
@@ -42288,6 +42341,8 @@ OTRS-OPM-Maker:
   RENEEB: 1
 OTRS-OPM-Maker-Command-sopm:
   RENEEB: 1
+OTRS-OPM-Parser:
+  RENEEB: 1
 OTRS-Repository:
   RENEEB: 1
 OTRS-SphinxSearch:
@@ -43145,6 +43200,8 @@ PERLANCAR-Module-List:
 PERLANCAR-Parse-Arithmetic:
   PERLANCAR: 1
 PERLANCAR-Permute-Named:
+  PERLANCAR: 1
+PERLANCAR-ShellQuote-Any:
   PERLANCAR: 1
 PERLANCAR-Sort-Sub:
   PERLANCAR: 1
@@ -46248,6 +46305,8 @@ Plack-App-URLHashMap:
   CVLIBRARY: 1
 Plack-App-Vhost:
   KARUPA: 1
+Plack-App-WebMySQL:
+  Plack-App-WebMySQL: 1
 Plack-App-WebSocket:
   TOSHIOITO: 1
 Plack-App-dbi2http:
@@ -49244,6 +49303,8 @@ Remind-Parser:
   NKUITSE: 1
 Remote-Use:
   CASIANO: 1
+Renard-Curie:
+  ZMUGHAL: 1
 RenderMan:
   GMLEWIS: 1
 RepRoot:
@@ -56992,6 +57053,8 @@ Text-Shellwords:
   LDS: 1
 Text-Shift:
   CHIA: 1
+Text-Shinobi:
+  TOMITA: 1
 Text-Shoebox:
   SBURKE: 1
 Text-Shortcuts:
@@ -57044,6 +57107,8 @@ Text-Split:
   ROKR: 1
 Text-Sprintf-Named:
   SHLOMIF: 1
+Text-Sprintf-Zenkaku:
+  TAKASAGO: 1
 Text-Starfish:
   VLADO: 1
 Text-Statistics-Arabic:
@@ -57342,7 +57407,7 @@ TheOneRing:
 TheSchwartz:
   JFEARN: 1
 TheSchwartz-Moosified:
-  STASH: 1
+  LUKEC: 1
 TheSchwartz-Simple:
   MIYAGAWA: 1
 TheSchwartz-Worker-PubSubHubbubPublish:
@@ -59165,6 +59230,8 @@ UDPmsg:
   RLAUGHLIN: 1
 UDT-Simple:
   JACKDOE: 1
+UI-Bowdlator-Filter:
+  ATHREEF: 1
 UI-Dialog:
   KCK: 1
 UI-Dialog-Util-MenuControl:
@@ -60472,6 +60539,8 @@ WWW-Ebay:
   MTHURN: 1
 WWW-EchoNest:
   BSORAHAN: 1
+WWW-Eksi:
+  KYZN: 1
 WWW-Eksisozluk:
   KYZN: 1
 WWW-ErnestMarples:
@@ -62441,6 +62510,8 @@ WebService-SendGrid-Newsletter:
   ODYNIEC: 1
 WebService-SendGrid3:
   CHRISJH: 1
+WebService-SendInBlue:
+  BMAVT: 1
 WebService-SetlistFM:
   HONDALLIC: 1
 WebService-ShiftPlanning:
@@ -63312,8 +63383,8 @@ WordLists:
   PERRETTDL: 1
 WordNet-BestStem:
   MAGGIEXYZ: 1
-WordNet-Insert:
-  WordNetInsert: 1
+WordNet-Extend:
+  JONRUSERT: 1
 WordNet-QueryData:
   JRENNIE: 1
 WordNet-SenseKey:
@@ -64784,6 +64855,8 @@ ZConf-Runner-GUI-GTK:
   VVELOX: 1
 ZConf-Weather:
   VVELOX: 1
+ZHOUYI:
+  ORANGE: 1
 ZM-SSI:
   MAXICO: 1
 ZM-Session:
@@ -65612,6 +65685,8 @@ namespace-sweep:
   FRIEDO: 1
 net-lastfmapi:
   DRSTEVE: 1
+neverbounce:
+  WHITEWIND: 1
 new.spirit:
   JRED: 1
 newslib:
