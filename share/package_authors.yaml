@@ -1355,6 +1355,8 @@ Acme-Sort-Bogosort:
   DAVIDO: 1
 Acme-Sort-Bozo:
   DAVIDO: 1
+Acme-Sort-Sleep:
+  DEFCON: 1
 Acme-Speed:
   KITAK: 1
 Acme-Spider:
@@ -3909,6 +3911,8 @@ App-AFNI-SiemensPhysio:
   WILLFORAN: 1
 App-AYCABTU:
   INGY: 1
+App-AcmeCpanauthors:
+  PERLANCAR: 1
 App-AcmeCpanlists:
   PERLANCAR: 1
 App-Addex:
@@ -4103,6 +4107,8 @@ App-Caoliu:
   TOMORROW: 1
 App-CatalystStarter-Bloated:
   TORBJORN: 1
+App-CdUtils:
+  PERLANCAR: 1
 App-Cerberus:
   BABF: 1
 App-Cerberus-Plugin-ParseBrowser:
@@ -4891,8 +4897,6 @@ App-Pastebin-sprunge:
   DOHERTY: 1
 App-PayPalUtils:
   PERLANCAR: 1
-App-PeriSeq:
-  PERLANCAR: 1
 App-PericmdUtils:
   PERLANCAR: 1
 App-PerinciUtils:
@@ -5008,6 +5012,8 @@ App-REPL:
   AYRNIEU: 1
 App-RL:
   WANGQ: 1
+App-RPi-EnvUI:
+  STEVEB: 1
 App-RabbitTail:
   BOBTFISH: 1
 App-Rad:
@@ -5548,6 +5554,8 @@ App-gcal:
   ARJONES: 1
 App-genconf:
   FFFINKEL: 1
+App-genlines:
+  PERLANCAR: 1
 App-get_flash_videos:
   MONSIEUR: 1
 App-gh:
@@ -5614,6 +5622,8 @@ App-lcpan-Daemon:
   PERLANCAR: 1
 App-lens:
   PERLANCAR: 1
+App-linespeed:
+  PERLANCAR: 1
 App-livehttperf:
   AJGB: 1
 App-lntree:
@@ -5678,6 +5688,8 @@ App-norepeat:
   PERLANCAR: 1
 App-nrun:
   TBENK: 1
+App-numspeed:
+  PERLANCAR: 1
 App-olson:
   ZEFRAM: 1
 App-opan:
@@ -7379,6 +7391,8 @@ Bencher-Scenario-PermuteNamedModules:
   PERLANCAR: 1
 Bencher-Scenario-RandomLineModules:
   PERLANCAR: 1
+Bencher-Scenario-RandomUserAgentModules:
+  PERLANCAR: 1
 Bencher-Scenario-RegexpAssemble:
   PERLANCAR: 1
 Bencher-Scenario-ScalarUtilNumeric:
@@ -7423,6 +7437,8 @@ Bencher-Scenarios-Bencher:
   PERLANCAR: 1
 Bencher-Scenarios-CloneModules:
   PERLANCAR: 1
+Bencher-Scenarios-ColorANSIUtil:
+  PERLANCAR: 1
 Bencher-Scenarios-CompleteUtil:
   PERLANCAR: 1
 Bencher-Scenarios-DataCSel:
@@ -7451,6 +7467,8 @@ Bencher-Scenarios-Examples:
   PERLANCAR: 1
 Bencher-Scenarios-Exporters:
   PERLANCAR: 1
+Bencher-Scenarios-FileWriteRotate:
+  PERLANCAR: 1
 Bencher-Scenarios-GetoptLong:
   PERLANCAR: 1
 Bencher-Scenarios-GetoptLongComplete:
@@ -7470,6 +7488,8 @@ Bencher-Scenarios-LanguageExpr:
 Bencher-Scenarios-LogAny:
   PERLANCAR: 1
 Bencher-Scenarios-LogDispatch:
+  PERLANCAR: 1
+Bencher-Scenarios-LogDispatchFileRotate:
   PERLANCAR: 1
 Bencher-Scenarios-MathScientificNotationUtil:
   PERLANCAR: 1
@@ -8868,6 +8888,8 @@ Business-MollieAPI:
   STUIFZAND: 1
 Business-Mondo:
   LEEJO: 1
+Business-Monzo:
+  LEEJO: 1
 Business-NETeller-Direct:
   SHERZODR: 1
 Business-NoChex:
@@ -10132,6 +10154,8 @@ CHI-Driver-Memcached:
   JSWARTZ: 1
 CHI-Driver-MemcachedFast:
   KITANO: 1
+CHI-Driver-MongoDB:
+  HJANSEN: 1
 CHI-Driver-Ping:
   SWALTERS: 1
 CHI-Driver-Redis:
@@ -12432,7 +12456,7 @@ Catmandu-Cmd-repl:
 Catmandu-CrossRef:
   VPEIL: 1
 Catmandu-DBI:
-  NJFRANCK: 1
+  NICS: 1
 Catmandu-DOI:
   NICS: 1
 Catmandu-EuropePMC:
@@ -12495,6 +12519,8 @@ Catmandu-PICA:
   VOJ: 1
 Catmandu-PLoS:
   NICS: 1
+Catmandu-PNX:
+  HOCHSTEN: 1
 Catmandu-Plack-unAPI:
   VOJ: 1
 Catmandu-PubMed:
@@ -12660,6 +12686,8 @@ Chart-Plot-Canvas:
   PERRAD: 1
 Chart-Plot-Tagged:
   PERRAD: 1
+Chart-Plotly:
+  PABLROD: 1
 Chart-Scientific:
   KESTER: 1
 Chart-Sequence:
@@ -14631,6 +14659,8 @@ Contextual-Return:
   DCONWAY: 1
 Contextual-Return-Wrapper:
   TQISJIM: 1
+Continual-Process:
+  JASEI: 1
 Continuation-Escape:
   SARTAK: 1
 Continuity:
@@ -14988,6 +15018,8 @@ Crypt-Dining:
   SHEVEK: 1
 Crypt-Discordian:
   TBONE: 1
+Crypt-EAMessage:
+  JMASLAK: 1
 Crypt-EAX:
   NUFFIN: 1
 Crypt-ECB:
@@ -16807,6 +16839,8 @@ DR-Tarantool:
   UNERA: 1
 DR-TarantoolQueue:
   UNERA: 1
+DR-Tnt:
+  UNERA: 1
 DSL-HTML:
   EXODIST: 1
 DSL-Tiny:
@@ -18005,6 +18039,8 @@ Data-Iterator-Hierarchical:
   NOBULL: 1
 Data-Iterator-SlidingWindow:
   HIDEAKIO: 1
+Data-JSONSchema-Ajv:
+  SARGIE: 1
 Data-JavaScript:
   JPIERCE: 1
 Data-JavaScript-Anon:
@@ -18827,6 +18863,8 @@ Data-XLSX-Parser:
   ACIDLEMON: 1
 Data-XML-Variant:
   OVID: 1
+Data-Xslate:
+  BLUEFEET: 1
 Data-Xtab:
   BJEPS: 1
 Data-YADV:
@@ -19178,7 +19216,7 @@ DateTime-Calendar-Hijri:
 DateTime-Calendar-Japanese:
   DMAKI: 1
 DateTime-Calendar-Japanese-Era:
-  DMAKI: 1
+  SYOHEX: 1
 DateTime-Calendar-Julian:
   PIJLL: 1
 DateTime-Calendar-Liturgical-Christian:
@@ -20223,6 +20261,8 @@ Device-Chip-Adapter-LinuxKernel:
 Device-Chip-BV4243:
   PEVANS: 1
 Device-Chip-DS1307:
+  PEVANS: 1
+Device-Chip-HTU21D:
   PEVANS: 1
 Device-Chip-INA219:
   PEVANS: 1
@@ -21354,6 +21394,8 @@ Dist-Zilla-Plugin-Prepender:
   JQUELIN: 1
 Dist-Zilla-Plugin-Prereqs-AuthorDeps:
   DAGOLDEN: 1
+Dist-Zilla-Plugin-Prereqs-CheckCircular:
+  PERLANCAR: 1
 Dist-Zilla-Plugin-Prereqs-DarkPAN:
   KENTNL: 1
 Dist-Zilla-Plugin-Prereqs-EnsureCoreOrPP:
@@ -23750,6 +23792,8 @@ File-Irenamer:
   BHECKEL: 1
 File-Iterator:
   SWHITAKER: 1
+File-JSON-Slurper:
+  NEILB: 1
 File-KeePass:
   RHANDOM: 1
 File-KeePass-Agent:
@@ -25293,6 +25337,8 @@ Game-TextPacMonster:
   UNLEARNED: 1
 Game-Theory-TwoPersonMatrix:
   GENE: 1
+Game-Tibia-Packet:
+  ATHREEF: 1
 Game-WordBrain:
   DRZIGMAN: 1
 Games-2048:
@@ -31973,6 +32019,8 @@ Lingua-AM-Abbreviate:
   DYACOB: 1
 Lingua-AR-MacArabic:
   SADAHIRO: 1
+Lingua-AR-Regexp:
+  ATHREEF: 1
 Lingua-AR-Tashkeel:
   ATHREEF: 1
 Lingua-AR-Word:
@@ -32887,8 +32935,6 @@ Linux-Sysfs:
   FLORA: 1
 Linux-Systemd:
   IOANR: 1
-Linux-Systemd-Journal:
-  IOANR: 1
 Linux-Taskstats-Read:
   SCOTTW: 1
 Linux-TempFile:
@@ -33653,6 +33699,8 @@ Log-Any-Adapter-Dupstd:
   IVANYCH: 1
 Log-Any-Adapter-FileHandle:
   JASONJAYR: 1
+Log-Any-Adapter-FileWriteRotate:
+  PERLANCAR: 1
 Log-Any-Adapter-Fille:
   IVANYCH: 1
 Log-Any-Adapter-Handler:
@@ -33768,7 +33816,7 @@ Log-Dispatch-File-Rolling:
 Log-Dispatch-File-Stamped:
   ETHER: 1
 Log-Dispatch-FileRotate:
-  MARKPF: 1
+  MSCHOUT: 1
 Log-Dispatch-FileShared:
   CMANLEY: 1
 Log-Dispatch-FileWriteRotate:
@@ -33881,6 +33929,8 @@ Log-Lite:
   CHENGANG: 1
 Log-Localized:
   ERWAN: 1
+Log-Log4Cli:
+  MIXAS: 1
 Log-Log4perl:
   MSCHILLI: 1
 Log-Log4perl-Appender-Chunk:
@@ -34118,7 +34168,6 @@ Lucene-QueryParser:
 Lucene-Search-Highlight:
   TBUSCH: 1
 Lucy:
-  CREAMYG: 1
   NWELLNHOF: 1
 LucyX-Search-NullTermQuery:
   KARMAN: 1
@@ -35164,6 +35213,8 @@ Markdown-Foswiki:
   SKYEND: 1
 Markdown-Pod:
   KEEDI: 1
+Markdown-TOC:
+  IMAGO: 1
 Markdown-To-POD:
   PERLANCAR: 1
 Markdown-phpBB:
@@ -37288,6 +37339,8 @@ MojoX-Auth-Simple:
   KIMHAWTIN: 1
 MojoX-CPAN-Uploader:
   YKO: 1
+MojoX-CloudFlare-Simple:
+  FAYLAND: 1
 MojoX-CustomTemplateFileParser:
   CSSON: 1
 MojoX-DirectoryListing:
@@ -37857,6 +37910,8 @@ Mojolicious-Plugin-ReverseProxy:
   OETIKER: 1
 Mojolicious-Plugin-RoutesAuthDBI:
   MCHE: 1
+Mojolicious-Plugin-RussianPost:
+  KOSTYA: 1
 Mojolicious-Plugin-SMS:
   YSYROTA: 1
 Mojolicious-Plugin-SPNEGO:
@@ -41555,8 +41610,6 @@ Net-TextMessage-Canada:
   LUKEC: 1
 Net-ThirtySevenSignals-Highrise:
   DSADINOFF: 1
-Net-ThreeScale-Client:
-  RGRAU: 1
 Net-Thumper:
   MUTANT: 1
 Net-TiVo:
@@ -41888,6 +41941,8 @@ NetSNMP-ASN:
   HARDAKER: 1
 NetSNMP-OID:
   HARDAKER: 1
+NetSNMP-Sendmail:
+  SGRAY: 1
 NetSNMP-TrapReceiver:
   HARDAKER: 1
 NetSNMP-agent:
@@ -45429,6 +45484,8 @@ Perinci-Sub-To-FishComplete:
   PERLANCAR: 1
 Perinci-Sub-Util:
   PERLANCAR: 1
+Perinci-Sub-Util-DepModule:
+  PERLANCAR: 1
 Perinci-Sub-Util-PropertyModule:
   PERLANCAR: 1
 Perinci-Sub-ValidateArgs:
@@ -46403,6 +46460,8 @@ Plack-Middleware-AutoReloadCSS:
   KENTARO: 1
 Plack-Middleware-AxsLog:
   KAZEBURO: 1
+Plack-Middleware-BasicStyle:
+  MGV: 1
 Plack-Middleware-BetterStackTrace:
   GUNYA: 1
 Plack-Middleware-BlockHeaderInjection:
@@ -46883,6 +46942,8 @@ Plagger:
   MIYAGAWA: 1
 Plagger-Plugin-CustomFeed-GitHub:
   ZONCOEN: 1
+Plagger-Plugin-Notify-Line:
+  TANIGUCHI: 1
 Plagger-Plugin-Notify-Slack:
   ZONCOEN: 1
 PlantUML-ClassDiagram-Parse:
@@ -48461,6 +48522,8 @@ RPerl:
   WBRASWELL: 1
 RPi-DHT11:
   STEVEB: 1
+RPi-PIGPIO:
+  RPi-PIGPIO: 1
 RPi-WiringPi:
   STEVEB: 1
 RPi-WiringPi-Constant:
@@ -49113,6 +49176,8 @@ Regexp-Box:
   MUENALAN: 1
 Regexp-CharClasses:
   ABIGAIL: 1
+Regexp-CharClasses-Helper:
+  ATHREEF: 1
 Regexp-Cherokee:
   DYACOB: 1
 Regexp-Chinese-TradSimp:
@@ -51223,6 +51288,8 @@ Siebel-COM:
   ARFREITAS: 1
 Siebel-Integration-Com:
   BOYDLE: 1
+Siebel-Lbconfig:
+  ARFREITAS: 1
 Siebel-Params-Checker:
   ARFREITAS: 1
 Siebel-SOAP-Auth:
@@ -51712,6 +51779,8 @@ Sparse:
 Spawn-Safe:
   JEAGLE: 1
 Specio:
+  DROLSKY: 1
+Specio-Library-Path-Tiny:
   DROLSKY: 1
 Spectrum-CLI:
   PLONKA: 1
@@ -55771,6 +55840,8 @@ Test-RDF-DOAP-Version:
   TOBYINK: 1
 Test-Random:
   MSCHWERN: 1
+Test-RandomCheck:
+  HIRATARA: 1
 Test-RandomResults:
   COG: 1
 Test-Ranger:
@@ -56228,6 +56299,8 @@ Test2-Suite:
   EXODIST: 1
 Test2-Tools-EventDumper:
   EXODIST: 1
+Test2-Tools-Explain:
+  PETDANCE: 1
 Test2-Workflow:
   EXODIST: 1
 TestGen4Web-Runner:
@@ -56592,6 +56665,8 @@ Text-FixedWidth:
   JHANNAH: 1
 Text-FixedWidth-Helper:
   JKEENAN: 1
+Text-FixedWidth-Parser:
+  VENKATESH: 1
 Text-Flow:
   STEVAN: 1
 Text-Flowchart:
@@ -57811,6 +57886,8 @@ Tie-Handle-CSV:
   DANBOO: 1
 Tie-Handle-FileWriteRotate:
   SHARYANTO: 1
+Tie-Handle-Filter:
+  MJGARDNER: 1
 Tie-Handle-Flock:
   IHEFFNER: 1
 Tie-Handle-HTTP:
@@ -57835,6 +57912,8 @@ Tie-Hash-Blame:
   RHOELZ: 1
 Tie-Hash-Cache-MRU:
   handy_tied_functions: 1
+Tie-Hash-Cannabinol:
+  DAVECROSS: 1
 Tie-Hash-Check:
   SKIM: 1
 Tie-Hash-Constant:
@@ -60657,6 +60736,8 @@ WWW-Google-DistanceMatrix:
   MANWAR: 1
 WWW-Google-Docs-Upload:
   TYPESTER: 1
+WWW-Google-Drive:
+  DINESHD: 1
 WWW-Google-Groups:
   XERN: 1
 WWW-Google-News:
@@ -60679,8 +60760,6 @@ WWW-Google-URLShortener:
   MANWAR: 1
 WWW-Google-UserAgent:
   MANWAR: 1
-WWW-Google-WebmasterTools-Download:
-  KAORU: 1
 WWW-GoogleAnalytics-Mobile:
   KAZEBURO: 1
 WWW-Grooveshark:
@@ -61556,8 +61635,6 @@ WWW-TextMarks:
   WILSOND: 1
 WWW-TheBestSpinner:
   FAYLAND: 1
-WWW-TheEchoNest:
-  AARONJJ: 1
 WWW-TheMovieDB:
   PJOBSON: 1
 WWW-TheMovieDB-Search:
@@ -62356,8 +62433,6 @@ WebService-NZBMatrix:
   CPORTMAN: 1
 WebService-NationBuilder:
   AANARI: 1
-WebService-Nestoria-Search:
-  KAORU: 1
 WebService-NetSuite:
   PHRED: 1
 WebService-Nextbus-Agency:
@@ -62673,6 +62748,8 @@ WebService-Yahoo-TermExtractor:
   DWILSON: 1
 WebService-YahooJapan-WebMA:
   JIRO: 1
+WebService-Yamli:
+  ATHREEF: 1
 WebService-Yelp:
   JDR: 1
 WebService-Yes24:
@@ -63740,7 +63817,7 @@ XML-CommonNS:
 XML-CompactTree:
   PAJAS: 1
 XML-CompactTree-XS:
-  PAJAS: 1
+  CHOROBA: 1
 XML-Compare:
   NEILB: 1
 XML-CompareML:
@@ -66037,6 +66114,8 @@ sapnwrfc:
   PIERS: 1
 savevars:
   SREZIC: 1
+say:
+  BAYASHI: 1
 scriptname:
   MASSA: 1
 sdf:
@@ -66079,6 +66158,8 @@ sql-simple:
   RDIETRICH: 1
 sqlfs-perl:
   LDS: 1
+stasis:
+  DFARRELL: 1
 stockmonkey:
   JETTERO: 1
 strict-ModuleName:
