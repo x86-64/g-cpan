@@ -3,7 +3,6 @@
   582+: 1
   BMIDD: 1
   MICB: 1
-  ORANGE: 1
   TIMB: 1
   os2: 1
   tk: 1
@@ -878,6 +877,8 @@ Acme-Lambda:
   NELHAGE: 1
 Acme-Lambda-Expr:
   GFUJI: 1
+Acme-LastWords:
+  PERLANCAR: 1
 Acme-Laugh:
   POLETTIX: 1
 Acme-LeetSpeak:
@@ -977,6 +978,8 @@ Acme-MetaSyntactic-cpanauthors:
 Acme-MetaSyntactic-daleks:
   SAPER: 1
 Acme-MetaSyntactic-dangdut:
+  PERLANCAR: 1
+Acme-MetaSyntactic-display_resolution:
   PERLANCAR: 1
 Acme-MetaSyntactic-dune:
   MCARTMELL: 1
@@ -4059,6 +4062,8 @@ App-CLI-Toolkit:
   SWHITAKER: 1
 App-CMAM:
   MELO: 1
+App-CPAN-Changes:
+  PERLANCAR: 1
 App-CPAN-Dependents:
   DBOOK: 1
 App-CPAN-Fresh:
@@ -4241,6 +4246,8 @@ App-Diskd:
   App-Diskd: 1
 App-Dispatch:
   EXODIST: 1
+App-DisplayResolutionUtils:
+  PERLANCAR: 1
 App-DistSync:
   ABALAMA: 1
 App-DistUtils:
@@ -4893,6 +4900,8 @@ App-ParseCPANChanges:
   PERLANCAR: 1
 App-ParseNetstat:
   PERLANCAR: 1
+App-Pastebin-Create:
+  MFZZ: 1
 App-Pastebin-sprunge:
   DOHERTY: 1
 App-PayPalUtils:
@@ -5588,6 +5597,8 @@ App-httpstatus:
   TOKUHIROM: 1
 App-iTan:
   MAROS: 1
+App-imgsize:
+  PERLANCAR: 1
 App-installdeps:
   YAKEX: 1
 App-iosdiff:
@@ -7407,6 +7418,10 @@ Bencher-Scenario-SortBySpec:
   PERLANCAR: 1
 Bencher-Scenario-Sprintf:
   PERLANCAR: 1
+Bencher-Scenario-Test-Sleep:
+  PERLANCAR: 1
+Bencher-Scenario-Test-SleepCmd:
+  PERLANCAR: 1
 Bencher-Scenario-TextTableModules:
   PERLANCAR: 1
 Bencher-Scenario-Textsprintfn:
@@ -7434,6 +7449,8 @@ Bencher-Scenarios-ArchiveTarModules:
 Bencher-Scenarios-ArraySet:
   PERLANCAR: 1
 Bencher-Scenarios-Bencher:
+  PERLANCAR: 1
+Bencher-Scenarios-CPANInstallers:
   PERLANCAR: 1
 Bencher-Scenarios-CloneModules:
   PERLANCAR: 1
@@ -7478,6 +7495,8 @@ Bencher-Scenarios-GetoptLongEvenLess:
 Bencher-Scenarios-HashPicking:
   PERLANCAR: 1
 Bencher-Scenarios-HumanDateParsingModules:
+  PERLANCAR: 1
+Bencher-Scenarios-IOFilterModules:
   PERLANCAR: 1
 Bencher-Scenarios-IPManipulation:
   PERLANCAR: 1
@@ -7988,6 +8007,8 @@ BitArray1:
   GWORROLL: 1
 BitTorrent:
   QANTINS: 1
+Bitcoin-RPC-Client:
+  WHINDS: 1
 Bitmask-Data:
   MAROS: 1
 Blatte:
@@ -8393,6 +8414,10 @@ Bundle-DBD-PO:
   STEFFENW: 1
 Bundle-DBWIZ:
   CALVINM: 1
+Bundle-DadaMail:
+  JJSIMONI: 1
+Bundle-DadaMailXXL:
+  JJSIMONI: 1
 Bundle-DataMint:
   PRILUSKYJ: 1
 Bundle-DateTime-Complete:
@@ -9098,6 +9123,8 @@ Business-SiteCatalyst:
   JPINKHAM: 1
 Business-Stripe:
   PHAM: 1
+Business-TNT-ExpressConnect:
+  SPINNE: 1
 Business-TNTPost-NL:
   BLOM: 1
 Business-TPGPost:
@@ -12051,6 +12078,8 @@ Catalyst-TraitFor-Context-PSGI-FindEnv:
   RSRCHBOY: 1
 Catalyst-TraitFor-Controller-Breadcrumb-Followed:
   ICYDEE: 1
+Catalyst-TraitFor-Controller-CAPTCHA:
+  BASKARN: 1
 Catalyst-TraitFor-Controller-DBIC-DoesPaging:
   FREW: 1
 Catalyst-TraitFor-Controller-DoesExtPaging:
@@ -12564,6 +12593,8 @@ Catmandu-XLS:
   JOROL: 1
 Catmandu-XML:
   VOJ: 1
+Catmandu-XSD:
+  HOCHSTEN: 1
 Catmandu-Z3950:
   HOCHSTEN: 1
 Catmandu-Zotero:
@@ -20117,6 +20148,7 @@ Devel-ThreadsForks:
 Devel-TimeStats:
   CAFEGRATZ: 1
 Devel-Timer:
+  MANWAR: 1
   SZABGAB: 1
 Devel-Tinderbox-Reporter:
   MSCHWERN: 1
@@ -20810,6 +20842,8 @@ Dispatch-Profile-Forwarder:
   SPURIN: 1
 Dispatcher-Small:
   YTURTLE: 1
+Display-Resolution:
+  PERLANCAR: 1
 Disque:
   LOVELLE: 1
 Dist-CheckConflicts:
@@ -21490,6 +21524,8 @@ Dist-Zilla-Plugin-SchwartzRatio:
   YANICK: 1
 Dist-Zilla-Plugin-ScpDeploy:
   CHROMATIC: 1
+Dist-Zilla-Plugin-SetEnv:
+  PERLANCAR: 1
 Dist-Zilla-Plugin-SetScriptShebang:
   SHARYANTO: 1
 Dist-Zilla-Plugin-ShareDir-Clean:
@@ -24965,6 +25001,8 @@ FrameNet-WordNet-Detour:
   REITER: 1
 FramesReady:
   DERHAAG: 1
+FreeBSD-FsStat:
+  ADUITSIS: 1
 FreeBSD-Jails:
   ADUITSIS: 1
 FreeBSD-Pkgs:
@@ -28359,6 +28397,10 @@ HTTP-Caching:
   VANHOESEL: 1
 HTTP-CheckProxy:
   DHUDES: 1
+HTTP-ClickHouse:
+  MMV: 1
+HTTP-ClickHouse-Base:
+  MMV: 1
 HTTP-Client:
   NEILB: 1
 HTTP-Client-Parallel:
@@ -28747,6 +28789,8 @@ HackaMol-X-Vina:
   DEMIAN: 1
 Hadoop-Admin:
   CWIMMER: 1
+Hadoop-HDFS-Command:
+  BURAK: 1
 Hadoop-Streaming:
   SPAZM: 1
 Haiku-SysInfo:
@@ -30070,6 +30114,8 @@ Image-PNG-Rewriter:
   BJOERN: 1
 Image-PNG-Simple:
   KIMOTO: 1
+Image-PNG-Write-BW:
+  ANALL: 1
 Image-PNGwriter:
   pngwriter: 1
 Image-PNM:
@@ -30188,6 +30234,8 @@ Imager-File-PNG:
   TONYC: 1
 Imager-File-TIFF:
   TONYC: 1
+Imager-Filter-Autocrop:
+  LEADER: 1
 Imager-Filter-Bakumatsu:
   TOMITA: 1
 Imager-Filter-FishEye:
@@ -30983,6 +31031,8 @@ Karel:
   CHOROBA: 1
 Kasago:
   LBROCARD: 1
+Katsubushi-Client:
+  FUJIWARA: 1
 Kavorka:
   TOBYINK: 1
 Kavorka-TraitFor-Parameter-doc:
@@ -32887,6 +32937,8 @@ Linux-MemInfo:
   CKERNER: 1
 Linux-Mounts:
   SNCK: 1
+Linux-Netfilter-Log:
+  DJCOLLINS: 1
 Linux-Pdeathsig:
   ZEROHP: 1
 Linux-Personality:
@@ -34151,8 +34203,6 @@ Loop:
   GSLONDON: 1
 Loop-Control:
   MARCEL: 1
-Loop-Flow-Object:
-  MCHE: 1
 Loop-Sustainable:
   ZIGOROU: 1
 Lorem:
@@ -34290,6 +34340,8 @@ MD5:
   GAAS: 1
 MD5-Reverse:
   MCEGLOWS: 1
+MD5Check:
+  ORANGE: 1
 MDK-Common:
   TVIGNAUD: 1
 MDV-Distribconf:
@@ -35421,8 +35473,6 @@ Math-BigRat:
   PJACKLAM: 1
 Math-BigSimple:
   SPECTRUM: 1
-Math-BigSym:
-  TRIZEN: 1
 Math-BivariateCDF:
   BINARY: 1
 Math-Brent:
@@ -37326,6 +37376,8 @@ Mojo-Weixin:
   SJDY: 1
 Mojo-YR:
   MRAMBERG: 1
+Mojo-Zabbix:
+  ORANGE: 1
 Mojo-mysql:
   JHTHORSEN: 1
 MojoMojo:
@@ -40892,6 +40944,8 @@ Net-OICQ:
   TANGENT: 1
 Net-OSCAR:
   TODDR: 1
+Net-OTServ:
+  ATHREEF: 1
 Net-OmaDrm:
   MOBILEART: 1
 Net-OneTimeSecret:
@@ -44578,6 +44632,8 @@ Panda-URI:
   SYBER: 1
 Panda-XS:
   SYBER: 1
+Pandoc:
+  VOJ: 1
 Pandoc-Elements:
   VOJ: 1
 Pangloss:
@@ -44617,6 +44673,8 @@ Parallel-ForkControl:
   BLHOTSKY: 1
 Parallel-ForkManager:
   YANICK: 1
+Parallel-ForkManager-Scaled:
+  JMCCARV: 1
 Parallel-Forker:
   WSNYDER: 1
 Parallel-Iterator:
@@ -45934,6 +45992,8 @@ PerlIO-via-UnPod:
   ELIZABETH: 1
 PerlIO-via-Unidecode:
   SBURKE: 1
+PerlIO-via-as_is:
+  PERLANCAR: 1
 PerlIO-via-chop:
   AUTRIJUS: 1
 PerlIO-via-csv:
@@ -47554,6 +47614,8 @@ Populous:
   GETTY: 1
 Porbo:
   UCHIKO: 1
+Port-Selector:
+  JASEI: 1
 Portable:
   KMX: 1
 Portable-Dist:
@@ -48073,6 +48135,8 @@ QBit-Cron:
 QBit-TimeLog:
   MADSKILL: 1
 QBit-TimeLog-XS:
+  MADSKILL: 1
+QBit-Validator:
   MADSKILL: 1
 QBit-WebInterface:
   MADSKILL: 1
@@ -52010,6 +52074,8 @@ Starch-Store-Amazon-DynamoDB:
   BLUEFEET: 1
 Starch-Store-CHI:
   BLUEFEET: 1
+Starch-Store-Catalyst-Plugin-Session:
+  BLUEFEET: 1
 Starch-Store-DBI:
   BLUEFEET: 1
 Starch-Store-DBIx-Connector:
@@ -55884,6 +55950,8 @@ Test-RequiresInternet:
   MALLEN: 1
 Test-Rest:
   KGRENNAN: 1
+Test-RestAPI:
+  JASEI: 1
 Test-Resub:
   KOLYA: 1
 Test-Retry:
@@ -56300,6 +56368,8 @@ Test2-Suite:
 Test2-Tools-EventDumper:
   EXODIST: 1
 Test2-Tools-Explain:
+  PETDANCE: 1
+Test2-Tools-Expressive:
   PETDANCE: 1
 Test2-Workflow:
   EXODIST: 1
@@ -62062,6 +62132,8 @@ WebService-Amazon-Support:
   MCOX: 1
 WebService-AngelXML-Auth:
   MRDVT: 1
+WebService-Annict:
+  NUKOSUKE: 1
 WebService-Antigate:
   OLEG: 1
 WebService-Antispam:
@@ -64934,6 +65006,8 @@ ZConf-Weather:
   VVELOX: 1
 ZHOUYI:
   ORANGE: 1
+ZHOUYI-ZhanPu:
+  ORANGE: 1
 ZM-SSI:
   MAXICO: 1
 ZM-Session:
@@ -65427,6 +65501,8 @@ flail:
   ATTILA: 1
 font_ft2:
   CAFFIEND: 1
+fork-hook:
+  HAMMER: 1
 forkprove:
   MIYAGAWA: 1
 forks:
@@ -65713,7 +65789,6 @@ me-inlined:
 mem:
   LAWALSH: 1
 meon-Web:
-  JKUTEJ: 1
   SPINNE: 1
 metabase-relayd:
   BINGOS: 1
