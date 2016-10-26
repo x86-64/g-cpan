@@ -490,6 +490,8 @@ Acme-CPANAuthors-Brazilian:
   GARU: 1
 Acme-CPANAuthors-British:
   BARBIE: 1
+Acme-CPANAuthors-CPAN-MostScripts:
+  PERLANCAR: 1
 Acme-CPANAuthors-CPAN-OneHundred:
   BARBIE: 1
 Acme-CPANAuthors-CPAN-TopDepended:
@@ -975,6 +977,8 @@ Acme-MetaSyntactic-WordList:
   PERLANCAR: 1
 Acme-MetaSyntactic-buzzwords:
   JQUELIN: 1
+Acme-MetaSyntactic-christmas:
+  PERLANCAR: 1
 Acme-MetaSyntactic-countries:
   PERLANCAR: 1
 Acme-MetaSyntactic-cpanauthors:
@@ -3922,6 +3926,8 @@ App-256colors:
   CALID: 1
 App-AFNI-SiemensPhysio:
   WILLFORAN: 1
+App-ASCIIUtils:
+  PERLANCAR: 1
 App-AYCABTU:
   INGY: 1
 App-AcmeCpanauthors:
@@ -4363,6 +4369,8 @@ App-FileTools-BulkRename:
   SWESTRUP: 1
 App-FindCallers:
   TADZIK: 1
+App-FishCompleteUtils:
+  PERLANCAR: 1
 App-Foca:
   PFISCHER: 1
 App-Followme:
@@ -4395,6 +4403,8 @@ App-Genpass:
   XSAWYERX: 1
 App-Getconf:
   DOZZIE: 1
+App-GetoptLongSubcommandUtils:
+  PERLANCAR: 1
 App-GetoptLongUtils:
   PERLANCAR: 1
 App-Git-Ribbon:
@@ -4918,6 +4928,8 @@ App-ParseHosts:
   PERLANCAR: 1
 App-ParseNetstat:
   PERLANCAR: 1
+App-ParseServices:
+  PERLANCAR: 1
 App-Pastebin-Create:
   MFZZ: 1
 App-Pastebin-sprunge:
@@ -5029,6 +5041,10 @@ App-ProxyHunter-Model-Schema-SQLite:
   OLEG: 1
 App-ProxyHunter-Model-Schema-mysql:
   OLEG: 1
+App-Prun:
+  JMCCARV: 1
+App-Prun-Scaled:
+  JMCCARV: 1
 App-Puppet-Environment-Updater:
   MSTOCK: 1
 App-PureProxy:
@@ -5158,6 +5174,8 @@ App-ShellCompleter-emacs:
 App-ShellCompleter-mpv:
   PERLANCAR: 1
 App-ShellCompleter-perlbrew:
+  PERLANCAR: 1
+App-ShellUtils:
   PERLANCAR: 1
 App-Shotgun:
   GETTY: 1
@@ -5679,6 +5697,8 @@ App-makebeamerinfo:
   JBERGER: 1
 App-makedpkg:
   VOJ: 1
+App-manwrap-pm:
+  PERLANCAR: 1
 App-merge_cpanfile:
   AEREAL: 1
 App-metacpansearch:
@@ -7208,6 +7228,8 @@ BSON-Decode:
   FDULAU: 1
 BSON-Stream:
   RUNARB: 1
+BSON-XS:
+  MONGODB: 1
 BT368i:
   TBESTE: 1
 BTRIEVE-FileIO:
@@ -7366,6 +7388,8 @@ Bench:
   SHARYANTO: 1
 Bencher:
   PERLANCAR: 1
+Bencher-BPM:
+  PERLANCAR: 1
 Bencher-Backend:
   PERLANCAR: 1
 Bencher-Scenario-AcmePERLANCARTestPerformance:
@@ -7425,6 +7449,10 @@ Bencher-Scenario-RandomLineModules:
 Bencher-Scenario-RandomUserAgentModules:
   PERLANCAR: 1
 Bencher-Scenario-RegexpAssemble:
+  PERLANCAR: 1
+Bencher-Scenario-RegexpIPv4:
+  PERLANCAR: 1
+Bencher-Scenario-RegexpIPv6:
   PERLANCAR: 1
 Bencher-Scenario-ScalarUtilNumeric:
   PERLANCAR: 1
@@ -7566,6 +7594,8 @@ Bencher-Scenarios-RegexpPattern:
   PERLANCAR: 1
 Bencher-Scenarios-RoleTinyCommonsTree:
   PERLANCAR: 1
+Bencher-Scenarios-ShellGuess:
+  PERLANCAR: 1
 Bencher-Scenarios-TextANSIUtil:
   PERLANCAR: 1
 Bencher-Scenarios-TextLevenshteinFlexible:
@@ -7575,6 +7605,8 @@ Bencher-Scenarios-TimeDurationParse:
 Bencher-Scenarios-TimeHiRes:
   PERLANCAR: 1
 Bencher-Scenarios-TreeObject:
+  PERLANCAR: 1
+Bencher-Tiny:
   PERLANCAR: 1
 Benchmark-Apps:
   AMBS: 1
@@ -8340,6 +8372,8 @@ Bread-Board-LifeCycle-Session:
   GSG: 1
 Bread-Board-Svc:
   DANIELR: 1
+Bread-Runner:
+  DOMM: 1
 Brick:
   BDFOY: 1
 Bricklayer-Templater:
@@ -10510,6 +10544,10 @@ CPAN-Test-Dummy-Perl5-Deps-UndefModule:
   MIYAGAWA: 1
 CPAN-Test-Dummy-Perl5-Deps-VersionRange:
   MIYAGAWA: 1
+CPAN-Test-Dummy-Perl5-DevRelease:
+  SKAJI: 1
+CPAN-Test-Dummy-Perl5-DevRelease2:
+  SKAJI: 1
 CPAN-Test-Dummy-Perl5-DifferentProvides:
   MIYAGAWA: 1
 CPAN-Test-Dummy-Perl5-Exists:
@@ -14114,6 +14152,8 @@ Combust-Spontaneously:
   EWILHELM: 1
 Comedi-Lib:
   GEBELE: 1
+Comics:
+  JV: 1
 Command-Interactive:
   BINARY: 1
 Commands-Guarded:
@@ -14171,6 +14211,8 @@ Complete-File:
 Complete-Fish:
   PERLANCAR: 1
 Complete-Fish-Gen-FromGetoptLong:
+  PERLANCAR: 1
+Complete-Fish-Gen-FromPerinciCmdLine:
   PERLANCAR: 1
 Complete-Getopt-Long:
   PERLANCAR: 1
@@ -15773,7 +15815,6 @@ DBD-monetdb:
   SGOELDNER: 1
 DBD-mysql:
   CAPTTOFU: 1
-  MICHIELB: 1
 DBD-mysql-AutoTypes:
   GRISHACE: 1
 DBD-mysql-SimpleMySQL:
@@ -18200,6 +18241,8 @@ Data-Money-Converter:
   MANWAR: 1
 Data-Money-Converter-WebserviceX:
   MANWAR: 1
+Data-MoneyCurrency:
+  FLIMM: 1
 Data-Morph:
   NPEREZ: 1
 Data-MultiValuedHash:
@@ -23636,6 +23679,8 @@ File-Copy-NoClobber:
   TORBJORN: 1
 File-Copy-Recursive:
   DMUEY: 1
+File-Copy-Recursive-Verify:
+  JASEI: 1
 File-Copy-Reliable:
   LBROCARD: 1
 File-Copy-Undoable:
@@ -23912,6 +23957,8 @@ File-Lock:
   KJALB: 1
 File-Lock-Multi:
   CRAKRJACK: 1
+File-Lock-ParentLock:
+  VIY: 1
 File-Lockf:
   PHENSON: 1
 File-Lockfile:
@@ -25365,6 +25412,8 @@ GPS_Poi:
   EGERMAN: 1
 GPX-PlotElevation:
   BENNING: 1
+GQRX-Remote:
+  DHABER: 1
 GRID-Cluster:
   EDUSEGRE: 1
 GRID-Machine:
@@ -25752,6 +25801,8 @@ Games-Sudoku-SudokuTk:
   CGUINE: 1
 Games-TMX-Parser:
   EILARA: 1
+Games-TabRace:
+  PERLANCAR: 1
 Games-Terrain-DiamondSquare:
   OVID: 1
 Games-Tetris:
@@ -26528,6 +26579,10 @@ Getopt-Long-Negate-ID:
 Getopt-Long-Spec:
   SSCAFFIDI: 1
 Getopt-Long-Subcommand:
+  PERLANCAR: 1
+Getopt-Long-Subcommand-Dump:
+  PERLANCAR: 1
+Getopt-Long-Subcommand-Util:
   PERLANCAR: 1
 Getopt-Long-Util:
   PERLANCAR: 1
@@ -30330,6 +30385,8 @@ Imager-Trim:
   SPOT: 1
 Import-Base:
   PREACTION: 1
+Import-Box:
+  EXODIST: 1
 Import-Into:
   HAARG: 1
 Importer:
@@ -34929,7 +34986,7 @@ Mail-IMAPFolderSearch:
 Mail-IMAPQueue:
   MAHIRO: 1
 Mail-IMAPTalk:
-  ROBM: 1
+  ROBN: 1
 Mail-IMAPTalk-MailCache:
   VVELOX: 1
 Mail-IMAPTalk-SortHelper:
@@ -37432,6 +37489,8 @@ Mojo-YR:
   MRAMBERG: 1
 Mojo-Zabbix:
   ORANGE: 1
+Mojo-Zabbix-APP:
+  ORANGE: 1
 Mojo-mysql:
   JHTHORSEN: 1
 MojoMojo:
@@ -38442,7 +38501,7 @@ MooseX-Attribute-Chained:
 MooseX-Attribute-Deflator:
   PERLER: 1
 MooseX-Attribute-Dependent:
-  PERLER: 1
+  MSCHOUT: 1
 MooseX-Attribute-ENV:
   JJNAPIORK: 1
 MooseX-Attribute-Handles-Expand:
@@ -39711,6 +39770,8 @@ Net-Amazon-TreeHash:
   VSESPB: 1
 Net-Amazon-Utils:
   GBARCO: 1
+Net-AmazonS3-Simple:
+  JASEI: 1
 Net-Analysis:
   WORRALL: 1
 Net-Analysis-Listener-HTTPClientPerf:
@@ -41164,6 +41225,8 @@ Net-Prizm:
   JEF: 1
 Net-Prober:
   COSIMO: 1
+Net-Prometheus:
+  PEVANS: 1
 Net-Protocol-Simple:
   SAXJAZMAN: 1
 Net-Proxmox-VE:
@@ -45139,6 +45202,8 @@ Parse-SVNDiff:
   SAMV: 1
 Parse-Selenese:
   TRCJR: 1
+Parse-Services:
+  PERLANCAR: 1
 Parse-Snort:
   RHARMAN: 1
 Parse-SpectrumDirect-RadioFrequency:
@@ -45372,8 +45437,6 @@ Pcore-Redis:
   ZDM: 1
 Pcore-SQLite:
   ZDM: 1
-Pcore-Selenium:
-  ZDM: 1
 Pcore-Sphinx:
   ZDM: 1
 Pcore-XMPP:
@@ -45483,6 +45546,8 @@ Perinci-Examples:
 Perinci-Examples-Bin-Any:
   PERLANCAR: 1
 Perinci-Examples-Bin-Any-ArgsAs:
+  PERLANCAR: 1
+Perinci-Examples-Bin-Any-Completion:
   PERLANCAR: 1
 Perinci-Examples-Bin-Any-ResultNaked:
   PERLANCAR: 1
@@ -46608,6 +46673,8 @@ Plack-Middleware-Class-Refresh:
   DOY: 1
 Plack-Middleware-Cleanup:
   HDP: 1
+Plack-Middleware-ClientCert:
+  JOSERIJO: 1
 Plack-Middleware-ComboLoader:
   JSHIRLEY: 1
 Plack-Middleware-Compile:
@@ -50766,6 +50833,8 @@ Scalar-Array:
   ALFIE: 1
 Scalar-Boolean:
   HAGGAI: 1
+Scalar-Classify:
+  DOOM: 1
 Scalar-Compare:
   AQUILINA: 1
 Scalar-Constant:
@@ -51780,6 +51849,8 @@ Sofu:
   sofu: 1
 SoggyOnion:
   IAN: 1
+SolarBeam:
+  JHTHORSEN: 1
 Solaris:
   ABURLISON: 1
 Solaris-ACL:
@@ -53478,6 +53549,8 @@ Systemd-Daemon:
   VDB: 1
 Sysync:
   MJFLICK: 1
+T:
+  EXODIST: 1
 TAEB:
   SARTAK: 1
 TAIR-Blast:
@@ -54141,7 +54214,7 @@ TeX-AutoTeX:
 TeX-DVI:
   JANPAZ: 1
 TeX-Encode:
-  TIMBRODY: 1
+  ATHREEF: 1
 TeX-Hyphen:
   JANPAZ: 1
 TeX-Hyphen-Pattern:
@@ -55861,6 +55934,8 @@ Test-NoLeaks:
   BINARY: 1
 Test-NoLoad:
   BAYASHI: 1
+Test-NoMalware:
+  JKUTEJ: 1
 Test-NoOverride:
   BAYASHI: 1
 Test-NoPlan:
@@ -55964,6 +56039,8 @@ Test-Portability-Files:
   ABRAXXA: 1
 Test-PostgreSQL:
   TJC: 1
+Test-Postgresql58:
+  NEWELLC: 1
 Test-Power:
   TOKUHIROM: 1
 Test-Prereq:
@@ -60696,6 +60773,8 @@ WWW-Correios-CEP:
   RENTOCRON: 1
 WWW-Correios-PrecoPrazo:
   GARU: 1
+WWW-Correios-SIGEP:
+  GARU: 1
 WWW-Correios-SRO:
   RLOPES: 1
 WWW-Coursera:
@@ -61640,7 +61719,7 @@ WWW-Shorten-Akari:
 WWW-Shorten-Bitly:
   CAPOEIRAB: 1
 WWW-Shorten-Digg:
-  BROERSE: 1
+  CAPOEIRAB: 1
 WWW-Shorten-Durl:
   JEEN: 1
 WWW-Shorten-Flickr:
@@ -61751,6 +61830,8 @@ WWW-StreamSend:
   KABANOID: 1
 WWW-StreetMap:
   SRSHAH: 1
+WWW-SubDB:
+  BSM: 1
 WWW-Sucksub-Attila:
   TFOUCART: 1
 WWW-Sucksub-Divxstation:
@@ -66545,8 +66626,6 @@ webrobot:
   STRCEK: 1
 wikitext-perl:
   MIGO: 1
-wildproto:
-  BRUMLEVE: 1
 win:
   ACCARDO: 1
 win32-guidgen:
