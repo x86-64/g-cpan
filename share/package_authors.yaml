@@ -4116,6 +4116,8 @@ App-CSE:
   JETEVE: 1
 App-CSV:
   GAAL: 1
+App-CSVUtils:
+  PERLANCAR: 1
 App-CSelUtils:
   PERLANCAR: 1
 App-Cache:
@@ -4274,6 +4276,8 @@ App-DistUtils:
   PERLANCAR: 1
 App-DistroWatchUtils:
   PERLANCAR: 1
+App-DocKnot:
+  RRA: 1
 App-Dochazka-CLI:
   SMITHFARM: 1
 App-Dochazka-Common:
@@ -4403,9 +4407,13 @@ App-Genpass:
   XSAWYERX: 1
 App-Getconf:
   DOZZIE: 1
+App-GetoptLongDescriptiveUtils:
+  PERLANCAR: 1
 App-GetoptLongSubcommandUtils:
   PERLANCAR: 1
 App-GetoptLongUtils:
+  PERLANCAR: 1
+App-GetoptStdUtils:
   PERLANCAR: 1
 App-Git-Ribbon:
   KABLAMO: 1
@@ -4535,6 +4543,8 @@ App-HistHub:
   TYPESTER: 1
 App-I18N:
   CORNELIUS: 1
+App-IMDBtop:
+  MGV: 1
 App-INIUtils:
   PERLANCAR: 1
 App-IODUtils:
@@ -4675,6 +4685,8 @@ App-Maisha:
   BARBIE: 1
 App-MakeEPUB:
   MAMAWE: 1
+App-ManUtils:
+  PERLANCAR: 1
 App-Manager:
   MLEHMANN: 1
 App-ManiacDownloader:
@@ -5461,6 +5473,8 @@ App-ZofCMS:
   ZOFFIX: 1
 App-ZofCMS-PluginBundle-Naughty:
   ZOFFIX: 1
+App-ZshCompleteUtils:
+  PERLANCAR: 1
 App-a2p:
   LEONT: 1
 App-adr2org:
@@ -5519,6 +5533,8 @@ App-cpangrep:
   TSIBLEY: 1
 App-cpanm-meta-checker:
   KENTNL: 1
+App-cpanm-script:
+  PERLANCAR: 1
 App-cpanmigrate:
   PUNYTAN: 1
 App-cpanminus:
@@ -8386,6 +8402,8 @@ Bro-Log-Parse:
   JOHANNA: 1
 Brocade-BSC:
   PRUIKLW: 1
+Broker-Async:
+  MAF: 1
 Brownie:
   MASAKI: 1
 Browser-Open:
@@ -14212,6 +14230,8 @@ Complete-Fish:
   PERLANCAR: 1
 Complete-Fish-Gen-FromGetoptLong:
   PERLANCAR: 1
+Complete-Fish-Gen-FromGetoptLongDescriptive:
+  PERLANCAR: 1
 Complete-Fish-Gen-FromPerinciCmdLine:
   PERLANCAR: 1
 Complete-Getopt-Long:
@@ -14251,6 +14271,12 @@ Complete-Unix:
 Complete-Util:
   PERLANCAR: 1
 Complete-Zsh:
+  PERLANCAR: 1
+Complete-Zsh-Gen-FromGetoptLong:
+  PERLANCAR: 1
+Complete-Zsh-Gen-FromGetoptLongDescriptive:
+  PERLANCAR: 1
+Complete-Zsh-Gen-FromPerinciCmdLine:
   PERLANCAR: 1
 Compress-AsciiFlate:
   JIMI: 1
@@ -17431,7 +17457,7 @@ Dancer2-Logger-Syslog:
 Dancer2-Plugin-Adapter:
   YANICK: 1
 Dancer2-Plugin-Ajax:
-  XSAWYERX: 1
+  CROMEDOME: 1
 Dancer2-Plugin-AppRole-Helper:
   MITHALDU: 1
 Dancer2-Plugin-Articulate:
@@ -17444,6 +17470,8 @@ Dancer2-Plugin-Auth-Extensible-Provider-DBIC:
   SYSPETE: 1
 Dancer2-Plugin-Auth-Extensible-Provider-Database:
   HORNBURG: 1
+Dancer2-Plugin-Auth-Extensible-Provider-IMAP:
+  SYSPETE: 1
 Dancer2-Plugin-Auth-Extensible-Provider-LDAP:
   SYSPETE: 1
 Dancer2-Plugin-Auth-Extensible-Provider-Usergroup:
@@ -17468,6 +17496,8 @@ Dancer2-Plugin-ConditionalCaching:
   ZURBORG: 1
 Dancer2-Plugin-DBIC:
   IRONCAMEL: 1
+Dancer2-Plugin-DataTransposeValidator:
+  SYSPETE: 1
 Dancer2-Plugin-Database:
   BIGPRESH: 1
 Dancer2-Plugin-Deferred:
@@ -19958,6 +19988,8 @@ Devel-GDB-Parser-Breakpoint:
   WOLFSAGE: 1
 Devel-GDB-Reflect:
   AFN: 1
+Devel-Git-MultiBisect:
+  JKEENAN: 1
 Devel-Gladiator:
   ETHER: 1
 Devel-GlobalDestruction:
@@ -23494,8 +23526,6 @@ Farly:
   TJOHNSON: 1
 FarmBalance:
   DUKKIE: 1
-FastDB:
-  MPOURASG: 1
 FastGlob:
   MENGEL: 1
 Faster:
@@ -26548,6 +26578,8 @@ Getopt-Inherited:
   MARCEL: 1
 Getopt-Janus:
   SBURKE: 1
+Getopt-Kingpin:
+  TAKASAGO: 1
 Getopt-LL:
   ASKSH: 1
 Getopt-Lazy:
@@ -26560,6 +26592,10 @@ Getopt-Long-Complete:
   PERLANCAR: 1
 Getopt-Long-Descriptive:
   RJBS: 1
+Getopt-Long-Descriptive-Dump:
+  PERLANCAR: 1
+Getopt-Long-Descriptive-Util:
+  PERLANCAR: 1
 Getopt-Long-DescriptivePod:
   STEFFENW: 1
 Getopt-Long-Dump:
@@ -26614,8 +26650,12 @@ Getopt-Regex:
   JARW: 1
 Getopt-Simple:
   RSAVAGE: 1
+Getopt-Std-Dump:
+  PERLANCAR: 1
 Getopt-Std-Strict:
   LEOCHARRE: 1
+Getopt-Std-Util:
+  PERLANCAR: 1
 Getopt-Std-WithCheck:
   Getopt-Std-WithCheck: 1
 Getopt-Tabular:
@@ -29198,7 +29238,7 @@ HiPi:
 Hibiscus-XMLRPC:
   CORION: 1
 Hijk:
-  AVAR: 1
+  GUGOD: 1
 Hiredis-Raw:
   WHITNEY: 1
 Hither:
@@ -29749,7 +29789,7 @@ IP-Random:
 IP-Unique:
   JAYBONCI: 1
 IP-World:
-  MACKENNA: 1
+  DCANTRELL: 1
 IPC-AnyEvent-Gearman:
   KHS: 1
 IPC-Cache:
@@ -29994,6 +30034,8 @@ Ima-DBI:
   TMTM: 1
 Ima-DBI-Contextual:
   JOHND: 1
+Image-Animated-JPEG:
+  CLIPLAND: 1
 Image-BMP:
   Image: 1
 Image-Base:
@@ -39860,8 +39902,12 @@ Net-Autoconfig:
   Net-Autoconfig: 1
 Net-Axigen:
   ITMFROLOV: 1
+Net-Azure-Authorization-SAS:
+  YTURTLE: 1
 Net-Azure-BlobService:
   LBROCARD: 1
+Net-Azure-EventHubs:
+  YTURTLE: 1
 Net-Azure-StorageClient:
   JUNNAMA: 1
 Net-BEEP-Lite:
@@ -42983,6 +43029,8 @@ OpusVL-AppKit-Schema-AppKitAuthDB:
   NEWELLC: 1
 OpusVL-Preferences:
   NEWELLC: 1
+OpusVL-SimpleCrypto:
+  NEWELLC: 1
 OpusVL-SysParams:
   ALTREUS: 1
 Orac:
@@ -43401,6 +43449,10 @@ PDLDM-Common:
   MBTLFDO: 1
 PDLDM-Rank:
   MBTLFDO: 1
+PDLx-DetachedObject:
+  DJERIUS: 1
+PDLx-Mask:
+  DJERIUS: 1
 PEF-CacheLRU:
   PEFSECURE: 1
 PEF-Front:
@@ -48994,7 +49046,7 @@ RT-Extension-RepliesToResolved:
 RT-Extension-ReportSpam:
   ALEXMV: 1
 RT-Extension-ResetPassword:
-  ALEXMV: 1
+  BPS: 1
 RT-Extension-SLA:
   ALEXMV: 1
   TSIBLEY: 1
@@ -50734,7 +50786,7 @@ Safe-Hole:
   SEYN: 1
   TODDR: 1
 Safe-Isa:
-  ETHER: 1
+  HAARG: 1
 Safe-Logs:
   LUISMUNOZ: 1
 Safe-World:
@@ -65303,6 +65355,8 @@ anarch:
   SPROUT: 1
 ansi-unicode:
   REVMISCHA: 1
+anticaptcha:
+  SKULL: 1
 any:
   DMUEY: 1
 app-tables:
