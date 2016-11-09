@@ -586,6 +586,40 @@ Acme-CPANLists-Import:
   PERLANCAR: 1
 Acme-CPANLists-Import-NEILB:
   PERLANCAR: 1
+Acme-CPANLists-Import-PERLANCAR-Advent-2014:
+  PERLANCAR: 1
+Acme-CPANLists-Import-PerlAdvent-2000:
+  PERLANCAR: 1
+Acme-CPANLists-Import-PerlAdvent-2001:
+  PERLANCAR: 1
+Acme-CPANLists-Import-PerlAdvent-2002:
+  PERLANCAR: 1
+Acme-CPANLists-Import-PerlAdvent-2003:
+  PERLANCAR: 1
+Acme-CPANLists-Import-PerlAdvent-2004:
+  PERLANCAR: 1
+Acme-CPANLists-Import-PerlAdvent-2005:
+  PERLANCAR: 1
+Acme-CPANLists-Import-PerlAdvent-2006:
+  PERLANCAR: 1
+Acme-CPANLists-Import-PerlAdvent-2007:
+  PERLANCAR: 1
+Acme-CPANLists-Import-PerlAdvent-2008:
+  PERLANCAR: 1
+Acme-CPANLists-Import-PerlAdvent-2009:
+  PERLANCAR: 1
+Acme-CPANLists-Import-PerlAdvent-2010:
+  PERLANCAR: 1
+Acme-CPANLists-Import-PerlAdvent-2011:
+  PERLANCAR: 1
+Acme-CPANLists-Import-PerlAdvent-2012:
+  PERLANCAR: 1
+Acme-CPANLists-Import-PerlAdvent-2013:
+  PERLANCAR: 1
+Acme-CPANLists-Import-PerlAdvent-2014:
+  PERLANCAR: 1
+Acme-CPANLists-Import-PerlAdvent-2015:
+  PERLANCAR: 1
 Acme-CPANLists-Import-RSAVAGE:
   PERLANCAR: 1
 Acme-CPANLists-Import-SHARYANTO:
@@ -617,7 +651,7 @@ Acme-CatFS:
 Acme-CatalystX-ILoveDebug:
   BOBTFISH: 1
 Acme-Chef:
-  SMUELLER: 1
+  WERNERMP: 1
 Acme-ChuckNorris:
   DMUEY: 1
 Acme-Class-Std:
@@ -5145,6 +5179,8 @@ App-SFDC-Metadata:
   TMINNEY: 1
 App-SSH-Cluster:
   MCMILLHJ: 1
+App-SVG-Graph:
+  SHLOMIF: 1
 App-SVN-Bisect:
   INFINOID: 1
 App-SahUtils:
@@ -5182,6 +5218,8 @@ App-ShellCompleter-YoutubeDl:
 App-ShellCompleter-cpanm:
   PERLANCAR: 1
 App-ShellCompleter-emacs:
+  PERLANCAR: 1
+App-ShellCompleter-meta:
   PERLANCAR: 1
 App-ShellCompleter-mpv:
   PERLANCAR: 1
@@ -8317,6 +8355,10 @@ Bot-ICB:
   IX: 1
 Bot-IKCBot-Pluggable:
   HIROSE: 1
+Bot-IRC:
+  GRYPHON: 1
+Bot-IRC-X-Dice:
+  GRYPHON: 1
 Bot-Infobot:
   SIMONW: 1
 Bot-JabberBot:
@@ -10908,6 +10950,8 @@ Cache-Ehcache:
   YAMAMOTO: 1
 Cache-Elasticache-Memcache:
   ZEBARDY: 1
+Cache-Escalate:
+  HANDLE: 1
 Cache-FastMemoryCache:
   MILLAWAY: 1
 Cache-FastMmap:
@@ -12646,7 +12690,6 @@ Catmandu-SFX:
   HOCHSTEN: 1
 Catmandu-SRU:
   NICS: 1
-  VOJ: 1
 Catmandu-Serializer-messagepack:
   NJFRANCK: 1
 Catmandu-Serializer-storable:
@@ -19346,7 +19389,7 @@ DateTime-BusinessHours:
 DateTime-Calendar-Chinese:
   DMAKI: 1
 DateTime-Calendar-Christian:
-  PIJLL: 1
+  WYANT: 1
 DateTime-Calendar-Coptic:
   DYACOB: 1
 DateTime-Calendar-Discordian:
@@ -29778,6 +29821,8 @@ IP-Country-DNSBL:
   NWETTERS: 1
 IP-CountryFlag:
   MANWAR: 1
+IP-IPwhere:
+  ORANGE: 1
 IP-Info:
   MANWAR: 1
 IP-Location:
@@ -30853,6 +30898,8 @@ JSON-TypeInference:
   AEREAL: 1
 JSON-Types:
   TYPESTER: 1
+JSON-Types-Flexible:
+  PINE: 1
 JSON-Typist:
   RJBS: 1
 JSON-Util:
@@ -37731,6 +37778,8 @@ Mojolicious-Plugin-AutoParams:
   BDUGGAN: 1
 Mojolicious-Plugin-AutoRoute:
   KIMOTO: 1
+Mojolicious-Plugin-AutoSecrets:
+  MHOWARD: 1
 Mojolicious-Plugin-BModel:
   BCDE: 1
 Mojolicious-Plugin-BasicAuth:
@@ -38235,6 +38284,8 @@ Mojolicious-Plugin-WWWSession:
   Mojolicious: 1
 Mojolicious-Plugin-Web-Auth:
   HAYAJO: 1
+Mojolicious-Plugin-Web-Auth-Site-LinkedIn:
+  VIKAS: 1
 Mojolicious-Plugin-Web-Auth-Site-Runkeeper:
   OALDERS: 1
 Mojolicious-Plugin-Web-Auth-Site-Spotify:
@@ -43033,6 +43084,8 @@ OpusVL-SimpleCrypto:
   NEWELLC: 1
 OpusVL-SysParams:
   ALTREUS: 1
+OpusVL-Text-Util:
+  NEWELLC: 1
 Orac:
   ANDYDUNC: 1
 Orac-alpha:
@@ -47465,7 +47518,7 @@ Pod-Plainer:
 Pod-PluginCatalog:
   CJM: 1
 Pod-ProjectDocs:
-  LYOKATO: 1
+  MGRUNER: 1
 Pod-PseudoPod:
   ARANDAL: 1
   CHROMATIC: 1
@@ -49207,6 +49260,8 @@ RTx-TicketlistTransactions:
   JESSE: 1
 RTx-Timeline:
   HTCHAPMAN: 1
+RTx-ToGitHub:
+  DROLSKY: 1
 RTx-WebCronTool:
   AUTRIJUS: 1
 RTx-WorkflowBuilder:
@@ -54511,6 +54566,8 @@ Template-Plugin-Filter-MinifyHTML:
   TXH: 1
 Template-Plugin-Filter-Pipe:
   MARCEL: 1
+Template-Plugin-Filter-Scss:
+  BBON: 1
 Template-Plugin-Filter-String-Truncate:
   MSCHOUT: 1
 Template-Plugin-Filter-VisualTruncate:
@@ -55426,6 +55483,8 @@ Test-Deep-DateTime-RFC3339:
   TSIBLEY: 1
 Test-Deep-Filter:
   KENTNL: 1
+Test-Deep-Fuzzy:
+  KARUPA: 1
 Test-Deep-JSON:
   MOTEMEN: 1
 Test-Deep-JWT:
@@ -58780,7 +58839,7 @@ Tivoli-AccessManager-Admin:
 Tk:
   SREZIC: 1
 Tk-ACH:
-  YEWENBIN: 1
+  ASB: 1
 Tk-AbstractCanvas:
   PIP: 1
 Tk-Action:
@@ -65863,6 +65922,8 @@ junk:
   TOBYINK: 1
 junoscript-perl:
   JUNOS: 1
+jup:
+  ADAMJS: 1
 khatgallery:
   RUBYKAT: 1
 kif:
