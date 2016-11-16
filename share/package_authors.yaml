@@ -226,6 +226,8 @@ API-Facebook:
   AWNCORP: 1
 API-Github:
   AWNCORP: 1
+API-Google:
+  PAVELSR: 1
 API-Handle:
   AMIRITE: 1
 API-ISPManager:
@@ -2940,6 +2942,8 @@ AnyEvent-Serialize:
   UNERA: 1
 AnyEvent-SlackRTM:
   HANENKAMP: 1
+AnyEvent-Stomper:
+  IPH: 1
 AnyEvent-Sub-Retry:
   MAEDAMA: 1
 AnyEvent-Subprocess:
@@ -4365,6 +4369,8 @@ App-Env:
   DJERIUS: 1
 App-Env-Login:
   DJERIUS: 1
+App-Environ:
+  IPH: 1
 App-ErrorCalculator:
   SMUELLER: 1
 App-EvalServer:
@@ -4439,6 +4445,8 @@ App-GenPericmdScript:
   PERLANCAR: 1
 App-Genpass:
   XSAWYERX: 1
+App-GetClosestFile:
+  RORYRJB: 1
 App-Getconf:
   DOZZIE: 1
 App-GetoptLongDescriptiveUtils:
@@ -4633,6 +4641,8 @@ App-JenkinsCli:
   IVANWILLS: 1
 App-JobLog:
   DFH: 1
+App-Jup:
+  ADAMJS: 1
 App-KGB:
   DAM: 1
 App-KV2JSON:
@@ -5457,6 +5467,8 @@ App-WIoZ:
   YVESAGO: 1
 App-WUPHF:
   MCMILLHJ: 1
+App-Waf:
+  ORANGE: 1
 App-Wallflower:
   BOOK: 1
 App-War:
@@ -5799,6 +5811,8 @@ App-olson:
   ZEFRAM: 1
 App-opan:
   MSTROUT: 1
+App-org2wp:
+  PERLANCAR: 1
 App-orgdaemon:
   SREZIC: 1
 App-orgsel:
@@ -6014,6 +6028,8 @@ App-whichpm:
 App-wmiirc:
   DGL: 1
 App-wordlist:
+  PERLANCAR: 1
+App-wp-xmlrpc:
   PERLANCAR: 1
 App-wrapspeak:
   MUCKER: 1
@@ -7520,6 +7536,8 @@ Bencher-Scenario-ShellQuoteAny:
   PERLANCAR: 1
 Bencher-Scenario-SortBySpec:
   PERLANCAR: 1
+Bencher-Scenario-SortKeyTop:
+  PERLANCAR: 1
 Bencher-Scenario-Sprintf:
   PERLANCAR: 1
 Bencher-Scenario-Test-Sleep:
@@ -8319,6 +8337,14 @@ Bot-BasicBot-Pluggable-Module-XKCD:
   DUTCHIE: 1
 Bot-BasicBot-Pluggable-WithConfig:
   KITANO: 1
+Bot-ChatBots:
+  POLETTIX: 1
+Bot-ChatBots-Messenger:
+  POLETTIX: 1
+Bot-ChatBots-Minion:
+  POLETTIX: 1
+Bot-ChatBots-Telegram:
+  POLETTIX: 1
 Bot-Cobalt:
   AVENJ: 1
 Bot-Cobalt-DB-Term:
@@ -8358,6 +8384,22 @@ Bot-IKCBot-Pluggable:
 Bot-IRC:
   GRYPHON: 1
 Bot-IRC-X-Dice:
+  GRYPHON: 1
+Bot-IRC-X-ManagementSpeak:
+  GRYPHON: 1
+Bot-IRC-X-Message:
+  GRYPHON: 1
+Bot-IRC-X-MetarTaf:
+  GRYPHON: 1
+Bot-IRC-X-Reminder:
+  GRYPHON: 1
+Bot-IRC-X-Retort:
+  GRYPHON: 1
+Bot-IRC-X-Time:
+  GRYPHON: 1
+Bot-IRC-X-UriTitle:
+  GRYPHON: 1
+Bot-IRC-X-WwwShorten:
   GRYPHON: 1
 Bot-Infobot:
   SIMONW: 1
@@ -11100,6 +11142,8 @@ Calendar-Simple:
   DAVECROSS: 1
 Calendar-Slots:
   RODRIGO: 1
+Call-Context:
+  FELIPE: 1
 Call-From:
   KENTNL: 1
 Call-Haskell:
@@ -13820,6 +13864,8 @@ Class-RDF:
   ZOOLEIKA: 1
 Class-Random:
   PMH: 1
+Class-Rebirth:
+  AHERNIT: 1
 Class-Rebless:
   GAAL: 1
 Class-Ref:
@@ -14703,8 +14749,6 @@ Config-Role:
   ROBINS: 1
 Config-SL:
   PHRED: 1
-Config-Savelogs:
-  SCOTTW: 1
 Config-Scoped:
   GAISSMAI: 1
 Config-Secure:
@@ -18038,6 +18082,8 @@ Data-FeatureFactory:
   SIXTEASE: 1
 Data-Feed:
   DMAKI: 1
+Data-Fetch:
+  NHORNE: 1
 Data-FetchPath:
   OVID: 1
 Data-File-Map:
@@ -19173,7 +19219,7 @@ Date-Ethiopic:
 Date-Exception:
   MANWAR: 1
 Date-Extract:
-  SHARYANTO: 1
+  ALEXMV: 1
 Date-Extract-ID:
   PERLANCAR: 1
 Date-Extract-P800Picture:
@@ -23069,6 +23115,8 @@ Eval-Context:
   NKH: 1
 Eval-LineNumbers:
   modules: 1
+Eval-Logic:
+  ZEBAZ: 1
 Eval-WithLexicals:
   HAARG: 1
 Eve:
@@ -27575,7 +27623,7 @@ HOI-Comprehensions:
 HOI-Match:
   HOIMatch-0072: 1
 HON-Deploy:
-  ALEXMASS: 1
+  WILLBELL: 1
 HON-EC2-Snapshots-Monitoring:
   WILLBELL: 1
 HON-Http-UrlChecker-Service:
@@ -28199,6 +28247,8 @@ HTML-Selector-XPath-Simple:
   TAKERU: 1
 HTML-Shakan:
   SONGMU: 1
+HTML-Show:
+  PABLROD: 1
 HTML-Similarity:
   XERN: 1
 HTML-SimpleLinkExtor:
@@ -34055,6 +34105,8 @@ Log-Dispatch-DesktopNotification:
   ETHER: 1
 Log-Dispatch-Dir:
   PERLANCAR: 1
+Log-Dispatch-Email-Async:
+  RAJAG: 1
 Log-Dispatch-Email-EmailSend:
   DROLSKY: 1
 Log-Dispatch-Email-Sendmail:
@@ -34197,6 +34249,8 @@ Log-Log4perl-Appender-Gearman:
   CLKAO: 1
 Log-Log4perl-Appender-Lim-CLI:
   JELU: 1
+Log-Log4perl-Appender-Lumberjack:
+  BENNING: 1
 Log-Log4perl-Appender-RabbitMQ:
   BUNDACIA: 1
 Log-Log4perl-Appender-Raven:
@@ -38180,6 +38234,8 @@ Mojolicious-Plugin-SassRenderer:
   BYRON: 1
 Mojolicious-Plugin-SaveRequest:
   BPMEDLEY: 1
+Mojolicious-Plugin-Scrypt:
+  CLICKTX: 1
 Mojolicious-Plugin-SecureCORS:
   POWERMAN: 1
 Mojolicious-Plugin-SecureOnly:
@@ -39728,6 +39784,8 @@ Net--RabbitMQ:
   JESUS: 1
 Net-ACL:
   LORENSEN: 1
+Net-ACME:
+  FELIPE: 1
 Net-ADNS:
   SALVA: 1
 Net-AIM:
@@ -40984,6 +41042,8 @@ Net-Lorcon2:
   GOMOR: 1
 Net-Lujoyglamour:
   JMERELO: 1
+Net-Lumberjack:
+  BENNING: 1
 Net-Lyskom:
   CDYBED: 1
 Net-MAC:
@@ -43054,8 +43114,6 @@ OpenXML-Properties:
   ANANTHBV: 1
 Opendata-GTFS-Feed:
   CSSON: 1
-Opener_chat:
-  ALEXE: 1
 Openview-Message:
   LBAXTER: 1
 Operator-Util:
@@ -43127,6 +43185,8 @@ OrePAN2-Server:
 Org-Parser:
   PERLANCAR: 1
 Org-To-HTML:
+  PERLANCAR: 1
+Org-To-HTML-WordPress:
   PERLANCAR: 1
 Org-To-Pod:
   PERLANCAR: 1
@@ -43542,6 +43602,8 @@ PERLANCAR-Tree-Examples:
   PERLANCAR: 1
 PERLANCAR-warnings-all:
   PERLANCAR: 1
+PESEL-Generator:
+  STRZELEC: 1
 PException:
   MOUNS: 1
 PFIX:
@@ -45531,6 +45593,8 @@ Pcore-API-Whois:
 Pcore-Captcha:
   ZDM: 1
 Pcore-DBH:
+  ZDM: 1
+Pcore-ExtJS:
   ZDM: 1
 Pcore-GeoIP:
   ZDM: 1
@@ -48078,6 +48142,8 @@ Proc-Lite:
   PRAVUS: 1
 Proc-LoadMonitor:
   MILA: 1
+Proc-Memory:
+  ATHREEF: 1
 Proc-NiceSleep:
   JOSHR: 1
 Proc-PID-File:
@@ -51156,8 +51222,6 @@ Search-Elasticsearch-Compat:
   DRTECH: 1
 Search-Elasticsearch-Cxn-NetCurl:
   DRTECH: 1
-Search-Elasticsearch-Plugin-Watcher:
-  DRTECH: 1
 Search-Elasticsearch-Plugin-XPack:
   DRTECH: 1
 Search-Equidistance:
@@ -53627,13 +53691,13 @@ Sysstat-Sar:
 System-Command:
   BOOK: 1
 System-Daemon:
-  JUSTNOXX: 1
+  VSESPB: 1
 System-Index:
   JBRYAN: 1
 System-Info:
   HMBRAND: 1
 System-InitD:
-  JUSTNOXX: 1
+  VSESPB: 1
 System-Process:
   JUSTNOXX: 1
 System-Sub:
@@ -53689,6 +53753,8 @@ TAP-Formatter-HTML:
   SPURKIS: 1
 TAP-Formatter-JUnit:
   GTERMARS: 1
+TAP-Formatter-JUnitREGRU:
+  VSESPB: 1
 TAP-Formatter-Jenkins:
   EVOSTROV: 1
 TAP-Formatter-TeamCity:
@@ -54930,8 +54996,6 @@ Template-Toolkit:
   ABW: 1
 Template-Toolkit-Simple:
   INGY: 1
-Template-Trivial:
-  SCOTTW: 1
 Template-Twostep:
   JINZANG: 1
 Template-XML:
@@ -58943,6 +59007,8 @@ Tk-ErrorDump:
   DARNOLD: 1
 Tk-ExecuteCommand:
   LUSOL: 1
+Tk-FcyEntry:
+  ASB: 1
 Tk-FileDialog:
   BPOWERS: 1
 Tk-FileEntry:
@@ -62727,6 +62793,8 @@ WebService-Livedoor-Weather:
   YTURTLE: 1
 WebService-Lob:
   AANARI: 1
+WebService-Lobid-Organisation:
+  PMAYR: 1
 WebService-LogicMonitor:
   IOANR: 1
 WebService-Lucene:
@@ -65922,8 +65990,6 @@ junk:
   TOBYINK: 1
 junoscript-perl:
   JUNOS: 1
-jup:
-  ADAMJS: 1
 khatgallery:
   RUBYKAT: 1
 kif:
