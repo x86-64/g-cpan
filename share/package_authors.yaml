@@ -216,6 +216,8 @@ API-Basecamp:
   AWNCORP: 1
 API-BigBlueButton:
   BCDE: 1
+API-CLI:
+  TINITA: 1
 API-CPanel:
   BITTER: 1
 API-Client:
@@ -622,16 +624,18 @@ Acme-CPANLists-Import-PerlAdvent-2014:
   PERLANCAR: 1
 Acme-CPANLists-Import-PerlAdvent-2015:
   PERLANCAR: 1
+Acme-CPANLists-Import-PerlDancerAdvent-2014:
+  PERLANCAR: 1
 Acme-CPANLists-Import-RSAVAGE:
   PERLANCAR: 1
 Acme-CPANLists-Import-SHARYANTO:
   PERLANCAR: 1
 Acme-CPANLists-PERLANCAR:
   PERLANCAR: 1
+Acme-CPANLists-PERLANCAR-Test:
+  PERLANCAR: 1
 Acme-CPANLists-SHARYANTO:
   SHARYANTO: 1
-Acme-CPANLists-Test:
-  PERLANCAR: 1
 Acme-CPANPLUS-Module-With-Failing-Configure-Requires:
   BINGOS: 1
 Acme-CPANPLUS-PreReq-Text-Tabs:
@@ -2299,6 +2303,8 @@ Alien-libtermkey:
   PEVANS: 1
 Alien-libtool24:
   PLICEASE: 1
+Alien-libvas:
+  ATHREEF: 1
 Alien-m4:
   PLICEASE: 1
 Alien-mpg123:
@@ -2809,6 +2815,8 @@ AnyEvent-MSN:
   SANKO: 1
 AnyEvent-Mac-Pasteboard:
   OGATA: 1
+AnyEvent-Mattermost:
+  JSIME: 1
 AnyEvent-Memcached:
   MONS: 1
 AnyEvent-MessagePack:
@@ -4407,6 +4415,8 @@ App-File-Grepper:
   JV: 1
 App-FileDedup:
   MCMILLHJ: 1
+App-FileDigestCLIs:
+  PERLANCAR: 1
 App-FileSummoner:
   MAIO: 1
 App-FileTools-BulkRename:
@@ -4845,8 +4855,6 @@ App-MusicTools:
   JMATES: 1
 App-Mver:
   KSURI: 1
-App-MyPasswd:
-  BAYASHI: 1
 App-MyPerl:
   MSTROUT: 1
 App-Nag:
@@ -5170,8 +5178,6 @@ App-RewriteVersion:
   DBOOK: 1
 App-Ringleader:
   YANICK: 1
-App-Rolling:
-  BAYASHI: 1
 App-Rssfilter:
   DGHOLZ: 1
 App-RunCron:
@@ -5531,8 +5537,6 @@ App-adr2org:
   PERLANCAR: 1
 App-after:
   PERLANCAR: 1
-App-aki:
-  BAYASHI: 1
 App-aptperl:
   IVANWILLS: 1
 App-assh:
@@ -6039,6 +6043,8 @@ App-xkcdpass:
   GCJ: 1
 App-xml_grep2:
   MIROD: 1
+App-xsum:
+  PERLANCAR: 1
 App-yamlsel:
   PERLANCAR: 1
 AppConfig:
@@ -7444,6 +7450,8 @@ Beam-Wire:
   PREACTION: 1
 Beam-Wire-Moose:
   PREACTION: 1
+BeamX-Peer-Emitter:
+  DJERIUS: 1
 Beanstalk-Client:
   GBARR: 1
 BeePack:
@@ -7477,6 +7485,10 @@ Bencher-Scenario-BigInt:
 Bencher-Scenario-CmdLineParsingModules:
   PERLANCAR: 1
 Bencher-Scenario-ComparisonOps:
+  PERLANCAR: 1
+Bencher-Scenario-DigestMD5:
+  PERLANCAR: 1
+Bencher-Scenario-DigestSHA1:
   PERLANCAR: 1
 Bencher-Scenario-EnsuringAllPatternsInString:
   PERLANCAR: 1
@@ -7601,6 +7613,8 @@ Bencher-Scenarios-DataSahVSTypeTiny:
 Bencher-Scenarios-DateModules:
   PERLANCAR: 1
 Bencher-Scenarios-DateTimeFormatAlami:
+  PERLANCAR: 1
+Bencher-Scenarios-DigestSHA:
   PERLANCAR: 1
 Bencher-Scenarios-Examples:
   PERLANCAR: 1
@@ -10712,6 +10726,8 @@ CPAN-Test-Reporter:
   SKUD: 1
 CPAN-Testers:
   BARBIE: 1
+CPAN-Testers-API:
+  PREACTION: 1
 CPAN-Testers-Common-Article:
   BARBIE: 1
 CPAN-Testers-Common-Client:
@@ -10750,6 +10766,8 @@ CPAN-Testers-Reports-Counts:
   NEILB: 1
 CPAN-Testers-Reports-Query-JSON:
   LLAP: 1
+CPAN-Testers-Schema:
+  PREACTION: 1
 CPAN-Testers-TailLog:
   KENTNL: 1
 CPAN-Testers-WWW-Admin:
@@ -11058,8 +11076,6 @@ Cache-Memcached-libmemcached:
   TIMB: 1
 Cache-Memory-Simple:
   TOKUHIROM: 1
-Cache-Memory-Simple-ID:
-  BAYASHI: 1
 Cache-Method:
   HOTO: 1
 Cache-Mmap:
@@ -12489,6 +12505,8 @@ Catalyst-View-Xslate:
   DMAKI: 1
 Catalyst-View-vCard:
   BRICAS: 1
+CatalystX-ASP:
+  SLEUNG: 1
 CatalystX-ActionBuilders:
   RSRCHBOY: 1
 CatalystX-AppBuilder:
@@ -13693,7 +13711,7 @@ Class-Inner:
 Class-InsideOut:
   DAGOLDEN: 1
 Class-Inspector:
-  ADAMK: 1
+  PLICEASE: 1
 Class-Interface:
   SINISTER: 1
 Class-Interfaces:
@@ -14596,7 +14614,7 @@ Config-IOD-Reader:
 Config-IPFilter:
   SANKO: 1
 Config-Identity:
-  ROKR: 1
+  DAGOLDEN: 1
 Config-Inetd:
   SCHUBIGER: 1
 Config-IniFiles:
@@ -15774,6 +15792,8 @@ DBD-AnyData:
   REHSACK: 1
 DBD-AnyData2:
   REHSACK: 1
+DBD-BlackHole:
+  KARUPA: 1
 DBD-CSV:
   HMBRAND: 1
   JZUCKER: 1
@@ -15928,6 +15948,7 @@ DBD-monetdb:
   SGOELDNER: 1
 DBD-mysql:
   CAPTTOFU: 1
+  MICHIELB: 1
 DBD-mysql-AutoTypes:
   GRISHACE: 1
 DBD-mysql-SimpleMySQL:
@@ -17592,7 +17613,7 @@ Dancer2-Plugin-Deferred:
 Dancer2-Plugin-ElasticSearch:
   WEBORAMA: 1
 Dancer2-Plugin-Email:
-  IRONCAMEL: 1
+  SYSPETE: 1
 Dancer2-Plugin-Emailesque:
   Dancer: 1
 Dancer2-Plugin-EncryptID:
@@ -18662,7 +18683,7 @@ Data-RoundRobin:
 Data-RoundRobinShared:
   SPRADEEP: 1
 Data-RuledCluster:
-  HIXI: 1
+  KARUPA: 1
 Data-RuledValidator:
   KTAT: 1
 Data-RuledValidator-Plugin-Japanese:
@@ -20505,6 +20526,8 @@ Device-Chip-INA219:
 Device-Chip-MAX7219:
   PEVANS: 1
 Device-Chip-MCP23x17:
+  PEVANS: 1
+Device-Chip-MCP4725:
   PEVANS: 1
 Device-Chip-MPL3115A2:
   PEVANS: 1
@@ -22657,6 +22680,8 @@ Email-Folder-IMAPS:
   RJBS: 1
 Email-Folder-POP3:
   RJBS: 1
+Email-Folder-Search:
+  BINARY: 1
 Email-FolderType:
   RJBS: 1
   SIMONW: 1
@@ -23836,6 +23861,8 @@ File-DesktopEntry:
   MICHIELB: 1
 File-Details:
   RECSKY: 1
+File-Digest:
+  PERLANCAR: 1
 File-DigestStore:
   MOOLI: 1
 File-Dir-Dumper:
@@ -30922,6 +30949,8 @@ JSON-ReadPath:
   MICVU: 1
 JSON-Relaxed:
   MIKO: 1
+JSON-Repair:
+  BKB: 1
 JSON-SL:
   MNUNBERG: 1
 JSON-Schema:
@@ -31281,6 +31310,8 @@ Kavorka:
   TOBYINK: 1
 Kavorka-TraitFor-Parameter-doc:
   CSSON: 1
+Kayako-RestAPI:
+  PAVELSR: 1
 Kelp:
   MINIMAL: 1
 Kelp-Module-Bcrypt:
@@ -31291,6 +31322,8 @@ Kelp-Module-FlashMessage:
   NICEPERL: 1
 Kelp-Module-JSON-XS:
   MINIMAL: 1
+Kelp-Module-Logger-Log4perl:
+  YAKUNINK: 1
 Kelp-Module-MongoDB:
   ADAMJS: 1
 Kelp-Module-RDBO:
@@ -38207,7 +38240,7 @@ Mojolicious-Plugin-RenderSteps:
 Mojolicious-Plugin-ReplyTable:
   JBERGER: 1
 Mojolicious-Plugin-RequestBase:
-  JHTHORSEN: 1
+  MRAMBERG: 1
 Mojolicious-Plugin-Responsinator:
   JHTHORSEN: 1
 Mojolicious-Plugin-Resque:
@@ -39052,7 +39085,7 @@ MooseX-SimpleConfig:
 MooseX-SingleArg:
   BLUEFEET: 1
 MooseX-Singleton:
-  KAARE: 1
+  ETHER: 1
   SARTAK: 1
 MooseX-SingletonMethod:
   DRAEGTUN: 1
@@ -43613,17 +43646,19 @@ PFT:
 PGForth:
   PETERGAL: 1
 PGObject:
-  EINHVERFR: 1
+  EHUELS: 1
 PGObject-Composite:
   EINHVERFR: 1
 PGObject-Composite-Role:
   EINHVERFR: 1
 PGObject-Simple:
-  EINHVERFR: 1
+  EHUELS: 1
 PGObject-Simple-Role:
-  EINHVERFR: 1
+  EHUELS: 1
 PGObject-Type-BigFloat:
   EINHVERFR: 1
+PGObject-Type-ByteString:
+  EHUELS: 1
 PGObject-Type-Composite:
   EINHVERFR: 1
 PGObject-Type-DateTime:
@@ -44292,6 +44327,8 @@ POE-Component-WWW-XKCD-AsText:
   ZOFFIX: 1
 POE-Component-WakeOnLAN:
   BINGOS: 1
+POE-Component-WheelRun-Pool:
+  BLHOTSKY: 1
 POE-Component-XUL:
   XANTUS: 1
 POE-Component-YahooMessenger:
@@ -44943,6 +44980,8 @@ Parallel-Batch:
   SACAVILIA: 1
 Parallel-Benchmark:
   FUJIWARA: 1
+Parallel-Boss:
+  ZWON: 1
 Parallel-DataPipe:
   OKHARCH: 1
 Parallel-Downloader:
@@ -45381,6 +45420,8 @@ Parse-Stallion:
   ARTHUR: 1
 Parse-Stata-DtaReader:
   RECKON: 1
+Parse-Sums:
+  PERLANCAR: 1
 Parse-Syslog:
   DSCHWEI: 1
 Parse-Syslog-Line:
@@ -48983,17 +49024,17 @@ RT-Extension-AddAdminCcsOnQueueChange:
 RT-Extension-AddAttachmentsFromTransactions:
   CLOOS: 1
 RT-Extension-AdminConditionsAndActions:
-  ALEXMV: 1
+  BPS: 1
 RT-Extension-AjaxPreviewScrips:
   ALEXMV: 1
 RT-Extension-Announce:
-  ALEXMV: 1
+  BPS: 1
 RT-Extension-AnnounceSimple:
   CLOOS: 1
 RT-Extension-ArticleSubjectOverride:
   TSIBLEY: 1
 RT-Extension-ArticleTemplates:
-  ALEXMV: 1
+  BPS: 1
 RT-Extension-AssetSQL:
   BPS: 1
 RT-Extension-Assets-AppleGSX:
@@ -49149,7 +49190,7 @@ RT-Extension-QuickReassign:
 RT-Extension-QuickUpdate:
   ALEXMV: 1
 RT-Extension-QuoteSelection:
-  ALEXMV: 1
+  BPS: 1
 RT-Extension-RT2toRT3:
   FALCONE: 1
 RT-Extension-ReassignOwner:
@@ -49202,7 +49243,7 @@ RT-Extension-Tags:
 RT-Extension-TicketAging:
   RUZ: 1
 RT-Extension-TicketLocking:
-  ALEXMV: 1
+  BPS: 1
 RT-Extension-TicketPDF:
   WESAL: 1
 RT-Extension-TimeTracking:
@@ -51204,8 +51245,6 @@ Search-Elasticsearch:
   DRTECH: 1
 Search-Elasticsearch-Async:
   DRTECH: 1
-Search-Elasticsearch-Async-Simple:
-  DIONYS: 1
 Search-Elasticsearch-Client-0_90:
   DRTECH: 1
 Search-Elasticsearch-Client-0_90-Async:
@@ -51412,6 +51451,8 @@ SerialNumber-Sequence:
   CHUNZI: 1
 Server-Control:
   JSWARTZ: 1
+Server-Module-Comparison:
+  NEWELLC: 1
 Server-Starter:
   KAZUHO: 1
 ServiceNow-JSON:
@@ -51505,6 +51546,8 @@ Set-Relation:
 Set-Scalar:
   DAVIDO: 1
 Set-Similarity:
+  WOLLMERS: 1
+Set-Similarity-BV:
   WOLLMERS: 1
 Set-Similarity-CosinePDL:
   WOLLMERS: 1
@@ -52636,8 +52679,6 @@ Statistics-TheilSenEstimator:
   JIMI: 1
 Statistics-TopK:
   GRAY: 1
-Statistics-UIDList:
-  BAYASHI: 1
 Statistics-WeightedSelection:
   ALANVOSS: 1
 Statistics-Welford:
@@ -54404,6 +54445,8 @@ Tee:
   DAGOLDEN: 1
 Telegram-Bot:
   JUSTIN: 1
+Telegram-BotKit:
+  PAVELSR: 1
 Telephone-Lookup-Americom:
   SMALHOTRA: 1
 Telephone-Mnemonic-US:
@@ -55640,7 +55683,7 @@ Test-Excel:
 Test-Exception:
   EXODIST: 1
 Test-Exception-LessClever:
-  EXODIST: 1
+  ETHER: 1
 Test-Exec:
   PLICEASE: 1
 Test-Exim4-Routing:
@@ -61032,8 +61075,6 @@ WWW-Ebay:
   MTHURN: 1
 WWW-EchoNest:
   BSORAHAN: 1
-WWW-Eksi:
-  KYZN: 1
 WWW-Eksisozluk:
   KYZN: 1
 WWW-ErnestMarples:
@@ -61590,8 +61631,6 @@ WWW-REST:
   AUDREYT: 1
 WWW-REST-Apid:
   TLINDEN: 1
-WWW-REST-Simple:
-  BINJOY: 1
 WWW-RMDown:
   CODEBREAK: 1
 WWW-RSSFeed:
@@ -62216,8 +62255,6 @@ WWW-hmaip:
   SILLYMOOS: 1
 WWW-ipinfo:
   SILLYMOOS: 1
-WWW-jsonip:
-  BINJOY: 1
 WWW-phpBB:
   STEFANT: 1
 WWW-phpBB-Mod-Installer:
