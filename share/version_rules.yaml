@@ -18,7 +18,6 @@ float2dotted:
   Lingua-Phonology: 1
   Math-MatrixReal: 1
   Mojolicious-Plugin-Notifications: 1
-  Mojolicious-Plugin-Vparam: 1
   Net-Gandi: 1
   Net-Whois-Proxy: 1
   OWNet: 1
@@ -30,6 +29,7 @@ float2dotted:
   UAV-Pilot: 1
   WWW-GoodData: 1
   YAML-Old: 1
+  ZHOUYI: 1
   scriptname: 1
   simplexmlparse: 1
   zxid: 1
@@ -192,7 +192,6 @@ ignore:
   Config-Augeas-Exporter: 'mixed version style: 0.6 0.7 1.0.0'
   Config-DB: 'mixed version style: 0.0.1 0.0.2 0.1 0.2'
   Config-Files-Simple: 'mixed version style: 0.01 0.01.1 0.02'
-  Config-Model-Systemd: 'mixed version style: 0.007 0.231.1 0.231.2 0.231.3 0.232.1 0.232.2'
   Config-Objective: 'mixed version style: 0.5 0.6 0.7 0.8 0.9 0.9.1'
   Config-Simple: 'incorrect float version: 2.1 2.2 2.3 2.40 2.5 2.8 2.81 2.82 3.0 3.1 3.7 3.9 3.10 3.14 4.1 4.2 4.3 4.4 4.41 4.42 4.43 4.44 4.45 4.46 4.47 4.48 4.49 4.50 4.51 4.52 4.53 4.55 4.56 4.57 4.58'
   Contenticious: 'mixed version style: 0.333 0.35 0.35.1 0.36 0.37 0.38 0.39'
@@ -283,7 +282,7 @@ ignore:
   DigitalOcean: 'mixed version style: 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09 0.10 0.11 0.12 0.13 0.14 0.15 0.15.2 0.15.3 0.16 0.16.2'
   Disk-SMART: 'mixed version style: 0.08 0.09 0.10 0.11 0.12 0.13 0.14 0.15 0.15.1 0.16 0.17 0.18'
   Dist-Zilla-Plugin-ChangelogFromGit-CPAN-Changes: 'mixed version style: 0.0.10 0.0.11 0.0.12 0.0.13 0.0.14 0.0.15 0.106 0.107 0.108 0.109 0.110'
-  Dist-Zilla-Plugin-Hook: 'mixed version style: 0.006 0.007 0.8.0 0.8.1 0.8.2'
+  Dist-Zilla-Plugin-Hook: 'mixed version style: 0.006 0.007 0.8.0 0.8.1 0.8.2 0.8.3'
   Dist-Zilla-Plugin-InsertExample-FromMojoTemplates: 'mixed version style: 0.02.01 0.0301'
   Dist-Zilla-Plugin-Prereqs-MatchInstalled-All: 'mixed version style: 0.1.2 1.000000 1.001000'
   Dist-Zilla-Plugin-RunByBranch: 'mixed version style: 0.0.1 0.2 0.03 0.21 0.001 0.212 0.213 0.214'
@@ -372,8 +371,7 @@ ignore:
   Getopt-Casual: 'mixed version style: 0.06 0.10 0.13 0.13.1'
   Getopt-Complete: 'mixed version style: 0.03 0.4 0.5 0.9 0.10 0.11 0.13 0.14 0.17 0.20 0.22.0 0.23.0 0.24 0.25 0.26'
   Gftracks: 'mixed version style: 0.5 0.9 0.9.1'
-  Git-Hooks: 'mixed version style: 0.052 1.0.2 1.2.1 1.3.0 1.4.0 1.5.0 1.6.12 1.7.1 1.8.0 1.8.1 1.9.0 1.10.0 1.11.0 1.11.1 1.12.0 1.12.1 1.12.2 1.12.3 1.12.4 1.12.5 1.13.0 1.13.1 1.14.0 1.14.1'
-  Glib: 'incorrect float version: 1.312 1.313 1.314 1.308 1.320 1.321 1.322 1.323'
+  Git-Hooks: 'mixed version style: 0.052 1.0.2 1.2.1 1.3.0 1.4.0 1.5.0 1.6.12 1.7.1 1.8.0 1.8.1 1.9.0 1.10.0 1.11.0 1.11.1 1.12.0 1.12.1 1.12.2 1.12.3 1.12.4 1.12.5 1.13.0 1.13.1 1.14.0 1.14.1 1.14.2'
   Google-BigQuery: 'mixed version style: 1.00 1.0.1 1.02'
   Google-Checkout: 'mixed version style: 1.0 1.0.1 1.0.2 1.0.3 1.0.4 1.0.5 1.0.6 1.0.7 1.0.8 1.0.9 1.1.0 1.1.1'
   Graphics-ColorObject: 'unknown version style: 0.4a1 0.4a2 0.4a3 0.4a4 0.5.0'
@@ -440,7 +438,7 @@ ignore:
   LaTeX-Driver: 'mixed version style: 0.08 0.10 0.11 0.12 0.200.4 0.300.0 0.300.1 0.300.2'
   LaTeX-Encode: 'mixed version style: 0.07 0.08 0.091.6'
   LaTeXML-Plugin-latexmls: 'mixed version style: 1.4 1.4.1 1.4.2 1.4.3'
-  Language-l33t: 'mixed version style: 0.03 1.0.0'
+  Language-l33t: 'mixed version style: 0.03 1.0.0 1.0.1'
   Lazy-Bool: 'mixed version style: 0.01 0.02 0.03 0.04 0.04.1 0.05 0.05.1 0.06'
   LedgerSMB-API: 'unknown version style: 0.01 0.04a'
   Lemonldap-Config-Parameters: 'mixed version style: 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 1.00 1.01 1.02 1.03 2.00 2.01 3.0.0 3.1.0 3.1.1 3.2.0 3.2.1 3.2.2 3.2.3 3.2.4'
@@ -452,6 +450,7 @@ ignore:
   Lemonldap-Portal-Standard: 'mixed version style: 0.02 0.03 0.04 3.0.0 3.1.0 3.1.1 3.1.2 3.2.0 3.2.1'
   LibCAS: 'unknown version style: 0.02a'
   Lingua-Preferred: 'mixed version style: 0.1 0.1.1 0.2 0.2.1 0.2.2 0.2.4'
+  Lingua-Romana-Perligata: 'incorrect float version: 0.50 0.6 0.007 0.601'
   Lingua-SV-Numbers: 'mixed version style: 0.01 0.02 0.03 0.03.01 0.04'
   Lingua-Slavic-Numbers: 'unknown version style: 0.01 0.02-fixed 0.03'
   Linux-Fanotify: 'mixed version style: 1.1 1.1.1'
@@ -512,9 +511,10 @@ ignore:
   Mojolicious-Plugin-Authorization: 'mixed version style: 1.02 1.03 1.03.01 1.0301 1.03.02 1.04'
   Mojolicious-Plugin-BModel: 'incorrect float version: 0.02 0.011 0.012 0.021 0.03 0.04 0.05 0.06 0.07 0.08 0.09'
   Mojolicious-Plugin-I18N: 'mixed version style: 0.8 0.81 0.82 0.9 1.0 1.1 1.2 1.21 1.3 1.3.1 1.4 1.5 1.5.1 1.6'
+  Mojolicious-Plugin-Vparam: 'mixed version style: 0.3 0.4 0.5 0.6 0.7 0.8 1.0 1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 1.10 1.12 1.13 1.14 1.15 1.16 1.17 1.18 1.19 1.19.1'
   Money-ChangeMaker: 'mixed version style: 0.2 0.3.1'
   MongoDB-Async: 'mixed version style: 0.503.2 0.702 0.702.3'
-  Monitoring-GLPlugin: 'mixed version style: 1.3 1.4.1 1.4.1.1 1.4.2 1.4.2.1 1.4.2.2 2.0.10 2.0.18 2.1 2.1.2.1 2.1.2.2 2.1.3 2.2.0.1 2.3 2.3.0.1 2.3.0.2 2.3.1 2.3.2 2.3.2.1 2.3.2.2 2.3.3 2.3.3.1 2.3.4 2.3.5 2.3.6'
+  Monitoring-GLPlugin: 'mixed version style: 1.3 1.4.1 1.4.1.1 1.4.2 1.4.2.1 1.4.2.2 2.0.10 2.0.18 2.1 2.1.2.1 2.1.2.2 2.1.3 2.2.0.1 2.3 2.3.0.1 2.3.0.2 2.3.1 2.3.2 2.3.2.1 2.3.2.2 2.3.3 2.3.3.1 2.3.4 2.3.5 2.3.6 2.3.7'
   MooX-Log-Any: 'mixed version style: 0.001 0.0.2 0.003 0.003001 0.004000 0.004001 0.004002 0.004003 0.004004'
   MooseX-Attribute-Deflator: 'mixed version style: 1.130002 2.1.2 2.1.4 2.1.5 2.1.6 2.1.7 2.1.8 2.2.0 2.2.1 2.2.2'
   MooseX-AttributeIndexes: 'mixed version style: 1.0.2 1.0.3 2.000000'
@@ -667,6 +667,7 @@ ignore:
   SOAP-Lite: 'unknown version style: 0.60a 0.66 0.66.1 0.67 0.68 0.69 0.711 0.712 0.713 0.714 0.715 0.716 1.0 1.01 1.02 1.03 1.04 1.05 1.06 1.07 1.08 1.09 1.10 1.11 1.12 1.13 1.14 1.15 1.16 1.17 1.18 1.19 1.20'
   SOAP-MIME: 'unknown version style: 0.55-4 0.55-5 0.55-6 0.55-7'
   SQL-Easy: 'mixed version style: 0.05 0.06 0.07 1.0.0 1.0.1 2.0.0'
+  SQL-QueryBuilder-WebApi: 'mixed version style: 1.105 1.108 1.1.8'
   SSH-Command: 'mixed version style: 0.0.1 0.02 0.03 0.04 0.05 0.07'
   SVK: 'mixed version style: 1.08 2.0.0 2.0.1 2.0.2 2.2.0 2.2.1 2.2.2 2.2.3'
   SWF: 'unknown version style: 0.4.0-beta6_02'

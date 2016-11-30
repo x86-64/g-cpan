@@ -2,6 +2,7 @@
 '':
   582+: 1
   BMIDD: 1
+  HALLORAN: 1
   MICB: 1
   TIMB: 1
   os2: 1
@@ -623,6 +624,12 @@ Acme-CPANLists-Import-PerlAdvent-2013:
 Acme-CPANLists-Import-PerlAdvent-2014:
   PERLANCAR: 1
 Acme-CPANLists-Import-PerlAdvent-2015:
+  PERLANCAR: 1
+Acme-CPANLists-Import-PerlDancerAdvent-2010:
+  PERLANCAR: 1
+Acme-CPANLists-Import-PerlDancerAdvent-2011:
+  PERLANCAR: 1
+Acme-CPANLists-Import-PerlDancerAdvent-2012:
   PERLANCAR: 1
 Acme-CPANLists-Import-PerlDancerAdvent-2014:
   PERLANCAR: 1
@@ -1492,6 +1499,8 @@ Acme-Test-Buffy:
   MARKF: 1
 Acme-Test-DROLSKY:
   DROLSKY: 1
+Acme-Test-LogicalEquivalence:
+  CCM: 1
 Acme-Test-Pr0n:
   LLAP: 1
 Acme-Test-SameRelease:
@@ -2245,6 +2254,8 @@ Alien-SmokeQt:
   CBUREL: 1
 Alien-Sodium:
   AJGB: 1
+Alien-SwaggerUI:
+  PREACTION: 1
 Alien-TALib:
   VIKAS: 1
 Alien-Taco:
@@ -5469,6 +5480,8 @@ App-Video-Generator:
   SKIM: 1
 App-VirtPerl:
   CREIN: 1
+App-Virtualenv:
+  ORKUN: 1
 App-WIoZ:
   YVESAGO: 1
 App-WUPHF:
@@ -5900,6 +5913,8 @@ App-podweaver:
 App-powerdiff:
   POWERMAN: 1
 App-pretty:
+  PERLANCAR: 1
+App-progpatcher:
   PERLANCAR: 1
 App-prove4air:
   ROKR: 1
@@ -10361,6 +10376,8 @@ CHI-Driver-MemcachedFast:
   KITANO: 1
 CHI-Driver-MongoDB:
   HJANSEN: 1
+CHI-Driver-MySQL:
+  CRLCU: 1
 CHI-Driver-Ping:
   SWALTERS: 1
 CHI-Driver-Redis:
@@ -12713,7 +12730,7 @@ Catmandu-Inspire:
 Catmandu-LDAP:
   NICS: 1
 Catmandu-LIDO:
-  HOCHSTEN: 1
+  NETSENSEI: 1
 Catmandu-MAB2:
   JOROL: 1
 Catmandu-MARC:
@@ -15745,6 +15762,8 @@ D64-File-PRG:
   PAWELKROL: 1
 DAIA:
   VOJ: 1
+DAT-TimTen:
+  KAAVANNAN: 1
 DB-Appgen:
   AMALTSEV: 1
 DB-AsKVS:
@@ -17588,6 +17607,8 @@ Dancer2-Plugin-Auth-HTTP-Basic-DWIW:
   LITTLEFOX: 1
 Dancer2-Plugin-Auth-OAuth:
   BLOM: 1
+Dancer2-Plugin-Auth-SAFE:
+  KVENTIN: 1
 Dancer2-Plugin-Auth-Tiny:
   XSAWYERX: 1
 Dancer2-Plugin-Auth-YARBAC:
@@ -21652,7 +21673,7 @@ Dist-Zilla-Plugin-PrecomputeVariable:
 Dist-Zilla-Plugin-Preload:
   PERLANCAR: 1
 Dist-Zilla-Plugin-Prepender:
-  JQUELIN: 1
+  ETHER: 1
 Dist-Zilla-Plugin-Prereqs-AuthorDeps:
   DAGOLDEN: 1
 Dist-Zilla-Plugin-Prereqs-CheckCircular:
@@ -21959,6 +21980,8 @@ Dist-Zilla-PluginBundle-Author-BBYRD:
   BBYRD: 1
 Dist-Zilla-PluginBundle-Author-BLUEFEET:
   BLUEFEET: 1
+Dist-Zilla-PluginBundle-Author-CCM:
+  CCM: 1
 Dist-Zilla-PluginBundle-Author-CHIM:
   CHIM: 1
 Dist-Zilla-PluginBundle-Author-CJM:
@@ -22008,7 +22031,7 @@ Dist-Zilla-PluginBundle-Author-OALDERS:
 Dist-Zilla-PluginBundle-Author-OLIVER:
   OLIVER: 1
 Dist-Zilla-PluginBundle-Author-OpusVL:
-  NEWELLC: 1
+  ALTREUS: 1
 Dist-Zilla-PluginBundle-Author-PERLANCAR:
   PERLANCAR: 1
 Dist-Zilla-PluginBundle-Author-Plicease:
@@ -26409,6 +26432,8 @@ Geo-IP2Location:
   LOCATION: 1
 Geo-IP2Location-Lite:
   LEEJO: 1
+Geo-IP2Proxy:
+  LOCATION: 1
 Geo-IPfree:
   BRICAS: 1
 Geo-ISO19139:
@@ -27306,6 +27331,8 @@ Graphics-EPS:
   Graphics: 1
 Graphics-Framebuffer:
   RKELSCH: 1
+Graphics-GVG:
+  TMURRAY: 1
 Graphics-GnuplotIF:
   MEHNER: 1
 Graphics-GnuplotIF-Shortcut:
@@ -28685,7 +28712,7 @@ HTTP-Cookies-Find:
 HTTP-Cookies-Guess:
   YAPPO: 1
 HTTP-Cookies-Mozilla:
-  POLETTIX: 1
+  BDFOY: 1
 HTTP-Cookies-Omniweb:
   BDFOY: 1
 HTTP-Cookies-Opera:
@@ -33232,6 +33259,8 @@ Linux-Prctl:
   SEVEAS: 1
 Linux-Proc-Cpuinfo:
   HAGGAI: 1
+Linux-Proc-Maps:
+  CCM: 1
 Linux-Proc-Mountinfo:
   SALVA: 1
 Linux-Proc-Mounts:
@@ -33364,6 +33393,8 @@ List-Indexed:
   ARPADF: 1
 List-Intersperse:
   TAYERS: 1
+List-Lazy:
+  YANICK: 1
 List-MRU:
   GAVINC: 1
 List-Maker:
@@ -35096,7 +35127,7 @@ Mail-Cache:
 Mail-Centipaid:
   AELFAKIH: 1
 Mail-CheckUser:
-  ILYAM: 1
+  BBB: 1
 Mail-Chimp:
   DPIROTTE: 1
 Mail-Chimp2:
@@ -35737,13 +35768,13 @@ Math-BigApprox:
 Math-BigInt:
   PJACKLAM: 1
 Math-BigInt-Constant:
-  math: 1
+  PJACKLAM: 1
 Math-BigInt-FastCalc:
   PJACKLAM: 1
 Math-BigInt-GMP:
   PJACKLAM: 1
 Math-BigInt-Lite:
-  FLORA: 1
+  PJACKLAM: 1
 Math-BigInt-Named:
   math: 1
 Math-BigInt-Pari:
@@ -37560,6 +37591,8 @@ Mojo-FriendFeed:
   JBERGER: 1
 Mojo-IOLoop-ForkCall:
   JBERGER: 1
+Mojo-IOLoop-HoboProcess:
+  MARIOROY: 1
 Mojo-IOLoop-ProcBackground:
   BPMEDLEY: 1
 Mojo-IOLoop-ReadWriteFork:
@@ -38251,6 +38284,8 @@ Mojolicious-Plugin-RevealJS:
   JBERGER: 1
 Mojolicious-Plugin-ReverseProxy:
   OETIKER: 1
+Mojolicious-Plugin-Routes-Restful:
+  BYTEROCK: 1
 Mojolicious-Plugin-RoutesAuthDBI:
   MCHE: 1
 Mojolicious-Plugin-RussianPost:
@@ -40049,6 +40084,8 @@ Net-Azure-Authorization-SAS:
 Net-Azure-BlobService:
   LBROCARD: 1
 Net-Azure-EventHubs:
+  YTURTLE: 1
+Net-Azure-NotificationHubs:
   YTURTLE: 1
 Net-Azure-StorageClient:
   JUNNAMA: 1
@@ -42216,8 +42253,6 @@ Net-isoHunt:
   HAGGAI: 1
 Net-oRTP:
   NJH: 1
-Net-ppputil-xs:
-  ALEXE: 1
 Net-sFlow:
   ELISA: 1
 Net-uFTP:
@@ -48467,6 +48502,8 @@ QBit-Application-Model-RBAC-DB:
   MADSKILL: 1
 QBit-Application-Model-SendMail:
   MADSKILL: 1
+QBit-Base:
+  MADSKILL: 1
 QBit-Class:
   MADSKILL: 1
 QBit-Cron:
@@ -49144,7 +49181,7 @@ RT-Extension-MenubarSearches:
 RT-Extension-MenubarUserTickets:
   RT-Extension-MenubarUserTickets: 1
 RT-Extension-MergeUsers:
-  ALEXMV: 1
+  BPS: 1
 RT-Extension-MessageSizeLimit:
   ELACOUR: 1
 RT-Extension-MobileUI:
@@ -51751,6 +51788,8 @@ Silly-StringMaths:
   SKINGTON: 1
 Silly-Werder:
   CXREG: 1
+SilverGoldBull-API:
+  DBOYS: 1
 Sim:
   AGENT: 1
 Sim-OPT:
@@ -52323,6 +52362,8 @@ Spreadsheet-Excel2Text:
   HAVI: 1
 Spreadsheet-ExcelHashTable:
   SRINIPERL: 1
+Spreadsheet-GenerateXLSX:
+  NEILB: 1
 Spreadsheet-HTML:
   JEFFA: 1
 Spreadsheet-ParseExcel:
@@ -61587,6 +61628,8 @@ WWW-Pipeline:
   HOWARS: 1
 WWW-PivotalTracker:
   JHELWIG: 1
+WWW-Piwik-API:
+  HORNBURG: 1
 WWW-Pixelletter:
   RCL: 1
 WWW-PkgFind:
@@ -62664,6 +62707,8 @@ WebService-FC2-SpamAPI:
   FUJIWARA: 1
 WebService-Face:
   AASSAD: 1
+WebService-Fake:
+  POLETTIX: 1
 WebService-FaucetBOX:
   TRWWW: 1
 WebService-FileCloud:
@@ -62684,6 +62729,8 @@ WebService-FreeDB:
   RURBAN: 1
 WebService-Freebox:
   VADZ: 1
+WebService-Freesound:
+  ANDYCRAGG: 1
 WebService-Freshservice:
   TECHMAN: 1
 WebService-FritzBox:
@@ -63195,6 +63242,8 @@ WebService-Windows-LiveID-Auth:
   ZIGOROU: 1
 WebService-XING:
   GRAF: 1
+WebService-Xero:
+  LOCALSHOP: 1
 WebService-YQL:
   VIORELS: 1
 WebService-Yahoo-BOSS:
@@ -65838,6 +65887,8 @@ enum-prefix:
   ELECTRIC: 1
 eperl:
   RSE: 1
+eris:
+  BLHOTSKY: 1
 etext:
   etext: 1
 everywhere:
@@ -66654,8 +66705,6 @@ sybperl:
   MEWP: 1
 syntax:
   PHAYLON: 1
-sys:
-  ASKSH: 1
 tagged:
   THOGEE: 1
 tainting:
