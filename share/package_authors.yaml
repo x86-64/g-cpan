@@ -2,7 +2,6 @@
 '':
   582+: 1
   BMIDD: 1
-  HALLORAN: 1
   MICB: 1
   TIMB: 1
   os2: 1
@@ -1902,6 +1901,8 @@ Algorithm-LBFGS:
   LAYE: 1
 Algorithm-LCSS:
   JFREEMAN: 1
+Algorithm-LDA:
+  BTMCINNES: 1
 Algorithm-LUHN:
   NEILB: 1
 Algorithm-LatticePoints:
@@ -1944,6 +1945,8 @@ Algorithm-MinMax:
   DETZOLD: 1
 Algorithm-Munkres:
   TPEDERSE: 1
+Algorithm-NCS:
+  VLD: 1
 Algorithm-NGram:
   REVMISCHA: 1
 Algorithm-NaiveBayes:
@@ -4472,6 +4475,8 @@ App-Getconf:
   DOZZIE: 1
 App-GetoptLongDescriptiveUtils:
   PERLANCAR: 1
+App-GetoptLongMoreUtils:
+  PERLANCAR: 1
 App-GetoptLongSubcommandUtils:
   PERLANCAR: 1
 App-GetoptLongUtils:
@@ -6572,6 +6577,8 @@ Async-Selector:
   TOSHIOITO: 1
 Async-Util:
   WHITNEY: 1
+AsyncPing:
+  XINFWANG: 1
 Asynchat:
   SEBA: 1
 Asyncore:
@@ -8413,6 +8420,8 @@ Bot-IKCBot-Pluggable:
 Bot-IRC:
   GRYPHON: 1
 Bot-IRC-X-Dice:
+  GRYPHON: 1
+Bot-IRC-X-Feeds:
   GRYPHON: 1
 Bot-IRC-X-ManagementSpeak:
   GRYPHON: 1
@@ -10733,6 +10742,8 @@ CPAN-Test-Dummy-Perl5-VersionDeclare:
   MIYAGAWA: 1
 CPAN-Test-Dummy-Perl5-VersionQV:
   MIYAGAWA: 1
+CPAN-Test-Dummy-ProvidesDupe:
+  HAARG: 1
 CPAN-Test-Dummy-SCO-Lacks:
   SZABGAB: 1
 CPAN-Test-Dummy-SCO-Pirated:
@@ -12086,6 +12097,8 @@ Catalyst-Plugin-Params-Nested:
   BOBTFISH: 1
 Catalyst-Plugin-Params-Profile:
   MICHIEL: 1
+Catalyst-Plugin-Perlinfo:
+  ACCARDO: 1
 Catalyst-Plugin-PickComponents:
   FAYLAND: 1
 Catalyst-Plugin-Pluggable:
@@ -12807,6 +12820,8 @@ Catmandu-Zotero:
   HOCHSTEN: 1
 Cave-Wrapper:
   KENTNL: 1
+CelegansInteractome1:
+  HALLORAN: 1
 Cellular-Automata-Wolfram:
   JMFREEMAN: 1
 CentOS-Releases:
@@ -17639,6 +17654,8 @@ Dancer2-Plugin-Emailesque:
   Dancer: 1
 Dancer2-Plugin-EncryptID:
   SHARDIWAL: 1
+Dancer2-Plugin-Etcd:
+  HEXFUSION: 1
 Dancer2-Plugin-Feed:
   HOBBESTIG: 1
 Dancer2-Plugin-Flash:
@@ -19158,6 +19175,8 @@ Data-iRealPro:
   JV: 1
 DataCube:
   DAVEGMX: 1
+DataDist:
+  PERLANCAR: 1
 DataDog-DogStatsd:
   BINARY: 1
 DataExtract-FixedWidth:
@@ -20395,7 +20414,6 @@ Devel-TimeStats:
   CAFEGRATZ: 1
 Devel-Timer:
   MANWAR: 1
-  SZABGAB: 1
 Devel-Tinderbox-Reporter:
   MSCHWERN: 1
 Devel-Tinderclient:
@@ -25625,6 +25643,8 @@ Gallery-Remote:
   LOVELACE: 1
 Gallery-Remote-API:
   MYSTERYTE: 1
+Game-Asset:
+  TMURRAY: 1
 Game-Battleship:
   GENE: 1
 Game-Life:
@@ -25904,6 +25924,8 @@ Games-RailRoad:
   JQUELIN: 1
 Games-Ratings:
   BARTOLIN: 1
+Games-Ratings-LogisticElo:
+  MGV: 1
 Games-Rezrov:
   EDMONSON: 1
 Games-Risk:
@@ -26751,6 +26773,12 @@ Getopt-Long-Less:
   PERLANCAR: 1
 Getopt-Long-Modern:
   DBOOK: 1
+Getopt-Long-More:
+  PERLANCAR: 1
+Getopt-Long-More-Dump:
+  PERLANCAR: 1
+Getopt-Long-More-Util:
+  PERLANCAR: 1
 Getopt-Long-Negate-EN:
   PERLANCAR: 1
 Getopt-Long-Negate-ID:
@@ -28197,6 +28225,8 @@ HTML-Native:
   MCB: 1
 HTML-Normalize:
   HTML-Normalize: 1
+HTML-Notebook:
+  PABLROD: 1
 HTML-Obliterate:
   DMUEY: 1
 HTML-Packer:
@@ -30349,8 +30379,6 @@ Image-Magick-Square:
   LEOCHARRE: 1
 Image-Magick-Stencilize:
   LEOCHARRE: 1
-Image-Magick-Text-AutoBreak:
-  JAMADAM: 1
 Image-Magick-Thumbnail:
   LGODDARD: 1
 Image-Magick-Thumbnail-Fixed:
@@ -30673,8 +30701,6 @@ Inline-Perl6:
   NINE: 1
 Inline-Python:
   NINE: 1
-Inline-Rakudo:
-  SZABGAB: 1
 Inline-Ruby:
   SHLOMIF: 1
 Inline-Ruby-dRuby-Client:
@@ -30837,6 +30863,8 @@ JIRA-Client-REST:
   GPHAT: 1
 JIRA-REST:
   GNUSTAVO: 1
+JIRA-REST-Class:
+  PACKY: 1
 JKML:
   TOKUHIROM: 1
 JLogger:
@@ -30972,6 +31000,8 @@ JSON-RPC2-AnyEvent-Client:
   OKLAS: 1
 JSON-RPC2-AnyEvent-Server-PSGI:
   YANOTHER: 1
+JSON-RPC2-TwoWay:
+  WIEGEROP: 1
 JSON-ReadPath:
   MICVU: 1
 JSON-Relaxed:
@@ -31285,6 +31315,8 @@ Journal-ImpactFactor:
   LEPREVOST: 1
 Joystick:
   BDLILLEY: 1
+Jq:
+  INGY: 1
 Judy:
   JJORE: 1
 Juju:
@@ -31957,6 +31989,10 @@ LWP-UserAgent-Cache-Memcached:
   SHIRAIWA: 1
 LWP-UserAgent-Cached:
   OLEG: 1
+LWP-UserAgent-Caching:
+  VANHOESEL: 1
+LWP-UserAgent-Caching-Simple:
+  VANHOESEL: 1
 LWP-UserAgent-DNS-Hosts:
   MASAKI: 1
 LWP-UserAgent-Determined:
@@ -32812,6 +32848,8 @@ Lingua-Klingon-Segment:
   PNE: 1
 Lingua-LA-Stemmer:
   XERN: 1
+Lingua-LO-NLP:
+  MBETHKE: 1
 Lingua-LO-Romanize:
   JOKKE: 1
 Lingua-Lexicon-IDP:
@@ -35776,7 +35814,7 @@ Math-BigInt-GMP:
 Math-BigInt-Lite:
   PJACKLAM: 1
 Math-BigInt-Named:
-  math: 1
+  PJACKLAM: 1
 Math-BigInt-Pari:
   PJACKLAM: 1
 Math-BigInt-Parts:
@@ -37636,6 +37674,8 @@ Mojo-Phantom:
   JBERGER: 1
 Mojo-Pua:
   ALEXBYK: 1
+Mojo-RabbitMQ-Client:
+  SEBAPOD: 1
 Mojo-Reactor-Epoll:
   DBOOK: 1
 Mojo-Reactor-Glib:
@@ -37738,6 +37778,8 @@ MojoX-JSON-XS:
   CHGOVUK: 1
 MojoX-JSONRPC2-HTTP:
   POWERMAN: 1
+MojoX-LineStream:
+  WIEGEROP: 1
 MojoX-Log-Declare:
   CHGOVUK: 1
 MojoX-Log-Dispatch:
@@ -37966,6 +38008,8 @@ Mojolicious-Plugin-ConfigSimple:
   HESCO: 1
 Mojolicious-Plugin-ConsoleLogger:
   TEMPIRE: 1
+Mojolicious-Plugin-ContextResources:
+  RSHADOW: 1
 Mojolicious-Plugin-CountryDropDown:
   HJANSEN: 1
 Mojolicious-Plugin-Crypto:
@@ -38040,6 +38084,8 @@ Mojolicious-Plugin-FormFieldsFromJSON:
   RENEEB: 1
 Mojolicious-Plugin-FormFieldsFromJSON-Date:
   RENEEB: 1
+Mojolicious-Plugin-FormTamperingProtector:
+  JAMADAM: 1
 Mojolicious-Plugin-FormValidator:
   BPMEDLEY: 1
 Mojolicious-Plugin-FormValidatorLazy:
@@ -40083,6 +40129,8 @@ Net-Azure-Authorization-SAS:
   YTURTLE: 1
 Net-Azure-BlobService:
   LBROCARD: 1
+Net-Azure-CognitiveServices-Face:
+  YTURTLE: 1
 Net-Azure-EventHubs:
   YTURTLE: 1
 Net-Azure-NotificationHubs:
@@ -40202,6 +40250,8 @@ Net-Cisco-AccessList-Extended:
   OLIVER: 1
 Net-Cisco-ConfigGenerator:
   OVNTATAR: 1
+Net-Cisco-ISE:
+  BEATNIK: 1
 Net-Cisco-ObjectGroup:
   OLIVER: 1
 Net-Cisco-QualityAssurance:
@@ -41152,6 +41202,8 @@ Net-Mailboxlayer:
   THINC: 1
 Net-ManageSieve:
   SKA: 1
+Net-Marathon:
+  TYNOVSKY: 1
 Net-MarkLogic-XDBC:
   STUB: 1
 Net-MeasuringBandwidth:
@@ -45684,6 +45736,8 @@ Pcore-SQLite:
   ZDM: 1
 Pcore-Sphinx:
   ZDM: 1
+Pcore-WebDriver:
+  ZDM: 1
 Pcore-XMPP:
   ZDM: 1
 Peco-Container:
@@ -47685,7 +47739,7 @@ Pod-Section:
 Pod-Server:
   BEPPU: 1
 Pod-Simple:
-  MARCGREEN: 1
+  KHW: 1
 Pod-Simple-31337:
   CWEST: 1
 Pod-Simple-Data:
@@ -48130,6 +48184,8 @@ Prima-prigraph:
   KARASIK: 1
 PrimeTime-Report:
   YORKWU: 1
+PrimerMap:
+  HALLORAN: 1
 Primeval:
   ASG: 1
 Print-Indented:
@@ -49201,7 +49257,7 @@ RT-Extension-NotifyOwners:
 RT-Extension-OneClickClose:
   HOFSTETTM: 1
 RT-Extension-OneTimeTo:
-  ALEXMV: 1
+  BPS: 1
 RT-Extension-ParentTimeWorked:
   ALEXMV: 1
 RT-Extension-PermissiveHTMLMail:
@@ -53550,12 +53606,6 @@ Syntax-Highlight-CSS:
   ZOFFIX: 1
 Syntax-Highlight-Engine-Kate:
   SZABGAB: 1
-Syntax-Highlight-Engine-Simple:
-  JAMADAM: 1
-Syntax-Highlight-Engine-Simple-HTML:
-  JAMADAM: 1
-Syntax-Highlight-Engine-Simple-Perl:
-  JAMADAM: 1
 Syntax-Highlight-HTML:
   SAPER: 1
 Syntax-Highlight-JSON:
@@ -55220,7 +55270,7 @@ Term-Newt:
 Term-Pager:
   JAW: 1
 Term-ProgressBar:
-  SZABGAB: 1
+  MANWAR: 1
 Term-ProgressBar-Color:
   SHARYANTO: 1
 Term-ProgressBar-Quiet:
@@ -55856,6 +55906,8 @@ Test-Harness-Straps:
   MSCHWERN: 1
 Test-HasVersion:
   FERREIRA: 1
+Test-Health:
+  ARFREITAS: 1
 Test-Helper:
   JGLICK: 1
 Test-HexDifferences:
@@ -58278,8 +58330,6 @@ Tie-Coupler:
   UARUN: 1
 Tie-Cvs:
   AMBS: 1
-Tie-Cycle:
-  BDFOY: 1
 Tie-Cycle-Sinewave:
   DLAND: 1
 Tie-DBI:
@@ -61498,6 +61548,8 @@ WWW-MobileDevice:
   KIELSTR: 1
 WWW-Module:
   NWETTERS: 1
+WWW-ModulrFinance:
+  FAYLAND: 1
 WWW-Monitor:
   YARON: 1
 WWW-MovieReviews-NYT:
@@ -65227,7 +65279,6 @@ YAMC:
   APIOLI: 1
 YAML:
   INGY: 1
-  TINITA: 1
 YAML-Accessor:
   JANE: 1
 YAML-Active:
@@ -65292,6 +65343,8 @@ YAPE-Regex-Explain:
   GSULLIVAN: 1
 YARN:
   AOSSAMA: 1
+YASF:
+  RJRAY: 1
 YATG:
   OLIVER: 1
 YATT:
