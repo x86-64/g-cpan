@@ -97,3 +97,5 @@ rewrite:
      '0.0500': ~
   'Perl6-Export-Attrs':
      '0.0.3': ~
+  'Lingua-Romana-Perligata':
+     '0.007': ~

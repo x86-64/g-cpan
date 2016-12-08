@@ -293,6 +293,7 @@ sub _fix_version {
 	my $rules   = $self->parent->_version_rules;
 	
 	if($rules->{float2dotted}->{$package}){
+		$version =~ s/\.0+([1-9])/\.$1/sgi;
 		$version = sprintf("v%s.0", $version);
 		
 	}elsif($rules->{ignore}->{$package}){
