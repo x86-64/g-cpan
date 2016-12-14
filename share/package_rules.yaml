@@ -87,8 +87,6 @@ ExtUtils-Manifest:
 ExtUtils-ParseXS:
   category: virtual
   name: perl-ExtUtils-ParseXS
-ExtUtils-PkgConfig:
-  name: extutils-pkgconfig
 File-Fetch:
   category: virtual
   name: perl-File-Fetch

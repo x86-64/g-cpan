@@ -2351,6 +2351,10 @@ AlignDB-IntSpan:
   WANGQ: 1
 AlignDB-IntSpanXS:
   WANGQ: 1
+AlignDB-SQL:
+  WANGQ: 1
+AlignDB-Stopwatch:
+  WANGQ: 1
 Alister-Base-Sums:
   LEOCHARRE: 1
 AllKnowingDNS:
@@ -5155,6 +5159,8 @@ App-Rad-Plugin-ValuePriority:
   FCO: 1
 App-Randf:
   BAYASHI: 1
+App-Rangeops:
+  WANGQ: 1
 App-Raps2:
   DERF: 1
 App-Rcsync:
@@ -5194,6 +5200,8 @@ App-RewriteVersion:
   DBOOK: 1
 App-Ringleader:
   YANICK: 1
+App-RoboBot:
+  JSIME: 1
 App-Rssfilter:
   DGHOLZ: 1
 App-RunCron:
@@ -5559,6 +5567,8 @@ App-aptperl:
   IVANWILLS: 1
 App-assh:
   DBR: 1
+App-audioinfo:
+  PERLANCAR: 1
 App-autotest:
   GGOLDBACH: 1
 App-bk:
@@ -7516,6 +7526,8 @@ Bencher-Scenario-EnsuringAllPatternsInString:
   PERLANCAR: 1
 Bencher-Scenario-GamesWordlistModules:
   PERLANCAR: 1
+Bencher-Scenario-GetoptLongSpecParsing:
+  PERLANCAR: 1
 Bencher-Scenario-GetoptModules:
   PERLANCAR: 1
 Bencher-Scenario-GraphTopologicalSortModules:
@@ -7605,6 +7617,8 @@ Bencher-Scenarios-ArchiveTarModules:
 Bencher-Scenarios-ArraySet:
   PERLANCAR: 1
 Bencher-Scenarios-Bencher:
+  PERLANCAR: 1
+Bencher-Scenarios-CBlocks:
   PERLANCAR: 1
 Bencher-Scenarios-CPANInstallers:
   PERLANCAR: 1
@@ -7703,6 +7717,8 @@ Bencher-Scenarios-RegexpPattern:
 Bencher-Scenarios-RoleTinyCommonsTree:
   PERLANCAR: 1
 Bencher-Scenarios-ShellGuess:
+  PERLANCAR: 1
+Bencher-Scenarios-SortSub:
   PERLANCAR: 1
 Bencher-Scenarios-TextANSIUtil:
   PERLANCAR: 1
@@ -8231,6 +8247,8 @@ Book-Chinese-MasterPerlToday:
   FAYLAND: 1
 Bookmarks-Parser:
   COSIMO: 1
+Boolean-Converter:
+  KARUPA: 1
 Boolean-String:
   EVERYBODY: 1
 Boost-Geometry-Utils:
@@ -12794,6 +12812,8 @@ Catmandu-Store-CHI:
   HOCHSTEN: 1
 Catmandu-Store-CouchDB:
   NICS: 1
+Catmandu-Store-Datahub:
+  NETSENSEI: 1
 Catmandu-Store-Elasticsearch:
   NICS: 1
 Catmandu-Store-Lucy:
@@ -15497,6 +15517,8 @@ Crypt-Password-Util:
   PERLANCAR: 1
 Crypt-PerfectPaperPasswords:
   ANDYA: 1
+Crypt-Perl:
+  FELIPE: 1
 Crypt-Polybius:
   TOBYINK: 1
 Crypt-Present:
@@ -15631,8 +15653,6 @@ Crypt-TEA_PP:
   JAHIY: 1
 Crypt-TEA_XS:
   JAHIY: 1
-Crypt-Tea:
-  PJB: 1
 Crypt-Tea_JS:
   PJB: 1
 Crypt-Trifid:
@@ -16502,6 +16522,8 @@ DBIx-DataModel:
   DAMI: 1
 DBIx-DataSource:
   IVAN: 1
+DBIx-DataStore:
+  JSIME: 1
 DBIx-Delta:
   GAVINC: 1
 DBIx-Deployer:
@@ -17698,6 +17720,8 @@ Dancer2-Plugin-PageHistory:
   SYSPETE: 1
 Dancer2-Plugin-ParamKeywords:
   CAMSPI: 1
+Dancer2-Plugin-ParamTypes:
+  XSAWYERX: 1
 Dancer2-Plugin-Passphrase:
   SYSPETE: 1
 Dancer2-Plugin-Path-Class:
@@ -18927,6 +18951,8 @@ Data-Table:
   EZDB: 1
 Data-Table-Excel:
   EZDB: 1
+Data-Table-Text:
+  PRBRENAN: 1
 Data-TableAutoSum:
   BIGJ: 1
 Data-Tabular:
@@ -20536,8 +20562,6 @@ Device-BusPirate:
   PEVANS: 1
 Device-BusPirate-Chip-AVR_HVSP:
   PEVANS: 1
-Device-BusPirate-Chip-nRF24L01P:
-  PEVANS: 1
 Device-CableModem-Motorola-SB4200:
   BURAK: 1
 Device-CableModem-SURFboard:
@@ -20581,6 +20605,8 @@ Device-Chip-SDCard:
 Device-Chip-SSD1306:
   PEVANS: 1
 Device-Chip-TSL256x:
+  PEVANS: 1
+Device-Chip-nRF24L01P:
   PEVANS: 1
 Device-Conrad-RelaisControl:
   NOHA: 1
@@ -20802,6 +20828,8 @@ Device-WS2500PC:
   SAMLOWRIE: 1
 Device-WWN:
   JASONK: 1
+Device-WallyHome:
+  CJHAMIL: 1
 Device-WebIO:
   TMURRAY: 1
 Device-WebIO-Dancer:
@@ -21154,6 +21182,8 @@ Dist-Util:
   PERLANCAR: 1
 Dist-Zilla:
   RJBS: 1
+Dist-Zilla-App-Command-Authordebs:
+  DDUMONT: 1
 Dist-Zilla-App-Command-aliendeps:
   PLICEASE: 1
 Dist-Zilla-App-Command-bakeini:
@@ -22176,6 +22206,8 @@ Dist-Zilla-PluginBundle-SCHWIGON:
   SCHWIGON: 1
 Dist-Zilla-PluginBundle-SHANTANU:
   SHANTANU: 1
+Dist-Zilla-PluginBundle-SHLOMIF:
+  SHLOMIF: 1
 Dist-Zilla-PluginBundle-SILEX:
   KEEDI: 1
 Dist-Zilla-PluginBundle-Starter:
@@ -24639,7 +24671,7 @@ Filesys-DiskFree:
 Filesys-DiskSpace:
   FTASSIN: 1
 Filesys-DiskUsage:
-  SZABGAB: 1
+  MANWAR: 1
 Filesys-DiskUsage-Fast:
   RYOCHIN: 1
 Filesys-Ext2:
@@ -26259,7 +26291,6 @@ Geo-Coder-HostIP:
 Geo-Coder-Ja:
   JIRO: 1
 Geo-Coder-Many:
-  EDF: 1
   KAORU: 1
 Geo-Coder-Mappy:
   GRAY: 1
@@ -31301,6 +31332,8 @@ Job-Machine:
   KAARE: 1
 Job-Manager:
   TEX: 1
+JobCenter-Client-Mojo:
+  WIEGEROP: 1
 John-Doe:
   WOLLMERS: 1
 JomonTest:
@@ -36217,6 +36250,8 @@ Math-Project3D:
   SMUELLER: 1
 Math-Project3D-Plot:
   SMUELLER: 1
+Math-ProvablePrime:
+  FELIPE: 1
 Math-Quaternion:
   JCHIN: 1
 Math-RNG-Microsoft:
@@ -36884,7 +36919,6 @@ Minecraft-SectionFilter:
 MiniPAN:
   LEV: 1
 Minilla:
-  SYOHEX: 1
   TOKUHIROM: 1
 Minion:
   SRI: 1
@@ -37635,6 +37669,8 @@ Mojo-IOLoop-ProcBackground:
   BPMEDLEY: 1
 Mojo-IOLoop-ReadWriteFork:
   JHTHORSEN: 1
+Mojo-IOLoop-Signal:
+  SKAJI: 1
 Mojo-IOLoop-Subprocess-Sereal:
   DBOOK: 1
 Mojo-IOLoop-Tail:
@@ -37780,6 +37816,8 @@ MojoX-JSONRPC2-HTTP:
   POWERMAN: 1
 MojoX-LineStream:
   WIEGEROP: 1
+MojoX-Log-Any:
+  JJATRIA: 1
 MojoX-Log-Declare:
   CHGOVUK: 1
 MojoX-Log-Dispatch:
@@ -37888,6 +37926,10 @@ Mojolicious-Command-generate-lexicont:
   DOKECHIN: 1
 Mojolicious-Command-generate-qx_mojo_app:
   OETIKER: 1
+Mojolicious-Command-generate-routes_restsful:
+  BYTEROCK: 1
+Mojolicious-Command-generate-routes_restsful_just_routes:
+  BYTEROCK: 1
 Mojolicious-Command-generate-upstart:
   SADAMS: 1
 Mojolicious-Command-listdeps:
@@ -38541,6 +38583,8 @@ Monitis:
   YKO: 1
 MonitisMonitorManager:
   DANFRU: 1
+Monitor-MetricsAPI:
+  JSIME: 1
 Monitor-Simple:
   TULSOFT: 1
 Monitoring-Availability:
@@ -41186,6 +41230,8 @@ Net-MQTT:
   BEANZ: 1
 Net-MQTT-Simple:
   JUERD: 1
+Net-MQTT-Simple-Auth:
+  KRENZKE: 1
 Net-MRIM:
   MRIM: 1
 Net-MRT:
@@ -42938,6 +42984,8 @@ Object-Generic-Session:
   JMAHONEY: 1
 Object-GlobalContainer:
   AHERNIT: 1
+Object-HashBase:
+  EXODIST: 1
 Object-Hybrid:
   METADOO: 1
 Object-I18n:
@@ -47226,6 +47274,8 @@ Plack-Middleware-Profiler-KYTProf:
   KITANO: 1
 Plack-Middleware-Profiler-NYTProf:
   KITANO: 1
+Plack-Middleware-Prometheus-RequestTimes:
+  NEWELLC: 1
 Plack-Middleware-Proxy-ByHeader:
   MDOM: 1
 Plack-Middleware-Proxy-Connect-IO:
@@ -47926,6 +47976,8 @@ Pod-Weaver-Section-CommentString:
   MILSO: 1
 Pod-Weaver-Section-Completion-GetoptLongComplete:
   PERLANCAR: 1
+Pod-Weaver-Section-Completion-GetoptLongMore:
+  PERLANCAR: 1
 Pod-Weaver-Section-Completion-GetoptLongSubcommand:
   PERLANCAR: 1
 Pod-Weaver-Section-Completion-PerinciCmdLine:
@@ -48563,6 +48615,10 @@ QBit-Base:
 QBit-Class:
   MADSKILL: 1
 QBit-Cron:
+  MADSKILL: 1
+QBit-GraphViz:
+  MADSKILL: 1
+QBit-QueryData:
   MADSKILL: 1
 QBit-TimeLog:
   MADSKILL: 1
@@ -51056,6 +51112,8 @@ Sah-Schemas:
   PERLANCAR: 1
 Sah-Schemas-CPANMeta:
   PERLANCAR: 1
+Sah-Schemas-Collection:
+  PERLANCAR: 1
 Sah-Schemas-DefHash:
   PERLANCAR: 1
 Sah-Schemas-Examples:
@@ -52804,6 +52862,8 @@ Stenciller-Plugin-ToMojoliciousTest:
   CSSON: 1
 Stepford:
   MAXMIND: 1
+Stepford-Grapher:
+  MAXMIND: 1
 Stlgen:
   GSLONDON: 1
 Storable:
@@ -53092,6 +53152,8 @@ String-RexxParse:
   BLCKSMTH: 1
 String-RexxStack:
   IOANNIS: 1
+String-SQLColumnName:
+  SCESANO: 1
 String-Scanf:
   JHI: 1
 String-Sections:
@@ -53380,6 +53442,8 @@ Sub-Prototype:
   FLORA: 1
 Sub-Prototype-Util:
   VPIT: 1
+Sub-Quote:
+  HAARG: 1
 Sub-Quotelike:
   RGARCIA: 1
 Sub-Rate:
@@ -54420,8 +54484,6 @@ Task-Padre-Plugin-Deps:
   FAYLAND: 1
 Task-Padre-Plugins:
   FAYLAND: 1
-Task-Parrot:
-  COKE: 1
 Task-Perl-Critic:
   THALJEF: 1
 Task-Perl-Critic-IncludingOptionalDependencies:
@@ -55422,6 +55484,8 @@ Test-Able:
   JDV: 1
 Test-Able-Runner:
   HANENKAMP: 1
+Test-Abortable:
+  RJBS: 1
 Test-AbstractMethod:
   CLAESJAC: 1
 Test-AgainstSchema:
@@ -57528,6 +57592,8 @@ Text-PO-Parser:
   CYPLP: 1
 Text-PORE:
   ZTANG: 1
+Text-PRN-Slurp:
+  SHARDIWAL: 1
 Text-PSP:
   JDIEPEN: 1
 Text-Padding:
@@ -59757,6 +59823,8 @@ Twiggy-TLS:
   UNDEF: 1
 Twiki-Upload:
   modules: 1
+Twitter-API:
+  MMIMS: 1
 Twitter-Badge:
   ARUL: 1
 Twitter-Daily:
@@ -64251,8 +64319,6 @@ XAS-Spooler:
   KESTEB: 1
 XAS-Supervisor:
   KESTEB: 1
-XBRL:
-  MGANNON: 1
 XBRL-JPFR:
   YONJOUHAN: 1
 XCAP-Client:
@@ -66066,7 +66132,7 @@ i18n:
 i2c:
   IGERLACH: 1
 iCal-Parser:
-  RFRANKEL: 1
+  RIXED: 1
 iCal-Parser-HTML:
   RFRANKEL: 1
 iCal-Parser-SAX:
