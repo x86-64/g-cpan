@@ -70,5 +70,6 @@ no_sep:
   '^WWW-TMDB-API(?=\d)': 1
   '^XMS-MotifSet(?=v?\d)': 1
   '^zfilter(?=\d)': 1
+  '^CelegansInteractome(?=\d)': 1
 custom_version:
   '(?<package>HTTP-Webdav)-[\d.]+-(?<version>[\d.]+)': 1
