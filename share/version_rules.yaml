@@ -16,7 +16,6 @@ float2dotted:
   Jifty-Plugin-Authentication-CAS: 1
   Jifty-Plugin-Authentication-Ldap: 1
   Lingua-Phonology: 1
-  MD5Check: 1
   Math-MatrixReal: 1
   Mojolicious-Plugin-Notifications: 1
   Net-Gandi: 1
@@ -30,7 +29,6 @@ float2dotted:
   UAV-Pilot: 1
   WWW-GoodData: 1
   YAML-Old: 1
-  ZHOUYI: 1
   scriptname: 1
   simplexmlparse: 1
   zxid: 1
@@ -105,7 +103,7 @@ ignore:
   App-filewatch: 'mixed version style: 0.0.2 0.0.3 0.004'
   Argon: 'mixed version style: 0.01 0.02 0.02.1 0.03 0.04 0.05 0.06 0.06.1 0.07 0.08 0.09 0.10 0.11 0.12 0.13 0.14 0.15 0.16'
   Array-Columnize: 'mixed version style: 0.3.7 0.3.9 0.4.1 0.4.2 1.01 1.02 1.04'
-  Array-Compare: 'mixed version style: 1.18 2.12 2.12.1 2.12.2 3.0.0'
+  Array-Compare: 'mixed version style: 1.18 2.12.2 3.0.0'
   AsposeWordsCloud-WordsApi: 'mixed version style: 1.00 1.0.1'
   Astro-ADS: 'mixed version style: 1.25.1 1.26'
   Astro-Aladin: 'mixed version style: 2.0 2.0.1 2.0.2'
@@ -124,7 +122,6 @@ ignore:
   AudioFile-Info-MP3-Tag: 'mixed version style: 1.06 1.6.1'
   AudioFile-Info-Ogg-Vorbis-Header: 'mixed version style: 1.08 1.8.1'
   AuthCAS: 'mixed version style: 1.1 1.3 1.3.1 1.3.3 1.4 1.4.1 1.5 1.6 1.7'
-  Authen-Radius: 'mixed version style: 0.24 0.25 0.25.1 0.26'
   BGPmon-Analytics-db: 'unknown version style: 1-07'
   BGPmon-Archiver: 'unknown version style: 1-04 2-10'
   BGPmon-CPM: 'unknown version style: 1-03'
@@ -270,6 +267,7 @@ ignore:
   Data-SpreadPagination: 'mixed version style: 0.1 0.1.1 0.1.2'
   Data-Table: 'unknown version style: 1.16 1.17 1.19 1.20 1.21 1.22 1.23 1.24 1.25 1.27 1.28 1.29 1.31 1.32 1.33 1.34 1.36 1.39 1.40 1.41 1.42 1.43 1.44 1.45 1.46 1.47 1.49 1.50 1.51 1.52 1.53 1.54 1.58_v4 1.59 1.60 1.62 1.63 1.67 1.68 1.69 1.70 1.71 1.72 1.73 1.74 1.75'
   Database-Schema-Config: 'unknown version style: .02'
+  Date-Advent: 'unknown version style: 1.20160727 1.20161219 1.20161220 1.20161220b 1.20161221'
   Date-Holidays-DE: 'mixed version style: 1.0.2 1.1 1.2 1.3.1 1.4 1.5 1.6 1.7 1.8.3 1.9'
   Date-Holidays-RU: 'unknown version style: 0.01 0.02 0.02_link 0.02.1 0.03 0.03.1 0.04 1.2016.0 1.2017.0'
   DateTime-Event-Holiday-US: 'incorrect float version: 1.00 0.02'
@@ -286,6 +284,7 @@ ignore:
   Device-Jtag-USB-FTCJTAG: 'unknown version style: 0.12 0.12b'
   Device-Modem-SMSModem: 'mixed version style: 0.1 0.1.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.10 0.9'
   Device-WS2500PC: 'unknown version style: 0.99b'
+  Device-WallyHome: 'mixed version style: 0.01 0.02 0.21.2 0.21.3'
   Digest-Whirlpool: 'mixed version style: 1.09 1.0.9 1.0.10 2.00 2.01 2.02 2.03 2.04'
   DigitalOcean: 'mixed version style: 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09 0.10 0.11 0.12 0.13 0.14 0.15 0.15.2 0.15.3 0.16 0.16.2'
   Disk-SMART: 'mixed version style: 0.08 0.09 0.10 0.11 0.12 0.13 0.14 0.15 0.15.1 0.16 0.17 0.18'
@@ -368,7 +367,7 @@ ignore:
   Gentoo-MetaEbuild-Spec-Base: 'mixed version style: 0.1.4 1.000000 1.000001'
   Gentoo-Overlay-Group: 'mixed version style: 0.1.0 0.2.0 1.000000'
   Geo-Coder-GoogleMaps: 'mixed version style: 0.1 0.12 0.2 0.3 0.3.1 0.3.2 0.4'
-  Geo-Coder-Many: 'unknown version style: 0.28 0.46-5'
+  Geo-Coder-Many: 'unknown version style: 0.46-5'
   Geo-GDAL: 'unknown version style: 0.11 0.22 1.90 1.992d1 1.9921a 2.00004 2.00019 2.0100 2.010001 2.010002 2.010004'
   Geo-Heatmap: 'mixed version style: 0.05 0.06 0.07 0.16.1 0.17 0.18'
   Geo-IP2Location: 'mixed version style: 1.00 1.10 1.20 1.30 2.00 2.10 4.00 7.00 5.01 5.01.0 7.00.0 8.00 8.01 8.02 8.03'
@@ -450,10 +449,10 @@ ignore:
   LedgerSMB-API: 'unknown version style: 0.01 0.04a'
   Lemonldap-Config-Parameters: 'mixed version style: 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 1.00 1.01 1.02 1.03 2.00 2.01 3.0.0 3.1.0 3.1.1 3.2.0 3.2.1 3.2.2 3.2.3 3.2.4'
   Lemonldap-Handlers-Generic: 'mixed version style: 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09 0.10 0.11 0.12 0.13 0.14 0.15 1.00 1.01 1.02 2.00 2.01 2.02 3.0.0 3.1.0 3.1.1 3.1.2 3.2.0 3.3.0 3.4.0 3.5.0 3.5.1 3.5.2 3.5.3 3.5.4 3.5.5 3.5.6 3.5.7 3.5.8'
-  Lemonldap-NG-Common: 'incorrect dotted version: 1.0.2 1.0.3 1.0.4 1.0.5 1.0.6 1.1.0 1.1.1 1.1.2 1.2.0 1.2.1 1.2.2 1.2.3 1.2.4 1.2.5 1.3.0 1.3.1 1.3.2 1.3.3 1.4.0 1.4.1 1.4.2 1.4.3 1.4.4 1.4.5 1.4.6 1.9.0 1.4.7 1.9.1 1.4.8 1.9.2 1.4.9 1.9.3 1.9.4 1.4.10 1.9.5 1.4.11 1.9.6'
-  Lemonldap-NG-Handler: 'incorrect dotted version: 1.0.2 1.0.3 1.0.4 1.0.5 1.0.6 1.1.0 1.1.1 1.1.2 1.2.0 1.2.1 1.2.2 1.2.3 1.2.4 1.2.5 1.3.0 1.3.1 1.3.2 1.3.3 1.4.0 1.4.1 1.4.2 1.4.3 1.4.4 1.4.5 1.4.6 1.9.0 1.4.7 1.9.1 1.4.8 1.9.2 1.4.9 1.9.3 1.9.4 1.4.10 1.9.5 1.4.11 1.9.6'
-  Lemonldap-NG-Manager: 'incorrect dotted version: 1.0.2 1.0.3 1.0.4 1.0.5 1.0.6 1.1.0 1.1.1 1.1.2 1.2.0 1.2.1 1.2.2 1.2.3 1.2.4 1.2.5 1.3.0 1.3.1 1.3.2 1.3.3 1.4.0 1.4.1 1.4.2 1.4.3 1.4.4 1.4.5 1.4.6 1.9.0 1.4.7 1.9.1 1.4.8 1.9.2 1.4.9 1.9.3 1.9.4 1.4.10 1.9.5 1.4.11 1.9.6'
-  Lemonldap-NG-Portal: 'incorrect dotted version: 1.0.2 1.0.3 1.0.4 1.0.5 1.0.6 1.1.0 1.1.1 1.1.2 1.2.0 1.2.1 1.2.2 1.2.3 1.2.4 1.2.5 1.3.0 1.3.1 1.3.2 1.3.3 1.4.0 1.4.1 1.4.2 1.4.3 1.4.4 1.4.5 1.4.6 1.9.0 1.4.7 1.9.1 1.4.8 1.9.2 1.4.9 1.9.3 1.9.4 1.4.10 1.9.5 1.4.11 1.9.6'
+  Lemonldap-NG-Common: 'incorrect dotted version: 1.0.2 1.0.3 1.0.4 1.0.5 1.0.6 1.1.0 1.1.1 1.1.2 1.2.0 1.2.1 1.2.2 1.2.3 1.2.4 1.2.5 1.3.0 1.3.1 1.3.2 1.3.3 1.4.0 1.4.1 1.4.2 1.4.3 1.4.4 1.4.5 1.4.6 1.9.0 1.4.7 1.9.1 1.4.8 1.9.2 1.4.9 1.9.3 1.9.4 1.4.10 1.9.5 1.4.11 1.9.6 1.9.7'
+  Lemonldap-NG-Handler: 'incorrect dotted version: 1.0.2 1.0.3 1.0.4 1.0.5 1.0.6 1.1.0 1.1.1 1.1.2 1.2.0 1.2.1 1.2.2 1.2.3 1.2.4 1.2.5 1.3.0 1.3.1 1.3.2 1.3.3 1.4.0 1.4.1 1.4.2 1.4.3 1.4.4 1.4.5 1.4.6 1.9.0 1.4.7 1.9.1 1.4.8 1.9.2 1.4.9 1.9.3 1.9.4 1.4.10 1.9.5 1.4.11 1.9.6 1.9.7'
+  Lemonldap-NG-Manager: 'incorrect dotted version: 1.0.2 1.0.3 1.0.4 1.0.5 1.0.6 1.1.0 1.1.1 1.1.2 1.2.0 1.2.1 1.2.2 1.2.3 1.2.4 1.2.5 1.3.0 1.3.1 1.3.2 1.3.3 1.4.0 1.4.1 1.4.2 1.4.3 1.4.4 1.4.5 1.4.6 1.9.0 1.4.7 1.9.1 1.4.8 1.9.2 1.4.9 1.9.3 1.9.4 1.4.10 1.9.5 1.4.11 1.9.6 1.9.7'
+  Lemonldap-NG-Portal: 'incorrect dotted version: 1.0.2 1.0.3 1.0.4 1.0.5 1.0.6 1.1.0 1.1.1 1.1.2 1.2.0 1.2.1 1.2.2 1.2.3 1.2.4 1.2.5 1.3.0 1.3.1 1.3.2 1.3.3 1.4.0 1.4.1 1.4.2 1.4.3 1.4.4 1.4.5 1.4.6 1.9.0 1.4.7 1.9.1 1.4.8 1.9.2 1.4.9 1.9.3 1.9.4 1.4.10 1.9.5 1.4.11 1.9.6 1.9.7'
   Lemonldap-Portal-Standard: 'mixed version style: 0.02 0.03 0.04 3.0.0 3.1.0 3.1.1 3.1.2 3.2.0 3.2.1'
   LibCAS: 'unknown version style: 0.02a'
   Lingua-Preferred: 'mixed version style: 0.1 0.1.1 0.2 0.2.1 0.2.2 0.2.4'
@@ -516,7 +515,7 @@ ignore:
   Mojolicious-Plugin-Authorization: 'mixed version style: 1.02 1.03 1.03.01 1.0301 1.03.02 1.04'
   Mojolicious-Plugin-BModel: 'incorrect float version: 0.02 0.011 0.012 0.021 0.03 0.04 0.05 0.06 0.07 0.08 0.09'
   Mojolicious-Plugin-I18N: 'mixed version style: 0.8 0.81 0.82 0.9 1.0 1.1 1.2 1.21 1.3 1.3.1 1.4 1.5 1.5.1 1.6'
-  Mojolicious-Plugin-Vparam: 'mixed version style: 0.3 0.4 0.5 0.6 0.7 0.8 1.0 1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 1.10 1.12 1.13 1.14 1.15 1.16 1.17 1.18 1.19 1.19.1 1.20 2.00 2.01 2.02'
+  Mojolicious-Plugin-Vparam: 'mixed version style: 0.3 0.4 0.5 0.6 0.7 0.8 1.0 1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 1.10 1.12 1.13 1.14 1.15 1.16 1.17 1.18 1.19 1.19.1 1.20 2.00 2.01 2.02 2.03'
   Money-ChangeMaker: 'mixed version style: 0.2 0.3.1'
   MongoDB-Async: 'mixed version style: 0.503.2 0.702 0.702.3'
   Monitoring-GLPlugin: 'mixed version style: 1.3 1.4.1 1.4.1.1 1.4.2 1.4.2.1 1.4.2.2 2.0.10 2.0.18 2.1 2.1.2.1 2.1.2.2 2.1.3 2.2.0.1 2.3 2.3.0.1 2.3.0.2 2.3.1 2.3.2 2.3.2.1 2.3.2.2 2.3.3 2.3.3.1 2.3.4 2.3.5 2.3.6 2.3.7'
