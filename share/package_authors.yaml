@@ -592,6 +592,8 @@ Acme-CPANLists-Import-NEILB:
   PERLANCAR: 1
 Acme-CPANLists-Import-PERLANCAR-Advent-2014:
   PERLANCAR: 1
+Acme-CPANLists-Import-PERLANCAR-GetoptModules:
+  PERLANCAR: 1
 Acme-CPANLists-Import-PerlAdvent-2000:
   PERLANCAR: 1
 Acme-CPANLists-Import-PerlAdvent-2001:
@@ -2093,6 +2095,8 @@ Alien-Chipmunk:
   JTPALMER: 1
 Alien-CodePress:
   ASKSH: 1
+Alien-DBD-SQLite-BundledExtensions:
+  SIMCOP: 1
 Alien-DDC-Concordance:
   MOOCOW: 1
 Alien-Debian-Apt-PM:
@@ -4471,6 +4475,8 @@ App-GamesWordlist:
   PERLANCAR: 1
 App-GenBashCompleter:
   PERLANCAR: 1
+App-GenModEmbedder:
+  PERLANCAR: 1
 App-GenPericmdCompleterScript:
   PERLANCAR: 1
 App-GenPericmdScript:
@@ -5767,6 +5773,8 @@ App-lcpan-CmdBundle-core_or_pp:
   PERLANCAR: 1
 App-lcpan-CmdBundle-cpanlists:
   PERLANCAR: 1
+App-lcpan-CmdBundle-deps:
+  PERLANCAR: 1
 App-lcpan-CmdBundle-dzil:
   PERLANCAR: 1
 App-lcpan-CmdBundle-files:
@@ -6052,6 +6060,8 @@ App-todoist:
 App-tonematch:
   WLMB: 1
 App-tracepm:
+  PERLANCAR: 1
+App-trash-u:
   PERLANCAR: 1
 App-tt:
   JHTHORSEN: 1
@@ -6894,6 +6904,8 @@ Aut:
   OESTERHOL: 1
 Aut-UI-Wx:
   OESTERHOL: 1
+Auth-ActiveDirectory:
+  MZIESCHA: 1
 Auth-GoogleAuth:
   GRYPHON: 1
 Auth-GoogleAuthenticator:
@@ -7160,6 +7172,8 @@ B-CallChecker:
   ZEFRAM: 1
 B-CodeLines:
   ROCKY: 1
+B-CompilerPhase-Hook:
+  STEVAN: 1
 B-Compiling:
   FLORA: 1
 B-ConstOptree:
@@ -7493,6 +7507,8 @@ Be-Query:
 Beagle:
   SUNNAVY: 1
 Beam-Emitter:
+  PREACTION: 1
+Beam-Runner:
   PREACTION: 1
 Beam-Wire:
   PREACTION: 1
@@ -17657,6 +17673,8 @@ Dancer2-Plugin-Auth-ActiveDirectory:
   MZIESCHA: 1
 Dancer2-Plugin-Auth-Extensible:
   HORNBURG: 1
+Dancer2-Plugin-Auth-Extensible-Provider-ActiveDirectory:
+  DSONNTAG: 1
 Dancer2-Plugin-Auth-Extensible-Provider-DBIC:
   SYSPETE: 1
 Dancer2-Plugin-Auth-Extensible-Provider-Database:
@@ -17677,6 +17695,10 @@ Dancer2-Plugin-Auth-Tiny:
   XSAWYERX: 1
 Dancer2-Plugin-Auth-YARBAC:
   AVERNA: 1
+Dancer2-Plugin-BrowserDetect:
+  HOBBESTIG: 1
+Dancer2-Plugin-CSRF:
+  JUMPERCC: 1
 Dancer2-Plugin-Cache-CHI:
   YANICK: 1
 Dancer2-Plugin-Captcha:
@@ -19448,6 +19470,8 @@ Date-LastModified:
   MLFISHER: 1
 Date-Leapyear:
   RBOW: 1
+Date-Lectionary:
+  MARMANOLD: 1
 Date-Lectionary-Time:
   MARMANOLD: 1
 Date-LibICal:
@@ -25228,6 +25252,8 @@ Football-League-Match:
   STRYTOAST: 1
 Footprintless:
   LTHEISEN: 1
+Footprintless-Plugin-Atlassian-Confluence:
+  LTHEISEN: 1
 Footprintless-Plugin-Database:
   LTHEISEN: 1
 For-Else:
@@ -25713,6 +25739,10 @@ Gallery-Remote:
 Gallery-Remote-API:
   MYSTERYTE: 1
 Game-Asset:
+  TMURRAY: 1
+Game-Asset-GVG-OpenGL:
+  TMURRAY: 1
+Game-Asset-SDLSound:
   TMURRAY: 1
 Game-Battleship:
   GENE: 1
@@ -26329,6 +26359,8 @@ Geo-Coder-HostIP:
   NEILB: 1
 Geo-Coder-Ja:
   JIRO: 1
+Geo-Coder-List:
+  NHORNE: 1
 Geo-Coder-Many:
   KAORU: 1
 Geo-Coder-Mappy:
@@ -27432,6 +27464,10 @@ Graphics-EPS:
 Graphics-Framebuffer:
   RKELSCH: 1
 Graphics-GVG:
+  TMURRAY: 1
+Graphics-GVG-OpenGLRenderer:
+  TMURRAY: 1
+Graphics-GVG-SVG:
   TMURRAY: 1
 Graphics-GnuplotIF:
   MEHNER: 1
@@ -29708,6 +29744,8 @@ IO-Async-SSL:
   PEVANS: 1
 IO-Async-XMLStream-SAXReader:
   KENTNL: 1
+IO-AsyncX-EventFD:
+  TEAM: 1
 IO-AsyncX-Sendfile:
   TEAM: 1
 IO-AsyncX-SharedTimer:
@@ -31371,6 +31409,8 @@ JiftyX-Markapl:
   GUGOD: 1
 JiftyX-ModelHelpers:
   GUGOD: 1
+Jmespath:
+  RICHE: 1
 Job-Machine:
   KAARE: 1
 Job-Manager:
@@ -35743,6 +35783,8 @@ MarpaX-Java-ClassFile:
   JDDPAUSE: 1
 MarpaX-Languages-C-AST:
   JDDPAUSE: 1
+MarpaX-Languages-Dash:
+  RSAVAGE: 1
 MarpaX-Languages-ECMAScript-AST:
   JDDPAUSE: 1
 MarpaX-Languages-IDL-AST:
@@ -38790,6 +38832,8 @@ Mooish:
 Mooish-Caller-Util:
   PERLANCAR: 1
 Moonshine-Element:
+  LNATION: 1
+Moonshine-Template:
   LNATION: 1
 Moops:
   TOBYINK: 1
@@ -47327,6 +47371,8 @@ Plack-Middleware-PostErrorToSlack:
   HITODE: 1
 Plack-Middleware-Precompressed:
   ARISTOTLE: 1
+Plack-Middleware-PrettyException:
+  DOMM: 1
 Plack-Middleware-ProcessTimes:
   FREW: 1
 Plack-Middleware-Profiler-KYTProf:
@@ -47646,6 +47692,8 @@ Pod-Clipper:
   YHA: 1
 Pod-Compiler:
   MAREKR: 1
+Pod-Confluence:
+  LTHEISEN: 1
 Pod-Constant:
   RJH: 1
 Pod-Constants:
@@ -51865,6 +51913,8 @@ ShellCompleter-Util:
   PERLANCAR: 1
 ShellQuote-Any:
   BAYASHI: 1
+ShellQuote-Any-Tiny:
+  PERLANCAR: 1
 ShellScript-Env:
   SVENH: 1
 ShiftJIS-CP932-Correct:
@@ -53443,6 +53493,8 @@ Sub-Import:
   RJBS: 1
 Sub-Infix:
   TOBYINK: 1
+Sub-Info:
+  EXODIST: 1
 Sub-Information:
   OVID: 1
 Sub-Inspector:
@@ -53567,6 +53619,8 @@ Sub-Uplevel:
   DAGOLDEN: 1
 Sub-Usage:
   HASANT: 1
+Sub-Versions:
+  GRYPHON: 1
 Sub-Versive:
   SIMON: 1
 Sub-Way:
@@ -56805,6 +56859,8 @@ Test-Unix-Group:
   NIKC: 1
 Test-Unix-User:
   NIKC: 1
+Test-UnixExit:
+  JMATES: 1
 Test-Usage:
   LUCS: 1
 Test-UseAllModules:
@@ -62416,6 +62472,8 @@ WWW-WikiSpaces:
   CLEONTY: 1
 WWW-Wikipedia:
   BRICAS: 1
+WWW-Wikipedia-LangTitles:
+  BKB: 1
 WWW-Wikipedia-Links:
   MORITZ: 1
 WWW-Wikipedia-TemplateFiller:
@@ -66014,6 +66072,8 @@ dip:
   MARCEL: 1
 dirtyRSS:
   BILLAUER: 1
+disbatch:
+  ASHLEYW: 1
 distlinks:
   KRYDE: 1
 dmake:
@@ -66328,6 +66388,8 @@ lib-ini:
   PSHANGOV: 1
 lib-none:
   SHARYANTO: 1
+lib-noop:
+  PERLANCAR: 1
 lib-prereqs-only:
   PERLANCAR: 1
 lib-projectroot:

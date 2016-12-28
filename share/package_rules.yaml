@@ -102,6 +102,8 @@ File-Temp:
 Filter-Simple:
   category: virtual
   name: perl-Filter-Simple
+GOOGLE-ADWORDS-PERL-CLIENT:
+  name: Google-Ads-AdWords-Client
 Getopt-Long:
   category: virtual
   name: perl-Getopt-Long
@@ -265,8 +267,6 @@ Sub-Util:
 Sys-Syslog:
   category: virtual
   name: perl-Sys-Syslog
-Template-Latex:
-  name: Template-Plugin-Latex
 Term-ANSIColor:
   category: virtual
   name: perl-Term-ANSIColor
