@@ -626,6 +626,8 @@ Acme-CPANLists-Import-PerlAdvent-2014:
   PERLANCAR: 1
 Acme-CPANLists-Import-PerlAdvent-2015:
   PERLANCAR: 1
+Acme-CPANLists-Import-PerlAdvent-2016:
+  PERLANCAR: 1
 Acme-CPANLists-Import-PerlDancerAdvent-2010:
   PERLANCAR: 1
 Acme-CPANLists-Import-PerlDancerAdvent-2011:
@@ -2337,6 +2339,8 @@ Alien-patch:
   PLICEASE: 1
 Alien-pdf2json:
   ZMUGHAL: 1
+Alien-pkgconf:
+  PLICEASE: 1
 Alien-qd:
   AAR: 1
 Alien-scriptaculous:
@@ -2395,6 +2399,8 @@ Alt-Date-Extract-SHARYANTO:
   SHARYANTO: 1
 Alt-Devel-GlobalDestruction-XS-Inline:
   INGY: 1
+Alt-ExtUtils-PkgConfig-PLICEASE:
+  PLICEASE: 1
 Alt-FFI-libffi:
   PLICEASE: 1
 Alt-IO-All-new:
@@ -4699,6 +4705,8 @@ App-LJ:
   SONGMU: 1
 App-LLEvalBot:
   SONGMU: 1
+App-Lastmsg:
+  MGV: 1
 App-Lazyd:
   GUGOD: 1
 App-LedgerSMB-Admin:
@@ -5190,6 +5198,8 @@ App-Reg:
   GLITCHMR: 1
 App-RegexFileUtils:
   PLICEASE: 1
+App-RegexpCommonUtils:
+  PERLANCAR: 1
 App-RegexpPatternUtils:
   PERLANCAR: 1
 App-Relate:
@@ -5421,6 +5431,8 @@ App-Termcast:
   DOY: 1
 App-Test-Tapat:
   JEREMIAH: 1
+App-TestOnTap:
+  KNTH: 1
 App-TextTableUtils:
   PERLANCAR: 1
 App-Textcast:
@@ -5939,6 +5951,8 @@ App-pmuninstall:
   XAICRON: 1
 App-pnc:
   SALVA: 1
+App-pod2wp:
+  PERLANCAR: 1
 App-podify:
   JHTHORSEN: 1
 App-podispell:
@@ -7284,6 +7298,8 @@ BDB:
   MLEHMANN: 1
 BDB-Wrapper:
   HIKARINE: 1
+BEGIN-Lift:
+  STEVAN: 1
 BERT:
   SHERWIN: 1
 BFD:
@@ -9029,6 +9045,8 @@ Business-Barcode-EAN13:
   JANW: 1
 Business-Billing-TMobile-UK:
   SRSHAH: 1
+Business-Bitcoin:
+  AGUL: 1
 Business-Bitpay:
   UNDEF: 1
 Business-CA-GST:
@@ -12859,6 +12877,8 @@ Catmandu-Store-Lucy:
   NICS: 1
 Catmandu-Store-MongoDB:
   NICS: 1
+Catmandu-Store-Resolver:
+  PIETERDP: 1
 Catmandu-Template:
   VPEIL: 1
 Catmandu-Twitter:
@@ -14460,7 +14480,11 @@ Complete-Program:
   PERLANCAR: 1
 Complete-RPM:
   PERLANCAR: 1
+Complete-Regexp-Pattern:
+  PERLANCAR: 1
 Complete-Riap:
+  PERLANCAR: 1
+Complete-Riap-Clientless:
   PERLANCAR: 1
 Complete-TZ:
   PERLANCAR: 1
@@ -17685,6 +17709,8 @@ Dancer2-Plugin-Auth-Extensible-Provider-LDAP:
   SYSPETE: 1
 Dancer2-Plugin-Auth-Extensible-Provider-Usergroup:
   SYSPETE: 1
+Dancer2-Plugin-Auth-Extensible-Rights:
+  DSONNTAG: 1
 Dancer2-Plugin-Auth-HTTP-Basic-DWIW:
   LITTLEFOX: 1
 Dancer2-Plugin-Auth-OAuth:
@@ -17731,6 +17757,8 @@ Dancer2-Plugin-Feed:
   HOBBESTIG: 1
 Dancer2-Plugin-Flash:
   SHARDIWAL: 1
+Dancer2-Plugin-Github-Webhook:
+  DSONNTAG: 1
 Dancer2-Plugin-GoogleAnalytics:
   GARCER: 1
 Dancer2-Plugin-Growler:
@@ -17795,6 +17823,8 @@ Dancer2-Plugin-RootURIFor:
   JBARRETT: 1
 Dancer2-Plugin-RoutePodCoverage:
   DREBOLO: 1
+Dancer2-Plugin-Routing:
+  MZIESCHA: 1
 Dancer2-Plugin-SendAs:
   RUSSELLJ: 1
 Dancer2-Plugin-Shutdown:
@@ -17979,6 +18009,8 @@ Data-Clean:
 Data-Clean-JSON:
   PERLANCAR: 1
 Data-Clean-ToStringyNumber:
+  PERLANCAR: 1
+Data-CleanJSON:
   PERLANCAR: 1
 Data-ClearSilver-HDF:
   ZIGOROU: 1
@@ -18424,6 +18456,8 @@ Data-Keys:
   JKUTEJ: 1
 Data-LUID:
   RKRIMEN: 1
+Data-Layout-BuddySystem:
+  PRBRENAN: 1
 Data-Lazy:
   SAMV: 1
 Data-LazyACL:
@@ -19314,6 +19348,8 @@ Database-Sophia:
   LASTMAC: 1
 Database-Wrapper:
   Wrapper: 1
+Datahub-Factory:
+  PIETERDP: 1
 Date-Advent:
   MARMANOLD: 1
 Date-Baha-i:
@@ -20707,6 +20743,8 @@ Device-ISDN-OCLM:
   MERLIN: 1
 Device-Inverter-Aurora:
   FREMAN: 1
+Device-Inverter-KOSTAL-PIKO:
+  FANY: 1
 Device-Jtag-PP:
   TDEITRICH: 1
 Device-Jtag-USB-FTCJTAG:
@@ -24980,6 +25018,8 @@ Finance-BlockIO:
   NORTHRUP: 1
 Finance-Bookkeeping-Account:
   JSHY: 1
+Finance-Budget:
+  DYLAN: 1
 Finance-CaVirtex-API:
   FinanceCaVirtexAPI: 1
 Finance-CampBX:
@@ -29247,6 +29287,8 @@ Ham-IOTA:
   RPETTETT: 1
 Ham-Locator:
   MEH: 1
+Ham-NOAA-Sunspot:
+  RPETTETT: 1
 Ham-Packet-DXSpider:
   CUSTARD: 1
 Ham-Reference-Callook:
@@ -31168,6 +31210,8 @@ JSON-XS-VersionOneAndTwo:
   LBROCARD: 1
 JSON-YAJL:
   LBROCARD: 1
+JSON5:
+  KARUPA: 1
 JSONP:
   ACANFORA: 1
 JSONRPC-Transport-TCP:
@@ -32057,6 +32101,8 @@ LWP-Protocol-AnyEvent-http:
   IKEGAMI: 1
 LWP-Protocol-Coro-http:
   IKEGAMI: 1
+LWP-Protocol-GHTTP:
+  OALDERS: 1
 LWP-Protocol-Net-Curl:
   SYP: 1
 LWP-Protocol-PSGI:
@@ -33075,6 +33121,8 @@ Lingua-PigLatin:
   PUERCOMAL: 1
 Lingua-PigLatin-Bidirectional:
   OKLAHOMER: 1
+Lingua-Postcodes:
+  LANCEW: 1
 Lingua-Preferred:
   EDAVIS: 1
 Lingua-RO-Numbers:
@@ -33625,6 +33673,8 @@ List-Tuples:
   NKH: 1
 List-Uniq:
   JFITZ: 1
+List-Util-ArrayRef-PP:
+  PERLANCAR: 1
 List-Util-Superpositions:
   RSOD: 1
 List-Util-WeightedChoice:
@@ -38529,6 +38579,8 @@ Mojolicious-Plugin-StripePayment:
   JHTHORSEN: 1
 Mojolicious-Plugin-Subdispatch:
   MEMOWE: 1
+Mojolicious-Plugin-Subprocess:
+  DBOOK: 1
 Mojolicious-Plugin-Sugar:
   PKAROUKIN: 1
 Mojolicious-Plugin-Surveil:
@@ -38663,6 +38715,8 @@ MongoDBx-Tiny:
   TOONA: 1
 MongoX:
   DOGGY: 1
+Mongol:
+  MARGHI: 1
 Mongoose:
   DIEGOK: 1
   RODRIGO: 1
@@ -39039,6 +39093,8 @@ MooseX-ErsatzMethod:
   TOBYINK: 1
 MooseX-Event:
   WINTER: 1
+MooseX-EventEmitter:
+  MARGHI: 1
 MooseX-Exception-Base:
   IVANWILLS: 1
 MooseX-Exception-Rot13:
@@ -43527,6 +43583,8 @@ Ovid:
   GYEPI: 1
 Ovirt:
   HEINCE: 1
+OxdPerlModule:
+  INDERPAL: 1
 Oxford-Calendar:
   DOM: 1
 Oz:
@@ -45587,6 +45645,8 @@ Parse-Path:
   BBYRD: 1
 Parse-PayPal-TxDetailReport:
   PERLANCAR: 1
+Parse-PayPal-TxFinderReport:
+  PERLANCAR: 1
 Parse-Pegex:
   INGY: 1
 Parse-Perl:
@@ -45983,6 +46043,8 @@ Perinci-CmdLine-Server:
   PERLANCAR: 1
 Perinci-CmdLine-Util:
   PERLANCAR: 1
+Perinci-CmdLine-Util-Config:
+  PERLANCAR: 1
 Perinci-CmdLine-pause:
   PERLANCAR: 1
 Perinci-Declare:
@@ -46165,6 +46227,8 @@ Perl-Critic:
   THALJEF: 1
 Perl-Critic-Bangs:
   PETDANCE: 1
+Perl-Critic-CognitiveComplexity:
+  OTROSIEN: 1
 Perl-Critic-Compatibility:
   ELLIOTJS: 1
 Perl-Critic-Deprecated:
@@ -46885,6 +46949,8 @@ Pixie:
 PixieLdap:
   PIXIE: 1
 PkgConfig:
+  PLICEASE: 1
+PkgConfig-LibPkgConf:
   PLICEASE: 1
 PkgForge:
   SJQUINNEY: 1
@@ -47671,7 +47737,7 @@ Pod-Abstract:
 Pod-Advent:
   DAVIDRW: 1
 Pod-AsciiDoctor:
-  Pod-AsciiDoctor: 1
+  BALA: 1
 Pod-Autopod:
   AHERNIT: 1
 Pod-AxPoint:
@@ -47998,8 +48064,6 @@ Pod-Weaver-Plugin-Rinci:
 Pod-Weaver-Plugin-Run:
   PERLANCAR: 1
 Pod-Weaver-Plugin-Sah-Schemas:
-  PERLANCAR: 1
-Pod-Weaver-Plugin-Sort-Sub:
   PERLANCAR: 1
 Pod-Weaver-Plugin-SortSections:
   PERLANCAR: 1
@@ -48950,7 +49014,7 @@ RDF-Generator-Void:
 RDF-Helper:
   KHAMPTON: 1
 RDF-Helper-Properties:
-  TOBYINK: 1
+  KJETILK: 1
 RDF-KML-Exporter:
   TOBYINK: 1
 RDF-KV:
@@ -49778,7 +49842,7 @@ Redis-SQLite:
 Redis-Script:
   SHOGO: 1
 Redis-ScriptCache:
-  IFTEKHAR: 1
+  MMIMS: 1
 Redis-Setlock:
   FUJIWARA: 1
 Redis-Term:
@@ -50049,10 +50113,6 @@ Repl-Loop:
   BRANSCHA: 1
 ReplaceMultiple:
   PORTON: 1
-Replication-Recall:
-  AGUL: 1
-Replication-Recall-DBServer:
-  AGUL: 1
 Reply:
   DOY: 1
 Reply-Plugin-ConfigurablePrompt:
@@ -50223,6 +50283,8 @@ Role-LibXSLT-Extender:
   KHAMPTON: 1
 Role-Log-Syslog-Fast:
   TBR: 1
+Role-Markup-XML:
+  DORIAN: 1
 Role-Multiton:
   DMUEY: 1
 Role-Pg-Notify:
@@ -56368,6 +56430,8 @@ Test-Mojo-Role-ElementCounter:
   ZOFFIX: 1
 Test-Mojo-Role-PSGI:
   JBERGER: 1
+Test-Mojo-Role-Selenium:
+  JHTHORSEN: 1
 Test-Mojo-Role-SubmitForm:
   ZOFFIX: 1
 Test-Mojo-Role-TestDeep:
@@ -57972,9 +58036,15 @@ Text-Table-Any:
   PERLANCAR: 1
 Text-Table-CSV:
   PERLANCAR: 1
+Text-Table-HTML:
+  PERLANCAR: 1
+Text-Table-HTML-DataTables:
+  PERLANCAR: 1
 Text-Table-Manifold:
   RSAVAGE: 1
 Text-Table-Org:
+  PERLANCAR: 1
+Text-Table-Paragraph:
   PERLANCAR: 1
 Text-Table-Tiny:
   NEILB: 1
@@ -60919,6 +60989,8 @@ Verizon-Perl-Tools:
   JGOTHTX: 1
 Vero-API:
   CARLOS: 1
+Verotel-FlexPay:
+  VEROTEL: 1
 Version-Compare:
   TEX: 1
 Version-Monotonic:
@@ -61828,8 +61900,6 @@ WWW-Opentracker-Stats:
   HOVENKO: 1
 WWW-Orkut-Spider:
   MANNO: 1
-WWW-Overture-Keywords:
-  AGUL: 1
 WWW-PAUSE-CleanUpHomeDir:
   ZOFFIX: 1
 WWW-PAUSE-Simple:
@@ -62478,6 +62548,8 @@ WWW-Wikipedia-Links:
   MORITZ: 1
 WWW-Wikipedia-TemplateFiller:
   DIBERRI: 1
+WWW-Wolfram-DataDrop:
+  STUIFZAND: 1
 WWW-WolframAlpha:
   YEGG: 1
 WWW-Wookie:
@@ -65280,6 +65352,8 @@ XML-Writer:
   JOSEPHW: 1
 XML-Writer-Compiler:
   TBONE: 1
+XML-Writer-Lazy:
+  SARGIE: 1
 XML-Writer-Nest:
   TBONE: 1
 XML-Writer-Simple:
@@ -66883,6 +66957,8 @@ ruby-collections-perl:
   CLAIR: 1
 rubyisms:
   SIMON: 1
+sBNC-User-Summary:
+  MIKEJONES: 1
 sane:
   PUNYTAN: 1
 sanity:
