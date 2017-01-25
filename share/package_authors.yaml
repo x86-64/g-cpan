@@ -238,6 +238,8 @@ API-ISPManager:
   PGRIFFIN: 1
 API-Instagram:
   GABRIEL: 1
+API-Intis:
+  NNMOS: 1
 API-Medium:
   DOMM: 1
 API-Name:
@@ -4464,7 +4466,7 @@ App-FastishCGI:
 App-FatPackUtils:
   PERLANCAR: 1
 App-FatPacker:
-  ETHER: 1
+  MSTROUT: 1
 App-FatPacker-Simple:
   SKAJI: 1
 App-Fetchware:
@@ -5829,9 +5831,15 @@ App-lcpan:
   PERLANCAR: 1
 App-lcpan-Call:
   PERLANCAR: 1
+App-lcpan-CmdBundle-bencher:
+  PERLANCAR: 1
+App-lcpan-CmdBundle-bugs:
+  PERLANCAR: 1
 App-lcpan-CmdBundle-core_or_pp:
   PERLANCAR: 1
 App-lcpan-CmdBundle-cpanlists:
+  PERLANCAR: 1
+App-lcpan-CmdBundle-cpanratings:
   PERLANCAR: 1
 App-lcpan-CmdBundle-debian:
   PERLANCAR: 1
@@ -5840,6 +5848,8 @@ App-lcpan-CmdBundle-deps:
 App-lcpan-CmdBundle-dzil:
   PERLANCAR: 1
 App-lcpan-CmdBundle-files:
+  PERLANCAR: 1
+App-lcpan-CmdBundle-gh:
   PERLANCAR: 1
 App-lcpan-CmdBundle-metacpan:
   PERLANCAR: 1
@@ -5893,6 +5903,8 @@ App-mhping:
   ARPI: 1
 App-migrate:
   POWERMAN: 1
+App-mimi:
+  VTI: 1
 App-mimic:
   PERLANCAR: 1
 App-minecraft:
@@ -6663,6 +6675,8 @@ Async-Blackboard:
   TAG: 1
 Async-Chain:
   REZNIKOV: 1
+Async-ContextSwitcher:
+  RUZ: 1
 Async-Defer:
   POWERMAN: 1
 Async-Event-Interval:
@@ -7620,6 +7634,8 @@ Bencher-Scenario-BigFloat:
   PERLANCAR: 1
 Bencher-Scenario-BigInt:
   PERLANCAR: 1
+Bencher-Scenario-Bless:
+  PERLANCAR: 1
 Bencher-Scenario-CmdLineParsingModules:
   PERLANCAR: 1
 Bencher-Scenario-ComparisonOps:
@@ -7684,6 +7700,8 @@ Bencher-Scenario-SetComparison:
   PERLANCAR: 1
 Bencher-Scenario-SetOperationModules:
   PERLANCAR: 1
+Bencher-Scenario-ShellQuoteAny:
+  PERLANCAR: 1
 Bencher-Scenario-SortBySpec:
   PERLANCAR: 1
 Bencher-Scenario-SortKeyTop:
@@ -7717,6 +7735,8 @@ Bencher-Scenarios-AppHr:
 Bencher-Scenarios-AppLcpan:
   PERLANCAR: 1
 Bencher-Scenarios-ArchiveTarModules:
+  PERLANCAR: 1
+Bencher-Scenarios-ArgPassing:
   PERLANCAR: 1
 Bencher-Scenarios-ArraySet:
   PERLANCAR: 1
@@ -8288,6 +8308,10 @@ Bit-FlipFlop:
   CMEYER: 1
 Bit-Grep:
   SALVA: 1
+Bit-Manip:
+  STEVEB: 1
+Bit-Manip-PP:
+  STEVEB: 1
 Bit-MorseSignals:
   VPIT: 1
 Bit-ShiftReg:
@@ -12285,6 +12309,8 @@ Catalyst-Plugin-Session-PSGI:
   CHISEL: 1
 Catalyst-Plugin-Session-PerUser:
   BOBTFISH: 1
+Catalyst-Plugin-Session-PerUser-AutoLogout:
+  ALTREUS: 1
 Catalyst-Plugin-Session-State-Auth:
   ZDK: 1
 Catalyst-Plugin-Session-State-Cookie:
@@ -12861,8 +12887,6 @@ Catmandu-Fix-XML:
   NJFRANCK: 1
 Catmandu-Fix-cmd:
   NICS: 1
-Catmandu-Fix-marc_spec:
-  KLEE: 1
 Catmandu-Geocode:
   HOCHSTEN: 1
 Catmandu-Identifier:
@@ -17761,6 +17785,8 @@ Dancer2-Logger-File-RotateLogs:
   MASAKYST: 1
 Dancer2-Logger-Fluent:
   ATANCASIS: 1
+Dancer2-Logger-Multiplex:
+  ATANCASIS: 1
 Dancer2-Logger-Radis:
   ZURBORG: 1
 Dancer2-Logger-Syslog:
@@ -18580,6 +18606,8 @@ Data-MaskPrint:
   ILYAVERL: 1
 Data-Match:
   KSTEPHENS: 1
+Data-Math:
+  DOOM: 1
 Data-Message:
   RJBS: 1
 Data-MessagePack:
@@ -19673,7 +19701,7 @@ Date-Time2fmtstr:
 Date-Tiny:
   DAGOLDEN: 1
 Date-Tolkien-Shire:
-  TBRAUN: 1
+  WYANT: 1
 Date-Transform:
   CTBROWN: 1
 Date-Utility:
@@ -19761,7 +19789,7 @@ DateTime-Event-WarwickUniversity:
 DateTime-Event-Zodiac:
   MAROS: 1
 DateTime-Fiction-JRRTolkien-Shire:
-  TBRAUN: 1
+  WYANT: 1
 DateTime-Fiscal-Retail454:
   Retail454: 1
 DateTime-Fiscal-Year:
@@ -28403,7 +28431,7 @@ HTML-Latemp-NavLinks-GenHtml:
 HTML-Latemp-News:
   SHLOMIF: 1
 HTML-Laundry:
-  STEVECOOK: 1
+  CHA: 1
 HTML-LinkAdd:
   LGODDARD: 1
 HTML-LinkChanger:
@@ -29129,6 +29157,7 @@ HTTP-MultiPartParser:
 HTTP-Negotiate:
   GAAS: 1
 HTTP-OAI:
+  HOCHSTEN: 1
   TIMBRODY: 1
 HTTP-OAIPMH-Validator:
   SIMEON: 1
@@ -29731,7 +29760,7 @@ Horris:
 Hostfile-Manager:
   MIRABELLA: 1
 HtDig-Config:
-  JTILLMAN: 1
+  CHA: 1
 Hubot:
   AANOAA: 1
 Hubot-Adapter-Mypeople:
@@ -31286,6 +31315,8 @@ JSON-Schema-Fit:
   LIOSHA: 1
 JSON-Schema-Shorthand:
   YANICK: 1
+JSON-Schema-ToJSON:
+  LEEJO: 1
 JSON-Streaming-Reader:
   MART: 1
 JSON-Streaming-Writer:
@@ -38624,6 +38655,8 @@ Mojolicious-Plugin-RenderFile:
   KOORCHIK: 1
 Mojolicious-Plugin-RenderSteps:
   MRAMBERG: 1
+Mojolicious-Plugin-Renderer-WithoutCache:
+  SIMBABQUE: 1
 Mojolicious-Plugin-ReplyTable:
   JBERGER: 1
 Mojolicious-Plugin-RequestBase:
@@ -42387,6 +42420,8 @@ Net-TextMessage-Canada:
   LUKEC: 1
 Net-ThirtySevenSignals-Highrise:
   DSADINOFF: 1
+Net-ThreeScale-Client:
+  DLAMBLEY: 1
 Net-Thumper:
   MUTANT: 1
 Net-TiVo:
@@ -43545,6 +43580,8 @@ OpenServices-SNMP-Plugin-Updates:
   FLADI: 1
 OpenSocialX-Shindig-Crypter:
   FAYLAND: 1
+OpenSourceOrg-API:
+  PABLROD: 1
 OpenStack-Client:
   XAN: 1
 OpenThought:
@@ -43584,7 +43621,7 @@ Options-Generator:
 OpusVL-AppKit:
   NEWELLC: 1
 OpusVL-AppKit-Schema-AppKitAuthDB:
-  NEWELLC: 1
+  ALTREUS: 1
 OpusVL-Preferences:
   NEWELLC: 1
 OpusVL-SimpleCrypto:
@@ -43957,8 +43994,6 @@ PDL-IO-CSV:
   KMX: 1
 PDL-IO-DBI:
   KMX: 1
-PDL-IO-Dcm:
-  PDL-IO-Dcm: 1
 PDL-IO-Grib:
   JEDWARDS: 1
 PDL-IO-HDF5:
@@ -44195,6 +44230,8 @@ PLDelphi:
   GMPASSOS: 1
 PLJava:
   GMPASSOS: 1
+PLN-PT:
+  SMASH: 1
 PLON:
   TOKUHIROM: 1
 PLP:
@@ -46317,8 +46354,6 @@ Perinci-Sub-Wrapper:
   PERLANCAR: 1
 Perinci-Sub-Wrapper-Patch-HandlePHPArray:
   PERLANCAR: 1
-Perinci-Sub-XCompletion:
-  PERLANCAR: 1
 Perinci-To-Doc:
   PERLANCAR: 1
 Perinci-To-HTML:
@@ -47981,10 +48016,6 @@ Pod-HtmlTree:
   MSCHILLI: 1
 Pod-IkiWiki:
   VMORAL: 1
-Pod-InDesign-TaggedText:
-  BDFOY: 1
-Pod-InDesign-TaggedText-TPR:
-  BDFOY: 1
 Pod-Index:
   ITUB: 1
 Pod-Inherit:
@@ -48025,7 +48056,7 @@ Pod-POM-View-DocBook:
 Pod-POM-View-HTML-Filter:
   BOOK: 1
 Pod-POM-View-Restructured:
-  DOWENS: 1
+  ALEXM: 1
 Pod-POM-View-TOC:
   PERLER: 1
 Pod-POM-View-Trac:
@@ -48077,8 +48108,6 @@ Pod-PseudoPod-CrossReference:
   TIMA: 1
 Pod-PseudoPod-LaTeX:
   MORITZ: 1
-Pod-PseudoPod-PerlTricks:
-  BDFOY: 1
 Pod-PseudoPod-XHTML:
   AYOUNG: 1
 Pod-ROBODoc:
@@ -48172,6 +48201,8 @@ Pod-WSDL:
 Pod-Weaver:
   RJBS: 1
 Pod-Weaver-Plugin-Acme-CPANLists:
+  PERLANCAR: 1
+Pod-Weaver-Plugin-App-lcpan:
   PERLANCAR: 1
 Pod-Weaver-Plugin-AppendPrepend:
   PERLANCAR: 1
@@ -49389,10 +49420,14 @@ RPi-ADC-ADS:
   STEVEB: 1
 RPi-DHT11:
   STEVEB: 1
+RPi-DigiPot-MCP4XXXX:
+  STEVEB: 1
 RPi-HCSR04:
   STEVEB: 1
 RPi-PIGPIO:
   RPi-PIGPIO: 1
+RPi-SPI:
+  STEVEB: 1
 RPi-WiringPi:
   STEVEB: 1
 RPi-WiringPi-Constant:
@@ -50175,6 +50210,8 @@ Regexp-Pattern-CPAN:
   PERLANCAR: 1
 Regexp-Pattern-RegexpCommon:
   PERLANCAR: 1
+Regexp-Pattern-Twitter:
+  PERLANCAR: 1
 Regexp-Pattern-YouTube:
   PERLANCAR: 1
 Regexp-RegGrp:
@@ -50657,7 +50694,6 @@ SCUBA-Table-NoDeco:
   PJF: 1
 SDL:
   FROGGS: 1
-  KTHAKORE: 1
 SDL-App-FPS:
   sdl: 1
 SDL-OpenGL-Cg:
@@ -50670,7 +50706,6 @@ SDL-sdlpl:
   WKEENAN: 1
 SDL_Perl:
   DGOEHRIG: 1
-  KTHAKORE: 1
 SDLx-Betweener:
   SHLOMIF: 1
 SDLx-Controller-Coro:
@@ -50830,6 +50865,8 @@ SMS-Send-SMSDiscount:
   BEANZ: 1
 SMS-Send-SMSGlobal-HTTP:
   WARRINGD: 1
+SMS-Send-Sergel-Simple-HTTP:
+  ESKAAREN: 1
 SMS-Send-Smstrade:
   TEX: 1
 SMS-Send-TMC:
@@ -51121,7 +51158,13 @@ SQL-Statement:
   JWIED: 1
   JZUCKER: 1
   REHSACK: 1
+SQL-Statement-Functions-ArgMinMax:
+  PERLANCAR: 1
 SQL-Statement-Functions-Date:
+  PERLANCAR: 1
+SQL-Statement-Functions-Logic:
+  PERLANCAR: 1
+SQL-Statement-Functions-MinMax:
   PERLANCAR: 1
 SQL-Steno:
   PFEIFFER: 1
@@ -51451,6 +51494,8 @@ Sah-Schemas-Collection:
   PERLANCAR: 1
 Sah-Schemas-DefHash:
   PERLANCAR: 1
+Sah-Schemas-Email:
+  PERLANCAR: 1
 Sah-Schemas-Examples:
   PERLANCAR: 1
 Sah-Schemas-Int:
@@ -51466,6 +51511,8 @@ Sah-Schemas-Riap:
 Sah-Schemas-Rinci:
   PERLANCAR: 1
 Sah-Schemas-Sah:
+  PERLANCAR: 1
+Sah-Schemas-Twitter:
   PERLANCAR: 1
 Sah-Schemas-URL:
   PERLANCAR: 1
@@ -52659,6 +52706,8 @@ Sort-MultipleFields:
   DCANTRELL: 1
 Sort-Naturally:
   BINGOS: 1
+Sort-Naturally-XS:
+  SERVAL: 1
 Sort-Packed:
   SALVA: 1
 Sort-Radix:
@@ -58339,6 +58388,8 @@ Text-UpsideDown:
   DOHERTY: 1
 Text-Upskirt:
   SIMCOP: 1
+Text-Util:
+  MCCHEUNG: 1
 Text-Ux:
   JIRO: 1
 Text-VCardFast:
@@ -58764,6 +58815,8 @@ Tie-Coupler:
   UARUN: 1
 Tie-Cvs:
   AMBS: 1
+Tie-Cycle:
+  BDFOY: 1
 Tie-Cycle-Sinewave:
   DLAND: 1
 Tie-DBI:
@@ -61964,6 +62017,8 @@ WWW-MediaTemple:
   CVEGA: 1
 WWW-Mediawiki-Client:
   MARKJ: 1
+WWW-MelbourneBikeShare:
+  LTP: 1
 WWW-MelissaData-PhoneLocation:
   WILSOND: 1
 WWW-MenuGrinder:
@@ -62943,6 +62998,10 @@ Web-Reactor:
   CADE: 1
 Web-Request:
   DOY: 1
+Web-Request-Role-JSON:
+  DOMM: 1
+Web-Request-Role-Response:
+  DOMM: 1
 Web-Scaffold:
   MIKER: 1
 Web-Scraper:
@@ -63116,6 +63175,8 @@ WebService-Buxfer:
   NHEINRIC: 1
 WebService-BuzzurlAPI:
   HOLLY: 1
+WebService-CDNetworks-Purge:
+  JPDUCA: 1
 WebService-CEPH:
   VSESPB: 1
 WebService-CIA:
@@ -63547,6 +63608,8 @@ WebService-Recruit-Jalan:
   KAWASAKI: 1
 WebService-Recruit-Shingaku:
   MTL: 1
+WebService-Reddit:
+  OALDERS: 1
 WebService-Redmine:
   IGELHAUS: 1
 WebService-ReutersConnect:
@@ -66681,8 +66744,8 @@ libsoldout:
 libvorbis-perl:
   FOOF: 1
 libwww-perl:
-  ETHER: 1
   GAAS: 1
+  OALDERS: 1
 libxml-enno:
   ENNO: 1
 libxml-perl:
@@ -67067,6 +67130,8 @@ punctuation:
 pyperl:
   GAAS: 1
 qbit:
+  MADSKILL: 1
+qbit_xgettext:
   MADSKILL: 1
 qdbm-perl:
   MIKIO: 1
