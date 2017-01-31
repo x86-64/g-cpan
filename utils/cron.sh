@@ -7,4 +7,4 @@ git pull
 make clean-everything all && \
 	git add --all ../ &&
 	git commit -a -m "Update" --author "g_cpan <g-cpan@server.com>" &&
-	git push
+	git remote | xargs -L1 git push --all
