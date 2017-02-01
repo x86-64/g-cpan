@@ -642,6 +642,8 @@ Acme-CPANLists-Import-PerlDancerAdvent-2012:
   PERLANCAR: 1
 Acme-CPANLists-Import-PerlDancerAdvent-2014:
   PERLANCAR: 1
+Acme-CPANLists-Import-PerlDancerAdvent-2016:
+  PERLANCAR: 1
 Acme-CPANLists-Import-PerlTricks:
   PERLANCAR: 1
 Acme-CPANLists-Import-RSAVAGE:
@@ -1039,6 +1041,8 @@ Acme-MetaSyntactic-WordList:
   PERLANCAR: 1
 Acme-MetaSyntactic-buzzwords:
   JQUELIN: 1
+Acme-MetaSyntactic-chinese_zodiac:
+  PERLANCAR: 1
 Acme-MetaSyntactic-christmas:
   PERLANCAR: 1
 Acme-MetaSyntactic-countries:
@@ -2097,6 +2101,8 @@ Alien-BatToExeConverter:
   ADAMK: 1
 Alien-Box2D:
   FROGGS: 1
+Alien-Build:
+  PLICEASE: 1
 Alien-CImg:
   GUGOD: 1
 Alien-CMake:
@@ -2323,6 +2329,8 @@ Alien-bz2:
   PLICEASE: 1
 Alien-bz2-Installer:
   PLICEASE: 1
+Alien-curl:
+  PLICEASE: 1
 Alien-ffmpeg:
   GETTY: 1
 Alien-flex:
@@ -2473,6 +2481,8 @@ Amazon-CloudFront-SignedURL:
   ZONCOEN: 1
 Amazon-CloudFront-Thin:
   GARU: 1
+Amazon-Dash-Button:
+  ATOOMIC: 1
 Amazon-DynamoDB:
   RCONOVER: 1
 Amazon-DynamoDB-Simple:
@@ -4392,6 +4402,8 @@ App-Dochazka-REST:
   SMITHFARM: 1
 App-Dochazka-WWW:
   SMITHFARM: 1
+App-Docker-Client:
+  MZIESCHA: 1
 App-Dockerfile-Template:
   MICVU: 1
 App-Donburi:
@@ -5459,6 +5471,8 @@ App-Taskflow:
   FARHAD: 1
 App-Tel:
   RDRAKE: 1
+App-TeleGramma:
+  JUSTIN: 1
 App-TemplateCMD:
   IVANWILLS: 1
 App-TemplateServer:
@@ -6023,6 +6037,8 @@ App-podify:
   JHTHORSEN: 1
 App-podispell:
   HAARG: 1
+App-podtohtml:
+  PERLANCAR: 1
 App-podweaver:
   SGRAHAM: 1
 App-powerdiff:
@@ -6351,6 +6367,8 @@ Ark-Plugin-MobileJP:
   SONGMU: 1
 Ark-Plugin-ReproxyCallback:
   SONGMU: 1
+Armadito-Agent:
+  VHAMON: 1
 Array-APX:
   VAXMAN: 1
 Array-AllUtils:
@@ -7708,6 +7726,8 @@ Bencher-Scenario-SortKeyTop:
   PERLANCAR: 1
 Bencher-Scenario-Sprintf:
   PERLANCAR: 1
+Bencher-Scenario-StringEliding:
+  PERLANCAR: 1
 Bencher-Scenario-Test-Sleep:
   PERLANCAR: 1
 Bencher-Scenario-Test-SleepCmd:
@@ -7741,6 +7761,8 @@ Bencher-Scenarios-ArgPassing:
 Bencher-Scenarios-ArraySet:
   PERLANCAR: 1
 Bencher-Scenarios-Bencher:
+  PERLANCAR: 1
+Bencher-Scenarios-BitManipulation:
   PERLANCAR: 1
 Bencher-Scenarios-CBlocks:
   PERLANCAR: 1
@@ -7823,6 +7845,8 @@ Bencher-Scenarios-PERLANCARParseArithmetic:
 Bencher-Scenarios-Perinci:
   PERLANCAR: 1
 Bencher-Scenarios-PerinciCmdLine:
+  PERLANCAR: 1
+Bencher-Scenarios-PerinciSubUtil:
   PERLANCAR: 1
 Bencher-Scenarios-PerinciSubValidateArgs:
   PERLANCAR: 1
@@ -7923,6 +7947,8 @@ BenchmarkAnything-Storage-Frontend-HTTP:
 BenchmarkAnything-Storage-Frontend-Lib:
   SCHWIGON: 1
 BenchmarkAnything-Storage-Frontend-Tools:
+  SCHWIGON: 1
+BenchmarkAnything-Storage-Search-Elasticsearch:
   SCHWIGON: 1
 Benchmarks:
   BAYASHI: 1
@@ -9306,6 +9332,8 @@ Business-OnlinePayment-Cardstream:
   BELCHAM: 1
 Business-OnlinePayment-CyberSource:
   XENO: 1
+Business-OnlinePayment-DLocal:
+  JAYCE: 1
 Business-OnlinePayment-ElavonVirtualMerchant:
   RSIDDALL: 1
 Business-OnlinePayment-Exact:
@@ -16417,6 +16445,8 @@ DBIx-Class-InflateColumn-IP:
   ILMARI: 1
 DBIx-Class-InflateColumn-ISBN:
   PENGUIN: 1
+DBIx-Class-InflateColumn-JSON2Object:
+  DOMM: 1
 DBIx-Class-InflateColumn-Markup-Unified:
   IDOPEREL: 1
 DBIx-Class-InflateColumn-Math-Currency:
@@ -17776,7 +17806,7 @@ Dancer-Template-Tiny:
 Dancer-Template-Xslate:
   RSIMOES: 1
 Dancer2:
-  CROMEDOME: 1
+  XSAWYERX: 1
 Dancer2-Debugger:
   SYSPETE: 1
 Dancer2-Logger-Console-Colored:
@@ -18644,6 +18674,8 @@ Data-MoneyCurrency:
   FLIMM: 1
 Data-Morph:
   NPEREZ: 1
+Data-MuForm:
+  GSHANK: 1
 Data-MultiValuedHash:
   DUNCAND: 1
 Data-Multihash:
@@ -19818,6 +19850,8 @@ DateTime-Format-DateParse:
   JHOBLITT: 1
 DateTime-Format-Diotek:
   AANOAA: 1
+DateTime-Format-Docker:
+  MZIESCHA: 1
 DateTime-Format-Duration:
   ETHER: 1
 DateTime-Format-Duration-DurationString:
@@ -21477,6 +21511,8 @@ Dist-Zilla-Plugin-AddModule-FromFS:
   PERLANCAR: 1
 Dist-Zilla-Plugin-Alien:
   ZMUGHAL: 1
+Dist-Zilla-Plugin-AlienBuild:
+  PLICEASE: 1
 Dist-Zilla-Plugin-Alt:
   PLICEASE: 1
 Dist-Zilla-Plugin-ApacheTest:
@@ -26530,6 +26566,7 @@ Geo-Coder-Ja:
 Geo-Coder-List:
   NHORNE: 1
 Geo-Coder-Many:
+  EDF: 1
   KAORU: 1
 Geo-Coder-Mappy:
   GRAY: 1
@@ -30560,6 +30597,7 @@ Image-ColorDetector:
   LIBITTE: 1
 Image-Compare:
   AVIF: 1
+  IVANYCH: 1
 Image-DCMTK:
   RHAXTON: 1
 Image-DS9:
@@ -36605,7 +36643,7 @@ Math-Rational-Approx:
 Math-RngStream:
   SALVA: 1
 Math-Roman:
-  math: 1
+  PJACKLAM: 1
 Math-Round:
   GROMMEL: 1
 Math-Round-Fair:
@@ -36657,7 +36695,7 @@ Math-Stat:
 Math-StochasticProcess:
   SILASMONK: 1
 Math-String:
-  math: 1
+  PJACKLAM: 1
 Math-String-Charset-Wordlist:
   math: 1
 Math-Subsets-List:
@@ -38584,7 +38622,7 @@ Mojolicious-Plugin-OAuth2-Server:
 Mojolicious-Plugin-OnFork:
   GRAF: 1
 Mojolicious-Plugin-OpenAPI:
-  JHTHORSEN: 1
+  ASHIMEMA: 1
 Mojolicious-Plugin-PDFRenderer:
   AMIRITE: 1
 Mojolicious-Plugin-PPI:
@@ -38955,6 +38993,8 @@ MooX-Cmd:
   REHSACK: 1
 MooX-Cmd-ChainedOptions:
   DJERIUS: 1
+MooX-Commander:
+  KABLAMO: 1
 MooX-ConfigFromFile:
   REHSACK: 1
 MooX-Emulate-Class-Accessor-Fast:
@@ -39049,9 +39089,17 @@ Mooish:
   PERLANCAR: 1
 Mooish-Caller-Util:
   PERLANCAR: 1
+Moonshine-Component:
+  LNATION: 1
 Moonshine-Element:
   LNATION: 1
+Moonshine-Magic:
+  LNATION: 1
 Moonshine-Template:
+  LNATION: 1
+Moonshine-Test:
+  LNATION: 1
+Moonshine-Util:
   LNATION: 1
 Moops:
   TOBYINK: 1
@@ -40228,8 +40276,6 @@ Nephia-Plugin-ResponseHandler:
   YTURTLE: 1
 Nephia-Plugin-SocketIO:
   YTURTLE: 1
-Nephia-Plugin-TOML:
-  PAPIX: 1
 Nephia-Plugin-Teng:
   MACOPY: 1
 Nephia-Plugin-View-MicroTemplate:
@@ -41157,6 +41203,8 @@ Net-Google-SafeBrowsing3:
   JSOBRIER: 1
 Net-Google-Spreadsheets:
   DANJOU: 1
+Net-Google-Spreadsheets-V4:
+  HIROSE: 1
 Net-Google-Storage:
   CEBJYRE: 1
 Net-Google-WebmasterTools:
@@ -42264,6 +42312,8 @@ Net-Server-SS-PreFork:
   KAZUHO: 1
 Net-Server-ZMQ:
   IDOPEREL: 1
+Net-Shadowsocks:
+  LZH: 1
 Net-Shaper:
   BHOLZMAN: 1
 Net-Shared:
@@ -43252,6 +43302,8 @@ Object-Attribute-Cached:
   TMTM: 1
 Object-AutoAccessor:
   PIA: 1
+Object-Base:
+  ORKUN: 1
 Object-BlankStr:
   SHARYANTO: 1
 Object-Boolean:
@@ -47113,8 +47165,6 @@ Pistachio:
   JBD: 1
 Pithub:
   OALDERS: 1
-Pixie:
-  JDUNCAN: 1
 PixieLdap:
   PIXIE: 1
 PkgConfig:
@@ -47977,6 +48027,8 @@ Pod-Elemental-Transformer-VimHTML:
   RJBS: 1
 Pod-Elemental-Transformer-WikiDoc:
   DAGOLDEN: 1
+Pod-Elide:
+  PERLANCAR: 1
 Pod-Escapes:
   NEILB: 1
 Pod-Eventual:
@@ -48073,6 +48125,8 @@ Pod-PXML:
   SBURKE: 1
 Pod-PalmDoc:
   BEATNIK: 1
+Pod-Pandoc:
+  VOJ: 1
 Pod-Parser:
   MAREKR: 1
 Pod-Parser-Groffmom:
@@ -49417,6 +49471,8 @@ RPSL-Parser:
 RPerl:
   WBRASWELL: 1
 RPi-ADC-ADS:
+  STEVEB: 1
+RPi-DAC-MCP4922:
   STEVEB: 1
 RPi-DHT11:
   STEVEB: 1
@@ -51163,8 +51219,6 @@ SQL-Statement-Functions-ArgMinMax:
 SQL-Statement-Functions-Date:
   PERLANCAR: 1
 SQL-Statement-Functions-Logic:
-  PERLANCAR: 1
-SQL-Statement-Functions-MinMax:
   PERLANCAR: 1
 SQL-Steno:
   PFEIFFER: 1
@@ -53384,6 +53438,8 @@ String-Dump:
   PATCH: 1
 String-Ediff:
   BOXZOU: 1
+String-Elide-Lines:
+  PERLANCAR: 1
 String-Elide-Parts:
   PERLANCAR: 1
 String-Equivalence-Amharic:
@@ -56307,6 +56363,8 @@ Test-Flatten:
   HIXI: 1
 Test-Float:
   SWALTERS: 1
+Test-Fluent-Logger:
+  MOZNION: 1
 Test-Fork:
   MSCHWERN: 1
 Test-FormValidator:
@@ -57423,7 +57481,7 @@ Text-CHM:
 Text-CPP:
   SHEVEK: 1
 Text-CSV:
-  MAKAMAKA: 1
+  ISHIGAKI: 1
 Text-CSV-Auto:
   BLUEFEET: 1
 Text-CSV-Auto-ExportTo-MySQL:
@@ -57575,7 +57633,7 @@ Text-Dice:
 Text-Diff:
   NEILB: 1
 Text-Diff-FormattedHTML:
-  Text: 1
+  AMBS: 1
 Text-Diff-HTML:
   DWHEELER: 1
 Text-Diff-Parser:
@@ -58612,6 +58670,7 @@ ThreatNet-DATN2004:
   ADAMK: 1
 Thrift:
   GSLIN: 1
+  thrift: 1
 Thrift-API-HiveClient:
   SSCAFFIDI: 1
 Thrift-API-HiveClient2:
@@ -60216,6 +60275,8 @@ TryCatch-Error:
   PFIG: 1
 Tui:
   RFLENS: 1
+Tunein-Streams:
+  TURNERJW: 1
 TurboXSLT:
   GRIBUSER: 1
 Turtle-Writer:
@@ -63264,6 +63325,8 @@ WebService-Eventful:
   SDDREITER: 1
 WebService-FC2-SpamAPI:
   FUJIWARA: 1
+WebService-FOAAS:
+  MGV: 1
 WebService-Face:
   AASSAD: 1
 WebService-Fake:
@@ -64240,6 +64303,8 @@ Win32-PEFile:
   Win32-PEFile: 1
 Win32-Palm-Install:
   JOHANVDB: 1
+Win32-ParseWords:
+  KEICHNER: 1
 Win32-PerfCounter:
   CRENZ: 1
 Win32-PerfLib:
@@ -64470,6 +64535,8 @@ Word-Segmenter-Chinese-Lite:
 WordList:
   PERLANCAR: 1
 WordList-BEW-Betawi:
+  PERLANCAR: 1
+WordList-CPAN-PAUSEIDs:
   PERLANCAR: 1
 WordList-EN-CountryNames:
   PERLANCAR: 1
