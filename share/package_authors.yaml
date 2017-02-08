@@ -388,6 +388,8 @@ Acme-AliG:
   IRONCAMEL: 1
 Acme-Alien-DontPanic:
   PLICEASE: 1
+Acme-Alien-DontPanic2:
+  PLICEASE: 1
 Acme-Alien-__cpu_model:
   ATHREEF: 1
 Acme-AllThePerlIsAStage:
@@ -811,6 +813,8 @@ Acme-Floral:
 Acme-Ford-Prefect:
   PLICEASE: 1
 Acme-Ford-Prefect-FFI:
+  PLICEASE: 1
+Acme-Ford-Prefect2:
   PLICEASE: 1
 Acme-Fork-Bomb:
   HANENKAMP: 1
@@ -2103,6 +2107,10 @@ Alien-Box2D:
   FROGGS: 1
 Alien-Build:
   PLICEASE: 1
+Alien-Build-MB:
+  PLICEASE: 1
+Alien-Build-Plugin-Fetch-Cache:
+  PLICEASE: 1
 Alien-CImg:
   GUGOD: 1
 Alien-CMake:
@@ -2324,8 +2332,6 @@ Alien-ZMQ:
 Alien-astyle:
   WBRASWELL: 1
 Alien-bison:
-  PLICEASE: 1
-Alien-bz2:
   PLICEASE: 1
 Alien-bz2-Installer:
   PLICEASE: 1
@@ -4451,6 +4457,8 @@ App-Env-Login:
   DJERIUS: 1
 App-Environ:
   IPH: 1
+App-Environ-Mojo-Pg:
+  KAKTUS: 1
 App-ErrorCalculator:
   SMUELLER: 1
 App-EvalServer:
@@ -5262,6 +5270,8 @@ App-Relate:
   DOOM: 1
 App-Relate-Complex:
   DOOM: 1
+App-ReleaseUtils:
+  PERLANCAR: 1
 App-RemoteCommand:
   SKAJI: 1
 App-RemoteGnokii:
@@ -5655,6 +5665,8 @@ App-a2p:
   LEONT: 1
 App-adr2org:
   PERLANCAR: 1
+App-af:
+  PLICEASE: 1
 App-after:
   PERLANCAR: 1
 App-aptperl:
@@ -5867,7 +5879,11 @@ App-lcpan-CmdBundle-gh:
   PERLANCAR: 1
 App-lcpan-CmdBundle-metacpan:
   PERLANCAR: 1
+App-lcpan-CmdBundle-metasyntactic:
+  PERLANCAR: 1
 App-lcpan-CmdBundle-nearest:
+  PERLANCAR: 1
+App-lcpan-CmdBundle-rt:
   PERLANCAR: 1
 App-lcpan-CmdBundle-sah:
   PERLANCAR: 1
@@ -5980,10 +5996,6 @@ App-passmanager:
 App-pathed:
   MARCEL: 1
 App-pause:
-  PERLANCAR: 1
-App-pause-FatPacked:
-  PERLANCAR: 1
-App-pause-Unpacked:
   PERLANCAR: 1
 App-perl2js:
   HATZ: 1
@@ -8163,6 +8175,8 @@ Bio-KEGG-API:
   LEPREVOST: 1
 Bio-KEGGI:
   ZEROLIU: 1
+Bio-Kmer:
+  LSKATZ: 1
 Bio-LITE-Taxonomy:
   MOTIF: 1
 Bio-LITE-Taxonomy-NCBI:
@@ -8207,6 +8221,8 @@ Bio-PDB-Structure:
 Bio-Phylo:
   RVOSA: 1
 Bio-Phylo-Beagle:
+  RVOSA: 1
+Bio-Phylo-Forest-DBTree:
   RVOSA: 1
 Bio-PhyloTastic:
   RVOSA: 1
@@ -20851,6 +20867,8 @@ Device-Chip-TSL256x:
   PEVANS: 1
 Device-Chip-nRF24L01P:
   PEVANS: 1
+Device-Cisco-NXAPI:
+  PUGLET: 1
 Device-Conrad-RelaisControl:
   NOHA: 1
 Device-CurrentCost:
@@ -21501,6 +21519,8 @@ Dist-Zilla-Plugin-Acme-CPANLists:
   PERLANCAR: 1
 Dist-Zilla-Plugin-Acme-CPANLists-Blacklist:
   PERLANCAR: 1
+Dist-Zilla-Plugin-Acme-MetaSyntactic:
+  PERLANCAR: 1
 Dist-Zilla-Plugin-AddFile-FromCode:
   PERLANCAR: 1
 Dist-Zilla-Plugin-AddFile-FromCommand:
@@ -21653,6 +21673,8 @@ Dist-Zilla-Plugin-CopyReadmeFromBuild:
   ROKR: 1
 Dist-Zilla-Plugin-CopyTo:
   REDICAPS: 1
+Dist-Zilla-Plugin-CopyrightYearFromGit:
+  PERLANCAR: 1
 Dist-Zilla-Plugin-Covenant:
   YANICK: 1
 Dist-Zilla-Plugin-CustomLicense:
@@ -22255,6 +22277,8 @@ Dist-Zilla-Plugin-if-ENV:
   KENTNL: 1
 Dist-Zilla-Plugin-jQuery:
   PLICEASE: 1
+Dist-Zilla-Plugin-lib:
+  KENTNL: 1
 Dist-Zilla-Plugin-shcompgen-InitOnInstall:
   PERLANCAR: 1
 Dist-Zilla-Plugin-test2t:
@@ -22369,7 +22393,6 @@ Dist-Zilla-PluginBundle-BerryGenomics:
   ZITSEN: 1
 Dist-Zilla-PluginBundle-BioPerl:
   CDRAUG: 1
-  CJFIELDS: 1
 Dist-Zilla-PluginBundle-CEBJYRE:
   CEBJYRE: 1
 Dist-Zilla-PluginBundle-CHGOVUK:
@@ -26869,8 +26892,6 @@ Geo-SpaceManager:
   JGIBSON: 1
 Geo-Spline:
   MRDVT: 1
-Geo-States:
-  CURTIS: 1
 Geo-StreetAddress-FR:
   FRANCKC: 1
 Geo-StreetAddress-US:
@@ -29433,6 +29454,8 @@ Hadoop-Admin:
   CWIMMER: 1
 Hadoop-HDFS-Command:
   BURAK: 1
+Hadoop-Inline-ClassLoader:
+  BURAK: 1
 Hadoop-Streaming:
   SPAZM: 1
 Haiku-SysInfo:
@@ -31718,6 +31741,8 @@ Kelp:
   MINIMAL: 1
 Kelp-Module-Bcrypt:
   MINIMAL: 1
+Kelp-Module-Config-ConfigGeneral:
+  YAKUNINK: 1
 Kelp-Module-Config-YAML:
   MINIMAL: 1
 Kelp-Module-FlashMessage:
@@ -31804,6 +31829,8 @@ KiokuX-User:
   FLORA: 1
 Kite:
   ABW: 1
+Kmer:
+  LSKATZ: 1
 Koha-Contrib-Mirabel:
   FREDERICD: 1
 Koha-Contrib-Sudoc:
@@ -33632,6 +33659,8 @@ Linux-MemInfo:
   CKERNER: 1
 Linux-Mounts:
   SNCK: 1
+Linux-NFS-BigDir:
+  ARFREITAS: 1
 Linux-Netfilter-Log:
   DJCOLLINS: 1
 Linux-Pdeathsig:
@@ -35505,10 +35534,14 @@ Mail-Barracuda-API:
   JAUER: 1
 Mail-Box:
   MARKOV: 1
+Mail-Box-IMAP4:
+  MARKOV: 1
 Mail-Box-IMAP4-SSL:
   DAGOLDEN: 1
 Mail-Box-MH-Resource:
   JPIERCE: 1
+Mail-Box-POP3:
+  MARKOV: 1
 Mail-Box-Parser-C:
   MARKOV: 1
 Mail-Builder:
@@ -35627,6 +35660,8 @@ Mail-Mbox-MessageParser:
   DCOPPIT: 1
 Mail-MboxParser:
   VPARSEVAL: 1
+Mail-Message:
+  MARKOV: 1
 Mail-Message-Attachment-Stripper:
   TMTM: 1
 Mail-Milter:
@@ -35780,6 +35815,8 @@ Mail-TieFolder-mh:
   STEVEGT: 1
 Mail-Toaster:
   MSIMERSON: 1
+Mail-Transport:
+  MARKOV: 1
 Mail-Transport-Dbx:
   VPARSEVAL: 1
 Mail-VRFY:
@@ -36697,7 +36734,7 @@ Math-StochasticProcess:
 Math-String:
   PJACKLAM: 1
 Math-String-Charset-Wordlist:
-  math: 1
+  PJACKLAM: 1
 Math-Subsets-List:
   PRBRENAN: 1
 Math-Symbolic:
@@ -37204,6 +37241,8 @@ Method-Slice:
   DAMI: 1
 Method-Specialize:
   NUFFIN: 1
+Method-Traits:
+  STEVAN: 1
 Method-Utils:
   PEVANS: 1
 Method-WeakCallback:
@@ -37273,6 +37312,8 @@ Minion-Notifier:
   JBERGER: 1
 Minions:
   ARUNBEAR: 1
+Mira:
+  mira: 1
 Miril:
   PSHANGOV: 1
 Mirror-JSON:
@@ -38000,6 +38041,8 @@ Mojo-IOLoop-ForkCall:
   JBERGER: 1
 Mojo-IOLoop-HoboProcess:
   MARIOROY: 1
+Mojo-IOLoop-LineReader:
+  FERREIRA: 1
 Mojo-IOLoop-ProcBackground:
   BPMEDLEY: 1
 Mojo-IOLoop-ReadWriteFork:
@@ -39089,6 +39132,8 @@ Mooish:
   PERLANCAR: 1
 Mooish-Caller-Util:
   PERLANCAR: 1
+Moonshine-Bootstrap:
+  LNATION: 1
 Moonshine-Component:
   LNATION: 1
 Moonshine-Element:
@@ -39537,6 +39582,8 @@ MooseX-Role-TraitConstructor:
   NUFFIN: 1
 MooseX-Role-UnsafeConstructable:
   MORNINDED: 1
+MooseX-Role-UpdateAttributes:
+  MARGHI: 1
 MooseX-Role-Validatable:
   BINARY: 1
 MooseX-Role-WithOverloading:
@@ -40848,8 +40895,6 @@ Net-Daemon-SSL:
   MKUL: 1
 Net-DashCS:
   JEF: 1
-Net-Defensio:
-  BCHOATE: 1
 Net-Delicious:
   RJBS: 1
 Net-Delicious-Export:
@@ -42138,8 +42183,6 @@ Net-SMS-ViaNett:
   GVENKAT: 1
 Net-SMS-VoipBuster:
   MOPY: 1
-Net-SMS-WAY2SMS:
-  ADARSHTP: 1
 Net-SMS-Web:
   AWRIGLEY: 1
 Net-SMS-WorldText:
@@ -43902,7 +43945,7 @@ PCGI:
 PCL-Simple:
   PRL: 1
 PCX-Loader:
-  JBRYAN: 1
+  ASB: 1
 PDA-Simple:
   ADOKOY: 1
 PDF:
@@ -44046,6 +44089,8 @@ PDL-IO-CSV:
   KMX: 1
 PDL-IO-DBI:
   KMX: 1
+PDL-IO-Dcm:
+  PDL-IO-Dcm: 1
 PDL-IO-Grib:
   JEDWARDS: 1
 PDL-IO-HDF5:
@@ -45815,7 +45860,7 @@ Parse-JapanesePostalCode:
 Parse-KeyValue-Shellish:
   MOZNION: 1
 Parse-Keyword:
-  DOY: 1
+  HAARG: 1
 Parse-Liberty:
   EGA: 1
 Parse-LocalDistribution:
@@ -47167,8 +47212,6 @@ Pithub:
   OALDERS: 1
 PixieLdap:
   PIXIE: 1
-PkgConfig:
-  PLICEASE: 1
 PkgConfig-LibPkgConf:
   PLICEASE: 1
 PkgForge:
@@ -49472,6 +49515,8 @@ RPerl:
   WBRASWELL: 1
 RPi-ADC-ADS:
   STEVEB: 1
+RPi-BMP180:
+  STEVEB: 1
 RPi-DAC-MCP4922:
   STEVEB: 1
 RPi-DHT11:
@@ -50310,6 +50355,8 @@ Relations-Family:
   GAFFER: 1
 Relations-Query:
   GAFFER: 1
+Release-Util-Git:
+  PERLANCAR: 1
 ReleaseAction:
   TILLY: 1
 Religion-Bible-Reference:
@@ -52217,7 +52264,7 @@ Shell-GetEnv:
 Shell-Guess:
   PLICEASE: 1
 Shell-POSIX-Select:
-  YUMPY: 1
+  MTHURN: 1
 Shell-Parser:
   SAPER: 1
 Shell-Perl:
@@ -55454,6 +55501,8 @@ Template-Plugin-React:
   FBELTON: 1
 Template-Plugin-ResolveLink:
   MIYAGAWA: 1
+Template-Plugin-RndString:
+  BBON: 1
 Template-Plugin-Roman:
   JSIME: 1
 Template-Plugin-RoundRobin:
@@ -57235,6 +57284,8 @@ Test-WWW-Mechanize-CGIApp:
 Test-WWW-Mechanize-Catalyst:
   JJNAPIORK: 1
   LBROCARD: 1
+Test-WWW-Mechanize-Catalyst-WithContext:
+  SIMBABQUE: 1
 Test-WWW-Mechanize-Dancer:
   WWOLF: 1
 Test-WWW-Mechanize-Declare:
@@ -60167,7 +60218,7 @@ Tree-Simple-Manager:
 Tree-Simple-SAX:
   STEVAN: 1
 Tree-Simple-View:
-  STEVAN: 1
+  MZIESCHA: 1
 Tree-Simple-VisitorFactory:
   RSAVAGE: 1
 Tree-SizeBalanced:
@@ -60422,7 +60473,7 @@ UML-Sequence:
 UML-State:
   PHILCROW: 1
 UMLS-Association:
-  HENRYST: 1
+  BTMCINNES: 1
 UMLS-Interface:
   BTMCINNES: 1
 UMLS-Norm:
@@ -61766,6 +61817,8 @@ WWW-FleXtel:
   NICOLAW: 1
 WWW-FoneFinder:
   WILSOND: 1
+WWW-Foreman-API:
+  SKYSYMBOL: 1
 WWW-Form:
   SHLOMIF: 1
 WWW-Form-UrlEncoded:
@@ -62286,6 +62339,8 @@ WWW-RMDown:
   CODEBREAK: 1
 WWW-RSSFeed:
   NICKS: 1
+WWW-RT-CPAN:
+  PERLANCAR: 1
 WWW-RabbitMQ-Broker:
   SUTT: 1
 WWW-Rafb:
@@ -62605,6 +62660,8 @@ WWW-Shorten-MahewinSexyUrl:
   HOBBESTIG: 1
 WWW-Shorten-Miudin:
   TBR: 1
+WWW-Shorten-Naver:
+  JEEN: 1
 WWW-Shorten-NotLong:
   CAPOEIRAB: 1
 WWW-Shorten-OneShortLink:
@@ -62636,7 +62693,7 @@ WWW-Shorten-VGd:
 WWW-Shorten-Yahooit:
   CWIMMER: 1
 WWW-Shorten-Yourls:
-  PJAIN: 1
+  CAPOEIRAB: 1
 WWW-Shorten-iiipe:
   MINIMAL: 1
 WWW-Shorten-ptl:
@@ -62804,6 +62861,8 @@ WWW-Virull:
   JOHND: 1
 WWW-WCAP:
   NATE: 1
+WWW-WWWJDIC:
+  BKB: 1
 WWW-Wappalyzer:
   NALOBIN: 1
 WWW-Weather-Yahoo:
@@ -63059,6 +63118,8 @@ Web-Reactor:
   CADE: 1
 Web-Request:
   DOY: 1
+Web-Request-Role-AbsoluteUriFor:
+  DOMM: 1
 Web-Request-Role-JSON:
   DOMM: 1
 Web-Request-Role-Response:
