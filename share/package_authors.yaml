@@ -125,6 +125,10 @@ AI-LibNeural:
   AI-LibNeural: 1
 AI-Logic-AnswerSet:
   LEVIA: 1
+AI-MXNet:
+  SKOLYCHEV: 1
+AI-MXNetCAPI:
+  SKOLYCHEV: 1
 AI-MaxEntropy:
   LAYE: 1
 AI-MegaHAL:
@@ -135,6 +139,8 @@ AI-NNEasy:
   GMPASSOS: 1
 AI-NNFlex:
   ai-nnflex: 1
+AI-NNVMCAPI:
+  SKOLYCHEV: 1
 AI-NaiveBayes:
   ZBY: 1
 AI-NaiveBayes1:
@@ -562,6 +568,8 @@ Acme-CPANAuthors-MetaSyntactic:
   BOOK: 1
 Acme-CPANAuthors-Misanthrope:
   ASHLEY: 1
+Acme-CPANAuthors-NameGen:
+  MZIESCHA: 1
 Acme-CPANAuthors-Nonhuman:
   ETHER: 1
 Acme-CPANAuthors-Norwegian:
@@ -1023,8 +1031,6 @@ Acme-Math-Google:
   DANKOGAI: 1
 Acme-Math-PerfectChristmasTree:
   MOZNION: 1
-Acme-Math-XS:
-  INGY: 1
 Acme-Math-XS-LeanDist:
   FRACTAL: 1
 Acme-MathProfessor-RandomPrime:
@@ -1200,8 +1206,6 @@ Acme-OSDc:
   PJF: 1
 Acme-Octarine:
   NWCLARK: 1
-Acme-Odometer:
-  OALDERS: 1
 Acme-Ognon:
   LEEJO: 1
 Acme-Oil:
@@ -1302,6 +1306,8 @@ Acme-Plack-Middleware-Acme-Werewolf:
   MAKAMAKA: 1
 Acme-PlayCode:
   FAYLAND: 1
+Acme-Playpen:
+  NEILB: 1
 Acme-Playwright:
   SIFUKURT: 1
 Acme-Pod-MathJax:
@@ -2416,8 +2422,6 @@ AllKnowingDNS:
 Alt:
   INGY: 1
 Alt-Acme-Math-XS-CPP:
-  INGY: 1
-Alt-Acme-Math-XS-EUMM:
   INGY: 1
 Alt-Acme-Math-XS-ModuleBuild:
   INGY: 1
@@ -5276,6 +5280,8 @@ App-RemoteCommand:
   SKAJI: 1
 App-RemoteGnokii:
   MGV: 1
+App-RemovePdfPassword:
+  PERLANCAR: 1
 App-ReorderGoProFiles:
   VTI: 1
 App-RepoSync:
@@ -5927,6 +5933,8 @@ App-merge_cpanfile:
   AEREAL: 1
 App-metacpansearch:
   AWWAIID: 1
+App-metastasize:
+  PERLANCAR: 1
 App-mgen:
   LAPIS: 1
 App-mhping:
@@ -8422,6 +8430,8 @@ Bone-Easy:
   MSCHWERN: 1
 Book-Chinese-MasterPerlToday:
   FAYLAND: 1
+Bookings-Security-CVSS:
+  appsec: 1
 Bookmarks-Parser:
   COSIMO: 1
 Boolean-Converter:
@@ -9621,6 +9631,8 @@ C-TCC:
 C-TinyCompiler:
   DCMERTENS: 1
 C-Tokenize:
+  BKB: 1
+C-Utility:
   BKB: 1
 C-sparse:
   sparse-decpp: 1
@@ -11341,6 +11353,8 @@ Cache-Weak:
   EJS: 1
 Cache-YAMLCache:
   NACHBAUR: 1
+Cache-utLRU:
+  GONZUS: 1
 Caffeinated_Markup_Language:
   JGREGORY: 1
 Cairo:
@@ -13391,6 +13405,8 @@ Chorus-Engine:
   Chorus: 1
 Chorus-Expert:
   Chorus: 1
+Chouette:
+  FRACTAL: 1
 ChromosomeMap:
   FLECERF: 1
 Chronic:
@@ -14570,6 +14586,8 @@ Compiler-Parser:
   GOCCY: 1
 Complete:
   PERLANCAR: 1
+Complete-Acme-MetaSyntactic:
+  PERLANCAR: 1
 Complete-Bash:
   PERLANCAR: 1
 Complete-Bash-History:
@@ -14758,6 +14776,8 @@ Config-Auto:
   BINGOS: 1
 Config-AutoConf:
   REHSACK: 1
+Config-AutoConf-INI:
+  JDDPAUSE: 1
 Config-Autoload:
   PANGJ: 1
 Config-Backend-INI:
@@ -15582,6 +15602,8 @@ Crypt-Khazad:
   JCDUQUE: 1
 Crypt-LE:
   LEADER: 1
+Crypt-Libmcrypt:
+  LZH: 1
 Crypt-License:
   MIKER: 1
 Crypt-Lite:
@@ -18302,6 +18324,8 @@ Data-Dump-PHP:
   SHARYANTO: 1
 Data-Dump-Partial:
   SHARYANTO: 1
+Data-Dump-Patch-Deparse:
+  PERLANCAR: 1
 Data-Dump-Patch-ReplaceWithDataDmp:
   PERLANCAR: 1
 Data-Dump-Perl6:
@@ -23094,6 +23118,8 @@ Email-MIME-XMTP:
   AREGGIORI: 1
 Email-MIME-XPath:
   HDP: 1
+Email-Mailer:
+  GRYPHON: 1
 Email-MessageID:
   RJBS: 1
 Email-Outlook-Message:
@@ -23973,6 +23999,8 @@ Facebook-Graph-Cmdline:
   SPAZM: 1
 Facebook-InstantArticle:
   TOREAU: 1
+Facebook-Messenger-Client:
+  MARGHI: 1
 Facebook-OpenGraph:
   OKLAHOMER: 1
 FactorOracle:
@@ -25387,8 +25415,6 @@ Firebase:
   RIZEN: 1
 Firefox-Sync-Client:
   SCHRORG: 1
-Firewall-PaloAlto:
-  PUGLET: 1
 FirstGoodURL:
   PINYAN: 1
 Fixed:
@@ -28038,8 +28064,6 @@ HEP-MCNS:
   PHILHA: 1
 HEP-Names-LaTeX:
   PHILHA: 1
-HH-Unispool-Config:
-  ZOCCAV: 1
 HOI-Comprehensions:
   HOI-Comprehensions-0045: 1
 HOI-Match:
@@ -31401,7 +31425,7 @@ JSON-Typist:
 JSON-Util:
   JKUTEJ: 1
 JSON-Validator:
-  ASHIMEMA: 1
+  JHTHORSEN: 1
 JSON-WebEncryption:
   CHGOVUK: 1
 JSON-WebToken:
@@ -31457,7 +31481,7 @@ Jabber-mod_perl:
 Jail:
   BPANNIER: 1
 Jaipo:
-  Jaipo: 1
+  BLUET: 1
 Jamila:
   KWITKNR: 1
 Jar-Manifest:
@@ -31743,6 +31767,8 @@ Kelp-Module-Bcrypt:
   MINIMAL: 1
 Kelp-Module-Config-ConfigGeneral:
   YAKUNINK: 1
+Kelp-Module-Config-General:
+  YAKUNINK: 1
 Kelp-Module-Config-YAML:
   MINIMAL: 1
 Kelp-Module-FlashMessage:
@@ -31829,8 +31855,6 @@ KiokuX-User:
   FLORA: 1
 Kite:
   ABW: 1
-Kmer:
-  LSKATZ: 1
 Koha-Contrib-Mirabel:
   FREDERICD: 1
 Koha-Contrib-Sudoc:
@@ -32182,8 +32206,6 @@ Kwiki-Wikiwyg:
 Kwiki-Yahoo:
   Kwiki: 1
 Kwiki-Zipcode:
-  INGY: 1
-Kwim:
   INGY: 1
 Kwim-Plugin-badge:
   INGY: 1
@@ -34595,6 +34617,8 @@ Log-Dispatch-Email-Async:
   RAJAG: 1
 Log-Dispatch-Email-EmailSend:
   DROLSKY: 1
+Log-Dispatch-Email-Mailer:
+  GRYPHON: 1
 Log-Dispatch-Email-Sendmail:
   NHORNE: 1
 Log-Dispatch-File-Alerts:
@@ -40470,6 +40494,8 @@ Net-Amazon-S3-Tools:
   MRA: 1
 Net-Amazon-SNS-Signature:
   PATMOONEY: 1
+Net-Amazon-SQS-Lite:
+  SHIBUYA: 1
 Net-Amazon-Signature:
   RACHEL: 1
 Net-Amazon-Signature-V3:
@@ -43597,10 +43623,14 @@ OpenGL-FTGL:
   JLMOREL: 1
 OpenGL-GLM:
   JCHIN: 1
+OpenGL-GLU:
+  CHM: 1
 OpenGL-Image:
   BFREE: 1
 OpenGL-List:
   ADAMK: 1
+OpenGL-Modern:
+  CHM: 1
 OpenGL-PLG:
   GARU: 1
 OpenGL-QEng:
@@ -44967,6 +44997,8 @@ POE-Filter-Log-Procmail:
   PAULV: 1
 POE-Filter-Ls:
   MCHING: 1
+POE-Filter-MessagePack:
+  NSHP: 1
 POE-Filter-PPPHDLC:
   BSMITH: 1
 POE-Filter-ParseWords:
@@ -48825,6 +48857,8 @@ Proc-WaitStat:
   ROSCH: 1
 Proc-Watchdog:
   LUISMUNOZ: 1
+Proc-tored:
+  JEFFOBER: 1
 Process:
   ADAMK: 1
 Process-Async:
@@ -50937,6 +50971,8 @@ SMS-Send-Driver-WebService:
 SMS-Send-Fr-OVH:
   ALEXARN: 1
 SMS-Send-IN-Unicel:
+  INDRADG: 1
+SMS-Send-IN-eSMS:
   INDRADG: 1
 SMS-Send-KR-APIStore:
   KEEDI: 1
@@ -53125,6 +53161,8 @@ Statistics-ANOVA-Friedman:
   RGARTON: 1
 Statistics-ANOVA-JT:
   RGARTON: 1
+Statistics-ANOVA-KW:
+  RGARTON: 1
 Statistics-ANOVA-Page:
   RGARTON: 1
 Statistics-Associations:
@@ -53277,6 +53315,8 @@ Statistics-SDT:
   RGARTON: 1
 Statistics-SPC:
   EMORISSE: 1
+Statistics-Sampler-Multinomial:
+  SLAFFAN: 1
 Statistics-Sequences:
   RGARTON: 1
 Statistics-Sequences-Joins:
@@ -56209,7 +56249,7 @@ Test-DBIx-Class-Factory:
 Test-DBIx-Class-Schema:
   CHISEL: 1
 Test-DBIx-Class-Stats:
-  OSFAMERON: 1
+  ABRAXXA: 1
 Test-DBUnit:
   ADRIANWIT: 1
 Test-DNS:
@@ -57413,6 +57453,8 @@ Test2-Plugin-SpecDeclare:
   EXODIST: 1
 Test2-Suite:
   EXODIST: 1
+Test2-Tools-AfterSubtest:
+  SHUMPHREY: 1
 Test2-Tools-EventDumper:
   EXODIST: 1
 Test2-Tools-Explain:
@@ -57428,8 +57470,6 @@ TestLink-API:
 TestML:
   INGY: 1
 TestML-Script:
-  INGY: 1
-TestML-Tiny:
   INGY: 1
 TestRail-API:
   TEODESIAN: 1
@@ -58245,7 +58285,7 @@ Text-SenseClusters-LabelEvaluation-Driver:
 Text-Sentence-Alignment:
   CLSUNG: 1
 Text-Sequence:
-  SIMONW: 1
+  SKINGTON: 1
 Text-Shellwords:
   LDS: 1
 Text-Shift:
@@ -59607,8 +59647,6 @@ Tinker-App-YAMLTesting:
   INGY: 1
 Tiny-OpenSSL:
   JFWILKUS: 1
-Tiny-YAML:
-  INGY: 1
 TinyAuth:
   ADAMK: 1
 TinyDNS-Reader:
@@ -60667,8 +60705,6 @@ URI-urn-uuid:
   MIYAGAWA: 1
 URI-ws:
   PLICEASE: 1
-URIC:
-  LDACHARY: 1
 URL-Builder:
   TOKUHIROM: 1
 URL-Check:
@@ -60755,6 +60791,8 @@ Ubigraph:
   GAOU: 1
 Ubuntu-Releases:
   PERLANCAR: 1
+Ucam-Term:
+  JWAR: 1
 Ufal-MorphoDiTa:
   STRAKA: 1
 Ufal-NameTag:
@@ -61104,8 +61142,6 @@ VK-MP3:
   EAX: 1
 VKontakte-API:
   ASDEEVA: 1
-VLGal-Directory:
-  ZOCCAV: 1
 VM-CloudAtCost:
   LITTLEURL: 1
 VM-Dreamer:
@@ -63534,6 +63570,8 @@ WebService-Klout:
   CRAFTWORK: 1
 WebService-KoreanSpeller:
   AERO: 1
+WebService-Kramerius-API4:
+  SKIM: 1
 WebService-KuronekoYamato:
   CLCL: 1
 WebService-LOC-CongRec:
@@ -65490,6 +65528,8 @@ XML-Pastor:
   AULUSOY: 1
 XML-Perl:
   KNI: 1
+XML-Printer-ESCPOS:
+  DSONNTAG: 1
 XML-QL:
   MSERGEANT: 1
 XML-Quick:
@@ -65952,8 +65992,6 @@ YAML-Old:
   INGY: 1
 YAML-Parser-Syck:
   INGY: 1
-YAML-Pegex:
-  INGY: 1
 YAML-Perl:
   INGY: 1
 YAML-Shell:
@@ -66268,6 +66306,8 @@ anticaptcha:
   SKULL: 1
 any:
   DMUEY: 1
+anywhere:
+  PERLANCAR: 1
 app-tables:
   MARCC: 1
 arXiv:
@@ -66620,8 +66660,6 @@ failures:
   DAGOLDEN: 1
 fameperl:
   TRIAS: 1
-fatfinger:
-  OALDERS: 1
 fewer:
   RJBS: 1
 fields-aliased:
