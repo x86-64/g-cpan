@@ -568,8 +568,6 @@ Acme-CPANAuthors-MetaSyntactic:
   BOOK: 1
 Acme-CPANAuthors-Misanthrope:
   ASHLEY: 1
-Acme-CPANAuthors-NameGen:
-  MZIESCHA: 1
 Acme-CPANAuthors-Nonhuman:
   ETHER: 1
 Acme-CPANAuthors-Norwegian:
@@ -1178,6 +1176,8 @@ Acme-MySecondModule-SADAMS:
   SADAMS: 1
 Acme-NabeAtzz:
   YAPPO: 1
+Acme-NameGen:
+  MZIESCHA: 1
 Acme-NamespaceRoulette:
   JMATES: 1
 Acme-Net-OdiousPlan:
@@ -2231,6 +2231,8 @@ Alien-Libgpg_error:
   SALVA: 1
 Alien-Libjio:
   JAWNSY: 1
+Alien-Libmcrypt:
+  LZH: 1
 Alien-Librdkafka:
   ZWON: 1
 Alien-Lightbox:
@@ -4517,6 +4519,8 @@ App-FonBot-Daemon:
   MGV: 1
 App-ForExample:
   RKRIMEN: 1
+App-FormatCPANChanges-PERLANCAR:
+  PERLANCAR: 1
 App-Fotagger:
   DOMM: 1
 App-Framework:
@@ -5695,6 +5699,8 @@ App-breakout:
   LIMITUSUS: 1
 App-calendr:
   MANWAR: 1
+App-cdnget:
+  ORKUN: 1
 App-chalk:
   PERLANCAR: 1
 App-chkfacl:
@@ -5934,6 +5940,8 @@ App-merge_cpanfile:
 App-metacpansearch:
   AWWAIID: 1
 App-metastasize:
+  PERLANCAR: 1
+App-metasyn:
   PERLANCAR: 1
 App-mgen:
   LAPIS: 1
@@ -6411,6 +6419,8 @@ Array-Compare:
   DAVECROSS: 1
 Array-CompareAndFilter:
   DADERUS: 1
+Array-Contains:
+  CAVAC: 1
 Array-DeepUtils:
   TOMK: 1
 Array-Delegate:
@@ -7234,6 +7244,8 @@ Autocache:
   WIGGLY: 1
 Autodia:
   TEEJAY: 1
+Autoload-AUTOCAN:
+  DBOOK: 1
 Aviation-Report:
   JBRIGGS: 1
 Aw:
@@ -9755,6 +9767,8 @@ CEDict-Pinyin:
   DAVAZ: 1
 CGI:
   LEEJO: 1
+CGI-ACL:
+  NHORNE: 1
 CGI-AIS-Session:
   DAVIDNICO: 1
 CGI-Ajax:
@@ -12904,6 +12918,8 @@ Catmandu-AAT:
   PIETERDP: 1
 Catmandu-Activiti:
   NJFRANCK: 1
+Catmandu-Adlib:
+  PIETERDP: 1
 Catmandu-AlephX:
   NJFRANCK: 1
 Catmandu-ArXiv:
@@ -12941,6 +12957,8 @@ Catmandu-Fix-Datahub:
   PIETERDP: 1
 Catmandu-Fix-Date:
   NJFRANCK: 1
+Catmandu-Fix-File:
+  NJFRANCK: 1
 Catmandu-Fix-XML:
   NJFRANCK: 1
 Catmandu-Fix-cmd:
@@ -12966,7 +12984,7 @@ Catmandu-Inspire:
 Catmandu-LDAP:
   NICS: 1
 Catmandu-LIDO:
-  NETSENSEI: 1
+  PIETERDP: 1
 Catmandu-MAB2:
   JOROL: 1
 Catmandu-MARC:
@@ -13003,6 +13021,8 @@ Catmandu-RIS:
   VPEIL: 1
 Catmandu-RKD:
   PIETERDP: 1
+Catmandu-Resolver:
+  PIETERDP: 1
 Catmandu-SFX:
   HOCHSTEN: 1
 Catmandu-SRU:
@@ -13030,8 +13050,6 @@ Catmandu-Store-Lucy:
 Catmandu-Store-MongoDB:
   NICS: 1
 Catmandu-Store-RKD:
-  PIETERDP: 1
-Catmandu-Store-Resolver:
   PIETERDP: 1
 Catmandu-Template:
   VPEIL: 1
@@ -14676,6 +14694,8 @@ Compress-Deflate7:
   BJOERN: 1
 Compress-Huffman:
   BKB: 1
+Compress-Huffman-Binary:
+  BKB: 1
 Compress-LZ4:
   GRAY: 1
 Compress-LZ4Frame:
@@ -14743,7 +14763,7 @@ Config-Abstract:
 Config-Ant:
   SNKWATT: 1
 Config-Any:
-  BRICAS: 1
+  HAARG: 1
 Config-Any-CSV:
   VOJ: 1
 Config-Any-Log4perl:
@@ -15273,6 +15293,8 @@ Convert-Dayi:
   CORNELIUS: 1
 Convert-EBCDIC:
   CXL: 1
+Convert-EDS-XDD:
+  ATHREEF: 1
 Convert-EastAsianWidth:
   AUDREYT: 1
 Convert-Ethiopic:
@@ -17917,6 +17939,8 @@ Dancer2-Plugin-Database:
   BIGPRESH: 1
 Dancer2-Plugin-Deferred:
   YANICK: 1
+Dancer2-Plugin-EditFile:
+  JACKB: 1
 Dancer2-Plugin-ElasticSearch:
   WEBORAMA: 1
 Dancer2-Plugin-Email:
@@ -18025,6 +18049,8 @@ Dancer2-Serializer-CBOR:
   XSAWYERX: 1
 Dancer2-Serializer-JSONMaybeXS:
   DBOOK: 1
+Dancer2-Serializer-XML:
+  IGIBBS: 1
 Dancer2-Session-CGISession:
   PVIGIER: 1
 Dancer2-Session-Cookie:
@@ -23009,6 +23035,8 @@ Email-Address-List:
   ALEXMV: 1
 Email-Address-Loose:
   TOMITA: 1
+Email-Address-XS:
+  PALI: 1
 Email-AddressParser:
   AWKAY: 1
 Email-Archive:
@@ -23435,6 +23463,8 @@ Env-Sanctify-Auto:
   FREQUENCY: 1
 Env-Sanctify-Moosified:
   BINGOS: 1
+Env-ShellWords:
+  PLICEASE: 1
 EnvDir:
   YSASAKI: 1
 Envy:
@@ -23935,6 +23965,8 @@ FSA-Engine:
   ICYDEE: 1
 FSA-Rules:
   DWHEELER: 1
+FSM-Basic:
+  FDULAU: 1
 FSM-Simple:
   KOSCIELNY: 1
 FSM-Tiny:
@@ -25751,6 +25783,7 @@ Fuse-TagLayer:
 FuseBead-From-PNG:
   GAUDEON: 1
 FusionInventory-Agent:
+  GBOUGARD: 1
   GONERI: 1
   GROUSSE: 1
 FusqlFS:
@@ -26655,6 +26688,8 @@ Geo-Coordinates-Converter:
   YAPPO: 1
 Geo-Coordinates-Converter-Format-Geohash:
   YAPPO: 1
+Geo-Coordinates-Converter-LV03:
+  RENE: 1
 Geo-Coordinates-Converter-iArea:
   TOKUHIROM: 1
 Geo-Coordinates-DecimalDegrees:
@@ -27294,6 +27329,8 @@ Git-Release:
   CORNELIUS: 1
 Git-ReleaseRepo:
   PREACTION: 1
+Git-Repo-Commits:
+  JMERELO: 1
 Git-Repository:
   BOOK: 1
 Git-Repository-FileHistory:
@@ -32356,7 +32393,7 @@ LWP-Protocol-http-SocksChain10:
 LWP-Protocol-http10:
   GAAS: 1
 LWP-Protocol-https:
-  MSCHILLI: 1
+  OALDERS: 1
 LWP-Protocol-https-SocksChain:
   GOSHA: 1
 LWP-Protocol-https-SocksChain10:
@@ -32761,6 +32798,8 @@ Liberty-Parser:
   YORKWU: 1
 Library-CallNumber-LC:
   DBWELLS: 1
+LibreDTE-SDK:
+  DELAF: 1
 Libssh-Session:
   QGARNIER: 1
 License-Syntax:
@@ -34762,7 +34801,7 @@ Log-Log4perl-Appender-Lim-CLI:
 Log-Log4perl-Appender-Lumberjack:
   BENNING: 1
 Log-Log4perl-Appender-RabbitMQ:
-  BUNDACIA: 1
+  ABRAXXA: 1
 Log-Log4perl-Appender-Raven:
   JETEVE: 1
 Log-Log4perl-Appender-SMTP:
@@ -36591,6 +36630,8 @@ Math-Pari:
   modules: 1
 Math-PartialOrder:
   MOOCOW: 1
+Math-Partition-Rand:
+  GENE: 1
 Math-PercentChange:
   MBAAS: 1
 Math-Permute-Array:
@@ -38689,7 +38730,7 @@ Mojolicious-Plugin-OAuth2-Server:
 Mojolicious-Plugin-OnFork:
   GRAF: 1
 Mojolicious-Plugin-OpenAPI:
-  ASHIMEMA: 1
+  JHTHORSEN: 1
 Mojolicious-Plugin-PDFRenderer:
   AMIRITE: 1
 Mojolicious-Plugin-PPI:
@@ -40218,6 +40259,8 @@ NIST-NVD:
   NIST-NVD: 1
 NIST-NVD-Store-SQLite3:
   NIST-NVD: 1
+NKTI-general:
+  YUSRIDEB: 1
 NL-File-Lock:
   NICKOLA: 1
 NLP-GATE:
@@ -47236,6 +47279,8 @@ Pipeline:
   RCLAMP: 1
 Pipeline-Config:
   SPURKIS: 1
+Piper:
+  EHLERS: 1
 Pipeworks:
   JANUS: 1
 Pistachio:
@@ -48859,6 +48904,8 @@ Proc-Watchdog:
   LUISMUNOZ: 1
 Proc-tored:
   JEFFOBER: 1
+Proc-tored-Pool:
+  JEFFOBER: 1
 Process:
   ADAMK: 1
 Process-Async:
@@ -49800,7 +49847,7 @@ RT-Extension-NotifyOwners:
 RT-Extension-OneClickClose:
   HOFSTETTM: 1
 RT-Extension-OneTimeTo:
-  BPS: 1
+  ALEXMV: 1
 RT-Extension-ParentTimeWorked:
   ALEXMV: 1
 RT-Extension-PermissiveHTMLMail:
@@ -50460,6 +50507,8 @@ Require-Hook-DzilBuild:
 Require-Hook-MetaCPAN:
   PERLANCAR: 1
 Require-Hook-Noop:
+  PERLANCAR: 1
+Require-HookChain:
   PERLANCAR: 1
 Resource-Dispose:
   DEXTER: 1
@@ -53699,6 +53748,8 @@ String-Similarity:
   MLEHMANN: 1
 String-Similarity-Group:
   LEOCHARRE: 1
+String-Similex:
+  BIAFRA: 1
 String-Simrank:
   SHURIKO: 1
 String-Slice:
@@ -54233,6 +54284,8 @@ Syntax-Keyword-Gather:
   FREW: 1
 Syntax-Keyword-Junction:
   FREW: 1
+Syntax-Keyword-RawQuote:
+  ARODLAND: 1
 Syntax-Keyword-Try:
   PEVANS: 1
 Syntax-Keyword-Val:
@@ -55101,6 +55154,8 @@ TaskForest:
   TaskForest: 1
 Tasks:
   SERGEY: 1
+Taskwarrior-Kusarigama:
+  YANICK: 1
 Tatsumaki:
   MIYAGAWA: 1
 Tatsumaki-Service-XMPP:
@@ -58641,6 +58696,8 @@ TextMate-JumpTo:
   ANDYA: 1
 TextStructured:
   PSHARPE: 1
+Textoola:
+  SADIB: 1
 ThaiSchema:
   TOKUHIROM: 1
 The-Net:
@@ -63007,6 +63064,8 @@ WWW-phpBB:
   STEFANT: 1
 WWW-phpBB-Mod-Installer:
   ICLARK: 1
+WWW-phpEasyProject:
+  PERLANCAR: 1
 WWW-xkcd:
   XSAWYERX: 1
 Waft:
@@ -63434,6 +63493,8 @@ WebService-FileCloud:
   DEFCON: 1
 WebService-FindMyiPhone:
   MIKEGRB: 1
+WebService-Fitbit:
+  OALDERS: 1
 WebService-Flattr:
   TOMHUKINS: 1
 WebService-Flixster:
@@ -64720,7 +64781,7 @@ WordPress-Plugin-WallFlower:
 WordPress-Post:
   LEOCHARRE: 1
 WordPress-XMLRPC:
-  LEOCHARRE: 1
+  IGIBBS: 1
 Wordnet-SenseSearch:
   DBRIAN: 1
 WorePAN:
