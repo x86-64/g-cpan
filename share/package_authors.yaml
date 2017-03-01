@@ -758,6 +758,8 @@ Acme-Dice:
   BOFTX: 1
 Acme-DieOnLoad:
   ETHER: 1
+Acme-DoOrDie:
+  BLGL: 1
 Acme-Don-t:
   DCONWAY: 1
 Acme-DonMartin:
@@ -2143,8 +2145,6 @@ Alien-FFCall:
   DCMERTENS: 1
 Alien-FFI:
   PLICEASE: 1
-Alien-FFTW3:
-  ZOWIE: 1
 Alien-FLTK:
   SANKO: 1
 Alien-FreeImage:
@@ -5581,6 +5581,8 @@ App-Unicheck-Modules-MySQL:
   MKRULL: 1
 App-Unicheck-Modules-Redis:
   MKRULL: 1
+App-UnifdefPlus:
+  Preprocessor: 1
 App-UniqFiles:
   PERLANCAR: 1
 App-Unix-RPasswd:
@@ -5898,6 +5900,8 @@ App-lcpan-CmdBundle-nearest:
 App-lcpan-CmdBundle-rt:
   PERLANCAR: 1
 App-lcpan-CmdBundle-sah:
+  PERLANCAR: 1
+App-lcpan-CmdBundle-sco:
   PERLANCAR: 1
 App-lcpan-CmdBundle-ver:
   PERLANCAR: 1
@@ -7224,6 +7228,8 @@ Authorization-RBAC:
   DAB: 1
 Authorize-Rule:
   XSAWYERX: 1
+Auto-Mata:
+  JEFFOBER: 1
 AutoCode:
   JUGUANG: 1
 AutoCurry:
@@ -7250,6 +7256,8 @@ Aviation-Report:
   JBRIGGS: 1
 Aw:
   DYACOB: 1
+Aws-Polly-Select:
+  PRBRENAN: 1
 AxKit-App-Gallery:
   NIKC: 1
 AxKit-App-TABOO:
@@ -7516,6 +7524,8 @@ BZ-Client:
   DJZORT: 1
 BZFlag-Info:
   TUCKERM: 1
+Baal-Parser:
+  SHOGO: 1
 Babble:
   ALGERNON: 1
 BabelObjects:
@@ -8564,6 +8574,8 @@ Bot-BasicBot-Pluggable-Module-SimpleBlog:
   KAKE: 1
 Bot-BasicBot-Pluggable-Module-Spotify:
   EDOARDO: 1
+Bot-BasicBot-Pluggable-Module-StripFormatting:
+  BIGPRESH: 1
 Bot-BasicBot-Pluggable-Module-SubReddit:
   JKG: 1
 Bot-BasicBot-Pluggable-Module-Tea:
@@ -9559,7 +9571,7 @@ Business-TW-TSIB-CStorePayment:
 Business-TW-TSIB-VirtualAccount:
   CORNELIUS: 1
 Business-Tax-Avalara:
-  KATE: 1
+  KOLIBRIE: 1
 Business-Tax-Canada:
   AGRUNDMA: 1
   SSIMMS: 1
@@ -11128,6 +11140,8 @@ CPANPLUS-Test-Dummy-UsesScript:
   BINGOS: 1
 CPANPLUS-YACSmoke:
   BINGOS: 1
+CPANTS-Kwalitee-Report:
+  MANWAR: 1
 CPANTS-Weight:
   ADAMK: 1
 CPANXR:
@@ -12069,8 +12083,6 @@ Catalyst-Plugin-Authentication-Store-DBIC:
   MSTROUT: 1
 Catalyst-Plugin-Authentication-Store-HTTP:
   TYPESTER: 1
-Catalyst-Plugin-Authentication-Store-Htpasswd:
-  DKAMHOLZ: 1
 Catalyst-Plugin-Authentication-Store-RDBO:
   UVOELKER: 1
 Catalyst-Plugin-Authorization-ACL:
@@ -16433,7 +16445,7 @@ DBIx-Class-EasyConf-YAML:
 DBIx-Class-EasyFixture:
   OVID: 1
 DBIx-Class-ElasticSync:
-  MOVEAX: 1
+  JEGADE: 1
 DBIx-Class-EncodeColumns:
   ESSKAR: 1
 DBIx-Class-EncodedColumn:
@@ -18278,6 +18290,8 @@ Data-Dataset-Classic:
   PABLROD: 1
 Data-Debug:
   GEISTBERG: 1
+Data-Decimate:
+  BINARY: 1
 Data-Decode:
   DMAKI: 1
 Data-Decycle:
@@ -18481,6 +18495,7 @@ Data-Focus:
 Data-Form-Elements:
   PLURAL: 1
 Data-FormValidator:
+  DFARRELL: 1
   MARKSTOS: 1
 Data-FormValidator-Constraints-CreditCard:
   GTERMARS: 1
@@ -19572,6 +19587,8 @@ Date-Business:
   DESIMINER: 1
 Date-Calc:
   STBEY: 1
+Date-Calc-Endpoints:
+  OLENCHUK: 1
 Date-Calc-Iterator:
   BRONTO: 1
 Date-Calc-XS:
@@ -21109,8 +21126,12 @@ Device-USB-MissileLauncher-RocketBaby:
   PEN: 1
 Device-USB-PCSensor-HidTEMPer:
   MSULLAND: 1
+Device-USB-PX1674:
+  PILGRIM: 1
 Device-USB-PanicButton:
   BKENDI: 1
+Device-USB-TEMPer1F:
+  PILGRIM: 1
 Device-USB-TranceVibrator:
   HIROSE: 1
 Device-USBAsync:
@@ -33453,7 +33474,7 @@ Lingua-SWE-Num2Word:
 Lingua-SWE-Word2Num:
   PETAMEM: 1
 Lingua-Sentence:
-  ACHIMRU: 1
+  CAPOEIRAB: 1
 Lingua-Shakespeare:
   GBARR: 1
 Lingua-Sindarin-Dictionary:
@@ -34467,8 +34488,6 @@ Locale-TextDomain-OO-Extract-Xslate:
   HJANSEN: 1
 Locale-TextDomain-OO-Util:
   STEFFENW: 1
-Locale-TextDomain-Ties:
-  STEFFENW: 1
 Locale-TextDomain-UTF8:
   SHARYANTO: 1
 Locale-Tie:
@@ -34541,7 +34560,7 @@ Log-Any-Adapter-Catalyst:
 Log-Any-Adapter-Daemontools:
   NERDVANA: 1
 Log-Any-Adapter-Dispatch:
-  JSWARTZ: 1
+  PREACTION: 1
 Log-Any-Adapter-Dupstd:
   IVANYCH: 1
 Log-Any-Adapter-FileHandle:
@@ -36298,9 +36317,9 @@ Math-Brent:
   JGAMBLE: 1
 Math-Business-BlackScholes:
   ANDERS: 1
-Math-Business-BlackScholes-Binaries:
-  BINARY: 1
 Math-Business-BlackScholes-Binaries-Greeks:
+  BINARY: 1
+Math-Business-Blackscholes-Binaries:
   BINARY: 1
 Math-Business-Stochastic:
   YUKINOBU: 1
@@ -36908,6 +36927,8 @@ Math-Wavelet-Haar:
   SIMCOP: 1
 Math-Window2Viewport:
   JEFFA: 1
+Math-Yapp:
+  JASALOMON: 1
 Math-Zap:
   PRBRENAN: 1
 Math-decNumber:
@@ -38413,6 +38434,8 @@ Mojolicious-Plugin-AssetPack:
   JHTHORSEN: 1
 Mojolicious-Plugin-AssetPack-Backcompat:
   JHTHORSEN: 1
+Mojolicious-Plugin-AssetPack-Che:
+  MCHE: 1
 Mojolicious-Plugin-AttributeMaker:
   HAMMER: 1
 Mojolicious-Plugin-Authentication:
@@ -41062,6 +41085,8 @@ Net-Eboks:
   KARASIK: 1
 Net-Elexol-EtherIO24:
   CHRISY: 1
+Net-Enum-DNSServer:
+  SMS: 1
 Net-Evernote:
   DMC: 1
 Net-Evernote-Simple:
@@ -44094,6 +44119,8 @@ PDF-Template:
   RKINYON: 1
 PDF-TextBlock:
   JHANNAH: 1
+PDF-Tiny:
+  SPROUT: 1
 PDF-Tk:
   MRAMBERG: 1
 PDF-WebKit:
@@ -44293,7 +44320,7 @@ PGObject-Type-DateTime:
 PGObject-Type-JSON:
   EINHVERFR: 1
 PGObject-Util-BulkLoad:
-  EINHVERFR: 1
+  BINARY: 1
 PGObject-Util-Catalog-Types:
   EINHVERFR: 1
 PGObject-Util-DBAdmin:
@@ -47289,6 +47316,8 @@ Pithub:
   OALDERS: 1
 PixieLdap:
   PIXIE: 1
+PkgConfig:
+  PLICEASE: 1
 PkgConfig-LibPkgConf:
   PLICEASE: 1
 PkgForge:
@@ -53974,6 +54003,8 @@ Sub-Lazy:
   TOBYINK: 1
 Sub-Lexical:
   BROQ: 1
+Sub-Lib:
+  PRAVUS: 1
 Sub-Lvalue:
   MONS: 1
 Sub-Mage:
@@ -54379,7 +54410,7 @@ Sys-Mknod:
 Sys-Mlockall:
   CRAKRJACK: 1
 Sys-Mmap:
-  TODDR: 1
+  SWALTERS: 1
 Sys-OutPut:
   AKSTE: 1
 Sys-PageCache:
@@ -54677,6 +54708,8 @@ TXTCOD:
   ALAMAZ: 1
 Table-ParentChild:
   MIKEWONG: 1
+Table-Readable:
+  BKB: 1
 Table-Simple:
   MALLEN: 1
 TableData-Object:
@@ -55833,6 +55866,8 @@ Term-ANSIMenu:
   JADEV: 1
 Term-ANSIScreen:
   AUDREYT: 1
+Term-ANSITable:
+  MZIESCHA: 1
 Term-Activity:
   BENNIE: 1
 Term-Animation:
@@ -56285,8 +56320,6 @@ Test-Cukes:
   GUGOD: 1
 Test-DBGp:
   MBARBON: 1
-Test-DBIC:
-  KOLIBRIE: 1
 Test-DBIC-ExpectedQueries:
   JOHANL: 1
 Test-DBIC-SQLite:
@@ -58178,6 +58211,8 @@ Text-Normalize-NACO:
   BRICAS: 1
 Text-Number:
   FIXLER: 1
+Text-Numbers-100:
+  PRBRENAN: 1
 Text-NumericData:
   THORGIS: 1
 Text-NumericList:
@@ -58483,6 +58518,7 @@ Text-Tags:
   GLASSER: 1
 Text-Template:
   MJD: 1
+  MSCHOUT: 1
 Text-Template-Compact:
   TATE: 1
 Text-Template-Inline:
@@ -64895,6 +64931,8 @@ Wx-WidgetMaker:
   SLANNING: 1
 X-Osd:
   GOZER: 1
+X-Tiny:
+  FELIPE: 1
 X10:
   ROBF: 1
 X10-Home:
@@ -66257,6 +66295,8 @@ ZMQ-LibZMQ2:
   DMAKI: 1
 ZMQ-LibZMQ3:
   DMAKI: 1
+ZMQ-LibZMQ3-LibZMQ2:
+  BINARY: 1
 ZMQ-LibZMQ4:
   MOSCONI: 1
 ZMQx-Class:
@@ -66528,6 +66568,8 @@ cmt-libchm:
   LENIK: 1
 cnutt-feed:
   IDERRICK: 1
+code-UnifdefPlus:
+  Preprocessor: 1
 combine:
   AARDO: 1
 common-sense:
