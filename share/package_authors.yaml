@@ -1013,6 +1013,8 @@ Acme-Machi:
   UINTAHORN: 1
 Acme-Madness:
   URI: 1
+Acme-MadokaMagica:
+  ANATOFUZ: 1
 Acme-Magic-Pony:
   JLAVALLEE: 1
 Acme-Magic8Ball:
@@ -4228,6 +4230,8 @@ App-CPANIDX:
   BINGOS: 1
 App-CPANIDX-HTTP-Server:
   BINGOS: 1
+App-CPANMetaUtils:
+  PERLANCAR: 1
 App-CPANRepo:
   SONGMU: 1
 App-CPANTS-Lint:
@@ -5599,8 +5603,6 @@ App-VTide:
   IVANWILLS: 1
 App-VW:
   BEPPU: 1
-App-ValidateCPANMetaWithSah:
-  PERLANCAR: 1
 App-Validation-Automation:
   LIBVENUS: 1
 App-VersionUtils:
@@ -5987,6 +5989,8 @@ App-nrun:
   TBENK: 1
 App-numspeed:
   PERLANCAR: 1
+App-oaf:
+  SHAW: 1
 App-olson:
   ZEFRAM: 1
 App-opan:
@@ -7556,6 +7560,8 @@ Backup-EZ:
   GRAVATTJ: 1
 Backup-Omni:
   KESTEB: 1
+BackupPC-XS:
+  CBARRATT: 1
 Bad-Words:
   MIKER: 1
 Badge-Depot:
@@ -7696,9 +7702,13 @@ Bencher-Scenario-BigInt:
   PERLANCAR: 1
 Bencher-Scenario-Bless:
   PERLANCAR: 1
+Bencher-Scenario-CPANMetaValidation:
+  PERLANCAR: 1
 Bencher-Scenario-CmdLineParsingModules:
   PERLANCAR: 1
 Bencher-Scenario-ComparisonOps:
+  PERLANCAR: 1
+Bencher-Scenario-Digest:
   PERLANCAR: 1
 Bencher-Scenario-DigestMD5:
   PERLANCAR: 1
@@ -8264,6 +8274,8 @@ Bio-Prospect:
   REECE: 1
 Bio-Protease:
   BRUNOV: 1
+Bio-RNA-RNAaliSplit:
+  MTW: 1
 Bio-RNA-SpliceSites-Scoring-MaxEntScan:
   BRYKETOS: 1
 Bio-Regexp:
@@ -14418,6 +14430,8 @@ Clutter:
   EBASSI: 1
 Cmd-Dwarf:
   SEAGIRL: 1
+Cmd-Interpreter:
+  OAKULIKOV: 1
 CmdArguments:
   NAVNEET: 1
 Cmenu:
@@ -17903,6 +17917,8 @@ Dancer2-Plugin-Articulate:
   PERRETTDL: 1
 Dancer2-Plugin-Auth-ActiveDirectory:
   MZIESCHA: 1
+Dancer2-Plugin-Auth-CAS:
+  JSTEBENS: 1
 Dancer2-Plugin-Auth-Extensible:
   HORNBURG: 1
 Dancer2-Plugin-Auth-Extensible-Provider-ActiveDirectory:
@@ -19816,6 +19832,8 @@ Date-Time2fmtstr:
 Date-Tiny:
   DAGOLDEN: 1
 Date-Tolkien-Shire:
+  WYANT: 1
+Date-Tolkien-Shire-Data:
   WYANT: 1
 Date-Transform:
   CTBROWN: 1
@@ -23030,6 +23048,8 @@ Elastijk:
   GUGOD: 1
 Elive:
   WARRINGD: 1
+Eliza-Chatbot:
+  LNATION: 1
 Emacs-EPL:
   JTOBEY: 1
 Emacs-PDE:
@@ -23382,6 +23402,10 @@ Encode-Multibyte-Detect:
   SILENCER: 1
 Encode-Newlines:
   NEILB: 1
+Encode-Positive-Digits:
+  PRBRENAN: 1
+Encode-Positive-Pairs:
+  PRBRENAN: 1
 Encode-Punycode:
   CFAERBER: 1
 Encode-RAD50:
@@ -23404,6 +23428,8 @@ Encode-UTR22:
   MHOSKEN: 1
 Encode-Unicode-Japanese:
   HIO: 1
+Encode-Unicode-PerlDecodeJava:
+  PRBRENAN: 1
 Encode-VN:
   JWANG: 1
 Encode-Wechsler:
@@ -23518,6 +23544,8 @@ Error-Hierarchy:
   MARCEL: 1
 Error-Pure:
   SKIM: 1
+Error-Pure-ANSIColor:
+  SKIM: 1
 Error-Pure-Always:
   SKIM: 1
 Error-Pure-HTTP:
@@ -23527,6 +23555,8 @@ Error-Pure-HTTP-JSON:
 Error-Pure-JSON:
   SKIM: 1
 Error-Pure-NoDie:
+  SKIM: 1
+Error-Pure-Output-ANSIColor:
   SKIM: 1
 Error-Pure-Output-JSON:
   SKIM: 1
@@ -29845,6 +29875,10 @@ HiD-Generator-Sass:
   DUCKS: 1
 HiPi:
   MDOOTSON: 1
+HiPi-BCM2835:
+  MDOOTSON: 1
+HiPi-Wiring:
+  MDOOTSON: 1
 Hibiscus-XMLRPC:
   CORION: 1
 Hijk:
@@ -32432,7 +32466,7 @@ LWP-Simple-Cookies:
 LWP-Simple-Post:
   SARGIE: 1
 LWP-Simple-REST:
-  GONCALES: 1
+  RECSKY: 1
 LWP-Simple-WithCache:
   LEEYM: 1
 LWP-UserAgent-Anonymous:
@@ -33737,6 +33771,8 @@ Linux-LVM:
   RAYMOR: 1
 Linux-LVM2:
   TEX: 1
+Linux-LXC:
+  SPYDEMON: 1
 Linux-MemInfo:
   CKERNER: 1
 Linux-Mounts:
@@ -34723,6 +34759,8 @@ Log-Dispatch-SNMP:
   GARU: 1
 Log-Dispatch-Screen-Color:
   YAPPO: 1
+Log-Dispatch-Screen-Gentoo:
+  XSAWYERX: 1
 Log-Dispatch-Scribe:
   JJSCHUTZ: 1
 Log-Dispatch-Slack:
@@ -38434,8 +38472,6 @@ Mojolicious-Plugin-AssetPack:
   JHTHORSEN: 1
 Mojolicious-Plugin-AssetPack-Backcompat:
   JHTHORSEN: 1
-Mojolicious-Plugin-AssetPack-Che:
-  MCHE: 1
 Mojolicious-Plugin-AttributeMaker:
   HAMMER: 1
 Mojolicious-Plugin-Authentication:
@@ -39172,6 +39208,8 @@ MooX-Role-Chatty:
   CBAIL: 1
 MooX-Role-CloneSet:
   ROAM: 1
+MooX-Role-CryptedPassword:
+  ABELTJE: 1
 MooX-Role-DependsOn:
   AVENJ: 1
 MooX-Role-Logger:
@@ -39212,6 +39250,8 @@ MooX-Types-MooseLike-Numeric:
   MATEU: 1
 MooX-Types-SetObject:
   MATEU: 1
+MooX-VariantAttribute:
+  LNATION: 1
 MooX-late:
   TOBYINK: 1
 MoobX:
@@ -39227,6 +39267,8 @@ Moonshine-Component:
 Moonshine-Element:
   LNATION: 1
 Moonshine-Magic:
+  LNATION: 1
+Moonshine-Parser:
   LNATION: 1
 Moonshine-Template:
   LNATION: 1
@@ -40383,6 +40425,8 @@ Namespace-Dispatch:
   SHELLING: 1
 Namespace-Pollute:
   SBLANTON: 1
+NanoB2B-NER:
+  CHARITYML: 1
 NanoMsg-Raw:
   BORISZ: 1
 Narada:
@@ -43685,6 +43729,8 @@ OpenFrame-WebApp:
   SPURKIS: 1
 OpenGL:
   CHM: 1
+OpenGL-Array:
+  CHM: 1
 OpenGL-Earth:
   COSIMO: 1
 OpenGL-FTGL:
@@ -43692,6 +43738,8 @@ OpenGL-FTGL:
 OpenGL-GLM:
   JCHIN: 1
 OpenGL-GLU:
+  CHM: 1
+OpenGL-GLUT:
   CHM: 1
 OpenGL-Image:
   BFREE: 1
@@ -46291,6 +46339,8 @@ Pcore-API-Moz:
   ZDM: 1
 Pcore-API-Namecheap:
   ZDM: 1
+Pcore-API-ReCaptcha:
+  ZDM: 1
 Pcore-API-Whois:
   ZDM: 1
 Pcore-Captcha:
@@ -48351,6 +48401,8 @@ Pod-Simple-XHTML-BlendedCode:
   CSJEWELL: 1
 Pod-Simple-XHTML-WithHighlightConfig:
   HAARG: 1
+Pod-Simpler-Aoh:
+  LNATION: 1
 Pod-Site:
   DWHEELER: 1
 Pod-Snippets:
@@ -54170,7 +54222,7 @@ Surveyor-Benchmark-SchwartzianTransform-SortFilesBySize:
 Svsh:
   IDOPEREL: 1
 Swagger2:
-  ASHIMEMA: 1
+  JHTHORSEN: 1
 Swagger2-Markdown:
   LEEJO: 1
 Sweet-Home:
@@ -54459,6 +54511,8 @@ Sys-Signal:
   DOUGM: 1
 Sys-Signals-Block:
   MSCHOUT: 1
+Sys-Simple:
+  RECSKY: 1
 Sys-Statgrab:
   RYBSKEJ: 1
 Sys-Statistics-Linux:
@@ -57141,6 +57195,8 @@ Test-Routine:
   RJBS: 1
 Test-Routine-AutoClear:
   PDCAWLEY: 1
+Test-Rsyslog:
+  DDICK: 1
 Test-Run:
   SHLOMIF: 1
 Test-Run-CmdLine:
@@ -63255,6 +63311,8 @@ Web-Request-Role-JSON:
   DOMM: 1
 Web-Request-Role-Response:
   DOMM: 1
+Web-SIVA:
+  JMERELO: 1
 Web-Scaffold:
   MIKER: 1
 Web-Scraper:
