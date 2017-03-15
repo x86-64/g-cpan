@@ -372,6 +372,8 @@ Acme-APHILIPP-Utils:
   APHILIPP: 1
 Acme-ARUHI-Utils:
   ARUHI: 1
+Acme-AXP-Utils:
+  AXP: 1
 Acme-AbhiIsNot:
   ABHIISNOT: 1
 Acme-Acotie:
@@ -4511,6 +4513,8 @@ App-FileSummoner:
   MAIO: 1
 App-FileTools-BulkRename:
   SWESTRUP: 1
+App-FinanceUtils:
+  PERLANCAR: 1
 App-FindCallers:
   TADZIK: 1
 App-FishCompleteUtils:
@@ -11324,7 +11328,7 @@ Cache-Memcached:
 Cache-Memcached-AnyEvent:
   DMAKI: 1
 Cache-Memcached-Fast:
-  KROKI: 1
+  RAZ: 1
 Cache-Memcached-Fast-CGI:
   HITSU: 1
 Cache-Memcached-Fast-Logger:
@@ -16630,6 +16634,8 @@ DBIx-Class-Result-ProxyField:
   NOUDARD: 1
 DBIx-Class-Result-Validation:
   NOUDARD: 1
+DBIx-Class-ResultClass-CallbackInflator:
+  JJNAPIORK: 1
 DBIx-Class-ResultClass-HashRefInflator-UTF8:
   AKZHAN: 1
 DBIx-Class-ResultSet-AccessorsEverywhere:
@@ -16642,8 +16648,12 @@ DBIx-Class-ResultSet-Faceter:
   GPHAT: 1
 DBIx-Class-ResultSet-HashRef:
   RBO: 1
+DBIx-Class-ResultSet-ModifyMethods:
+  JJNAPIORK: 1
 DBIx-Class-ResultSet-RecursiveUpdate:
   GSHANK: 1
+DBIx-Class-ResultSet-SetControl:
+  JJNAPIORK: 1
 DBIx-Class-ResultSet-Void:
   FAYLAND: 1
 DBIx-Class-ResultSet-WithMetaData:
@@ -17892,7 +17902,7 @@ Dancer-Template-Tiny:
 Dancer-Template-Xslate:
   RSIMOES: 1
 Dancer2:
-  XSAWYERX: 1
+  CROMEDOME: 1
 Dancer2-Debugger:
   SYSPETE: 1
 Dancer2-Logger-Console-Colored:
@@ -19403,6 +19413,8 @@ Data-Undump:
   RGARCIA: 1
 Data-Uniqid:
   MWX: 1
+Data-Unique-Name:
+  PRBRENAN: 1
 Data-Unixish:
   PERLANCAR: 1
 Data-Unixish-ANSI:
@@ -19576,9 +19588,9 @@ Database-DumpTruck:
 Database-Format-Text:
   DEVDOS: 1
 Database-Migrator:
-  DROLSKY: 1
+  MAXMIND: 1
 Database-Migrator-Pg:
-  DROLSKY: 1
+  MAXMIND: 1
 Database-Migrator-mysql:
   DROLSKY: 1
 Database-Schema-Config:
@@ -23700,6 +23712,8 @@ Exception-Reporter:
   RJBS: 1
 Exception-Reporter-Summarizer-Catalyst:
   RJBS: 1
+Exception-Reporter-Summarizer-PlackRequest:
+  WOLFSAGE: 1
 Exception-Resumable:
   SEANO: 1
 Exception-Simple:
@@ -24255,6 +24269,8 @@ File-Canonicalizer:
   RIVILISM: 1
 File-Cat:
   FIMM: 1
+File-Catalog:
+  PHIZ: 1
 File-ChangeNotify:
   DROLSKY: 1
 File-CheckTree:
@@ -27475,6 +27491,8 @@ Glib-Ex-ConnectProperties:
   KRYDE: 1
 Glib-Ex-ObjectBits:
   KRYDE: 1
+Glib-FindMinVersion:
+  ATHREEF: 1
 Glib-JSON:
   EBASSI: 1
 Glib-Object-Introspection:
@@ -28173,6 +28191,8 @@ HOP-Stream:
 HPC-Runner:
   JILLROWE: 1
 HPC-Runner-Command:
+  JILLROWE: 1
+HPC-Runner-Command-Utils-ManyConfigs:
   JILLROWE: 1
 HPC-Runner-Command-draw_deps:
   JILLROWE: 1
@@ -29143,6 +29163,8 @@ HTTP-AcceptLanguage:
   YAPPO: 1
 HTTP-Any:
   KNI: 1
+HTTP-AnyUA:
+  CCM: 1
 HTTP-AppServer:
   KITOMER: 1
 HTTP-Async:
@@ -37131,6 +37153,8 @@ MegaDistro:
   DBUCHMAN: 1
 Megagram-ResolveSRV:
   WILSOND: 1
+Megaport:
+  CDANIEL: 1
 MemHandle:
   SCR: 1
 MemcacheDB-Dump:
@@ -38472,6 +38496,8 @@ Mojolicious-Plugin-AssetPack:
   JHTHORSEN: 1
 Mojolicious-Plugin-AssetPack-Backcompat:
   JHTHORSEN: 1
+Mojolicious-Plugin-AssetPack-Che:
+  MCHE: 1
 Mojolicious-Plugin-AttributeMaker:
   HAMMER: 1
 Mojolicious-Plugin-Authentication:
@@ -38692,6 +38718,8 @@ Mojolicious-Plugin-JSONRPC2:
   POWERMAN: 1
 Mojolicious-Plugin-JSUrlFor:
   KOORCHIK: 1
+Mojolicious-Plugin-JSUrlFor-Angular:
+  MCHE: 1
 Mojolicious-Plugin-JavaScript-Console:
   RENEEB: 1
 Mojolicious-Plugin-Kavorka:
@@ -38927,7 +38955,7 @@ Mojolicious-Plugin-SimpleAuthorization:
 Mojolicious-Plugin-SimpleSession:
   JUSTIN: 1
 Mojolicious-Plugin-SimpleSlides:
-  SADAMS: 1
+  JBERGER: 1
 Mojolicious-Plugin-SizeLimit:
   GRAF: 1
 Mojolicious-Plugin-Sprite:
@@ -39178,6 +39206,8 @@ MooX-InsideOut:
   HAARG: 1
 MooX-Ipc-Cmd:
   CAZADOR: 1
+MooX-LazierAttributes:
+  LNATION: 1
 MooX-LazyRequire:
   HAARG: 1
 MooX-Log-Any:
@@ -39202,6 +39232,8 @@ MooX-PluginRoles:
   ZHTWN: 1
 MooX-ProtectedAttributes:
   CELOGEEK: 1
+MooX-ReturnModifiers:
+  LNATION: 1
 MooX-Role-CachedURL:
   NEILB: 1
 MooX-Role-Chatty:
@@ -39250,6 +39282,8 @@ MooX-Types-MooseLike-Numeric:
   MATEU: 1
 MooX-Types-SetObject:
   MATEU: 1
+MooX-ValidateSubs:
+  LNATION: 1
 MooX-VariantAttribute:
   LNATION: 1
 MooX-late:
@@ -41787,6 +41821,8 @@ Net-MW-API:
   SWUECHO: 1
 Net-MacMap:
   CLINTDW: 1
+Net-MachineLearning-Sample:
+  YHPENG: 1
 Net-Magrathea:
   GHENRY: 1
 Net-Mailboxlayer:
@@ -42876,6 +42912,8 @@ Net-Z3950-ZOOM:
   MIRK: 1
 Net-Zemanta:
   AVIAN: 1
+Net-Zendesk:
+  GARU: 1
 Net-ZooKeeper:
   MAF: 1
 Net-ZooKeeper-Lock:
@@ -46339,6 +46377,8 @@ Pcore-API-Moz:
   ZDM: 1
 Pcore-API-Namecheap:
   ZDM: 1
+Pcore-API-PayPal:
+  ZDM: 1
 Pcore-API-ReCaptcha:
   ZDM: 1
 Pcore-API-Whois:
@@ -46548,6 +46588,8 @@ Perinci-Sub-Gen-AccessTable:
 Perinci-Sub-Gen-AccessTable-DBI:
   PERLANCAR: 1
 Perinci-Sub-Gen-FromClass:
+  PERLANCAR: 1
+Perinci-Sub-Gen-FromFormulas:
   PERLANCAR: 1
 Perinci-Sub-GetArgs-Argv:
   PERLANCAR: 1
@@ -49078,6 +49120,8 @@ Protocol-CassandraCQL:
   PEVANS: 1
 Protocol-ControlChannel:
   TEAM: 1
+Protocol-FIX:
+  BINARY: 1
 Protocol-Gearman:
   PEVANS: 1
 Protocol-HTTP2:
@@ -49195,6 +49239,8 @@ QBit-Application-Model-DB-mysql:
   MADSKILL: 1
 QBit-Application-Model-DB-mysql-Authorization:
   MADSKILL: 1
+QBit-Application-Model-DB-mysql-KvStore:
+  MADSKILL: 1
 QBit-Application-Model-DB-mysql-RBAC:
   MADSKILL: 1
 QBit-Application-Model-DB-mysql-Table-MultistateActionLog:
@@ -49204,6 +49250,8 @@ QBit-Application-Model-DB-mysql-Users:
 QBit-Application-Model-DBManager:
   MADSKILL: 1
 QBit-Application-Model-DBManager-Users:
+  MADSKILL: 1
+QBit-Application-Model-KvStore:
   MADSKILL: 1
 QBit-Application-Model-Multistate:
   MADSKILL: 1
@@ -49676,6 +49724,8 @@ RPSL-Parser:
 RPerl:
   WBRASWELL: 1
 RPi-ADC-ADS:
+  STEVEB: 1
+RPi-ADC-MCP3008:
   STEVEB: 1
 RPi-BMP180:
   STEVEB: 1
@@ -51080,6 +51130,8 @@ SMS-Send-BulkSMS:
   MARIOCT: 1
 SMS-Send-CSoft:
   BEANZ: 1
+SMS-Send-CZ-Konzulta:
+  RADIUSCZ: 1
 SMS-Send-CZ-Neogate:
   RADIUSCZ: 1
 SMS-Send-CZ-Smsmidlet:
@@ -52943,6 +52995,8 @@ Sort-Hash:
   BRAINBUZ: 1
 Sort-Hash-Values:
   GLITCHMR: 1
+Sort-HashKeys:
+  ATHREEF: 1
 Sort-Key:
   SALVA: 1
 Sort-Key-DateTime:
@@ -58122,6 +58176,8 @@ Text-Levenshtein-Damerau:
   UGEXE: 1
 Text-Levenshtein-Damerau-XS:
   UGEXE: 1
+Text-Levenshtein-Edlib:
+  MGV: 1
 Text-Levenshtein-Flexible:
   MBETHKE: 1
 Text-Levenshtein-XS:
@@ -58918,7 +58974,7 @@ Thrift-API-HiveClient2:
 Thrift-Parser:
   EWATERS: 1
 Thrift-SASL-Transport:
-  DMOR: 1
+  BURAK: 1
 Thrift-XS:
   AGRUNDMA: 1
 Throw:
@@ -59114,8 +59170,6 @@ Tie-Coupler:
   UARUN: 1
 Tie-Cvs:
   AMBS: 1
-Tie-Cycle:
-  BDFOY: 1
 Tie-Cycle-Sinewave:
   DLAND: 1
 Tie-DBI:
@@ -60327,6 +60381,8 @@ Tree-Cladogram:
   RSAVAGE: 1
 Tree-Create-Callback:
   PERLANCAR: 1
+Tree-Create-DepthFirst:
+  RENE: 1
 Tree-Create-Size:
   PERLANCAR: 1
 Tree-DAG_Node:
@@ -63478,6 +63534,8 @@ WebService-BorisBikes:
   VICHOU: 1
 WebService-Box:
   RENEEB: 1
+WebService-Braintree:
+  ZARQUON: 1
 WebService-Browshot:
   JSOBRIER: 1
 WebService-Bukget:
@@ -63850,7 +63908,7 @@ WebService-Pandora:
 WebService-Pastefire:
   DELPHINUS: 1
 WebService-PayPal-NVP:
-  BRADH: 1
+  OALDERS: 1
 WebService-PayPal-PaymentsAdvanced:
   MAXMIND: 1
 WebService-PhotoZou:
@@ -64062,6 +64120,8 @@ WebService-Tesco-API:
   WBASSON: 1
 WebService-TestSystem:
   BRYCE: 1
+WebService-ThrowAwayMail:
+  LNATION: 1
 WebService-TicketAuth:
   BRYCE: 1
 WebService-Toggl:
@@ -66811,6 +66871,8 @@ experimental:
   LEONT: 1
 experimentals:
   DCONWAY: 1
+exported-constants:
+  ALBATROSS: 1
 expr_eval:
   PHOENIXL: 1
 extensible_report_generator:
