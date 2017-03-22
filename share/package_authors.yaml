@@ -58,6 +58,8 @@ ACME-PM-Voronezh:
   SANTERI: 1
 ACME-QuoteDB:
   DVWRIGHT: 1
+ACME-THEDANIEL-Utils:
+  THEDANIEL: 1
 ACME-YAPC-NA-2012:
   JARICH: 1
 ACME-ltharris:
@@ -2112,6 +2114,8 @@ Alien-Autotools:
 Alien-BWIPP:
   MCNEWTON: 1
 Alien-Base:
+  PLICEASE: 1
+Alien-Base-Wrapper:
   PLICEASE: 1
 Alien-BatToExeConverter:
   ADAMK: 1
@@ -4441,6 +4445,8 @@ App-DubiousHTTP:
 App-DuckPAN:
   DDG: 1
   MOOLLAZA: 1
+App-DumpFirefoxHistory:
+  PERLANCAR: 1
 App-DumpPERLANCARSampleTree:
   PERLANCAR: 1
 App-Duppy:
@@ -4767,6 +4773,8 @@ App-Kit:
   DMUEY: 1
 App-Koyomi:
   KEYAMB: 1
+App-Kritika:
+  VTI: 1
 App-LDAP:
   SHELLING: 1
 App-LJ:
@@ -6755,6 +6763,8 @@ Async-ResourcePool:
   TAG: 1
 Async-Selector:
   TOSHIOITO: 1
+Async-Simple-Pool:
+  ANTONC: 1
 Async-Util:
   WHITNEY: 1
 AsyncPing:
@@ -9914,7 +9924,7 @@ CGI-Application-Plugin-AnyTemplate:
 CGI-Application-Plugin-Apache:
   WONKO: 1
 CGI-Application-Plugin-Authentication:
-  SILASMONK: 1
+  WESM: 1
 CGI-Application-Plugin-Authentication-Driver-CDBI:
   ADOPTME: 1
 CGI-Application-Plugin-Authentication-Driver-DBIC:
@@ -13469,6 +13479,8 @@ Cindy-Apache2:
   JZOBEL: 1
 Cinnamon:
   SHIBAZAKI: 1
+Circle-Net-Matrix:
+  PEVANS: 1
 CircuitLayout:
   SCHUMACK: 1
 Cisco-ACL:
@@ -15299,6 +15311,8 @@ Convert-Cisco:
   MARKO: 1
 Convert-Color:
   PEVANS: 1
+Convert-Color-HSLuv:
+  MGV: 1
 Convert-Color-HUSL:
   MGV: 1
 Convert-Color-IRC:
@@ -19603,6 +19617,14 @@ Database-Wrapper:
   Wrapper: 1
 Datahub-Factory:
   PIETERDP: 1
+Datahub-Factory-KMSKA:
+  PIETERDP: 1
+Datahub-Factory-MSK:
+  PIETERDP: 1
+Datahub-Factory-PIDS:
+  PIETERDP: 1
+Datahub-Factory-VKC:
+  PIETERDP: 1
 Date-Advent:
   MARMANOLD: 1
 Date-Baha-i:
@@ -22482,6 +22504,8 @@ Dist-Zilla-PluginBundle-Author-XENO:
   XENO: 1
 Dist-Zilla-PluginBundle-Author-YAKEX:
   YAKEX: 1
+Dist-Zilla-PluginBundle-Author-ZMUGHAL:
+  ZMUGHAL: 1
 Dist-Zilla-PluginBundle-Author-ZOFFIX:
   ZOFFIX: 1
 Dist-Zilla-PluginBundle-BAREFOOT:
@@ -22745,7 +22769,7 @@ Document-TriPart-Cabinet:
 Document-Writer:
   GPHAT: 1
 Document-eSign-Docusign:
-  THARDISON: 1
+  GHENRY: 1
 Dokuwiki-RPC-XML-Client:
   MARCC: 1
 Domain-PublicSuffix:
@@ -23620,6 +23644,8 @@ Eve:
   ZINIGOR: 1
 EveOnline-Api:
   LEPREVOST: 1
+EveOnline-SSO:
+  CHIPSOID: 1
 Event:
   ETJ: 1
 Event-Distributor:
@@ -25618,6 +25644,8 @@ Forex:
   BPATEL: 1
 Fork-Promise:
   TYNOVSKY: 1
+Forks-Queue:
+  MOB: 1
 Forks-Super:
   MOB: 1
 Form-Diva:
@@ -28729,6 +28757,8 @@ HTML-Pen:
   TQISJIM: 1
 HTML-Perlinfo:
   ACCARDO: 1
+HTML-Persistent:
+  TTNDY: 1
 HTML-PhotoAlbum:
   NWIGER: 1
 HTML-Pictogram-MobileJp:
@@ -30035,6 +30065,8 @@ IDS-Utils:
   INGHAM: 1
 IETF-ACE:
   JBRIGGS: 1
+IHeartRadio-Streams:
+  TURNERJW: 1
 ILL-GS:
   DCHRIS: 1
 IM-Engine:
@@ -35628,6 +35660,8 @@ MacPerl-AppleScript:
   WKI: 1
 Machine-Epsilon:
   BINARY: 1
+Mackerel-ReleaseUtils:
+  SONGMU: 1
 Mackerel-Webhook-Receiver:
   SONGMU: 1
 Macrame:
@@ -38642,6 +38676,8 @@ Mojolicious-Plugin-FeedReader:
   DOTAN: 1
 Mojolicious-Plugin-FillInFormLite:
   UCHIKO: 1
+Mojolicious-Plugin-Foil:
+  RUBYKAT: 1
 Mojolicious-Plugin-ForkCart:
   BPMEDLEY: 1
 Mojolicious-Plugin-Form:
@@ -41853,6 +41889,8 @@ Net-Mogade:
   HALKEYE: 1
 Net-Moip:
   GARU: 1
+Net-Moip-V2:
+  CAFEGRATZ: 1
 Net-Mollom:
   WONKO: 1
 Net-Moo:
@@ -42806,6 +42844,8 @@ Net-Wake:
   CLINTDW: 1
 Net-WebCL:
   KAZUNORI: 1
+Net-WebSocket:
+  FELIPE: 1
 Net-WebSocket-EV:
   NYAKNYAN: 1
 Net-WebSocket-Server:
@@ -46392,6 +46432,8 @@ Pcore-ExtJS:
 Pcore-GeoIP:
   ZDM: 1
 Pcore-Nginx:
+  ZDM: 1
+Pcore-PDF:
   ZDM: 1
 Pcore-PgSQL:
   ZDM: 1
@@ -51369,7 +51411,7 @@ SPOPSx-Tool-YAML:
 SQ:
   SHLOMIF: 1
 SQL-Abstract:
-  RIBASUSHI: 1
+  ILMARI: 1
 SQL-Abstract-Builder:
   TRON: 1
 SQL-Abstract-Complete:
@@ -52581,6 +52623,8 @@ Siesta:
   RCLAMP: 1
 Siesta-Plugin-MetaDiscussion:
   SIMONW: 1
+Sietima:
+  DAKKAR: 1
 Sig-PackageScoped:
   DROLSKY: 1
 SigAction-SetCallBack:
@@ -53291,6 +53335,8 @@ Starch:
   BLUEFEET: 1
 Starch-Plugin-Net-Statsd:
   BLUEFEET: 1
+Starch-Plugin-SecureStateID:
+  HANENKAMP: 1
 Starch-Plugin-Sereal:
   BLUEFEET: 1
 Starch-Plugin-TimeoutStore:
@@ -53907,6 +53953,8 @@ String-StringLight:
   HAVI: 1
 String-Strip:
   PHRED: 1
+String-Substitute:
+  NMBOOKER: 1
 String-Substitution:
   RWSTAUNER: 1
 String-Substrings:
@@ -54702,8 +54750,6 @@ TAP-Harness-Remote-EC2:
   ALEXMV: 1
 TAP-Harness-Restricted:
   DAGOLDEN: 1
-TAP-Parser:
-  ANDYA: 1
 TAP-Parser-SourceHandler-MyTAP:
   DWHEELER: 1
 TAP-Parser-SourceHandler-PHP:
@@ -56706,7 +56752,6 @@ Test-HTTP-Server-Simple-StashWarnings:
 Test-HTTPStatus:
   BDFOY: 1
 Test-Harness:
-  ANDYA: 1
   LEONT: 1
   OVID: 1
 Test-Harness-FileFilter:
@@ -59632,6 +59677,8 @@ Time-Duration-Parse-More:
   MELO: 1
 Time-Duration-Patch-Millisecond:
   SHARYANTO: 1
+Time-Duration-es:
+  BIAFRA: 1
 Time-Duration-fr:
   SAPER: 1
 Time-Duration-id:

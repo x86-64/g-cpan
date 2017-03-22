@@ -115,8 +115,6 @@ Gnome2-VFS:
   name: gnome2-vfs-perl
 Gnome2-Wnck:
   name: gnome2-wnck
-Gtk2:
-  name: gtk2-perl
 Gtk2-Ex-FormFactory:
   name: gtk2-ex-formfactory
 Gtk2-GladeXML:
