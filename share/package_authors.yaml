@@ -606,6 +606,8 @@ Acme-CPANLists:
   PERLANCAR: 1
 Acme-CPANLists-Import:
   PERLANCAR: 1
+Acme-CPANLists-Import-BKB:
+  PERLANCAR: 1
 Acme-CPANLists-Import-NEILB:
   PERLANCAR: 1
 Acme-CPANLists-Import-PERLANCAR-Advent-2014:
@@ -903,6 +905,8 @@ Acme-Hyperindex:
   BERIKV: 1
 Acme-IAMB:
   IAMB: 1
+Acme-ICan-tSpell:
+  LNATION: 1
 Acme-IEnumerable:
   BJOERN: 1
 Acme-IRC-Art:
@@ -1240,26 +1244,6 @@ Acme-PERL-Autocorrect:
   CHROMATIC: 1
 Acme-PERLANCAR-Prime:
   PERLANCAR: 1
-Acme-PERLANCAR-Test:
-  PERLANCAR: 1
-Acme-PERLANCAR-Test-CaseVariation:
-  PERLANCAR: 1
-Acme-PERLANCAR-Test-Depak:
-  PERLANCAR: 1
-Acme-PERLANCAR-Test-DevelopRequires:
-  PERLANCAR: 1
-Acme-PERLANCAR-Test-DuplicateScript:
-  PERLANCAR: 1
-Acme-PERLANCAR-Test-FlipFlop:
-  PERLANCAR: 1
-Acme-PERLANCAR-Test-Images:
-  PERLANCAR: 1
-Acme-PERLANCAR-Test-Performance:
-  PERLANCAR: 1
-Acme-PERLANCAR-Test-RequiresUnknownModules:
-  PERLANCAR: 1
-Acme-PERLANCAR-Test-ScriptNameSameAsModuleName:
-  PERLANCAR: 1
 Acme-PETEK-Testkit:
   PETEK: 1
 Acme-PGPSign:
@@ -1542,7 +1526,6 @@ Acme-Test-Pr0n:
   LLAP: 1
 Acme-Test-SameRelease:
   PERLANCAR: 1
-  SHARYANTO: 1
 Acme-Test-VW:
   MIYAGAWA: 1
 Acme-Test-Weather:
@@ -1756,6 +1739,8 @@ Algorithm-AdaGrad:
   HIDEAKIO: 1
 Algorithm-AhoCorasick:
   VBAR: 1
+Algorithm-AhoCorasick-XS:
+  RJH: 1
 Algorithm-Annotate:
   CLKAO: 1
 Algorithm-BaumWelch:
@@ -2115,6 +2100,8 @@ Alien-BWIPP:
   MCNEWTON: 1
 Alien-Base:
   PLICEASE: 1
+Alien-Base-ModuleBuild:
+  PLICEASE: 1
 Alien-Base-Wrapper:
   PLICEASE: 1
 Alien-BatToExeConverter:
@@ -2209,6 +2196,8 @@ Alien-LMDB:
   FRACTAL: 1
 Alien-LZMA:
   ADAMK: 1
+Alien-LZO:
+  PLICEASE: 1
 Alien-Leptonica:
   ZMUGHAL: 1
 Alien-LibANN:
@@ -2263,6 +2252,8 @@ Alien-MuPDF:
   ZMUGHAL: 1
 Alien-NSS:
   JOHANNA: 1
+Alien-Nettle:
+  PLICEASE: 1
 Alien-OTR:
   AJGB: 1
 Alien-OpenSSL:
@@ -2376,8 +2367,6 @@ Alien-m4:
 Alien-mpg123:
   GETTY: 1
 Alien-nasm:
-  PLICEASE: 1
-Alien-o2dll:
   PLICEASE: 1
 Alien-patch:
   PLICEASE: 1
@@ -4144,22 +4133,6 @@ App-BatParser:
   PABLROD: 1
 App-Beeminder-Hook:
   LETO: 1
-App-BenchDateModules:
-  PERLANCAR: 1
-App-BenchDates:
-  PERLANCAR: 1
-App-BenchParamsSah:
-  PERLANCAR: 1
-App-BenchStartupCompleters:
-  PERLANCAR: 1
-App-BenchStartupOoModules:
-  PERLANCAR: 1
-App-BenchStartupPauseClis:
-  PERLANCAR: 1
-App-BenchStartupPragmas:
-  PERLANCAR: 1
-App-BenchStartupPreambleModules:
-  PERLANCAR: 1
 App-BencherUtils:
   PERLANCAR: 1
 App-Benchmark:
@@ -4548,8 +4521,6 @@ App-GSD:
 App-GUI-Notepad:
   BLM: 1
 App-GamesWordlist:
-  PERLANCAR: 1
-App-GenBashCompleter:
   PERLANCAR: 1
 App-GenModEmbedder:
   PERLANCAR: 1
@@ -6145,6 +6116,8 @@ App-scrape:
   CORION: 1
 App-screenorama:
   JHTHORSEN: 1
+App-scriptdist:
+  BDFOY: 1
 App-seq-pl:
   PERLANCAR: 1
 App-setop:
@@ -9490,6 +9463,8 @@ Business-OnlinePayment-USAePay:
   IVAN: 1
 Business-OnlinePayment-Vanco:
   JEF: 1
+Business-OnlinePayment-Vindicia-Select:
+  OAXLIN: 1
 Business-OnlinePayment-VirtualNet:
   IVAN: 1
 Business-OnlinePayment-WesternACH:
@@ -9661,6 +9636,8 @@ Bytes-Random-Secure:
   DAVIDO: 1
 Bytes-Random-Secure-Tiny:
   DAVIDO: 1
+Bytes-Random-XS:
+  XENU: 1
 C-Analyzer:
   SREEKANTH: 1
 C-Blocks:
@@ -13070,7 +13047,7 @@ Catmandu-Serializer-messagepack:
 Catmandu-Serializer-storable:
   NICS: 1
 Catmandu-Solr:
-  NJFRANCK: 1
+  NICS: 1
 Catmandu-Stat:
   HOCHSTEN: 1
 Catmandu-Store-AAT:
@@ -14604,6 +14581,8 @@ ComXo-Call2:
   BINARY: 1
 Combinator:
   CINDY: 1
+Combine-Keys:
+  LNATION: 1
 Combust-Spontaneously:
   EWILHELM: 1
 Comedi-Lib:
@@ -19617,6 +19596,8 @@ Database-Wrapper:
   Wrapper: 1
 Datahub-Factory:
   PIETERDP: 1
+Datahub-Factory-Arthub:
+  PIETERDP: 1
 Datahub-Factory-KMSKA:
   PIETERDP: 1
 Datahub-Factory-MSK:
@@ -21854,8 +21835,6 @@ Dist-Zilla-Plugin-FullFaker:
   STRO: 1
 Dist-Zilla-Plugin-GatherFromManifest:
   STRO: 1
-Dist-Zilla-Plugin-GenBashCompleter:
-  PERLANCAR: 1
 Dist-Zilla-Plugin-GenPericmdScript:
   PERLANCAR: 1
 Dist-Zilla-Plugin-GenShellCompletion:
@@ -30351,6 +30330,8 @@ IO-SendFile:
   ADDI: 1
 IO-SessionData:
   PHRED: 1
+IO-SigGuard:
+  FELIPE: 1
 IO-Simple:
   ERICJH: 1
 IO-Slice:
@@ -34001,6 +33982,8 @@ List-MergeSorted-XS:
   ATHOMASON: 1
 List-MoreUtils:
   REHSACK: 1
+List-MoreUtils-XS:
+  REHSACK: 1
 List-NSect:
   MRDVT: 1
 List-Object:
@@ -35501,7 +35484,7 @@ MQdb:
 MR-Tarantool:
   YURAN: 1
 MRO-Compat:
-  BOBTFISH: 1
+  HAARG: 1
 MRO-Define:
   FLORA: 1
 MRO-Magic:
@@ -36225,6 +36208,8 @@ MarpaX-Demo-SampleScripts:
   RSAVAGE: 1
 MarpaX-Demo-StringParser:
   RSAVAGE: 1
+MarpaX-ESLIF:
+  JDDPAUSE: 1
 MarpaX-Grammar-GraphViz2:
   RSAVAGE: 1
 MarpaX-Grammar-Parser:
@@ -37642,6 +37627,8 @@ Module-Build-Debian:
   ASKSH: 1
 Module-Build-Deprecated:
   LEONT: 1
+Module-Build-FFI:
+  PLICEASE: 1
 Module-Build-Functions:
   NPLATONOV: 1
 Module-Build-IkiWiki:
@@ -38101,7 +38088,7 @@ Module-Spy:
 Module-Start:
   INGY: 1
 Module-Starter:
-  XSAWYERX: 1
+  DBOOK: 1
 Module-Starter-AddModule:
   BDFOY: 1
 Module-Starter-CSJEWELL:
@@ -38250,6 +38237,8 @@ Mojo-JWT:
   JBERGER: 1
 Mojo-JWT-Google:
   RICHE: 1
+Mojo-Log-Che:
+  MCHE: 1
 Mojo-Log-Clearable:
   DBOOK: 1
 Mojo-Log-JSON:
@@ -38426,8 +38415,6 @@ MojoX-Renderer-JSON-XS:
   YOWCOW: 1
 MojoX-Renderer-WriteExcel:
   ZAKAME: 1
-MojoX-Renderer-XSLT:
-  BFAIST: 1
 MojoX-Renderer-Xslate:
   HJANSEN: 1
 MojoX-Routes-AsGraph:
@@ -40260,6 +40247,8 @@ MusicRoom:
   SJHAWTIN: 1
 Mustache-Simple:
   CMS: 1
+Mutex:
+  MARIOROY: 1
 Mvalve:
   DMAKI: 1
 My-Object:
@@ -42497,6 +42486,8 @@ Net-SSH-Perl-ProxiedIPC:
   BDFOY: 1
 Net-SSH-Perl-WithSocks:
   BDFOY: 1
+Net-SSH-Putty:
+  ARFREITAS: 1
 Net-SSH-Tunnel:
   SYAGI: 1
 Net-SSH-W32Perl:
@@ -45452,6 +45443,8 @@ PQL-Cache:
   JPR: 1
 PRANG:
   MUTANT: 1
+PRIMERVIEW:
+  HALLORAN: 1
 PSGI:
   MIYAGAWA: 1
 PSGI-Hector:
@@ -49920,6 +49913,8 @@ RT-Extension-CommandByMail:
   TSIBLEY: 1
 RT-Extension-CommentOnCreate:
   ALEXMV: 1
+RT-Extension-ConditionalCustomFields:
+  GIBUS: 1
 RT-Extension-Converter:
   FALCONE: 1
 RT-Extension-CreateByProblemType:
@@ -55921,6 +55916,8 @@ Template-Provider-MD5:
   SCOTT: 1
 Template-Provider-Markdown:
   GUGOD: 1
+Template-Provider-Markdown-Pandoc:
+  DAVECROSS: 1
 Template-Provider-OpenOffice:
   ABREZINS: 1
 Template-Provider-PAR:
@@ -56385,8 +56382,6 @@ Test-CPANpm:
   CRAKRJACK: 1
 Test-CSS:
   MANWAR: 1
-Test-CT:
-  RENTOCRON: 1
 Test-CallCounter:
   TOKUHIROM: 1
 Test-CallFlow:
@@ -63338,6 +63333,10 @@ Web-App:
   APLA: 1
 Web-App-Lib-EntityRecord:
   APLA: 1
+Web-AssetLib:
+  RLANG: 1
+Web-AssetLib-OutputEngine-S3:
+  RLANG: 1
 Web-Atom:
   GSLIN: 1
 Web-Authenticate:
