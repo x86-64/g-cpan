@@ -899,6 +899,8 @@ Acme-Homer:
   DMUEY: 1
 Acme-Honkidasu:
   HAYAJO: 1
+Acme-HowToMakeSushi:
+  ANATOFUZ: 1
 Acme-Hyde:
   NOZZZZZ: 1
 Acme-Hyperindex:
@@ -2218,6 +2220,8 @@ Alien-Libarchive:
   PLICEASE: 1
 Alien-Libarchive-Installer:
   PLICEASE: 1
+Alien-Libarchive3:
+  PLICEASE: 1
 Alien-Libbz2:
   PLICEASE: 1
 Alien-Libevent:
@@ -2232,6 +2236,8 @@ Alien-Libmcrypt:
   LZH: 1
 Alien-Librdkafka:
   ZWON: 1
+Alien-Libxml2:
+  PLICEASE: 1
 Alien-Lightbox:
   GTERMARS: 1
 Alien-Lua:
@@ -2264,8 +2270,6 @@ Alien-PNG:
   FROGGS: 1
 Alien-Packages:
   REHSACK: 1
-Alien-Packages-Cygwin:
-  PLICEASE: 1
 Alien-ProtoBuf:
   MBARBON: 1
 Alien-Prototype:
@@ -2620,6 +2624,8 @@ Anansi-Singleton:
   ANANSI: 1
 Anarres-Mud-Driver:
   SHEVEK: 1
+Android-Build:
+  PRBRENAN: 1
 Android-Releases:
   PERLANCAR: 1
 Angle-Omega:
@@ -5322,6 +5328,8 @@ App-Scaffolder-Puppet:
   MSTOCK: 1
 App-ScanPrereqs:
   PERLANCAR: 1
+App-ScreensaverUtils:
+  PERLANCAR: 1
 App-Scrobble:
   AJCT: 1
 App-Seacan:
@@ -5334,8 +5342,6 @@ App-Services:
   SBLANTON: 1
 App-Session-Token:
   FRACTAL: 1
-App-SetScreensaverTimeout:
-  PERLANCAR: 1
 App-Sets:
   POLETTIX: 1
 App-ShareDir:
@@ -6176,6 +6182,8 @@ App-todoist:
   NEILB: 1
 App-tonematch:
   WLMB: 1
+App-toposort:
+  PERLANCAR: 1
 App-tracepm:
   PERLANCAR: 1
 App-trash-u:
@@ -6198,8 +6206,6 @@ App-wdq:
   VOJ: 1
 App-whatthecommit:
   MUDLER: 1
-App-which_package:
-  PLICEASE: 1
 App-whichpm:
   JKUTEJ: 1
 App-wmiirc:
@@ -7413,6 +7419,8 @@ BBS-UserInfo-SOB:
   GSLIN: 1
 BBS-UserInfo-Wretch:
   GSLIN: 1
+BCA-DB:
+  ALTREUS: 1
 BDB:
   MLEHMANN: 1
 BDB-Wrapper:
@@ -7627,6 +7635,8 @@ Basket-Calc:
   LEV: 1
 Basset:
   JIMT: 1
+Bat-Interpreter:
+  PABLROD: 1
 Batch-Batchrun:
   BRTEAM: 1
 BatchSystem-SBS:
@@ -11070,6 +11080,8 @@ CPAN-Unpack:
   LBROCARD: 1
 CPAN-Unwind:
   MSCHILLI: 1
+CPAN-Upload-Tiny:
+  LEONT: 1
 CPAN-Uploader:
   RJBS: 1
 CPAN-Visitor:
@@ -16369,6 +16381,8 @@ DBIx-AssertIndex:
   MIXI: 1
 DBIx-Async:
   TEAM: 1
+DBIx-Aurora:
+  PUNYTAN: 1
 DBIx-AutoReconnect:
   KARASIK: 1
 DBIx-BLOB-Handle:
@@ -21756,7 +21770,7 @@ Dist-Zilla-Plugin-Config-Git:
 Dist-Zilla-Plugin-Conflicts:
   DROLSKY: 1
 Dist-Zilla-Plugin-ConsistentVersionTest:
-  DROLSKY: 1
+  RSRCHBOY: 1
 Dist-Zilla-Plugin-ContributorsFile:
   YANICK: 1
 Dist-Zilla-Plugin-ContributorsFromGit:
@@ -27675,7 +27689,7 @@ Graph-Dijkstra:
 Graph-Easy:
   SHLOMIF: 1
 Graph-Easy-As_svg:
-  graph: 1
+  SHLOMIF: 1
 Graph-Easy-Manual:
   graph: 1
 Graph-Easy-StateMachine:
@@ -28198,6 +28212,8 @@ HOP-Stream:
 HPC-Runner:
   JILLROWE: 1
 HPC-Runner-Command:
+  JILLROWE: 1
+HPC-Runner-Command-Plugin-Logger-Sqlite:
   JILLROWE: 1
 HPC-Runner-Command-Utils-ManyConfigs:
   JILLROWE: 1
@@ -29219,7 +29235,7 @@ HTTP-CookieJar:
 HTTP-CookieMonster:
   OALDERS: 1
 HTTP-Cookies:
-  GAAS: 1
+  OALDERS: 1
 HTTP-Cookies-Chrome:
   BDFOY: 1
 HTTP-Cookies-ChromeMacOS:
@@ -29847,6 +29863,8 @@ Hatena-Star-Mobile:
   JKONDO: 1
 Haul:
   LBROCARD: 1
+Hazy:
+  LNATION: 1
 Hazy-Cosmic-Jive:
   BKB: 1
 Heap:
@@ -30231,6 +30249,8 @@ IO-File-WithFilename:
   IFOMICHEV: 1
 IO-File-WithPath:
   CHIBA: 1
+IO-Framed:
+  FELIPE: 1
 IO-Ftp:
   MIKEB: 1
 IO-HTML:
@@ -33666,6 +33686,8 @@ Lingua-ZH-HanConvert:
   DIVEC: 1
 Lingua-ZH-HanDetect:
   AUTRIJUS: 1
+Lingua-ZH-Jieba:
+  SLOYD: 1
 Lingua-ZH-Keywords:
   AUTRIJUS: 1
 Lingua-ZH-MMSEG:
@@ -33722,6 +33744,8 @@ Lingua-tlhInganHol-yIghun:
   MSCHWERN: 1
 Lingy:
   INGY: 1
+LinkEmbedder:
+  JHTHORSEN: 1
 Link_Controller:
   MIKEDLR: 1
 LinkedList-Single:
@@ -33846,6 +33870,8 @@ Linux-Seccomp:
   MGV: 1
 Linux-Setns:
   HACKMAN: 1
+Linux-Shadow:
+  JMEGERMAN: 1
 Linux-Slackware-SystemTests:
   TTKCIAR: 1
 Linux-Smaps:
@@ -33954,6 +33980,8 @@ List-Flatten:
   OBRADOVIC: 1
 List-Flatten-Recursive:
   RTHOMPSON: 1
+List-Flatten-XS:
+  CODEHEX: 1
 List-Gather:
   ETHER: 1
 List-Gen:
@@ -36326,6 +36354,8 @@ Math-Algebra-Symbols:
   PRBRENAN: 1
 Math-Amoeba:
   TOM: 1
+Math-AnyNum:
+  TRIZEN: 1
 Math-Approx:
   ULPFR: 1
 Math-Approx-Symbolic:
@@ -38485,6 +38515,8 @@ Mojolicious-Command-migration:
   LIKHATSKI: 1
 Mojolicious-Command-nopaste:
   JBERGER: 1
+Mojolicious-Command-replget:
+  SADAMS: 1
 Mojolicious-Command-secret:
   SHAW: 1
 Mojolicious-Command-snoodoc:
@@ -44346,6 +44378,8 @@ PDL-SVDSLEPc:
   MOOCOW: 1
 PDL-Stats:
   ETJ: 1
+PDL-Transform-Color:
+  ZOWIE: 1
 PDL-Util:
   JBERGER: 1
 PDL-VectorValued:
@@ -52086,6 +52120,8 @@ Scraper:
   GLENNWOOD: 1
 Scrappy:
   AWNCORP: 1
+Screensaver-Any:
+  PERLANCAR: 1
 Script-Carp:
   KTAT: 1
 Script-Daemonizer:
@@ -54804,6 +54840,8 @@ TMDB:
 TOBYINK-Pod-HTML:
   TOBYINK: 1
 TOML:
+  KARUPA: 1
+TOML-Dumper:
   KARUPA: 1
 TOML-Parser:
   KARUPA: 1
@@ -62843,8 +62881,6 @@ WWW-Search-MelcerCZ:
   SKIM: 1
 WWW-Search-NCBI-PubMed:
   MUENALAN: 1
-WWW-Search-News:
-  MTHURN: 1
 WWW-Search-Nomade:
   ALIAN: 1
 WWW-Search-PRWire:
@@ -63965,6 +64001,8 @@ WebService-Pinterest:
   FERREIRA: 1
 WebService-PivotalTracker:
   MAXMIND: 1
+WebService-PivotalTracker-Simple:
+  TSUCCHI: 1
 WebService-PlayaEvents:
   LEV: 1
 WebService-Plotly:
@@ -64511,8 +64549,6 @@ Win32-FindFile:
   GRIAN: 1
 Win32-FindWindow:
   PIA: 1
-Win32-FirewallParser:
-  LTRIANT: 1
 Win32-Fmode:
   BROWSERUK: 1
 Win32-Font-NameToFile:
@@ -65013,6 +65049,8 @@ Wrap-Sub:
   STEVEB: 1
 WriteAt:
   ZAG: 1
+Wurm:
+  PRAVUS: 1
 Wurst:
   WURST: 1
 Wx:
@@ -67586,6 +67624,8 @@ re-engine-Oniguruma:
   GFUJI: 1
 re-engine-PCRE:
   AVAR: 1
+re-engine-PCRE2:
+  RURBAN: 1
 re-engine-Plan9:
   AVAR: 1
 re-engine-Plugin:
