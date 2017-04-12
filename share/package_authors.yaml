@@ -5055,6 +5055,8 @@ App-PAUSE-cleanup:
   ROKR: 1
 App-PDF-Link:
   JV: 1
+App-PDFUtils:
+  PERLANCAR: 1
 App-PDRUtils:
   PERLANCAR: 1
 App-PDoc:
@@ -5085,6 +5087,8 @@ App-PS1:
   IVANWILLS: 1
 App-PYX2XML:
   SKIM: 1
+App-Packager:
+  JV: 1
 App-Padadoy:
   VOJ: 1
 App-PandoraPerisope:
@@ -5277,8 +5281,6 @@ App-RemoteCommand:
   SKAJI: 1
 App-RemoteGnokii:
   MGV: 1
-App-RemovePdfPassword:
-  PERLANCAR: 1
 App-ReorderGoProFiles:
   VTI: 1
 App-RepoSync:
@@ -7419,8 +7421,6 @@ BBS-UserInfo-SOB:
   GSLIN: 1
 BBS-UserInfo-Wretch:
   GSLIN: 1
-BCA-DB:
-  ALTREUS: 1
 BDB:
   MLEHMANN: 1
 BDB-Wrapper:
@@ -8514,7 +8514,7 @@ Bot-Backbone-Service-Ticket-Tracker-JIRA:
 Bot-Backbone-Service-Web:
   HANENKAMP: 1
 Bot-BasicBot:
-  HINRIK: 1
+  BIGPRESH: 1
 Bot-BasicBot-CommandBot:
   ALTREUS: 1
 Bot-BasicBot-Pluggable:
@@ -13243,7 +13243,7 @@ Chat-iFly:
 Chatbot-Alpha:
   KIRSLE: 1
 Chatbot-Eliza:
-  NEILB: 1
+  GRANTG: 1
 Cheat-Meta:
   developer-tools: 1
 Cheater:
@@ -15629,6 +15629,8 @@ Crypt-GeneratePassword:
   NEILB: 1
 Crypt-GpgME:
   FLORA: 1
+Crypt-HC128:
+  LZH: 1
 Crypt-HCE_MD5:
   EESTABROO: 1
 Crypt-HCE_SHA:
@@ -17029,6 +17031,8 @@ DBIx-PgLink:
   ASVBR: 1
 DBIx-PhraseBook:
   BADGERSRC: 1
+DBIx-PivotQuery:
+  CORION: 1
 DBIx-Placeholder-Named:
   IZUT: 1
 DBIx-Poggy:
@@ -18000,6 +18004,8 @@ Dancer2-Plugin-Feed:
   HOBBESTIG: 1
 Dancer2-Plugin-Flash:
   SHARDIWAL: 1
+Dancer2-Plugin-FlashNote:
+  ESAYM: 1
 Dancer2-Plugin-Github-Webhook:
   DSONNTAG: 1
 Dancer2-Plugin-GoogleAnalytics:
@@ -24542,7 +24548,7 @@ File-Headerinfo:
 File-History:
   NISHIKAWA: 1
 File-HomeDir:
-  ADAMK: 1
+  REHSACK: 1
   RKOBES: 1
 File-HomeDir-PathClass:
   JQUELIN: 1
@@ -30634,8 +30640,6 @@ IPC-Signal-Force:
   ZEFRAM: 1
 IPC-SysV:
   MHX: 1
-IPC-System-Locale:
-  PERLANCAR: 1
 IPC-System-Options:
   PERLANCAR: 1
 IPC-System-Simple:
@@ -33520,6 +33524,8 @@ Lingua-RU-Inflect:
   SHOORICK: 1
 Lingua-RU-Jcuken:
   STRO: 1
+Lingua-RU-Money-XS:
+  IMUN: 1
 Lingua-RU-NameParse:
   MCEGLOWS: 1
 Lingua-RU-Num2Word:
@@ -34768,6 +34774,8 @@ Log-Dispatch-CronoDir:
   YOWCOW: 1
 Log-Dispatch-DBI:
   MIYAGAWA: 1
+Log-Dispatch-Desktop-Notify:
+  CGARBS: 1
 Log-Dispatch-DesktopNotification:
   ETHER: 1
 Log-Dispatch-Dir:
@@ -34955,7 +34963,7 @@ Log-Log4perl-Filter-CallerMatch:
 Log-Log4perl-Layout-GELF:
   JASONPOPE: 1
 Log-Log4perl-Layout-JSON:
-  TIMB: 1
+  MSCHOUT: 1
 Log-Log4perl-Layout-LTSV:
   JEDI: 1
 Log-Log4perl-Layout-PatternLayout-Elapsed:
@@ -35085,7 +35093,7 @@ Log-UDP-Server:
 Log-Unrotate:
   DRUXA: 1
 Log-WarnDie:
-  ELIZABETH: 1
+  NHORNE: 1
 Log-WithCallbacks:
   DAOTOAD: 1
 Log4Perl-ImportHandle:
@@ -39581,7 +39589,7 @@ MooseX-FSM:
 MooseX-Fastly-Role:
   LLAP: 1
 MooseX-FileAttribute:
-  JROCKWAY: 1
+  ETHER: 1
 MooseX-FollowPBP:
   DROLSKY: 1
 MooseX-FunkyAttributes:
@@ -41395,6 +41403,8 @@ Net-Friends:
   RBRASE: 1
 Net-Fritz:
   CGARBS: 1
+Net-Fritz-Phonebook:
+  CORION: 1
 Net-FullAuto:
   REEDFISH: 1
 Net-GNUDBSearch:
@@ -42849,6 +42859,8 @@ Net-Vitelity:
   IVAN: 1
 Net-Vypress-Chat:
   ARTURAZ: 1
+Net-WAMP:
+  FELIPE: 1
 Net-WDNS:
   MSISK: 1
 Net-WHMCS:
@@ -49806,6 +49818,8 @@ RPi-DigiPot-MCP4XXXX:
   STEVEB: 1
 RPi-HCSR04:
   STEVEB: 1
+RPi-LCD:
+  STEVEB: 1
 RPi-PIGPIO:
   RPi-PIGPIO: 1
 RPi-SPI:
@@ -50740,6 +50754,8 @@ Resources:
   FRANCOC: 1
 Resque:
   DIEGOK: 1
+Resque-Plugin-Delay:
+  MERU: 1
 Rest-Client-Builder:
   ALEXKOM: 1
 Rest-HtmlVis:
@@ -56245,6 +56261,8 @@ Term-Spark:
   LURST: 1
 Term-Spinner:
   BLBLACK: 1
+Term-Spinner-Color:
+  SWELLJOE: 1
 Term-Spinner-Lite:
   MALLEN: 1
 Term-StatusBar:
@@ -57145,7 +57163,7 @@ Test-NoPlan:
 Test-NoSmartComments:
   RSRCHBOY: 1
 Test-NoTabs:
-  BOBTFISH: 1
+  ETHER: 1
 Test-NoTravisEncVars:
   RSRCHBOY: 1
 Test-NoWarnings:
@@ -60625,6 +60643,8 @@ Try:
   DOY: 1
 Try-Catch:
   MAMOD: 1
+Try-Chain:
+  STEFFENW: 1
 Try-Lite:
   YAPPO: 1
 Try-Tiny:
@@ -63048,7 +63068,7 @@ WWW-Spinn3r:
 WWW-SpinnerChief:
   FAYLAND: 1
 WWW-Splunk:
-  LKUNDRAK: 1
+  SKIM: 1
 WWW-Spotify:
   OALDERS: 1
 WWW-Spyder:
@@ -63915,6 +63935,8 @@ WebService-MailJet:
   KANISHKA: 1
 WebService-Mailgun:
   MIKIHOSHI: 1
+WebService-Mandrill:
+  LEV: 1
 WebService-Mappoint:
   CGARCIA: 1
 WebService-Megaplan:
@@ -64091,6 +64113,8 @@ WebService-SQLFormat:
   OALDERS: 1
 WebService-SSLLabs:
   DDICK: 1
+WebService-Saasu:
+  LEV: 1
 WebService-SagawaKyubin:
   CLCL: 1
 WebService-Salesforce-Message:
@@ -64928,6 +64952,8 @@ Word-Anagram:
   MANFREDI: 1
 Word-Segmenter-Chinese-Lite:
   CHENGANG: 1
+Word2vec-Interface:
+  CUFFYCA: 1
 WordList:
   PERLANCAR: 1
 WordList-BEW-Betawi:
@@ -65145,6 +65171,8 @@ X11-FreeDesktop-DesktopEntry:
   GBROWN: 1
 X11-FullScreen:
   STEPHEN: 1
+X11-GLX:
+  NERDVANA: 1
 X11-GUITest:
   CTRONDLP: 1
 X11-GUITest-record:
@@ -65183,6 +65211,7 @@ X11-XCB:
   MSTPLBG: 1
 X11-Xlib:
   MARKELLIS: 1
+  NERDVANA: 1
 X12:
   PRASAD: 1
 X500-DN:
@@ -67616,6 +67645,8 @@ re-engine-GNU:
   JDDPAUSE: 1
 re-engine-Hooks:
   VPIT: 1
+re-engine-Hyperscan:
+  RURBAN: 1
 re-engine-LPEG:
   PERRAD: 1
 re-engine-Lua:
