@@ -392,6 +392,8 @@ Acme-Akashic-Records:
   DANKOGAI: 1
 Acme-Albed:
   HAOYAYOI: 1
+Acme-Albedo:
+  TENMIHI: 1
 Acme-AlgebraicToRPN:
   THECRAMPS: 1
 Acme-AliG:
@@ -5550,8 +5552,6 @@ App-TracksBot:
   RHOELZ: 1
 App-Translit-String:
   SKIM: 1
-App-Trrr:
-  ZDENEK: 1
 App-Ttyrec:
   DOY: 1
 App-Tweet:
@@ -6098,8 +6098,6 @@ App-relpath:
   PERLANCAR: 1
 App-remarkpl:
   JHTHORSEN: 1
-App-repo:
-  ZDENEK: 1
 App-reposdb:
   PERLANCAR: 1
 App-revealup:
@@ -7774,6 +7772,8 @@ Bencher-Scenario-SortBySpec:
 Bencher-Scenario-SortKeyTop:
   PERLANCAR: 1
 Bencher-Scenario-Sprintf:
+  PERLANCAR: 1
+Bencher-Scenario-SprintfVsUnpack:
   PERLANCAR: 1
 Bencher-Scenario-StringEliding:
   PERLANCAR: 1
@@ -16700,6 +16700,8 @@ DBIx-Class-Sims:
   RKINYON: 1
 DBIx-Class-Sims-REST:
   RKINYON: 1
+DBIx-Class-Sims-Type-Date:
+  RKINYON: 1
 DBIx-Class-SingletonRows:
   DCANTRELL: 1
 DBIx-Class-Snowflake:
@@ -18062,6 +18064,8 @@ Dancer2-Plugin-ProgressStatus:
   SHUMPHREY: 1
 Dancer2-Plugin-Queue:
   CROMEDOME: 1
+Dancer2-Plugin-Queue-IronMQ:
+  MIKKOI: 1
 Dancer2-Plugin-Queue-MongoDB:
   DAGOLDEN: 1
 Dancer2-Plugin-REST:
@@ -20475,6 +20479,8 @@ Devel-DidYouMean:
   SILLYMOOS: 1
 Devel-DieHandler-DumpINC:
   PERLANCAR: 1
+Devel-DieHandler-PrintINCVersion:
+  PERLANCAR: 1
 Devel-DieHandler-Pwd:
   PERLANCAR: 1
 Devel-Ditto:
@@ -20489,6 +20495,8 @@ Devel-Dumpvar:
   ADAMK: 1
 Devel-EdTrace:
   ESP: 1
+Devel-End-PrintINCVersion:
+  PERLANCAR: 1
 Devel-EndStats:
   PERLANCAR: 1
 Devel-EndStats-LoadedMods:
@@ -23721,6 +23729,8 @@ Exception-Class-Nested:
   JENDA: 1
 Exception-Class-TCF:
   RVOSA: 1
+Exception-Class-Try-Catch:
+  PALI: 1
 Exception-Class-TryCatch:
   DAGOLDEN: 1
 Exception-Cxx:
@@ -25883,6 +25893,8 @@ FusionInventory-Agent:
 FusqlFS:
   KSTEPME: 1
 Future:
+  PEVANS: 1
+Future-AsyncAwait:
   PEVANS: 1
 Future-HTTP:
   CORION: 1
@@ -29048,7 +29060,7 @@ HTML-TrackerLink:
 HTML-Transmorgify:
   modules: 1
 HTML-Tree:
-  CJM: 1
+  JFEARN: 1
 HTML-Tree-Create-Callback:
   PERLANCAR: 1
 HTML-TreeBuilder-LibXML:
@@ -31137,6 +31149,8 @@ Import-Base:
   PREACTION: 1
 Import-Box:
   EXODIST: 1
+Import-Export:
+  LNATION: 1
 Import-Into:
   HAARG: 1
 Importer:
@@ -32640,6 +32654,8 @@ Lab-Measurement:
   AKHUETTEL: 1
 Lab-VISA:
   AKHUETTEL: 1
+Lab-Zhinst:
+  AMBA: 1
 LabKey-Query:
   LABKEY: 1
 Labyrinth:
@@ -33238,6 +33254,8 @@ Lingua-FreeLing3-Utils:
   Lingua: 1
 Lingua-GA-Gramadoir:
   SCANNELL: 1
+Lingua-Guess:
+  BKB: 1
 Lingua-HE-MacHebrew:
   SADAHIRO: 1
 Lingua-HE-Sentence:
@@ -35762,7 +35780,7 @@ Mail-ClamAV:
 Mail-Convert-Mbox-ToEml:
   RJBS: 1
 Mail-DKIM:
-  JASLONG: 1
+  MBRADSHAW: 1
 Mail-DKIM-Iterator:
   SULLR: 1
 Mail-DMARC:
@@ -36288,6 +36306,8 @@ MarpaX-Tester:
   MICHAEL: 1
 MarpaX-xPathLike:
   JVVERDE: 1
+Mashtree:
+  LSKATZ: 1
 Mason:
   JSWARTZ: 1
 Mason-Plugin-Cache:
@@ -36356,6 +36376,8 @@ MassSpec-ViewSpectrum:
   JAEPSTEIN: 1
 MassSpec-ViewSpectrum-RealVsHypPeptide:
   JAEPSTEIN: 1
+Mastodon-Client:
+  JJATRIA: 1
 Match-Any:
   KUNGFUFTR: 1
 Math-Algebra-Symbols:
@@ -39025,6 +39047,8 @@ Mojolicious-Plugin-Sprite:
   YOREEK: 1
 Mojolicious-Plugin-SslAuth:
   TEMPIRE: 1
+Mojolicious-Plugin-StaticAttachment:
+  MCHE: 1
 Mojolicious-Plugin-StaticCompressor:
   MUGIFLY: 1
 Mojolicious-Plugin-StaticLog:
@@ -45843,6 +45867,8 @@ Parallel-Mpich-MPD:
   ALEXMASS: 1
 Parallel-Pipes:
   SKAJI: 1
+Parallel-PreForkManager:
+  MBRADSHAW: 1
 Parallel-Prefork:
   KAZUHO: 1
 Parallel-Pvm:
@@ -50402,8 +50428,6 @@ Redis-LeaderBoard:
   SONGMU: 1
 Redis-LeaderBoardMulti:
   SHOGO: 1
-Redis-NaiveBayes:
-  CAIO: 1
 Redis-Namespace:
   SHOGO: 1
 Redis-Parser-XS:
@@ -51652,7 +51676,7 @@ STUN-RFC_5389:
 SUPER:
   CHROMATIC: 1
 SVG:
-  SZABGAB: 1
+  MANWAR: 1
 SVG-Calendar:
   IVANWILLS: 1
 SVG-Convert:
@@ -57745,6 +57769,8 @@ Test2-Plugin-NoWarnings:
   DROLSKY: 1
 Test2-Plugin-SpecDeclare:
   EXODIST: 1
+Test2-Plugin-TermEncoding:
+  MAGNOLIA: 1
 Test2-Suite:
   EXODIST: 1
 Test2-Tools-AfterSubtest:
@@ -59266,6 +59292,8 @@ Tie-Coupler:
   UARUN: 1
 Tie-Cvs:
   AMBS: 1
+Tie-Cycle:
+  BDFOY: 1
 Tie-Cycle-Sinewave:
   DLAND: 1
 Tie-DBI:
@@ -60559,7 +60587,7 @@ Tree-Simple-Manager:
 Tree-Simple-SAX:
   STEVAN: 1
 Tree-Simple-View:
-  MZIESCHA: 1
+  RSAVAGE: 1
 Tree-Simple-VisitorFactory:
   RSAVAGE: 1
 Tree-SizeBalanced:
@@ -60659,6 +60687,8 @@ Try-Tiny-Retry:
   DAGOLDEN: 1
 Try-Tiny-SmartCatch:
   MYSZ: 1
+Try-Tiny-Tiny:
+  ARISTOTLE: 1
 Try-Tiny-WarnCaught:
   RATAXIS: 1
 Try-Tiny-Warnings:
@@ -61606,6 +61636,8 @@ Variable-Lazy:
 Variable-Magic:
   VPIT: 1
 Variable-OnDestruct:
+  LEONT: 1
+Variable-OnDestruct-Scoped:
   LEONT: 1
 Variable-Strongly-Typed:
   METZZO: 1
@@ -63821,6 +63853,8 @@ WebService-HabitRPG:
   RHOELZ: 1
 WebService-HackerNews:
   NEILB: 1
+WebService-HashiCorp-Vault:
+  DJZORT: 1
 WebService-Hatena-AsinCount:
   TAMAKOTO: 1
 WebService-Hatena-Bookmark-Lite:
