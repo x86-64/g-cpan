@@ -15,14 +15,6 @@ our $official_ebuilds = LoadFile($official_ebuilds_filepath);
 
 my $rules = {};
 
-$rules->{PathTools} = {                 # no ebuilds that point to PathTools-x.tar.gz
-	category => "virtual",
-	name     => "perl-File-Spec",
-};
-$rules->{perl} = {
-	category => "dev-lang",
-};
-
 foreach my $pn (keys %$official_ebuilds){
 	foreach my $package (@{ $official_ebuilds->{$pn} }){
 		if($package->{category} eq "virtual"){
@@ -50,5 +42,17 @@ foreach my $pn (keys %$official_ebuilds){
 		}
 	}
 }
+
+$rules->{PathTools} = {                 # no ebuilds that point to PathTools-x.tar.gz
+	category => "virtual",
+	name     => "perl-File-Spec",
+};
+$rules->{constant} = {                  # perl-constant depend on =5.22
+	category => "dev-lang",
+	name     => "perl",
+};
+$rules->{perl} = {
+	category => "dev-lang",
+};
 
 DumpFile($output_filepath, $rules);
