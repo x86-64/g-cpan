@@ -34721,6 +34721,8 @@ Log-Any-Adapter-Mojo:
   HENRYYKT: 1
 Log-Any-Adapter-MojoLog:
   JBERGER: 1
+Log-Any-Adapter-Multiplexor:
+  Log-Any-Adapter-Multiplexor-001: 1
 Log-Any-Adapter-Redis:
   MILA: 1
 Log-Any-Adapter-Screen:

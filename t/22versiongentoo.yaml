@@ -7970,6 +7970,7 @@ App-DuckPAN:
   - 1013
   - 1016
   - 1017
+  - 1018
 App-DumpFirefoxHistory:
   - 0.001
 App-DumpPERLANCARSampleTree:
@@ -9233,6 +9234,7 @@ App-Music-ChordPro-Wx:
 App-Music-PlayTab:
   - 2.025
   - 2.026
+  - 2.027
 App-MusicExpo:
   - 1.002001
 App-MusicTools:
@@ -12864,6 +12866,7 @@ Astro-satpass:
   - 0.076
   - 0.077
   - 0.078
+  - 0.079
 Astroboy:
   - 1.06
 Async-Blackboard:
@@ -42677,6 +42680,7 @@ Dir-ListFilesRecursive:
   - 0.05
 Dir-Project:
   - 3.025
+  - 3.026
 Dir-Purge:
   - 1.02
 Dir-Rocknroll:
@@ -48018,6 +48022,7 @@ FSM-Basic:
   - 0.05
   - 0.06
   - 0.07
+  - 0.08
 FSM-Simple:
   - 0.01
   - 0.02
@@ -52438,6 +52443,7 @@ Games-Domino:
   - 0.26
   - 0.27
   - 0.28
+  - 0.29
 Games-Dukedom:
   - 0.1.3
 Games-DungeonMaker:
@@ -61484,6 +61490,7 @@ IPC-Lock-WithTTL:
 IPC-Locker:
   - 1.492
   - 1.494
+  - 1.496
 IPC-Lockfile:
   - 0.01
   - 0.02
@@ -65211,6 +65218,7 @@ LINE-Bot-API:
   - 1.00
   - 1.01
   - 1.02
+  - 1.03
 LIVR-Contract:
   - 0.01
   - 0.02
@@ -67636,6 +67644,7 @@ Lingua-Translit:
   - 0.24
   - 0.25
   - 0.26
+  - 0.27
 Lingua-TreeTagger:
   - 0.07
   - 0.08
@@ -75255,6 +75264,7 @@ Mira:
   - 00.07.36
   - 00.07.37
   - 00.07.38
+  - 00.07.39
 Miril:
   - 0.001
   - 0.002
@@ -76707,6 +76717,7 @@ Mojo-Base-XS:
 Mojo-CSV:
   - 1.001001
   - 1.001002
+  - 1.001003
 Mojo-Cloudflare:
   - 0.03
   - 0.04
@@ -77766,6 +77777,7 @@ Mojolicious-Plugin-Directory-Stylish:
   - 1.002
   - 1.003
   - 1.004
+  - 1.005
 Mojolicious-Plugin-DirectoryQueue:
   - 0.01
 Mojolicious-Plugin-Disqus:
@@ -83888,6 +83900,7 @@ Net-IANA-Services:
 Net-ICAP:
   - 0.01
   - 0.03
+  - 0.04
 Net-ICAP-Client:
   - 0.07
 Net-ICB:
@@ -92491,6 +92504,7 @@ Parallel-ForkManager-Scaled:
   - 0.17
 Parallel-Forker:
   - 1.232
+  - 1.234
 Parallel-Iterator:
   - 1.00
 Parallel-Jobs:
@@ -93945,6 +93959,7 @@ Pcore-Nginx:
   - 1.2.2
   - 1.2.3
   - 1.3.0
+  - 1.4.0
 Pcore-PDF:
   - 0.1.0
 Pcore-PgSQL:
@@ -98561,6 +98576,7 @@ Prima:
   - 1.48
   - 1.49
   - 1.50
+  - 1.51
 Prima-Cairo:
   - 1.01
   - 1.02
@@ -104289,6 +104305,7 @@ SVN-S4:
   - 1.056
   - 1.060
   - 1.062
+  - 1.064
 SVN-SVNLook:
   - 0.01
   - 0.02
@@ -114671,6 +114688,7 @@ Test-Mojo-Role-Selenium:
   - 0.06
   - 0.07
   - 0.08
+  - 0.09
 Test-Mojo-Role-SubmitForm:
   - 1.001001
   - 1.001002
@@ -116243,6 +116261,7 @@ Text-CSV:
   - 1.92
   - 1.93
   - 1.94
+  - 1.95
 Text-CSV-Auto:
   - 0.06
 Text-CSV-Auto-ExportTo-MySQL:
@@ -122509,6 +122528,7 @@ Unix-Process:
 Unix-Processors:
   - 2.043
   - 2.044
+  - 2.045
 Unix-SavedIDs:
   - 0.004003
 Unix-SearchPathGuess:
@@ -123328,6 +123348,7 @@ Verilog-Perl:
   - 3.418
   - 3.420
   - 3.422
+  - 3.423
 Verilog-Readmem:
   - 0.05
 Verilog-VCD:
@@ -127461,6 +127482,7 @@ WebService-Client:
   - 0.0400
   - 0.0500
   - 0.0501
+  - 0.0502
 WebService-ClinicalTrialsdotGov:
   - 0.02
   - 0.03
