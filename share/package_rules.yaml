@@ -154,6 +154,8 @@ IPC-SysV:
 JSON-PP:
   category: virtual
   name: perl-JSON-PP
+Lab-Zhinst-xxxxxx:
+  name: Lab-Zhinst
 List-Util:
   category: virtual
   name: perl-List-Util
@@ -323,8 +325,8 @@ bignum:
   category: virtual
   name: perl-bignum
 constant:
-  category: virtual
-  name: perl-constant
+  category: dev-lang
+  name: perl
 gettext:
   name: Locale-gettext
 if:
