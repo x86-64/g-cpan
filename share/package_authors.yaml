@@ -1745,6 +1745,8 @@ Algorithm-AhoCorasick-XS:
   RJH: 1
 Algorithm-Annotate:
   CLKAO: 1
+Algorithm-BIT-XS:
+  MGV: 1
 Algorithm-BaumWelch:
   DSTH: 1
 Algorithm-Bayesian:
@@ -8365,6 +8367,8 @@ BioX-SeqUtils-RandomSequence:
   ROGERHALL: 1
 BioX-Workflow:
   JILLROWE: 1
+BioX-Workflow-Command:
+  JILLROWE: 1
 BioX-Workflow-Plugin-Drake:
   JILLROWE: 1
 BioX-Workflow-Plugin-ENV:
@@ -13084,6 +13088,8 @@ Catmandu-Store-Lucy:
   NICS: 1
 Catmandu-Store-MongoDB:
   NICS: 1
+Catmandu-Store-REST:
+  PIETERDP: 1
 Catmandu-Store-RKD:
   PIETERDP: 1
 Catmandu-Template:
@@ -14775,6 +14781,8 @@ Compress-Snappy:
   GRAY: 1
 Compress-Zlib-Perl:
   NWCLARK: 1
+Compress-Zopfli:
+  OCBNET: 1
 Compress-Zstd:
   JIRO: 1
 Compress-unLZMA:
@@ -15755,6 +15763,8 @@ Crypt-OpenSSL-EC:
   MIKEM: 1
 Crypt-OpenSSL-ECDSA:
   MIKEM: 1
+Crypt-OpenSSL-FASTPBKDF2:
+  DUANE: 1
 Crypt-OpenSSL-PBKDF2:
   OpenSSL: 1
 Crypt-OpenSSL-PKCS10:
@@ -19465,6 +19475,8 @@ Data-Validate-Common:
   NORBU: 1
 Data-Validate-Currency:
   PERLSUFI: 1
+Data-Validate-DNS-CAA:
+  MSCHOUT: 1
 Data-Validate-DNS-NAPTR-Regexp:
   WOLFSAGE: 1
 Data-Validate-Domain:
@@ -21126,6 +21138,8 @@ Device-PCDuino:
   TMURRAY: 1
 Device-PaPiRus:
   CAVAC: 1
+Device-PaloAlto-Firewall:
+  PUGLET: 1
 Device-ParallelPort:
   SCOTT: 1
 Device-ParallelPort-JayCar:
@@ -25655,6 +25669,8 @@ Footprintless:
 Footprintless-Plugin-Atlassian-Confluence:
   LTHEISEN: 1
 Footprintless-Plugin-Database:
+  LTHEISEN: 1
+Footprintless-Plugin-Ldap:
   LTHEISEN: 1
 For-Else:
   ALFIE: 1
@@ -32067,6 +32083,8 @@ Kolab-Templates:
   STEPHANB: 1
 Kolab-Util:
   STEPHANB: 1
+Kollos:
+  RSAVAGE: 1
 Konfidi-Client:
   BRONDSEM: 1
 Konstrukt:
@@ -34722,7 +34740,7 @@ Log-Any-Adapter-Mojo:
 Log-Any-Adapter-MojoLog:
   JBERGER: 1
 Log-Any-Adapter-Multiplexor:
-  Log-Any-Adapter-Multiplexor-001: 1
+  Log-Any-Adapter-Multiplexor-002: 1
 Log-Any-Adapter-Redis:
   MILA: 1
 Log-Any-Adapter-Screen:
@@ -39284,6 +39302,8 @@ Month-Simple:
 Moo:
   HAARG: 1
   MSTROUT: 1
+Moo-Google:
+  PAVELSR: 1
 Moo-Lax:
   DAMS: 1
 MooX:
@@ -40492,6 +40512,8 @@ NNTPClient:
   RVA: 1
 NNexus:
   DGINEV: 1
+NOLookup:
+  TROHAU: 1
 NPRG:
   IFROL: 1
 NRD-Daemon:
@@ -40765,7 +40787,7 @@ Net-Amazon-Signature:
 Net-Amazon-Signature-V3:
   RSRCHBOY: 1
 Net-Amazon-Signature-V4:
-  TIM: 1
+  DBOOK: 1
 Net-Amazon-SignatureVersion4:
   CWIMMER: 1
 Net-Amazon-SimpleQueue:
@@ -41235,6 +41257,8 @@ Net-Domain-Match:
   PBLAIR: 1
 Net-Domain-Regex:
   PBLAIR: 1
+Net-Domain-Registration-Check:
+  PYH: 1
 Net-Domain-TLD:
   ALEXP: 1
 Net-Domain-TMCH:
@@ -42752,6 +42776,7 @@ Net-Stomp-Receipt:
 Net-Stream:
   REDS: 1
 Net-Stripe:
+  ILLY: 1
   RCONOVER: 1
 Net-Stripe-Simple:
   GSG: 1
@@ -46525,6 +46550,8 @@ Pcore-Captcha:
   ZDM: 1
 Pcore-DBH:
   ZDM: 1
+Pcore-Ext:
+  ZDM: 1
 Pcore-ExtJS:
   ZDM: 1
 Pcore-GeoIP:
@@ -50144,7 +50171,7 @@ RT-Extension-QuickAddTimeWorked:
 RT-Extension-QuickAssign:
   ALEXMV: 1
 RT-Extension-QuickCalls:
-  ALEXMV: 1
+  BPS: 1
 RT-Extension-QuickDelete:
   FALCONE: 1
 RT-Extension-QuickReassign:
@@ -51238,6 +51265,8 @@ SMB:
   MIGO: 1
 SMOP:
   PMURIAS: 1
+SMS-API-CMTelecom:
+  DSONNTAG: 1
 SMS-API-QuickTelecom:
   KOSTIKYU: 1
 SMS-API-SMSC:
@@ -56469,6 +56498,8 @@ Test-Bot:
   REVMISCHA: 1
 Test-BrewBuild:
   STEVEB: 1
+Test-BrewBuild-Plugin-Author:
+  STEVEB: 1
 Test-BrewBuild-Plugin-TestAgainst:
   STEVEB: 1
 Test-Builder-Clutch:
@@ -57803,6 +57834,8 @@ Test-utf8:
 Test2-AsyncSubtest:
   EXODIST: 1
 Test2-Harness:
+  EXODIST: 1
+Test2-Plugin-IOSync:
   EXODIST: 1
 Test2-Plugin-NoWarnings:
   DROLSKY: 1
@@ -59851,6 +59884,8 @@ Time-List:
   SATOSIN: 1
 Time-Local:
   DROLSKY: 1
+Time-Local-TZ:
+  BAMBR: 1
 Time-Mock:
   EWILHELM: 1
 Time-Moment:
@@ -61532,6 +61567,8 @@ VM-JiffyBox:
   BORISD: 1
 VM-Virtuozzo:
   RSIMOES: 1
+VMOMI:
+  STUMPR: 1
 VMPS-Server:
   KBRINT: 1
 VMS-CMS:
@@ -66260,6 +66297,8 @@ XS-Object-Magic:
   FLORA: 1
 XS-TCC:
   SMUELLER: 1
+XS-Tutorial:
+  DFARRELL: 1
 XS-Writer:
   MSCHWERN: 1
 XSConfig:
@@ -66478,6 +66517,8 @@ Yandex-OAuth:
   CHIPSOID: 1
 Yandex-Tools:
   KOHTS: 1
+Yandex-Translate:
+  BRNFLK: 1
 Yars:
   PLICEASE: 1
 Yars-Command-yars_exercise:
