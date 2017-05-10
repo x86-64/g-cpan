@@ -5287,6 +5287,8 @@ App-RemoteGnokii:
   MGV: 1
 App-ReorderGoProFiles:
   VTI: 1
+App-Repo:
+  ZDENEK: 1
 App-RepoSync:
   CORNELIUS: 1
 App-Report-Generator:
@@ -5468,6 +5470,8 @@ App-Sysadmin-Log-Simple:
   DOHERTY: 1
 App-TLSMe:
   VTI: 1
+App-TOMLUtils:
+  PERLANCAR: 1
 App-Table2YAML:
   JIMMY: 1
 App-TableDataUtils:
@@ -6198,6 +6202,8 @@ App-tt:
   JHTHORSEN: 1
 App-txtnix:
   MDOM: 1
+App-unicomb:
+  PERLANCAR: 1
 App-upf:
   PERLANCAR: 1
 App-used:
@@ -7665,6 +7671,8 @@ Beam-Minion:
   PREACTION: 1
 Beam-Runner:
   PREACTION: 1
+Beam-Service:
+  PREACTION: 1
 Beam-Wire:
   PREACTION: 1
 Beam-Wire-Moose:
@@ -7782,6 +7790,8 @@ Bencher-Scenario-Sprintf:
 Bencher-Scenario-SprintfVsUnpack:
   PERLANCAR: 1
 Bencher-Scenario-StringEliding:
+  PERLANCAR: 1
+Bencher-Scenario-TOMLParsingModules:
   PERLANCAR: 1
 Bencher-Scenario-Test-Sleep:
   PERLANCAR: 1
@@ -8471,8 +8481,6 @@ Bone-Easy:
   MSCHWERN: 1
 Book-Chinese-MasterPerlToday:
   FAYLAND: 1
-Bookings-Security-CVSS:
-  appsec: 1
 Bookmarks-Parser:
   COSIMO: 1
 Boolean-Converter:
@@ -10210,6 +10218,7 @@ CGI-Embedder:
   KOTEROV: 1
 CGI-Emulate-PSGI:
   MIYAGAWA: 1
+  TOKUHIROM: 1
 CGI-Emulate-PSGI-Streaming:
   DAKKAR: 1
 CGI-EncryptForm:
@@ -12130,6 +12139,8 @@ Catalyst-Plugin-Babelfish:
   GRIF: 1
 Catalyst-Plugin-BigSitemap:
   DJCURTIS: 1
+Catalyst-Plugin-BootstrapAlert:
+  CAGAO: 1
 Catalyst-Plugin-Bread-Board:
   FLORA: 1
 Catalyst-Plugin-Browser:
@@ -22349,7 +22360,7 @@ Dist-Zilla-Plugin-Test-NoTabs:
 Dist-Zilla-Plugin-Test-PAUSE-Permissions:
   ETHER: 1
 Dist-Zilla-Plugin-Test-Perl-Critic:
-  JQUELIN: 1
+  ETHER: 1
 Dist-Zilla-Plugin-Test-Pod-Coverage-Configurable:
   DROLSKY: 1
 Dist-Zilla-Plugin-Test-Pod-LinkCheck:
@@ -24741,6 +24752,8 @@ File-Overwrite:
   DCANTRELL: 1
 File-Ownership-Unix:
   VVELOX: 1
+File-PCAP:
+  MAMAWE: 1
 File-PM2File:
   SOFTDIA: 1
 File-Package:
@@ -26760,6 +26773,8 @@ Geo-Coder-Bing:
   GRAY: 1
 Geo-Coder-Bing-Bulk:
   GRAY: 1
+Geo-Coder-CA:
+  NHORNE: 1
 Geo-Coder-Cache:
   LEEYM: 1
 Geo-Coder-Canada:
@@ -27028,6 +27043,8 @@ Geo-OGC-Service-WMTS:
   AJOLMA: 1
 Geo-OLC:
   JGREELY: 1
+Geo-OSM-Imager:
+  FIREDRAKE: 1
 Geo-OSM-MapFeatures:
   BOBKARE: 1
 Geo-OSM-StaticMap:
@@ -34740,7 +34757,7 @@ Log-Any-Adapter-Mojo:
 Log-Any-Adapter-MojoLog:
   JBERGER: 1
 Log-Any-Adapter-Multiplexor:
-  Log-Any-Adapter-Multiplexor-002: 1
+  Log-Any-Adapter-Multiplexor-003: 1
 Log-Any-Adapter-Redis:
   MILA: 1
 Log-Any-Adapter-Screen:
@@ -34769,6 +34786,10 @@ Log-Any-IfLOG:
   PERLANCAR: 1
 Log-Any-Plugin:
   SDT: 1
+Log-Any-Plugin-Format:
+  JJATRIA: 1
+Log-Any-Plugin-History:
+  JJATRIA: 1
 Log-Any-Proxy-Patch-UseDataDmp:
   PERLANCAR: 1
 Log-Any-Proxy-Patch-UseDataDump:
@@ -38629,6 +38650,7 @@ Mojolicious-Plugin-AssetPack-Pipe-ExportToDirectory:
 Mojolicious-Plugin-AttributeMaker:
   HAMMER: 1
 Mojolicious-Plugin-Authentication:
+  JJATRIA: 1
   MADCAT: 1
 Mojolicious-Plugin-Authorization:
   BYTEROCK: 1
@@ -39613,6 +39635,8 @@ MooseX-DOM:
   DMAKI: 1
 MooseX-Daemonize:
   ETHER: 1
+MooseX-DataModel:
+  JLMARTIN: 1
 MooseX-Declare:
   ETHER: 1
 MooseX-Declare-Context-WithOptions-Patch-Extensible:
@@ -41626,6 +41650,8 @@ Net-HTTPServer:
   REATMON: 1
 Net-HTTPTunnel:
   RWAHBY: 1
+Net-Hacky-Detect-IP:
+  DAEMON: 1
 Net-Hadoop-DFSAdmin-ReportParser:
   TAGOMORIS: 1
 Net-Hadoop-HuahinManager:
@@ -44002,8 +44028,6 @@ OpenOffice-Wordlist:
   JV: 1
 OpenPlugin:
   ERIC: 1
-OpenResty:
-  AGENT: 1
 OpenSSL-Versions:
   NANIS: 1
 OpenServices-SNMP:
@@ -46551,8 +46575,6 @@ Pcore-Captcha:
 Pcore-DBH:
   ZDM: 1
 Pcore-Ext:
-  ZDM: 1
-Pcore-ExtJS:
   ZDM: 1
 Pcore-GeoIP:
   ZDM: 1
@@ -50844,6 +50866,8 @@ Resque:
   DIEGOK: 1
 Resque-Plugin-Delay:
   MERU: 1
+Resque-Plugin-Retry:
+  MERU: 1
 Rest-Client-Builder:
   ALEXKOM: 1
 Rest-HtmlVis:
@@ -54458,6 +54482,8 @@ Surveyor-Benchmark-SchwartzianTransform-SortFilesBySize:
   BDFOY: 1
 Svsh:
   IDOPEREL: 1
+Swagger-Schema:
+  JLMARTIN: 1
 Swagger2:
   JHTHORSEN: 1
 Swagger2-Markdown:
@@ -54686,6 +54712,8 @@ Sys-Info-Driver-Windows:
   BURAK: 1
 Sys-Lastlog:
   JSTOWE: 1
+Sys-Linux-Namespace:
+  SIMCOP: 1
 Sys-Load:
   BARABAS: 1
 Sys-LoadAvg:
@@ -54947,6 +54975,8 @@ TOML:
   KARUPA: 1
 TOML-Dumper:
   KARUPA: 1
+TOML-Examples:
+  PERLANCAR: 1
 TOML-Parser:
   KARUPA: 1
 TPath:
@@ -56754,7 +56784,7 @@ Test-Dynamic:
 Test-EOF:
   CSSON: 1
 Test-EOL:
-  FREW: 1
+  ETHER: 1
 Test-Easy:
   BELDEN: 1
 Test-EasyMock:
@@ -56884,6 +56914,8 @@ Test-HTTP:
   LUKEC: 1
 Test-HTTP-AnyEvent-Server:
   SYP: 1
+Test-HTTP-LocalServer:
+  CORION: 1
 Test-HTTP-MockServer:
   DRUOSO: 1
 Test-HTTP-Response:
@@ -57464,7 +57496,7 @@ Test-SFTP:
 Test-SMTP:
   BENNING: 1
 Test-SSH:
-  ANDK: 1
+  SALVA: 1
 Test-STDmaker:
   SOFTDIA: 1
 Test-STF-MockServer:
@@ -61611,6 +61643,8 @@ VMware-LabManager:
   AIVATURI: 1
 VMware-vCloud:
   NIGELM: 1
+VMware-vCloudDirector:
+  NIGELM: 1
 VOMS-Lite:
   MIKEJ: 1
 VR-API:
@@ -62458,6 +62492,10 @@ WWW-LaQuinta-Returns:
   AQUILINA: 1
 WWW-LargeFileFetcher:
   JZHANG: 1
+WWW-Leech-Parser:
+  JAREDSPB: 1
+WWW-Leech-Walker:
+  JAREDSPB: 1
 WWW-Lengthen:
   ISHIGAKI: 1
 WWW-LetsEncrypt:
@@ -62676,8 +62714,6 @@ WWW-Omegle:
   REVMISCHA: 1
 WWW-OneAll:
   BINARY: 1
-WWW-OpenResty:
-  AGENT: 1
 WWW-OpenSVN:
   SHLOMIF: 1
 WWW-OpenSearch:
@@ -64087,6 +64123,8 @@ WebService-NZBMatrix:
   CPORTMAN: 1
 WebService-NationBuilder:
   AANARI: 1
+WebService-Naver-TTS:
+  AANOAA: 1
 WebService-NetSuite:
   PHRED: 1
 WebService-Nextbus-Agency:
@@ -67101,6 +67139,8 @@ failures:
   DAGOLDEN: 1
 fameperl:
   TRIAS: 1
+fastQ_brew:
+  HALLORAN: 1
 fewer:
   RJBS: 1
 fields-aliased:
