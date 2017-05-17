@@ -1468,8 +1468,6 @@ Acme-Study-BLACKJ:
   BLACKJ: 1
 Acme-Study-OS-DateLocales:
   SREZIC: 1
-Acme-Study-Perl:
-  ANDK: 1
 Acme-Study-SREZIC:
   SREZIC: 1
 Acme-Sub-Parms:
@@ -2206,6 +2204,8 @@ Alien-Leptonica:
   ZMUGHAL: 1
 Alien-LibANN:
   NEIKON: 1
+Alien-LibBigWig:
+  AYATES: 1
 Alien-LibGumbo:
   RUZ: 1
 Alien-LibJIT:
@@ -2340,6 +2340,8 @@ Alien-Web-HalBrowser:
   VANSTYN: 1
 Alien-WiX-Version30:
   CSJEWELL: 1
+Alien-XPA:
+  DJERIUS: 1
 Alien-ZMQ:
   CCM: 1
 Alien-astyle:
@@ -4085,6 +4087,8 @@ App-Adenosine:
   FREW: 1
 App-Alice:
   LEEDO: 1
+App-Aliyun:
+  FAYLAND: 1
 App-AllMyChangesUtils:
   BESSARABV: 1
 App-AltSQL:
@@ -4769,7 +4773,7 @@ App-Lastmsg:
 App-Lazyd:
   GUGOD: 1
 App-LedgerSMB-Admin:
-  EINHVERFR: 1
+  EHUELS: 1
 App-LedgerUtils:
   PERLANCAR: 1
 App-Licensecheck:
@@ -7354,7 +7358,7 @@ B-Hooks-EndOfScope:
 B-Hooks-OP-Annotation:
   CHOCOLATE: 1
 B-Hooks-OP-Check:
-  ZEFRAM: 1
+  ETHER: 1
 B-Hooks-OP-Check-EntersubForCV:
   ZEFRAM: 1
 B-Hooks-OP-Check-StashChange:
@@ -7957,6 +7961,8 @@ Benchmark-Confirm:
   BAYASHI: 1
 Benchmark-Featureset-LocaleCountry:
   RSAVAGE: 1
+Benchmark-Featureset-ParamCheck:
+  TOBYINK: 1
 Benchmark-Featureset-SetOps:
   RSAVAGE: 1
 Benchmark-Featureset-StopwordLists:
@@ -8145,6 +8151,8 @@ Bio-ConnectDots:
   ConnectDots: 1
 Bio-Coordinate:
   CJFIELDS: 1
+Bio-DB-Big:
+  AYATES: 1
 Bio-DB-Das-Chado:
   SCAIN: 1
 Bio-DB-HTS:
@@ -11027,6 +11035,8 @@ CPAN-Testers:
   BARBIE: 1
 CPAN-Testers-API:
   PREACTION: 1
+CPAN-Testers-Backend:
+  PREACTION: 1
 CPAN-Testers-Common-Article:
   BARBIE: 1
 CPAN-Testers-Common-Client:
@@ -11182,6 +11192,8 @@ CPANXR:
   CLAESJAC: 1
 CPM:
   PECO: 1
+CPP-panda-lib:
+  SYBER: 1
 CPS:
   PEVANS: 1
 CPS-Governor-IOAsync:
@@ -15249,7 +15261,7 @@ Context-Handle:
 Context-Micro:
   YTURTLE: 1
 Context-Preserve:
-  JROCKWAY: 1
+  ETHER: 1
 Context-Set:
   JETEVE: 1
 Contextual-Call:
@@ -18464,7 +18476,7 @@ Data-Dumper-Again:
 Data-Dumper-AutoEncode:
   BAYASHI: 1
 Data-Dumper-Concise:
-  FREW: 1
+  ETHER: 1
 Data-Dumper-Concise-Aligned:
   JMATES: 1
 Data-Dumper-EasyOO:
@@ -21873,6 +21885,8 @@ Dist-Zilla-Plugin-EnsureChangesHasContent:
   DROLSKY: 1
 Dist-Zilla-Plugin-EnsureDepakable:
   PERLANCAR: 1
+Dist-Zilla-Plugin-EnsureLatestPerl:
+  ETHER: 1
 Dist-Zilla-Plugin-EnsurePrereqsInstalled:
   ETHER: 1
 Dist-Zilla-Plugin-EnsureSQLSchemaVersionedTest:
@@ -22421,6 +22435,8 @@ Dist-Zilla-Plugin-UploadToSFTP:
   MJGARDNER: 1
 Dist-Zilla-Plugin-UploadToStratopan:
   FRIEDO: 1
+Dist-Zilla-Plugin-UseUnsafeInc:
+  ETHER: 1
 Dist-Zilla-Plugin-VerifyPhases:
   ETHER: 1
 Dist-Zilla-Plugin-Version-FromSubversion:
@@ -23117,6 +23133,8 @@ Ekahau:
   GIFF: 1
 Elastic-Model:
   DRTECH: 1
+ElasticEmail:
+  ELASTICML: 1
 ElasticSearch-SearchBuilder:
   DRTECH: 1
 ElasticSearchX-Model:
@@ -25120,6 +25138,8 @@ FileCache-Appender:
   ZWON: 1
 FileCache-Handle:
   JOSEPHW: 1
+FileDirUtil:
+  MTW: 1
 FileHandle-Fmode:
   SISYPHUS: 1
 FileHandle-Unget:
@@ -25898,7 +25918,7 @@ Functional-Utility:
 Funifs:
   VOVA: 1
 Furl:
-  SYOHEX: 1
+  TOKUHIROM: 1
 Furl-Cookies:
   KAZUNORI: 1
 Furl-HTTP-OAuth:
@@ -26126,6 +26146,8 @@ GPS-SpaceTrack:
   MRDVT: 1
 GPS-Tracer:
   TULSOFT: 1
+GPSD-Parse:
+  STEVEB: 1
 GPS_Poi:
   EGERMAN: 1
 GPX-PlotElevation:
@@ -26822,6 +26844,8 @@ Geo-Coder-TomTom:
   GRAY: 1
 Geo-Coder-US:
   SDERLE: 1
+Geo-Coder-XYZ:
+  NHORNE: 1
 Geo-Coder-Yahoo:
   ABH: 1
 Geo-Coder-YahooJapan:
@@ -27529,6 +27553,8 @@ GitDDL-Migrator:
   SONGMU: 1
 GitHub-Authorization:
   RSRCHBOY: 1
+GitHub-Crud:
+  PRBRENAN: 1
 GitHub-Extract:
   ADAMK: 1
 GitHub-Jobs:
@@ -31061,6 +31087,8 @@ Image-SVG-Path:
   BKB: 1
 Image-SVG-Transform:
   COLINK: 1
+Image-Sane:
+  RATCLIFFE: 1
 Image-Scale:
   AGRUNDMA: 1
 Image-Seek:
@@ -31195,6 +31223,8 @@ Imager-TimelineDiagram:
   MZSANFORD: 1
 Imager-Trim:
   SPOT: 1
+Imgur-API:
+  MLHOLLEN: 1
 Import-Base:
   PREACTION: 1
 Import-Box:
@@ -31255,7 +31285,7 @@ Inline-Basic:
 Inline-Befunge:
   JQUELIN: 1
 Inline-C:
-  INGY: 1
+  TINITA: 1
 Inline-CPP:
   DAVIDO: 1
 Inline-CPR:
@@ -31519,6 +31549,7 @@ JSAN-ServerSide:
 JSAN-Shell:
   ADAMK: 1
 JSON:
+  ISHIGAKI: 1
   MAKAMAKA: 1
 JSON-API:
   GFRANKS: 1
@@ -31559,7 +31590,7 @@ JSON-MultiValueOrdered:
 JSON-ON:
   EWILHELM: 1
 JSON-PP:
-  MAKAMAKA: 1
+  ISHIGAKI: 1
 JSON-PP-Compat5005:
   MAKAMAKA: 1
 JSON-PP-Compat5006:
@@ -31951,6 +31982,7 @@ KSx-Search-WildCardQuery:
 KSx-Searcher-Abstract:
   HDP: 1
 Kafka:
+  ASOLOVEY: 1
   SGLADKOV: 1
 Kafka-Client:
   GPHAT: 1
@@ -33332,6 +33364,8 @@ Lingua-ID-Nums2Words:
   PERLANCAR: 1
 Lingua-ID-Words2Nums:
   PERLANCAR: 1
+Lingua-IN-TGC:
+  RAJ: 1
 Lingua-IND-Numbers:
   MANWAR: 1
 Lingua-IND-Nums2Words:
@@ -35726,7 +35760,7 @@ Mac-Spotlight:
 Mac-SysProfile:
   DMUEY: 1
 Mac-SystemDirectory:
-  CHANSEN: 1
+  ETHER: 1
 Mac-Tie-PList:
   GBROCK: 1
 Mac-iPhoto:
@@ -36321,6 +36355,8 @@ MarpaX-Demo-SampleScripts:
 MarpaX-Demo-StringParser:
   RSAVAGE: 1
 MarpaX-ESLIF:
+  JDDPAUSE: 1
+MarpaX-ESLIF-ECMA404:
   JDDPAUSE: 1
 MarpaX-Grammar-GraphViz2:
   RSAVAGE: 1
@@ -38012,7 +38048,7 @@ Module-Install-RTx:
 Module-Install-ReadmeFromPod:
   BINGOS: 1
 Module-Install-ReadmeMarkdownFromPod:
-  MARCEL: 1
+  MATTN: 1
 Module-Install-ReadmePodFromPod:
   YAPPO: 1
 Module-Install-Repository:
@@ -38902,6 +38938,8 @@ Mojolicious-Plugin-Mail:
   SHARIFULN: 1
 Mojolicious-Plugin-MailException:
   UNERA: 1
+Mojolicious-Plugin-Mailgun:
+  MRAMBERG: 1
 Mojolicious-Plugin-Mandel:
   ZITSEN: 1
 Mojolicious-Plugin-Mango:
@@ -40860,6 +40898,8 @@ Net-Async-FastCGI:
   PEVANS: 1
 Net-Async-Gearman:
   PEVANS: 1
+Net-Async-Github:
+  TEAM: 1
 Net-Async-HTTP:
   PEVANS: 1
 Net-Async-HTTP-DAV:
@@ -40873,6 +40913,8 @@ Net-Async-IRC:
 Net-Async-Matrix:
   PEVANS: 1
 Net-Async-Memcached:
+  TEAM: 1
+Net-Async-OAuth:
   TEAM: 1
 Net-Async-Ping:
   FREW: 1
@@ -40893,6 +40935,10 @@ Net-Async-Statsd:
 Net-Async-Tangence:
   PEVANS: 1
 Net-Async-TransferFD:
+  TEAM: 1
+Net-Async-TravisCI:
+  TEAM: 1
+Net-Async-Trello:
   TEAM: 1
 Net-Async-UWSGI:
   TEAM: 1
@@ -41151,6 +41197,8 @@ Net-DNS-Dynamic-Adfilter:
   DWATSON: 1
 Net-DNS-Dynamic-Proxyserver:
   MAJA: 1
+Net-DNS-Extlang:
+  JRLEVINE: 1
 Net-DNS-GuessTZ:
   RJBS: 1
 Net-DNS-Lite:
@@ -41361,6 +41409,8 @@ Net-FTP-Find:
   USUALOMA: 1
 Net-FTP-Mock:
   MITHALDU: 1
+Net-FTP-Path-Iter:
+  DJERIUS: 1
 Net-FTP-Recursive:
   JDLEE: 1
 Net-FTP-RetrHandle:
@@ -41603,7 +41653,7 @@ Net-GraphSpace:
 Net-Graphite:
   SLANNING: 1
 Net-Graylog-Client:
-  MOODFARM: 1
+  JALAVOY: 1
 Net-Groonga-HTTP:
   TOKUHIROM: 1
 Net-Growl:
@@ -44583,11 +44633,11 @@ PGObject-Type-ByteString:
 PGObject-Type-Composite:
   EINHVERFR: 1
 PGObject-Type-DateTime:
-  EHUELS: 1
+  EINHVERFR: 1
 PGObject-Type-JSON:
   EINHVERFR: 1
 PGObject-Util-BulkLoad:
-  BINARY: 1
+  EINHVERFR: 1
 PGObject-Util-Catalog-Types:
   EINHVERFR: 1
 PGObject-Util-DBAdmin:
@@ -44595,7 +44645,7 @@ PGObject-Util-DBAdmin:
 PGObject-Util-DBChange:
   EHUELS: 1
 PGObject-Util-DBMethod:
-  EINHVERFR: 1
+  EHUELS: 1
 PGObject-Util-PseudoCSV:
   EINHVERFR: 1
 PGP:
@@ -47087,6 +47137,8 @@ Perl-WhichPhase:
   JSMITH: 1
 Perl-osnames:
   PERLANCAR: 1
+Perl2Package:
+  MLHOLLEN: 1
 Perl4-CoreLibs:
   ZEFRAM: 1
 Perl6-Attributes:
@@ -47621,6 +47673,8 @@ Plack-App-CGIBin-Streaming:
   OPI: 1
 Plack-App-CLI:
   DOUGLISH: 1
+Plack-App-Catmandu-Bag:
+  NICS: 1
 Plack-App-CocProxy:
   SATOH: 1
 Plack-App-DAIA:
@@ -50218,6 +50272,8 @@ RT-Extension-ReportSpam:
   ALEXMV: 1
 RT-Extension-ResetPassword:
   BPS: 1
+RT-Extension-RightsInspector:
+  BPS: 1
 RT-Extension-SLA:
   ALEXMV: 1
   TSIBLEY: 1
@@ -50557,8 +50613,10 @@ Ref-List:
 Ref-Store:
   MNUNBERG: 1
 Ref-Util:
-  XSAWYERX: 1
+  ARC: 1
 Ref-Util-Rewriter:
+  XSAWYERX: 1
+Ref-Util-XS:
   XSAWYERX: 1
 Ref.pm:
   modules: 1
@@ -51480,6 +51538,8 @@ SNMP-Util:
   WMARQ: 1
 SNMPMonitor:
   JON: 1
+SNS-Notification:
+  JLMARTIN: 1
 SOAP:
   KBROWN: 1
 SOAP-ActiveWorks:
@@ -51735,6 +51795,8 @@ SQLite-Work:
   RUBYKAT: 1
 SQLite_File:
   MAJENSEN: 1
+SQS-Worker:
+  JLMARTIN: 1
 SRS-EPP-Proxy:
   CHILTS: 1
   MUTANT: 1
@@ -58662,6 +58724,8 @@ Text-Quote:
   NEILB: 1
 Text-Quoted:
   ALEXMV: 1
+Text-ReadConditionally:
+  ADDW: 1
 Text-Record-Deduper:
   KIMRYAN: 1
 Text-RecordParser:
@@ -62590,6 +62654,8 @@ WWW-Mechanize-Plugin-FollowMetaRedirect:
   RYOCHIN: 1
 WWW-Mechanize-Plugin-Retry:
   MCMAHON: 1
+WWW-Mechanize-Plugin-Selector:
+  CORION: 1
 WWW-Mechanize-Plugin-Sleepy:
   MJEMMESON: 1
 WWW-Mechanize-Plugin-Snapshot:
@@ -66549,6 +66615,8 @@ YamlTime-Extension-Git:
   INGY: 1
 YamlTime-Git:
   INGY: 1
+Yandex-Dictionary:
+  BRNFLK: 1
 Yandex-Metrika:
   CHIPSOID: 1
 Yandex-OAuth:
@@ -66719,6 +66787,8 @@ Zeta:
   ZETA: 1
 Zilla-Dist:
   INGY: 1
+Zimbra-Expect:
+  OETIKER: 1
 ZimbraManager:
   RPLESSL: 1
 ZipTie-Client:
@@ -66924,6 +66994,8 @@ cet:
   TAINT: 1
 cexio:
   CRYPTOGRA: 1
+chi-driver-elasticache-memcache:
+  ZEBARDY: 1
 chronos:
   SIMONP: 1
 circle-be:

@@ -43,9 +43,6 @@ Data-Dumper:
 Devel-PPPort:
   category: virtual
   name: perl-Devel-PPPort
-Devel-SelfStubber:
-  category: virtual
-  name: perl-Devel-SelfStubber
 Digest:
   category: virtual
   name: perl-Digest
@@ -61,8 +58,6 @@ Dumpvalue:
 Encode:
   category: virtual
   name: perl-Encode
-Env:
-  category: perl-core
 Exporter:
   category: virtual
   name: perl-Exporter
@@ -87,9 +82,6 @@ ExtUtils-Manifest:
 ExtUtils-ParseXS:
   category: virtual
   name: perl-ExtUtils-ParseXS
-File-Fetch:
-  category: virtual
-  name: perl-File-Fetch
 File-Path:
   category: virtual
   name: perl-File-Path
@@ -148,17 +140,11 @@ IO-Zlib:
 IPC-Cmd:
   category: virtual
   name: perl-IPC-Cmd
-IPC-SysV:
-  category: virtual
-  name: perl-IPC-SysV
 JSON-PP:
   category: virtual
   name: perl-JSON-PP
 Lab-Zhinst-xxxxxx:
   name: Lab-Zhinst
-List-Util:
-  category: virtual
-  name: perl-List-Util
 Locale-Maketext:
   category: virtual
   name: perl-Locale-Maketext
@@ -198,9 +184,6 @@ Module-Loaded:
 Module-Metadata:
   category: virtual
   name: perl-Module-Metadata
-NEXT:
-  category: virtual
-  name: perl-NEXT
 NTLM:
   name: Authen-NTLM
 Net-Ping:
@@ -223,45 +206,27 @@ PathTools:
 Perl-OSType:
   category: virtual
   name: perl-Perl-OSType
-Pod-Checker:
-  category: virtual
-  name: perl-Pod-Checker
 Pod-Escapes:
   category: virtual
   name: perl-Pod-Escapes
 Pod-Parser:
   category: virtual
   name: perl-Pod-Parser
-Pod-Perldoc:
-  category: virtual
-  name: perl-Pod-Perldoc
 Pod-Simple:
   category: virtual
   name: perl-Pod-Simple
-Pod-Usage:
-  category: virtual
-  name: perl-Pod-Usage
 Safe:
   category: virtual
   name: perl-Safe
 Scalar-List-Utils:
   category: virtual
   name: perl-Scalar-List-Utils
-Scalar-Util:
-  category: virtual
-  name: perl-Scalar-Util
-SelfLoader:
-  category: virtual
-  name: perl-SelfLoader
 Socket:
   category: virtual
   name: perl-Socket
 Storable:
   category: virtual
   name: perl-Storable
-Sub-Util:
-  category: virtual
-  name: perl-Sub-Util
 Sys-Syslog:
   category: virtual
   name: perl-Sys-Syslog
