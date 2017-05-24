@@ -772,6 +772,8 @@ Acme-DonMartin:
   DLAND: 1
 Acme-Dot:
   OVID: 1
+Acme-DotDotGone:
+  LNATION: 1
 Acme-DoubleHelix:
   XERN: 1
 Acme-DreamyImage:
@@ -5097,8 +5099,6 @@ App-PS1:
   IVANWILLS: 1
 App-PYX2XML:
   SKIM: 1
-App-Packager:
-  JV: 1
 App-Padadoy:
   VOJ: 1
 App-PandoraPerisope:
@@ -5790,6 +5790,8 @@ App-docsisious:
   JHTHORSEN: 1
 App-dropboxapi:
   ASKADNA: 1
+App-dt:
+  PERLANCAR: 1
 App-duino:
   ALEXBIO: 1
 App-dux:
@@ -6230,8 +6232,6 @@ App-wordlist:
   PERLANCAR: 1
 App-wp-xmlrpc:
   PERLANCAR: 1
-App-wrapspeak:
-  MUCKER: 1
 App-wu:
   DFARRELL: 1
 App-xkcdpass:
@@ -7786,6 +7786,8 @@ Bencher-Scenario-SetOperationModules:
 Bencher-Scenario-ShellQuoteAny:
   PERLANCAR: 1
 Bencher-Scenario-SortBySpec:
+  PERLANCAR: 1
+Bencher-Scenario-SortHashKeys:
   PERLANCAR: 1
 Bencher-Scenario-SortKeyTop:
   PERLANCAR: 1
@@ -14443,6 +14445,12 @@ Closure-Loop:
   ANDYA: 1
 CloudApp-REST:
   MDIETRICH: 1
+CloudCron:
+  JLMARTIN: 1
+CloudCron-Worker:
+  JLMARTIN: 1
+CloudDeploy:
+  JLMARTIN: 1
 CloudFlare-Client:
   PWR: 1
 CloudPAN:
@@ -20635,6 +20643,8 @@ Devel-Isa-Explainer:
   KENTNL: 1
 Devel-JSON:
   DOLMEN: 1
+Devel-Jemallctl:
+  TVDW: 1
 Devel-KYTProf:
   ONISHI: 1
 Devel-Kit:
@@ -27870,6 +27880,8 @@ Graph-Writer-TGXML:
   JROBINSON: 1
 Graph-XGMML:
   ADAMK: 1
+GraphQL:
+  ETJ: 1
 GraphViz:
   RSAVAGE: 1
 GraphViz-DBI:
@@ -29044,7 +29056,6 @@ HTML-Tempi:
   RFAUST: 1
 HTML-Template:
   SAMTREGAR: 1
-  WONKO: 1
 HTML-Template-Associate:
   ALEXP: 1
 HTML-Template-Associate-FormField:
@@ -30438,6 +30449,8 @@ IO-ReStoreFH:
   DJERIUS: 1
 IO-React:
   GARROW: 1
+IO-ReadPreProcess:
+  ADDW: 1
 IO-Select-Trap:
   SCOTTS: 1
 IO-SendFile:
@@ -35334,6 +35347,8 @@ MARC-File-MARCXML:
   NATLIBFI: 1
 MARC-File-MiJ:
   GMCHARLT: 1
+MARC-File-XML:
+  GMCHARLT: 1
 MARC-Lint:
   EIJABB: 1
 MARC-Loader:
@@ -37611,7 +37626,7 @@ Minecraft-SectionFilter:
 MiniPAN:
   LEV: 1
 Minilla:
-  SYOHEX: 1
+  SKAJI: 1
   TOKUHIROM: 1
 Minion:
   SRI: 1
@@ -38344,6 +38359,10 @@ Mojo-Base-XS:
   YKO: 1
 Mojo-CSV:
   ZOFFIX: 1
+Mojo-CallFire:
+  SADAMS: 1
+Mojo-CloudCheckr:
+  SADAMS: 1
 Mojo-Cloudflare:
   JHTHORSEN: 1
 Mojo-Cloudstack:
@@ -42089,8 +42108,6 @@ Net-MundiPagg:
   BLABOS: 1
 Net-MyCommerce-API:
   DHATFIELD: 1
-Net-MyOpera:
-  OPERA: 1
 Net-MyPeople-Bot:
   KHS: 1
 Net-MyPeople-Bot-IPUpdator:
@@ -42253,8 +42270,6 @@ Net-OpenVPN-TrayIcon:
   MUGENKEN: 1
 Net-OpenXchange:
   MXEY: 1
-Net-OperaLink:
-  OPERA: 1
 Net-Oping:
   OCTO: 1
 Net-Ostrich:
@@ -44617,19 +44632,19 @@ PFT:
 PGForth:
   PETERGAL: 1
 PGObject:
-  EHUELS: 1
+  EINHVERFR: 1
 PGObject-Composite:
   EINHVERFR: 1
 PGObject-Composite-Role:
   EINHVERFR: 1
 PGObject-Simple:
-  EHUELS: 1
+  EINHVERFR: 1
 PGObject-Simple-Role:
-  EHUELS: 1
+  EINHVERFR: 1
 PGObject-Type-BigFloat:
   EINHVERFR: 1
 PGObject-Type-ByteString:
-  EHUELS: 1
+  EINHVERFR: 1
 PGObject-Type-Composite:
   EINHVERFR: 1
 PGObject-Type-DateTime:
@@ -46602,23 +46617,15 @@ Payvment-Facebook-API:
   GOYALI: 1
 Pcore:
   ZDM: 1
-Pcore-API-AftermarketPl:
-  ZDM: 1
-Pcore-API-Dynadot:
-  ZDM: 1
 Pcore-API-Google:
   ZDM: 1
 Pcore-API-Majestic:
   ZDM: 1
 Pcore-API-Moz:
   ZDM: 1
-Pcore-API-Namecheap:
-  ZDM: 1
 Pcore-API-PayPal:
   ZDM: 1
 Pcore-API-ReCaptcha:
-  ZDM: 1
-Pcore-API-Whois:
   ZDM: 1
 Pcore-Captcha:
   ZDM: 1
@@ -46765,6 +46772,8 @@ Perinci-Examples-Bin-Classic:
 Perinci-Examples-Bin-Inline:
   PERLANCAR: 1
 Perinci-Examples-Bin-Lite:
+  PERLANCAR: 1
+Perinci-Examples-ResMeta-Table:
   PERLANCAR: 1
 Perinci-Exporter:
   PERLANCAR: 1
@@ -48102,6 +48111,10 @@ Plack-Middleware-LogWarn:
   MAESTRO: 1
 Plack-Middleware-LowerUrl:
   LOGIE: 1
+Plack-Middleware-Memento:
+  NICS: 1
+Plack-Middleware-Memento-Handler-Catmandu-Bag:
+  NICS: 1
 Plack-Middleware-MemoryUsage:
   HIROSE: 1
 Plack-Middleware-MethodOverride:
@@ -50552,6 +50565,8 @@ Redis-Client:
   FRIEDO: 1
 Redis-Cluster:
   SMSONLINE: 1
+Redis-ClusterRider:
+  IPH: 1
 Redis-DistLock:
   JANUS: 1
 Redis-Dump:
@@ -51184,6 +51199,8 @@ Router-Simple-Reversible:
   MOTEMEN: 1
 Router-Simple-Sinatraish:
   TOKUHIROM: 1
+Router-XS:
+  DFARRELL: 1
 Routes-Tiny:
   VTI: 1
 Rstat-Client:
@@ -58502,8 +58519,6 @@ Text-MacroScript:
   PSCUST: 1
 Text-Macros:
   JDPORTER: 1
-Text-MarkPerl:
-  MUCKER: 1
 Text-Markdown:
   BOBTFISH: 1
 Text-Markdown-ApacheHandler:
@@ -58814,10 +58829,6 @@ Text-Slidez:
   EWILHELM: 1
 Text-Slugify:
   ROBN: 1
-Text-Smart:
-  DANBERR: 1
-Text-Smart-Plugin:
-  DANBERR: 1
 Text-SmartLinks:
   SZABGAB: 1
 Text-Snippet:
@@ -59986,6 +59997,8 @@ Time-Mock:
   EWILHELM: 1
 Time-Moment:
   CHANSEN: 1
+Time-Moment-Epoch:
+  HEANEY: 1
 Time-Monotonic:
   DAVID: 1
 Time-NT:
@@ -61170,6 +61183,8 @@ URI-Unredirect:
   GRAY: 1
 URI-XSEscape:
   GONZUS: 1
+URI-amqp:
+  JASEI: 1
 URI-chrome:
   ZIGOROU: 1
 URI-cpan:
@@ -61861,6 +61876,8 @@ Verilog-Readmem:
   GSULLIVAN: 1
 Verilog-VCD:
   GSULLIVAN: 1
+Verilog-VCD-Writer:
+  JVS: 1
 Verity-Collection:
   SRL: 1
 Verizon-Perl-Tools:
@@ -62241,6 +62258,7 @@ WWW-Correios-PrecoPrazo:
 WWW-Correios-SIGEP:
   GARU: 1
 WWW-Correios-SRO:
+  GARU: 1
   RLOPES: 1
 WWW-Coursera:
   OVNTATAR: 1
