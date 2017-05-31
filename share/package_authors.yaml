@@ -190,6 +190,8 @@ AI-SimulatedAnnealing:
   BFITCH: 1
 AI-Termites:
   SALVA: 1
+AI-XGBoost:
+  PABLROD: 1
 AIIA-GMT:
   CJUKUO: 1
 AIS-client:
@@ -885,6 +887,8 @@ Acme-HashKeyOrderBrokenAgain:
 Acme-Hello:
   AUDREYT: 1
   AUTRIJUS: 1
+Acme-Helloworld:
+  TOMCHA: 1
 Acme-HidamariSketch:
   AKIHIRO: 1
 Acme-Hidek:
@@ -1538,6 +1542,8 @@ Acme-TestDist-Cpp-EUMM-EUCppGuess:
   WOLLMERS: 1
 Acme-Testing:
   BRADH: 1
+Acme-Testing-Permissions:
+  BOOK: 1
 Acme-Tests:
   GUGOD: 1
 Acme-Text-Rhombus:
@@ -1618,6 +1624,8 @@ Acme-WalkMethods:
   LLAP: 1
 Acme-WallisdsFirstModule:
   WALLISDS: 1
+Acme-Want5000trillion:
+  ANATOFUZ: 1
 Acme-Warn-LOLCAT:
   AQUILINA: 1
 Acme-Web-PodDisplay:
@@ -2932,6 +2940,8 @@ AnyEvent-Net-Amazon-S3:
   YAKEX: 1
 AnyEvent-Net-Curl-Queued:
   SYP: 1
+AnyEvent-Net-MPD:
+  JJATRIA: 1
 AnyEvent-OWNet:
   BEANZ: 1
 AnyEvent-Onkyo:
@@ -4179,6 +4189,8 @@ App-CCSV:
   GARGAMEL: 1
 App-CELL:
   SMITHFARM: 1
+App-CISetup:
+  DROLSKY: 1
 App-CLI:
   CORNELIUS: 1
 App-CLI-Extension:
@@ -4432,7 +4444,11 @@ App-DubiousHTTP:
 App-DuckPAN:
   DDG: 1
   MOOLLAZA: 1
+App-DumpChromeHistory:
+  PERLANCAR: 1
 App-DumpFirefoxHistory:
+  PERLANCAR: 1
+App-DumpOperaHistory:
   PERLANCAR: 1
 App-DumpPERLANCARSampleTree:
   PERLANCAR: 1
@@ -4468,6 +4484,12 @@ App-ErrorCalculator:
   SMUELLER: 1
 App-EvalServer:
   HINRIK: 1
+App-EvalServerAdvanced:
+  SIMCOP: 1
+App-EvalServerAdvanced-Protocol:
+  SIMCOP: 1
+App-EvalServerAdvanced-REPL:
+  SIMCOP: 1
 App-EventStreamr:
   TECHMAN: 1
 App-ExecIf:
@@ -4478,6 +4500,8 @@ App-ExtractCPANModulesFromHTML:
   PERLANCAR: 1
 App-ExtractDate:
   PERLANCAR: 1
+App-ExtractLinks:
+  RORYRJB: 1
 App-FQStat:
   SMUELLER: 1
 App-FTNDB:
@@ -4560,6 +4584,8 @@ App-GetoptLongUtils:
   PERLANCAR: 1
 App-GetoptStdUtils:
   PERLANCAR: 1
+App-Git-Autofixup:
+  TORBIAK: 1
 App-Git-Ribbon:
   KABLAMO: 1
 App-Git-SitePerl:
@@ -5702,6 +5728,8 @@ App-bovespa:
   RECSKY: 1
 App-breakout:
   LIMITUSUS: 1
+App-btcindo:
+  PERLANCAR: 1
 App-calendr:
   MANWAR: 1
 App-cdnget:
@@ -5988,6 +6016,8 @@ App-mymeta_requires:
   DAGOLDEN: 1
 App-nauniq:
   PERLANCAR: 1
+App-nodie:
+  ORKUN: 1
 App-norepeat:
   PERLANCAR: 1
 App-nrun:
@@ -8443,6 +8473,8 @@ Bitcoin-RPC-Client:
   WHINDS: 1
 Bitmask-Data:
   MAROS: 1
+BlankOnDev:
+  YUSRIDEB: 1
 Blatte:
   BOBG: 1
 Blatte-HTML:
@@ -11953,6 +11985,8 @@ Catalyst-Model-DBR:
   IMPIOUS: 1
 Catalyst-Model-Data-Localize:
   DMAKI: 1
+Catalyst-Model-Data-MuForm:
+  JJNAPIORK: 1
 Catalyst-Model-DataHash:
   JJNAPIORK: 1
 Catalyst-Model-DynamicAdaptor:
@@ -18551,6 +18585,8 @@ Data-Fake-MetaSyntactic:
   BOOK: 1
 Data-Faker:
   WSHELDAHL: 1
+Data-Faker-Colour:
+  MGV: 1
 Data-Faker-JapaneseFemaleName:
   BOKUTIN: 1
 Data-Faker-MetaSyntactic:
@@ -19772,6 +19808,8 @@ Date-Holidays-Abstract:
   JONASBN: 1
 Date-Holidays-BR:
   GARU: 1
+Date-Holidays-BY:
+  BESINT: 1
 Date-Holidays-CA:
   RICK: 1
 Date-Holidays-CA_ES:
@@ -25312,6 +25350,8 @@ Filter-signatures:
   CORION: 1
 Finance-Amortization:
   WAGNER: 1
+Finance-BTCIndo:
+  PERLANCAR: 1
 Finance-Bank-ABSA:
   LCOWLE: 1
 Finance-Bank-AU-StGeorge:
@@ -29894,6 +29934,8 @@ Hash-NoRef:
   GMPASSOS: 1
 Hash-NoVivify:
   BPOWERS: 1
+Hash-Normalize:
+  VPIT: 1
 Hash-Object:
   JETTRA: 1
 Hash-Objectify:
@@ -31568,6 +31610,8 @@ JSON-API:
   GFRANKS: 1
 JSON-Any:
   ETHER: 1
+JSON-Assert:
+  SGREEN: 1
 JSON-Builder:
   KNI: 1
 JSON-CPAN-Meta:
@@ -32587,6 +32631,8 @@ LWP-ConsoleLogger:
   OALDERS: 1
 LWP-Curl:
   LORN: 1
+LWP-CurlLog:
+  JACOBG: 1
 LWP-JSON-Tiny:
   SKINGTON: 1
 LWP-MediaTypes:
@@ -32691,6 +32737,8 @@ LWP-UserAgent-RandomProxyConnect:
   HVALVERDE: 1
 LWP-UserAgent-Snapshot:
   NPW: 1
+LWP-UserAgent-Throttled:
+  NHORNE: 1
 LWP-UserAgent-Tor:
   SPEBERN: 1
 LWP-UserAgent-WithCache:
@@ -38379,6 +38427,8 @@ Mojo-Email-Checker-SMTP:
   SNELIUS: 1
 Mojo-FriendFeed:
   JBERGER: 1
+Mojo-IOLoop-DNSNative:
+  COFFEE: 1
 Mojo-IOLoop-ForkCall:
   JBERGER: 1
 Mojo-IOLoop-HoboProcess:
@@ -39425,6 +39475,8 @@ MooX-LazierAttributes:
   LNATION: 1
 MooX-LazyRequire:
   HAARG: 1
+MooX-Locale-Passthrough:
+  REHSACK: 1
 MooX-Log-Any:
   CAZADOR: 1
 MooX-Lsub:
@@ -39441,6 +39493,8 @@ MooX-Options:
   CELOGEEK: 1
 MooX-Options-Actions:
   TBSLIVER: 1
+MooX-PDL2:
+  DJERIUS: 1
 MooX-POE:
   GETTY: 1
 MooX-PluginKit:
@@ -41400,6 +41454,8 @@ Net-Elexol-EtherIO24:
   CHRISY: 1
 Net-Enum-DNSServer:
   SMS: 1
+Net-Etcd:
+  HEXFUSION: 1
 Net-Evernote:
   DMC: 1
 Net-Evernote-Simple:
@@ -41535,6 +41591,8 @@ Net-Frame-Layer-LLTD:
   GOMOR: 1
 Net-Frame-Layer-LOOP:
   GOMOR: 1
+Net-Frame-Layer-MPLS:
+  VINSWORLD: 1
 Net-Frame-Layer-NTP:
   VINSWORLD: 1
 Net-Frame-Layer-OSPF:
@@ -48251,6 +48309,8 @@ Plack-Middleware-SetLocalEnv:
   FUJIWARA: 1
 Plack-Middleware-SignedCookies:
   ARISTOTLE: 1
+Plack-Middleware-Signposting:
+  VPEIL: 1
 Plack-Middleware-SizeLimit:
   AUDREYT: 1
 Plack-Middleware-SocketIO:
@@ -50001,6 +50061,8 @@ RPi-LCD:
   STEVEB: 1
 RPi-PIGPIO:
   RPi-PIGPIO: 1
+RPi-Pin:
+  STEVEB: 1
 RPi-SPI:
   STEVEB: 1
 RPi-WiringPi:
@@ -50881,6 +50943,8 @@ ReplaceMultiple:
   PORTON: 1
 Reply:
   DOY: 1
+Reply-Plugin-Autocomplete-ExportedSymbols:
+  AKIYM: 1
 Reply-Plugin-ConfigurablePrompt:
   TSUCCHI: 1
 Reply-Plugin-DataDmp:
@@ -53531,8 +53595,6 @@ Spreadsheet-WriteExcelXML:
   JMCNAMARA: 1
 Spreadsheet-XLSX:
   MIKEB: 1
-Spreadsheet-XLSX-Reader-LibXML:
-  JANDREW: 1
 Spreadsheet-XML_to_XLS:
   USMANOV: 1
 Spreadsheet-XlateExcel:
@@ -58739,8 +58801,6 @@ Text-Quote:
   NEILB: 1
 Text-Quoted:
   ALEXMV: 1
-Text-ReadConditionally:
-  ADDW: 1
 Text-Record-Deduper:
   KIMRYAN: 1
 Text-RecordParser:
@@ -67726,6 +67786,7 @@ perl:
   NWCLARK: 1
   RGARCIA: 1
   SHAY: 1
+  XSAWYERX: 1
 perl-Apache2-LogUtil:
   RYANGIES: 1
 perl-GPS:
