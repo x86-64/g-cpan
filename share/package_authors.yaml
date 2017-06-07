@@ -4169,6 +4169,8 @@ App-BigQuery-Importer-MySQL:
   MERU: 1
 App-Birthday:
   FARHAD: 1
+App-BlockWebFlooders:
+  PERLANCAR: 1
 App-Bondage:
   HINRIK: 1
 App-BoolFindGrep:
@@ -4177,6 +4179,8 @@ App-Bootstrap:
   SKUD: 1
 App-Bootstrap-Perl:
   SCHWIGON: 1
+App-BorgRestore:
+  BLUEWIND: 1
 App-Build:
   MBARBON: 1
 App-Bulkmail:
@@ -7769,6 +7773,8 @@ Bencher-Scenario-GraphTopologicalSortModules:
   PERLANCAR: 1
 Bencher-Scenario-HashBuilding:
   PERLANCAR: 1
+Bencher-Scenario-HashUnique:
+  PERLANCAR: 1
 Bencher-Scenario-IODParsingModules:
   PERLANCAR: 1
 Bencher-Scenario-IPCSystemOptions:
@@ -10702,6 +10708,8 @@ CHI-Driver-MySQL:
   CRLCU: 1
 CHI-Driver-Ping:
   SWALTERS: 1
+CHI-Driver-Reddit:
+  DFARRELL: 1
 CHI-Driver-Redis:
   IBURRELL: 1
 CHI-Driver-Redis-SortedSet:
@@ -18858,6 +18866,8 @@ Data-MessagePack:
   SYOHEX: 1
 Data-MessagePack-Stream:
   SYOHEX: 1
+Data-MessagePack-Types:
+  MOZNION: 1
 Data-Microformat:
   USSJOIN: 1
 Data-Mining-Apriori:
@@ -24833,7 +24843,7 @@ File-Parser-Role:
 File-Patch-Undoable:
   PERLANCAR: 1
 File-Path:
-  RICHE: 1
+  JKEENAN: 1
 File-Path-Collapse:
   NKH: 1
 File-Path-Expand:
@@ -26451,8 +26461,6 @@ Games-LMSolve:
   SHLOMIF: 1
 Games-Lacuna-Client:
   HALKEYE: 1
-Games-Lacuna-Task:
-  MAROS: 1
 Games-Lineofsight:
   VILJUN: 1
 Games-Literati:
@@ -26902,6 +26910,8 @@ Geo-Coder-YahooJapan:
   KUMA: 1
 Geo-Coder-YahooJapan-Inverse:
   KOKOGIKO: 1
+Geo-Compass-Variation:
+  STEVEB: 1
 Geo-Constants:
   MRDVT: 1
 Geo-Converter-WKT2KML:
@@ -27990,6 +28000,8 @@ Graphics-DZI:
   DRRHO: 1
 Graphics-EPS:
   Graphics: 1
+Graphics-Fig:
+  SCOOTER: 1
 Graphics-Framebuffer:
   RKELSCH: 1
 Graphics-GVG:
@@ -29984,6 +29996,8 @@ Hash-Type:
   DAMI: 1
 Hash-Union:
   LONERR: 1
+Hash-Unique:
+  MATZ: 1
 Hash-Util-FieldHash-Compat:
   ETHER: 1
 Hash-Util-Pick:
@@ -37525,7 +37539,7 @@ Meta-Grapher-Moose:
 Meta-Widget-Gtk-Sprite:
   JEPRICE: 1
 MetaCPAN-API:
-  XSAWYERX: 1
+  HAARG: 1
 MetaCPAN-API-Tiny:
   JLUIS: 1
 MetaCPAN-Client:
@@ -39083,6 +39097,8 @@ Mojolicious-Plugin-PDFRenderer:
   AMIRITE: 1
 Mojolicious-Plugin-PPI:
   JBERGER: 1
+Mojolicious-Plugin-Pager:
+  JHTHORSEN: 1
 Mojolicious-Plugin-ParamExpand:
   SHAW: 1
 Mojolicious-Plugin-ParamLogger:
@@ -39476,6 +39492,8 @@ MooX-LazierAttributes:
 MooX-LazyRequire:
   HAARG: 1
 MooX-Locale-Passthrough:
+  REHSACK: 1
+MooX-Locale-TextDomain-OO:
   REHSACK: 1
 MooX-Log-Any:
   CAZADOR: 1
@@ -44208,7 +44226,7 @@ OpusVL-Preferences:
 OpusVL-SimpleCrypto:
   NEWELLC: 1
 OpusVL-SysParams:
-  NEWELLC: 1
+  ALTREUS: 1
 OpusVL-Text-Util:
   NEWELLC: 1
 Orac:
@@ -45696,6 +45714,8 @@ PPIx-Shorthand:
   ELLIOTJS: 1
 PPIx-Utilities:
   ELLIOTJS: 1
+PPIx-Utils:
+  DBOOK: 1
 PPIx-XPath:
   DAKKAR: 1
 PPM:
@@ -48405,6 +48425,8 @@ Plack-Session-Store-MongoDB:
   IDOPEREL: 1
 Plack-Session-Store-Redis:
   LEEDO: 1
+Plack-Session-Store-RedisFast:
+  AKZHAN: 1
 Plack-Session-Store-Transparent:
   ILLO: 1
 Plack-Test-Agent:
@@ -53375,8 +53397,6 @@ Sort-MultipleFields:
   DCANTRELL: 1
 Sort-Naturally:
   BINGOS: 1
-Sort-Naturally-XS:
-  SERVAL: 1
 Sort-Packed:
   SALVA: 1
 Sort-Radix:
@@ -55044,6 +55064,8 @@ TAP-Harness-Archive:
   SCHWIGON: 1
 TAP-Harness-Async:
   TEAM: 1
+TAP-Harness-BailOnFail:
+  GRAY: 1
 TAP-Harness-JUnit:
   JLAVALLEE: 1
 TAP-Harness-Multiple:
@@ -56766,6 +56788,8 @@ Test-CompanionClasses:
   MARCEL: 1
 Test-Compile:
   EGILES: 1
+Test-Compiles:
+  TOBYINK: 1
 Test-Config-System:
   IANK: 1
 Test-ConsistentVersion:
@@ -58184,6 +58208,8 @@ Text-CSV_PP-Simple:
   COHTAN: 1
 Text-CSV_XS:
   HMBRAND: 1
+Text-CaboCha:
+  CODEHEX: 1
 Text-Cadenceparser:
   HOLLIE: 1
 Text-Caml:
@@ -59456,6 +59482,8 @@ Tie-Array-CSV:
   JBERGER: 1
 Tie-Array-Cavity:
   FDULAU: 1
+Tie-Array-Expire:
+  PERLANCAR: 1
 Tie-Array-FileWriter:
   GREGOR: 1
 Tie-Array-Iterable:
@@ -62700,6 +62728,8 @@ WWW-Mechanize-Cached:
   OALDERS: 1
 WWW-Mechanize-Cached-GZip:
   PEGI: 1
+WWW-Mechanize-Chrome:
+  CORION: 1
 WWW-Mechanize-DecodedContent:
   MIYAGAWA: 1
 WWW-Mechanize-Firefox:
@@ -66609,6 +66639,7 @@ YAML-Parser-Syck:
   INGY: 1
 YAML-Perl:
   INGY: 1
+  TINITA: 1
 YAML-Shell:
   INGY: 1
 YAML-Syck:
@@ -67701,6 +67732,8 @@ osgish:
   ROLAND: 1
 overload-eval:
   JJORE: 1
+overload-reify:
+  DJERIUS: 1
 overload-substr:
   PEVANS: 1
 p2:
@@ -68044,6 +68077,8 @@ sofu-config:
   sofu-config: 1
 sol-inst:
   CHRISJ: 1
+spamcupNG:
+  ARFREITAS: 1
 speech_pm:
   RCALEY: 1
 sql-simple:
