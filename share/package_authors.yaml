@@ -854,6 +854,8 @@ Acme-Given-Hash:
   NOTBENH: 1
 Acme-Globule:
   MOOLI: 1
+Acme-Globus:
+  JACOBY: 1
 Acme-Goatse:
   IAMCAL: 1
 Acme-Godot:
@@ -1902,6 +1904,8 @@ Algorithm-HITS-Lite:
   GUGOD: 1
 Algorithm-Hamming-Perl:
   BDGREGG: 1
+Algorithm-History-Levels:
+  PERLANCAR: 1
 Algorithm-HowSimilar:
   JFREEMAN: 1
 Algorithm-Huffman:
@@ -5592,6 +5596,8 @@ App-TracksBot:
   RHOELZ: 1
 App-Translit-String:
   SKIM: 1
+App-TrimHistories:
+  PERLANCAR: 1
 App-Ttyrec:
   DOY: 1
 App-Tweet:
@@ -6210,6 +6216,8 @@ App-sync_cpantesters:
   MARCEL: 1
 App-tabify:
   PERLANCAR: 1
+App-tailswitch:
+  PERLANCAR: 1
 App-tchart:
   PERLANCAR: 1
 App-tcpproxy:
@@ -6536,6 +6544,8 @@ Array-RealSpan:
   GENE: 1
 Array-RefElem:
   GAAS: 1
+Array-Sample-Partition:
+  PERLANCAR: 1
 Array-Set:
   PERLANCAR: 1
 Array-Shuffle:
@@ -7768,6 +7778,8 @@ Bencher-Scenario-GamesWordlistModules:
 Bencher-Scenario-GetoptLongSpecParsing:
   PERLANCAR: 1
 Bencher-Scenario-GetoptModules:
+  PERLANCAR: 1
+Bencher-Scenario-Glob:
   PERLANCAR: 1
 Bencher-Scenario-GraphTopologicalSortModules:
   PERLANCAR: 1
@@ -9421,8 +9433,6 @@ Business-MaxMind:
   MAXMIND: 1
 Business-MollieAPI:
   STUIFZAND: 1
-Business-Mondo:
-  LEEJO: 1
 Business-Monzo:
   LEEJO: 1
 Business-NETeller-Direct:
@@ -14969,7 +14979,7 @@ Config-DotNetXML:
 Config-ENV:
   SATOH: 1
 Config-ENV-Multi:
-  TANAKA: 1
+  KARUPA: 1
 Config-Entities:
   LTHEISEN: 1
 Config-Environment:
@@ -15689,6 +15699,12 @@ Crypt-ECB:
   APPEL: 1
 Crypt-ECDH_ES:
   LEONT: 1
+Crypt-ECDSA-Blind:
+  HASH: 1
+Crypt-EC_DSA:
+  HASH: 1
+Crypt-EECDH:
+  HASH: 1
 Crypt-Ed25519:
   MLEHMANN: 1
 Crypt-Eksblowfish:
@@ -15698,6 +15714,8 @@ Crypt-Elijah:
 Crypt-Enigma:
   ALIZTA: 1
   JBLAKEY: 1
+Crypt-FDH:
+  HASH: 1
 Crypt-FNA:
   ANAK: 1
 Crypt-FNA-Async:
@@ -15728,6 +15746,8 @@ Crypt-HCE_SHA:
   EESTABROO: 1
 Crypt-HSXKPasswd:
   BARTB: 1
+Crypt-HashCash:
+  HASH: 1
 Crypt-Hill:
   MANWAR: 1
 Crypt-IDA:
@@ -15926,6 +15946,8 @@ Crypt-RS14_PP:
   RONW: 1
 Crypt-RSA:
   VIPUL: 1
+Crypt-RSA-Blind:
+  HASH: 1
 Crypt-RSA-Parse:
   FELIPE: 1
 Crypt-RSA-Yandex:
@@ -16104,6 +16126,8 @@ CtCmd:
   RATL: 1
 Ctype:
   SAMUELL: 1
+Cuckoo-Filter:
+  KEND: 1
 Curses:
   GIRAFFED: 1
 Curses-Devkit:
@@ -16552,6 +16576,8 @@ DBIx-Class-DeploymentHandler:
   FREW: 1
 DBIx-Class-DeploymentHandler-CLI:
   HORNBURG: 1
+DBIx-Class-DeploymentHandler-VersionStorage-WithSchema:
+  ALTREUS: 1
 DBIx-Class-DigestColumns:
   GRODITI: 1
 DBIx-Class-DigestColumns-Lite:
@@ -18041,7 +18067,7 @@ Dancer2-Plugin-Auth-Extensible:
 Dancer2-Plugin-Auth-Extensible-Provider-ActiveDirectory:
   DSONNTAG: 1
 Dancer2-Plugin-Auth-Extensible-Provider-DBIC:
-  SYSPETE: 1
+  ABEVERLEY: 1
 Dancer2-Plugin-Auth-Extensible-Provider-Database:
   HORNBURG: 1
 Dancer2-Plugin-Auth-Extensible-Provider-IMAP:
@@ -18866,8 +18892,6 @@ Data-MessagePack:
   SYOHEX: 1
 Data-MessagePack-Stream:
   SYOHEX: 1
-Data-MessagePack-Types:
-  MOZNION: 1
 Data-Microformat:
   USSJOIN: 1
 Data-Mining-Apriori:
@@ -19723,6 +19747,7 @@ Database-Wrapper:
 Datahub-Factory:
   PIETERDP: 1
 Datahub-Factory-Arthub:
+  NETSENSEI: 1
   PIETERDP: 1
 Datahub-Factory-KMSKA:
   PIETERDP: 1
@@ -19786,6 +19811,8 @@ Date-Extract-ID:
   PERLANCAR: 1
 Date-Extract-P800Picture:
   IPENBURG: 1
+Date-Extract-PERLANCAR:
+  PERLANCAR: 1
 Date-Extract-Surprise:
   SSCAFFIDI: 1
 Date-EzDate:
@@ -22433,6 +22460,8 @@ Dist-Zilla-Plugin-Test-PAUSE-Permissions:
   ETHER: 1
 Dist-Zilla-Plugin-Test-Perl-Critic:
   ETHER: 1
+Dist-Zilla-Plugin-Test-Perl-Critic-Freenode:
+  COFFEE: 1
 Dist-Zilla-Plugin-Test-Pod-Coverage-Configurable:
   DROLSKY: 1
 Dist-Zilla-Plugin-Test-Pod-LinkCheck:
@@ -29158,6 +29187,8 @@ HTML-Template-HashWrapper:
   GREGFAST: 1
 HTML-Template-JIT:
   SAMTREGAR: 1
+HTML-Template-Nest:
+  TOMGRACEY: 1
 HTML-Template-Parser:
   SHMORIMO: 1
 HTML-Template-Pluggable:
@@ -30749,6 +30780,8 @@ IPC-PubSub:
   ALEXMV: 1
 IPC-QWorker:
   BENNING: 1
+IPC-Queue-Duplex:
+  HASH: 1
 IPC-Run:
   TODDR: 1
 IPC-Run-Fused:
@@ -30777,6 +30810,8 @@ IPC-Semaphore-Set:
   SUTT: 1
 IPC-Semaphore-SmokeSignals:
   TYEMQ: 1
+IPC-Serial:
+  HASH: 1
 IPC-Session:
   STEVEGT: 1
 IPC-ShareLite:
@@ -32963,6 +32998,8 @@ Lazy-Bool:
   PACMAN: 1
 Lazy-Lockfile:
   JEAGLE: 1
+Lazy-Util:
+  COFFEE: 1
 Lazy-Utils:
   ORKUN: 1
 Lchmod:
@@ -35111,6 +35148,8 @@ Log-Log4perl-Appender-Fluent:
   DOZZIE: 1
 Log-Log4perl-Appender-Gearman:
   CLKAO: 1
+Log-Log4perl-Appender-Graylog:
+  DIMENTOX: 1
 Log-Log4perl-Appender-Lim-CLI:
   JELU: 1
 Log-Log4perl-Appender-Lumberjack:
@@ -35301,6 +35340,8 @@ Logfile-SmartFilter:
   KHURT: 1
 Logfile-Tail:
   JANPAZ: 1
+Logfile-Tail-Switch:
+  PERLANCAR: 1
 Logger-Fq:
   JESUS: 1
 Logger-Simple:
@@ -35974,6 +36015,8 @@ Mail-EXPN:
   FLORIAN: 1
 Mail-Exchange:
   GBL: 1
+Mail-Exim-MainLogParser:
+  RGLAUE: 1
 Mail-ExpandAliases:
   DARREN: 1
 Mail-Ezmlm-Archive:
@@ -39111,6 +39154,8 @@ Mojolicious-Plugin-PetalTinyRenderer:
   LBR: 1
 Mojolicious-Plugin-PgAsync:
   ROMANENKO: 1
+Mojolicious-Plugin-PgURLHelper:
+  LDIDRY: 1
 Mojolicious-Plugin-Pingen:
   OETIKER: 1
 Mojolicious-Plugin-Piwik:
@@ -39414,6 +39459,8 @@ Monitoring-Generator-TestConfig:
   NIERLEIN: 1
 Monitoring-Icinga:
   SCHRORG: 1
+Monitoring-Icinga2-Client-REST:
+  THESEAL: 1
 Monitoring-Livestatus:
   NIERLEIN: 1
 Monitoring-Livestatus-Class:
@@ -41020,6 +41067,8 @@ Net-Async-SMTP:
 Net-Async-SOCKS:
   TEAM: 1
 Net-Async-SPORE:
+  TEAM: 1
+Net-Async-Slack:
   TEAM: 1
 Net-Async-Statsd:
   TEAM: 1
@@ -44771,6 +44820,8 @@ PHP-Functions-File:
   TNAGA: 1
 PHP-Functions-Mail:
   YAPPO: 1
+PHP-Functions-Password:
+  CMANLEY: 1
 PHP-HTTPBuildQuery:
   MSCHILLI: 1
 PHP-Include:
@@ -46325,6 +46376,7 @@ Parse-ExuberantCTags-Merge:
   SMUELLER: 1
 Parse-Eyapp:
   CASIANO: 1
+  WBRASWELL: 1
 Parse-FSM:
   PSCUST: 1
 Parse-Fedora-Packages:
@@ -46535,7 +46587,7 @@ Parse-YALALR:
 Parse-YARA:
   MOOFU: 1
 Parse-Yapp:
-  FDESAR: 1
+  WBRASWELL: 1
 Parse-Yapp-KeyValue:
   DIZ: 1
 Parse-cfggen:
@@ -47010,7 +47062,7 @@ Perl-Configure:
 Perl-Core:
   AANARI: 1
 Perl-Critic:
-  THALJEF: 1
+  PETDANCE: 1
 Perl-Critic-Bangs:
   PETDANCE: 1
 Perl-Critic-CognitiveComplexity:
@@ -47937,6 +47989,8 @@ Plack-Middleware-Auth-Form:
   ZBY: 1
 Plack-Middleware-Auth-Htpasswd:
   DOY: 1
+Plack-Middleware-Auth-JWT:
+  DOMM: 1
 Plack-Middleware-Auth-Negotiate:
   AVUSEROW: 1
 Plack-Middleware-Auth-OAuth:
@@ -53397,6 +53451,8 @@ Sort-MultipleFields:
   DCANTRELL: 1
 Sort-Naturally:
   BINGOS: 1
+Sort-Naturally-XS:
+  SERVAL: 1
 Sort-Packed:
   SALVA: 1
 Sort-Radix:
@@ -56812,6 +56868,8 @@ Test-Cucumber-Tiny:
   MICVU: 1
 Test-Cukes:
   GUGOD: 1
+Test-DB-Shared:
+  JETEVE: 1
 Test-DBGp:
   MBARBON: 1
 Test-DBIC-ExpectedQueries:
@@ -58801,6 +58859,8 @@ Text-Pluralize:
   KVAIL: 1
 Text-Positional-Ngram:
   BTMCINNES: 1
+Text-Prefix:
+  TTKCIAR: 1
 Text-Prefix-XS:
   MNUNBERG: 1
 Text-Pretty:
@@ -59671,6 +59731,8 @@ Tie-Handle-Offset:
   DAGOLDEN: 1
 Tie-Handle-Scalar:
   ANWILL: 1
+Tie-Handle-TailSwitch:
+  PERLANCAR: 1
 Tie-Handle-TtyRec:
   SARTAK: 1
 Tie-Hash-Abbrev-BibRefs:
@@ -61377,6 +61439,8 @@ UUID-Tiny:
   CAUGUSTIN: 1
 UV:
   TYPESTER: 1
+UV-Util:
+  CAPOEIRAB: 1
 Ubic:
   MMCLERIC: 1
 Ubic-Service-Hypnotoad:
@@ -63787,6 +63851,8 @@ Web-Request-Role-AbsoluteUriFor:
   DOMM: 1
 Web-Request-Role-JSON:
   DOMM: 1
+Web-Request-Role-JWT:
+  DOMM: 1
 Web-Request-Role-Response:
   DOMM: 1
 Web-SIVA:
@@ -63920,6 +63986,8 @@ WebService-Azure-Search:
   SYSCAT: 1
 WebService-BBC-MusicCharts:
   DWILSON: 1
+WebService-BR-Vindi:
+  DLIMA: 1
 WebService-Backlog:
   YAMAMOTO: 1
 WebService-BambooHR:
@@ -64002,6 +64070,8 @@ WebService-CloudProvider:
   LEV: 1
 WebService-Cmis:
   NUDDLEGG: 1
+WebService-CoinSpot:
+  DJZORT: 1
 WebService-Coinbase:
   IRONCAMEL: 1
 WebService-Connpass:
