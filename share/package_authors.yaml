@@ -2382,6 +2382,8 @@ Alien-libtermkey:
   PEVANS: 1
 Alien-libtool24:
   PLICEASE: 1
+Alien-libuv:
+  CAPOEIRAB: 1
 Alien-libvas:
   ATHREEF: 1
 Alien-m4:
@@ -2462,8 +2464,6 @@ Alt-CWB-ambs:
   AMBS: 1
 Alt-Crypt-RSA-BigInt:
   DANAJ: 1
-Alt-Date-Extract-SHARYANTO:
-  SHARYANTO: 1
 Alt-Devel-GlobalDestruction-XS-Inline:
   INGY: 1
 Alt-ExtUtils-PkgConfig-PLICEASE:
@@ -2642,8 +2642,6 @@ Anansi-Singleton:
   ANANSI: 1
 Anarres-Mud-Driver:
   SHEVEK: 1
-Android-Build:
-  PRBRENAN: 1
 Android-Releases:
   PERLANCAR: 1
 Angle-Omega:
@@ -4836,6 +4834,8 @@ App-ListIntlPhoneCodes:
   PERLANCAR: 1
 App-ListLinuxmintReleases:
   PERLANCAR: 1
+App-ListNewCPANDists:
+  PERLANCAR: 1
 App-ListRedhatReleases:
   PERLANCAR: 1
 App-ListRevDeps:
@@ -5798,8 +5798,6 @@ App-cpanthanks:
   GARU: 1
 App-cpantimes:
   TOBYINK: 1
-App-cpanurl:
-  KIMOTO: 1
 App-cpm:
   SKAJI: 1
 App-csv2sqlite:
@@ -5889,6 +5887,8 @@ App-highlight:
 App-hr:
   PERLANCAR: 1
 App-hr-Lite:
+  PERLANCAR: 1
+App-html2wp:
   PERLANCAR: 1
 App-htmlcat:
   MOTEMEN: 1
@@ -6545,6 +6545,8 @@ Array-RealSpan:
 Array-RefElem:
   GAAS: 1
 Array-Sample-Partition:
+  PERLANCAR: 1
+Array-Sample-SysRand:
   PERLANCAR: 1
 Array-Set:
   PERLANCAR: 1
@@ -7273,6 +7275,8 @@ Authen-Tcpdmatch:
   IOANNIS: 1
 Authen-Ticket:
   JSMITH: 1
+Authen-TuringImage:
+  HASH: 1
 Authen-TypeKey:
   BTROTT: 1
 Authen-TypeKey-Sign:
@@ -7697,6 +7701,8 @@ Bat-Interpreter:
   PABLROD: 1
 Batch-Batchrun:
   BRTEAM: 1
+Batch-Interpreter:
+  STRCMP: 1
 BatchSystem-SBS:
   ALEXMASS: 1
 Bayonne-Libexec:
@@ -7951,6 +7957,8 @@ Bencher-Scenarios-LogDispatch:
   PERLANCAR: 1
 Bencher-Scenarios-LogDispatchFileRotate:
   PERLANCAR: 1
+Bencher-Scenarios-LogGer:
+  PERLANCAR: 1
 Bencher-Scenarios-MathScientificNotationUtil:
   PERLANCAR: 1
 Bencher-Scenarios-MojoDOM:
@@ -7982,6 +7990,8 @@ Bencher-Scenarios-RegexpGrammars:
 Bencher-Scenarios-RegexpPattern:
   PERLANCAR: 1
 Bencher-Scenarios-RoleTinyCommonsTree:
+  PERLANCAR: 1
+Bencher-Scenarios-SPVM:
   PERLANCAR: 1
 Bencher-Scenarios-ShellGuess:
   PERLANCAR: 1
@@ -9388,6 +9398,8 @@ Business-GoCardless:
   LEEJO: 1
 Business-HK-IdentityCard:
   RUPERTL: 1
+Business-HashCash:
+  HASH: 1
 Business-Hours:
   RUZ: 1
 Business-IBAN:
@@ -13179,6 +13191,8 @@ Catmandu-Validator-JSONSchema:
   NJFRANCK: 1
 Catmandu-Wikidata:
   VOJ: 1
+Catmandu-WoS:
+  NICS: 1
 Catmandu-XLS:
   JOROL: 1
 Catmandu-XML:
@@ -16078,6 +16092,8 @@ Crypt-UnixCrypt:
   MVORL: 1
 Crypt-UnixCrypt_XS:
   BORISZ: 1
+Crypt-Unsnoopable:
+  HASH: 1
 Crypt-Util:
   NUFFIN: 1
 Crypt-VERPString:
@@ -16538,7 +16554,6 @@ DBIx-Class:
   DANIELTWC: 1
   DKAMHOLZ: 1
   ELLIOTT: 1
-  JROBINSON: 1
   MRAMBERG: 1
   MSTROUT: 1
   RIBASUSHI: 1
@@ -16695,7 +16710,6 @@ DBIx-Class-IntrospectableM2M:
   ILMARI: 1
 DBIx-Class-Journal:
   FREW: 1
-  JROBINSON: 1
 DBIx-Class-LibXMLdoc:
   ASHLEY: 1
 DBIx-Class-Loader:
@@ -18585,6 +18599,8 @@ Data-Dumper-Store:
   SHOOTNIX: 1
 Data-Dumper-Table:
   PWBENNETT: 1
+Data-Dx:
+  DCONWAY: 1
 Data-DynamicValidator:
   DMOL: 1
 Data-EDI-X12:
@@ -20345,7 +20361,7 @@ Debian-Snapshot:
 Debug:
   ATG: 1
 Debug-Client:
-  BOWTIE: 1
+  MANWAR: 1
 Debug-Easy:
   RKELSCH: 1
 Debug-EchoMessage:
@@ -22979,6 +22995,7 @@ Dua:
 DublinCore-Record:
   BRICAS: 1
 Dumbbench:
+  BDFOY: 1
   SMUELLER: 1
 Dumpvalue:
   FLORA: 1
@@ -23634,6 +23651,8 @@ Encoding-HandleUtf8:
   BURNERSK: 1
 End:
   ABIGAIL: 1
+English-Control:
+  AARONRP: 1
 English-Reference:
   JPIERCE: 1
 EnsEMBL-Web-Record:
@@ -23766,8 +23785,6 @@ Escape-Houdini:
   YANICK: 1
 Etcd:
   ROBN: 1
-Etcd3:
-  HEXFUSION: 1
 Etherpad:
   LDIDRY: 1
 Etherpad-API:
@@ -27764,6 +27781,8 @@ Goo:
   NIGE: 1
 Goo-Canvas:
   YEWENBIN: 1
+GooCanvas2:
+  PERLMAX: 1
 Google-AJAX-Library:
   ROKR: 1
 Google-API-Client:
@@ -29528,7 +29547,7 @@ HTTP-LoadGen:
 HTTP-MHTTP:
   PIERS: 1
 HTTP-Message:
-  ETHER: 1
+  OALDERS: 1
 HTTP-MessageParser:
   CHANSEN: 1
 HTTP-Method:
@@ -29785,8 +29804,6 @@ Hack-Natas:
   DOHERTY: 1
 HackaMol:
   DEMIAN: 1
-HackaMol-Roles-SelectionRole:
-  DEMIAN: 1
 HackaMol-X-Calculator:
   DEMIAN: 1
 HackaMol-X-ExtensionRole:
@@ -29943,6 +29960,8 @@ Hash-Flatten:
   BBC: 1
 Hash-Fold:
   CHOCOLATE: 1
+Hash-GuavaRing:
+  KTL: 1
 Hash-Identity:
   CINDY: 1
 Hash-Inflator:
@@ -34198,6 +34217,8 @@ List-Extract:
   LODIN: 1
 List-Filter:
   DOOM: 1
+List-Flat:
+  AARONRP: 1
 List-Flatten:
   OBRADOVIC: 1
 List-Flatten-Recursive:
@@ -34210,6 +34231,8 @@ List-Gen:
   ASG: 1
 List-Group:
   CWEST: 1
+List-Haystack:
+  MOZNION: 1
 List-Indexed:
   ARPADF: 1
 List-Intersperse:
@@ -34898,6 +34921,8 @@ Log-Any-Adapter-Journal:
   MGRIMES: 1
 Log-Any-Adapter-Log4perl:
   DAGOLDEN: 1
+Log-Any-Adapter-LogGer:
+  PERLANCAR: 1
 Log-Any-Adapter-Mojo:
   HENRYYKT: 1
 Log-Any-Adapter-MojoLog:
@@ -35320,6 +35345,28 @@ Log-WarnDie:
   NHORNE: 1
 Log-WithCallbacks:
   DAOTOAD: 1
+Log-ger:
+  PERLANCAR: 1
+Log-ger-DBI-Query:
+  PERLANCAR: 1
+Log-ger-For-Class:
+  PERLANCAR: 1
+Log-ger-Format-Block:
+  PERLANCAR: 1
+Log-ger-LevelFromEnv:
+  PERLANCAR: 1
+Log-ger-LogAny:
+  PERLANCAR: 1
+Log-ger-OptAway:
+  PERLANCAR: 1
+Log-ger-Output-Composite:
+  PERLANCAR: 1
+Log-ger-Output-File:
+  PERLANCAR: 1
+Log-ger-Output-LogAny:
+  PERLANCAR: 1
+Log-ger-Output-Screen:
+  PERLANCAR: 1
 Log4Perl-ImportHandle:
   AHERNIT: 1
 LogCarp:
@@ -37674,6 +37721,8 @@ Method-ParamValidator:
   MANWAR: 1
 Method-Signatures:
   BAREFOOT: 1
+Method-Signatures-PP:
+  MSTROUT: 1
 Method-Signatures-Simple:
   RHESA: 1
 Method-Signatures-WithDocumentation:
@@ -39286,6 +39335,8 @@ Mojolicious-Plugin-SslAuth:
   TEMPIRE: 1
 Mojolicious-Plugin-StaticAttachment:
   MCHE: 1
+Mojolicious-Plugin-StaticCache:
+  LDIDRY: 1
 Mojolicious-Plugin-StaticCompressor:
   MUGIFLY: 1
 Mojolicious-Plugin-StaticLog:
@@ -39314,6 +39365,8 @@ Mojolicious-Plugin-TemplatePerlish:
   POLETTIX: 1
 Mojolicious-Plugin-TemplateToolkit:
   DBOOK: 1
+Mojolicious-Plugin-Text-Caml:
+  CYNOVG: 1
 Mojolicious-Plugin-Thumbnail:
   GATITSKIY: 1
 Mojolicious-Plugin-TimeAgo:
@@ -40398,6 +40451,8 @@ Movie-Info:
   SIMONW: 1
 Movies-Organizer:
   CELOGEEK: 1
+Moxie:
+  STEVAN: 1
 Moxy:
   TOKUHIROM: 1
 MozRepl:
@@ -45777,6 +45832,8 @@ PPM-Profile:
   GOZER: 1
 PPM-Repositories:
   JDB: 1
+PPR:
+  DCONWAY: 1
 PPerl:
   MSERGEANT: 1
 PPresenter:
@@ -47296,6 +47353,8 @@ Perl6-Conf:
   SZABGAB: 1
 Perl6-Contexts:
   SWALTERS: 1
+Perl6-Controls:
+  DCONWAY: 1
 Perl6-Cookbook:
   SZABGAB: 1
 Perl6-Currying:
@@ -50423,6 +50482,8 @@ RT-Extension-ReportSpam:
   ALEXMV: 1
 RT-Extension-ResetPassword:
   BPS: 1
+RT-Extension-RichtextCustomField:
+  GIBUS: 1
 RT-Extension-RightsInspector:
   BPS: 1
 RT-Extension-SLA:
@@ -50627,6 +50688,8 @@ Range-Object:
   TOKAREV: 1
 RangeQuery:
   JCARREIRA: 1
+Rapi-Blog:
+  VANSTYN: 1
 Rapi-Demo-Chinook:
   VANSTYN: 1
 Rapi-Demo-CrudModes:
@@ -50838,7 +50901,7 @@ Regexp-Common-net-CIDR:
 Regexp-Common-profanity_us:
   TBONE: 1
 Regexp-Common-time:
-  SZABGAB: 1
+  MANWAR: 1
 Regexp-Compare:
   VBAR: 1
 Regexp-Constant:
@@ -51784,6 +51847,10 @@ SPOPSx-Tool-DateTime:
   SPOPS: 1
 SPOPSx-Tool-YAML:
   SPOPS: 1
+SPVM:
+  KIMOTO: 1
+SPVM-Examples:
+  PERLANCAR: 1
 SQ:
   SHLOMIF: 1
 SQL-Abstract:
@@ -51913,7 +51980,6 @@ SQL-Tokenizer:
   IZUT: 1
 SQL-Translator:
   ILMARI: 1
-  JROBINSON: 1
 SQL-Translator-Producer-DBIx-Class-File-Simple:
   DONGYI: 1
 SQL-Translator-Producer-DBIxSchemaDSL:
@@ -52230,6 +52296,8 @@ Sah-Schemas:
 Sah-Schemas-CPANMeta:
   PERLANCAR: 1
 Sah-Schemas-Collection:
+  PERLANCAR: 1
+Sah-Schemas-Date:
   PERLANCAR: 1
 Sah-Schemas-DefHash:
   PERLANCAR: 1
@@ -55767,6 +55835,8 @@ Telegram-Bot:
   JUSTIN: 1
 Telegram-BotKit:
   PAVELSR: 1
+Telegram-CamshotBot:
+  PAVELSR: 1
 Telephone-Lookup-Americom:
   SMALHOTRA: 1
 Telephone-Mnemonic-US:
@@ -57038,6 +57108,8 @@ Test-Expectation:
   STEVEHA: 1
 Test-Exports:
   BMORROW: 1
+Test-Expr:
+  DCONWAY: 1
 Test-ExtDirect:
   TOKAREV: 1
 Test-Extreme:
@@ -57240,7 +57312,7 @@ Test-LatestPrereqs:
 Test-Lazy:
   RKRIMEN: 1
 Test-LeakTrace:
-  GFUJI: 1
+  LEEJO: 1
 Test-Leaner:
   VPIT: 1
 Test-LectroTest:
@@ -57415,8 +57487,6 @@ Test-Module-Used:
   TSUCCHI: 1
 Test-ModuleReady:
   DSTH: 1
-Test-ModuleVersion:
-  KIMOTO: 1
 Test-Mojibake:
   SYP: 1
 Test-Mojo-More:
@@ -58094,6 +58164,8 @@ Test2-Plugin-IOSync:
   EXODIST: 1
 Test2-Plugin-NoWarnings:
   DROLSKY: 1
+Test2-Plugin-SourceDiag:
+  EXODIST: 1
 Test2-Plugin-SpecDeclare:
   EXODIST: 1
 Test2-Plugin-TermEncoding:
@@ -61070,6 +61142,8 @@ Twitter-Badge:
   ARUL: 1
 Twitter-Daily:
   BITMAN: 1
+Twitter-Queue:
+  DFARRELL: 1
 Twitter-TagGrep:
   DSHEROH: 1
 Type-API:
