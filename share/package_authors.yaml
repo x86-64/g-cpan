@@ -1224,6 +1224,8 @@ Acme-NumericMethod:
   GUGOD: 1
 Acme-Nyaa:
   AKXLIX: 1
+Acme-OCEORA-Utils:
+  OCEORA: 1
 Acme-OSDc:
   PJF: 1
 Acme-Octarine:
@@ -2186,6 +2188,8 @@ Alien-GvaScript:
   DAMI: 1
 Alien-HDF4:
   ETJ: 1
+Alien-HIDAPI:
+  ATHREEF: 1
 Alien-HTSlib:
   RISHIDEV: 1
 Alien-Hunspell:
@@ -2360,6 +2364,10 @@ Alien-ZMQ:
   CCM: 1
 Alien-astyle:
   WBRASWELL: 1
+Alien-autoconf:
+  PLICEASE: 1
+Alien-automake:
+  PLICEASE: 1
 Alien-bison:
   PLICEASE: 1
 Alien-bz2-Installer:
@@ -2380,6 +2388,8 @@ Alien-libsndfile:
   GUGOD: 1
 Alien-libtermkey:
   PEVANS: 1
+Alien-libtool:
+  PLICEASE: 1
 Alien-libtool24:
   PLICEASE: 1
 Alien-libuv:
@@ -2890,6 +2900,8 @@ AnyEvent-ImageShack:
   DMITRYNOD: 1
 AnyEvent-Impl-NSRunLoop:
   TYPESTER: 1
+AnyEvent-Impl-Prima:
+  CORION: 1
 AnyEvent-InMemoryCache:
   YANOTHER: 1
 AnyEvent-InfluxDB:
@@ -4740,8 +4752,6 @@ App-Ikaros:
   GOCCY: 1
 App-Image-Generator:
   SKIM: 1
-App-Implode:
-  JHTHORSEN: 1
 App-IndonesianBankingUtils:
   PERLANCAR: 1
 App-IndonesianFinanceUtils:
@@ -6190,8 +6200,6 @@ App-shcompgen:
   PERLANCAR: 1
 App-short:
   PERLANCAR: 1
-App-sibs:
-  JHTHORSEN: 1
 App-skos2jskos:
   VOJ: 1
 App-smtpstatus:
@@ -6806,6 +6814,8 @@ Async-Selector:
   TOSHIOITO: 1
 Async-Simple-Pool:
   ANTONC: 1
+Async-Stream:
+  KSYSOEV: 1
 Async-Util:
   WHITNEY: 1
 AsyncPing:
@@ -11764,6 +11774,7 @@ Catalyst-Authentication-Credential-GSSAPI:
   DRUOSO: 1
 Catalyst-Authentication-Credential-HTTP:
   BOBTFISH: 1
+  ETHER: 1
 Catalyst-Authentication-Credential-HTTP-Proxy:
   BOBTFISH: 1
 Catalyst-Authentication-Credential-Kerberos:
@@ -11807,7 +11818,7 @@ Catalyst-Authentication-Store-FromSub:
 Catalyst-Authentication-Store-FromSub-Hash:
   FAYLAND: 1
 Catalyst-Authentication-Store-Htpasswd:
-  TBSLIVER: 1
+  ETHER: 1
 Catalyst-Authentication-Store-Jifty-DBI:
   ISHIGAKI: 1
 Catalyst-Authentication-Store-KiokuDB:
@@ -12050,7 +12061,7 @@ Catalyst-Model-Jifty-DBI:
 Catalyst-Model-KiokuDB:
   FLORA: 1
 Catalyst-Model-LDAP:
-  DANIELTWC: 1
+  GHENRY: 1
 Catalyst-Model-LDAP-FromAuthentication:
   BOBTFISH: 1
 Catalyst-Model-Lucy:
@@ -18935,7 +18946,7 @@ Data-Money-Converter:
 Data-Money-Converter-WebserviceX:
   MANWAR: 1
 Data-MoneyCurrency:
-  FLIMM: 1
+  EDF: 1
 Data-Morph:
   NPEREZ: 1
 Data-MuForm:
@@ -21174,6 +21185,8 @@ Device-Gembird:
   LEANDR: 1
 Device-Gsm:
   COSIMO: 1
+Device-HID:
+  ATHREEF: 1
 Device-Hue:
   ZUMMO: 1
 Device-I2C:
@@ -21632,6 +21645,8 @@ Dir-Watch:
   VVELOX: 1
 Dir-Which:
   JACQUELIN: 1
+Dir-Write-Rotate:
+  PERLANCAR: 1
 DirDB:
   DirDB: 1
 DirDB-FTP:
@@ -22386,6 +22401,8 @@ Dist-Zilla-Plugin-ShareEmbed:
   SKAJI: 1
 Dist-Zilla-Plugin-Signature:
   GBARR: 1
+Dist-Zilla-Plugin-SlackNotify:
+  SLEUNG: 1
 Dist-Zilla-Plugin-SmokeTests:
   ETHER: 1
 Dist-Zilla-Plugin-SpellingCommonMistakesTests:
@@ -24550,6 +24567,8 @@ File-DirCompare:
   GAVINC: 1
 File-DirList:
   File-DirList: 1
+File-DirObject:
+  RORYRJB: 1
 File-DirSync:
   BBB: 1
 File-Dircmp:
@@ -25579,6 +25598,8 @@ Finance-FIX:
   BLAIR: 1
 Finance-FXCM-Simple:
   JOAOCOSTA: 1
+Finance-GDAX-API:
+  SEATEK: 1
 Finance-Google-Portfolio:
   GRYPHON: 1
 Finance-Google-Sector-Mean:
@@ -35275,6 +35296,8 @@ Log-Report-Lexicon:
   MARKOV: 1
 Log-Report-Optional:
   MARKOV: 1
+Log-Report-Template:
+  MARKOV: 1
 Log-Reproducible:
   COVINGTON: 1
 Log-Rolling:
@@ -35351,21 +35374,51 @@ Log-ger-DBI-Query:
   PERLANCAR: 1
 Log-ger-For-Class:
   PERLANCAR: 1
+Log-ger-For-LWP:
+  PERLANCAR: 1
 Log-ger-Format-Block:
+  PERLANCAR: 1
+Log-ger-Format-Flogger:
+  PERLANCAR: 1
+Log-ger-Format-Sprintfn:
+  PERLANCAR: 1
+Log-ger-Layout-JSON:
+  PERLANCAR: 1
+Log-ger-Layout-LTSV:
+  PERLANCAR: 1
+Log-ger-Layout-Pattern:
+  PERLANCAR: 1
+Log-ger-Layout-YAML:
   PERLANCAR: 1
 Log-ger-LevelFromEnv:
   PERLANCAR: 1
-Log-ger-LogAny:
+Log-ger-Like-LogAny:
   PERLANCAR: 1
-Log-ger-OptAway:
+Log-ger-Manual:
+  PERLANCAR: 1
+Log-ger-Output-ArrayWithLimits:
   PERLANCAR: 1
 Log-ger-Output-Composite:
   PERLANCAR: 1
+Log-ger-Output-DirWriteRotate:
+  PERLANCAR: 1
 Log-ger-Output-File:
+  PERLANCAR: 1
+Log-ger-Output-FileWriteRotate:
   PERLANCAR: 1
 Log-ger-Output-LogAny:
   PERLANCAR: 1
+Log-ger-Output-LogDispatchOutput:
+  PERLANCAR: 1
 Log-ger-Output-Screen:
+  PERLANCAR: 1
+Log-ger-Plugin-OptAway:
+  PERLANCAR: 1
+Log-ger-Plugin-SingleLog:
+  PERLANCAR: 1
+Log-ger-UseDataDump:
+  PERLANCAR: 1
+Log-ger-UseDataDumpColor:
   PERLANCAR: 1
 Log4Perl-ImportHandle:
   AHERNIT: 1
@@ -36000,6 +36053,8 @@ Mail-Audit-PGP:
   RJBS: 1
 Mail-Audit-Razor:
   RJBS: 1
+Mail-BIMI:
+  MBRADSHAW: 1
 Mail-Barracuda-API:
   JAUER: 1
 Mail-Box:
@@ -36705,8 +36760,6 @@ Math-BigInt-Random:
   BILLH: 1
 Math-BigInt-Random-OO:
   PJACKLAM: 1
-Math-BigNum:
-  TRIZEN: 1
 Math-BigRat:
   PJACKLAM: 1
 Math-BigSimple:
@@ -37798,6 +37851,8 @@ Minion-Backend-mysql:
   BPMEDLEY: 1
 Minion-Command-minion-jobx:
   BFAIST: 1
+Minion-Command-minion-version:
+  BFAIST: 1
 Minion-Notifier:
   JBERGER: 1
 Minions:
@@ -38028,6 +38083,8 @@ Module-Changes:
   MARCEL: 1
 Module-Changes-ADAMK:
   ADAMK: 1
+Module-CheckDep-Version:
+  STEVEB: 1
 Module-CheckVersion:
   PERLANCAR: 1
 Module-Check_Args:
@@ -39095,8 +39152,6 @@ Mojolicious-Plugin-LeakTracker:
   MADCAT: 1
 Mojolicious-Plugin-Libravatar:
   HEYTRAV: 1
-Mojolicious-Plugin-LinkEmbedder:
-  JHTHORSEN: 1
 Mojolicious-Plugin-LinkedContent:
   OLG: 1
 Mojolicious-Plugin-LocaleTextDomainOO:
@@ -39361,6 +39416,8 @@ Mojolicious-Plugin-TagHelpers-Pagination:
   AKRON: 1
 Mojolicious-Plugin-TagHelpersI18N:
   RENEEB: 1
+Mojolicious-Plugin-Template-Mustache:
+  CYNOVG: 1
 Mojolicious-Plugin-TemplatePerlish:
   POLETTIX: 1
 Mojolicious-Plugin-TemplateToolkit:
@@ -39395,8 +39452,6 @@ Mojolicious-Plugin-Util-RandomString:
   AKRON: 1
 Mojolicious-Plugin-VHost:
   BPMEDLEY: 1
-Mojolicious-Plugin-ValidateMoose:
-  JHTHORSEN: 1
 Mojolicious-Plugin-ValidateTiny:
   KOORCHIK: 1
 Mojolicious-Plugin-ViewBuilder:
@@ -39608,7 +39663,7 @@ MooX-Object-Pluggable:
 MooX-ObjectBuilder:
   TOBYINK: 1
 MooX-Options:
-  CELOGEEK: 1
+  REHSACK: 1
 MooX-Options-Actions:
   TBSLIVER: 1
 MooX-PDL2:
@@ -39928,6 +39983,8 @@ MooseX-Getopt-Defanged:
   ELLIOTJS: 1
 MooseX-Getopt-Explicit:
   RHOELZ: 1
+MooseX-Getopt-Kingpin:
+  JASEI: 1
 MooseX-Getopt-Usage:
   PITCHLESS: 1
 MooseX-GlobRef:
@@ -42697,7 +42754,7 @@ Net-SDEE:
 Net-SDP:
   NJH: 1
 Net-SFTP:
-  DBROBINS: 1
+  LKINLEY: 1
 Net-SFTP-Foreign:
   SALVA: 1
 Net-SFTP-Foreign-Backend-Net_SSH2:
@@ -43340,6 +43397,8 @@ Net-Zemanta:
   AVIAN: 1
 Net-Zendesk:
   GARU: 1
+Net-ZooIt:
+  Net-ZooIt-01targz: 1
 Net-ZooKeeper:
   MAF: 1
 Net-ZooKeeper-Lock:
@@ -44902,6 +44961,7 @@ PHP-Var:
 PHPLive-Report:
   PERLANCAR: 1
 PICA-Data:
+  KLEE: 1
   VOJ: 1
 PICA-Modification:
   VOJ: 1
@@ -46420,7 +46480,7 @@ Parse-EDID:
 Parse-Earley:
   LPALMER: 1
 Parse-ErrorString-Perl:
-  SZABGAB: 1
+  MANWAR: 1
 Parse-EventLog:
   JEAGLE: 1
 Parse-ExCtags:
@@ -46815,8 +46875,6 @@ Pcore-API-PayPal:
 Pcore-API-ReCaptcha:
   ZDM: 1
 Pcore-Captcha:
-  ZDM: 1
-Pcore-DBH:
   ZDM: 1
 Pcore-Ext:
   ZDM: 1
@@ -50192,6 +50250,8 @@ RPi-DigiPot-MCP4XXXX:
   STEVEB: 1
 RPi-HCSR04:
   STEVEB: 1
+RPi-I2C:
+  STEVEB: 1
 RPi-LCD:
   STEVEB: 1
 RPi-PIGPIO:
@@ -53215,6 +53275,8 @@ Sledge-Plugin-Notice:
   JIRO: 1
 Sledge-Plugin-Paginate:
   NEKOKAK: 1
+Sledge-Plugin-Private:
+  TANIGUCHI: 1
 Sledge-Plugin-Prototype:
   HORIUCHI: 1
 Sledge-Plugin-QueryHash:
@@ -54150,7 +54212,7 @@ String-CRC:
 String-CRC-Cksum:
   AHAMM: 1
 String-CRC32:
-  SOENKE: 1
+  LEEJO: 1
 String-CamelCase:
   HIO: 1
 String-CamelSnakeKebab:
@@ -55865,6 +55927,8 @@ Template-Benchmark:
   SGRAHAM: 1
 Template-Caribou:
   YANICK: 1
+Template-Compiled:
+  TOBYINK: 1
 Template-Context-Cacheable:
   DESPAIR: 1
 Template-DBI:
@@ -56385,6 +56449,8 @@ Template-Provider-OpenOffice:
   ABREZINS: 1
 Template-Provider-PAR:
   NPW: 1
+Template-Provider-Pandoc:
+  DAVECROSS: 1
 Template-Provider-PerContextDBIC:
   CNG: 1
 Template-Provider-PrefixDBIC:
@@ -59095,6 +59161,8 @@ Text-SuDocs:
   CFOUTS: 1
 Text-Summarize:
   KUBINA: 1
+Text-Summarizer:
+  FAELIN: 1
 Text-Summary-MediaWiki:
   DGL: 1
 Text-T9:
@@ -59333,6 +59401,8 @@ Text-Xslate-Bridge-TT2:
   GFUJI: 1
 Text-Xslate-Bridge-TT2Like:
   DMAKI: 1
+Text-Xslate-Bridge-TypeDeclaration:
+  POKUTUNA: 1
 Text-Xslate-Syntax-FiltersAsTags:
   ANEI: 1
 Text-Xslate-Syntax-HTMLTemplate:
@@ -63750,6 +63820,8 @@ WWW-YouTube-VideoURI:
   GBROWN: 1
 WWW-Zotero:
   HOCHSTEN: 1
+WWW-Zotero-Write:
+  RAPPAZF: 1
 WWW-betfair:
   SILLYMOOS: 1
 WWW-canihazip:
@@ -65119,6 +65191,8 @@ Win32-Job:
   JDB: 1
 Win32-JobAdd:
   DJOOS: 1
+Win32-Ldd:
+  SALVA: 1
 Win32-Locale:
   SBURKE: 1
 Win32-LockWorkStation:
@@ -65401,7 +65475,7 @@ Winamp-Control:
 Winamp-Controller:
   MAIA: 1
 Wing-Client:
-  RIZEN: 1
+  COLINK: 1
 WiringPi-API:
   STEVEB: 1
 Wizard:
@@ -67307,6 +67381,8 @@ criticism:
   criticism: 1
 csv2txt:
   SANFACE: 1
+csvgrep:
+  NEILB: 1
 ctflags:
   SALVA: 1
 curl_ev:
