@@ -322,7 +322,7 @@ ASP4x-Router:
 AUBBC:
   SFLEX: 1
 AWS-CLI-Config:
-  KEYAMB: 1
+  JJATRIA: 1
 AWS-CLIWrapper:
   HIROSE: 1
 AWS-CloudFront:
@@ -1596,6 +1596,8 @@ Acme-Ukrop:
   KARASIK: 1
 Acme-Umlautify:
   BENNIE: 1
+Acme-Undead:
+  LIKK: 1
 Acme-Unicodify:
   JMASLAK: 1
 Acme-Urinal:
@@ -2204,6 +2206,8 @@ Alien-ImageMagick:
   JETEVE: 1
 Alien-InteractiveBrokers:
   INFIDEL: 1
+Alien-JPCRE2:
+  WBRASWELL: 1
 Alien-Jerl:
   MTSHOMSKY: 1
 Alien-Judy:
@@ -2286,6 +2290,8 @@ Alien-OpenSSL:
   JOHANNA: 1
 Alien-OpenVcdiff:
   FRACTAL: 1
+Alien-PCRE2:
+  WBRASWELL: 1
 Alien-PNG:
   FROGGS: 1
 Alien-Packages:
@@ -4195,6 +4201,8 @@ App-Bootstrap-Perl:
   SCHWIGON: 1
 App-BorgRestore:
   BLUEWIND: 1
+App-BrowserOpenUtils:
+  PERLANCAR: 1
 App-Build:
   MBARBON: 1
 App-Bulkmail:
@@ -4210,7 +4218,7 @@ App-CELL:
 App-CISetup:
   DROLSKY: 1
 App-CLI:
-  CORNELIUS: 1
+  PTC: 1
 App-CLI-Extension:
   HOLLY: 1
 App-CLI-Plugin-Config-YAML-Syck:
@@ -4355,6 +4363,8 @@ App-Context:
   SPADKINS: 1
 App-Control:
   AWRIGLEY: 1
+App-ConvertLogAnyToLogGer:
+  PERLANCAR: 1
 App-CopyrightImage:
   STEVEB: 1
 App-Countdown:
@@ -4511,7 +4521,7 @@ App-EvalServerAdvanced-REPL:
 App-EventStreamr:
   TECHMAN: 1
 App-ExecIf:
-  SHARYANTO: 1
+  PERLANCAR: 1
 App-Exifpic:
   PJF: 1
 App-ExtractCPANModulesFromHTML:
@@ -5566,6 +5576,8 @@ App-Test-Tapat:
   JEREMIAH: 1
 App-TestOnTap:
   KNTH: 1
+App-TextFragmentUtils:
+  PERLANCAR: 1
 App-TextTableUtils:
   PERLANCAR: 1
 App-Textcast:
@@ -5794,6 +5806,8 @@ App-cpanminus:
   MIYAGAWA: 1
 App-cpanminus-reporter:
   GARU: 1
+App-cpanminus-script-Patch-Blacklist:
+  PERLANCAR: 1
 App-cpanmw:
   KPEE: 1
 App-cpanoutdated-coro:
@@ -7055,8 +7069,6 @@ Audio-Radio-XM-PCR:
   PBOWEN: 1
 Audio-RaveMP:
   DOUGM: 1
-Audio-SID:
-  LALA: 1
 Audio-Scan:
   AGRUNDMA: 1
 Audio-Scrobbler:
@@ -7205,6 +7217,8 @@ Authen-Passphrase:
   ZEFRAM: 1
 Authen-Passphrase-SaltedSHA512:
   DAVIDO: 1
+Authen-Passphrase-Scrypt:
+  MGV: 1
 Authen-Perl-NTLM:
   UMVUE: 1
 Authen-PhoneChallenge:
@@ -7936,6 +7950,8 @@ Bencher-Scenarios-DigestSHA:
 Bencher-Scenarios-Examples:
   PERLANCAR: 1
 Bencher-Scenarios-Exporters:
+  PERLANCAR: 1
+Bencher-Scenarios-FileFlockRetry:
   PERLANCAR: 1
 Bencher-Scenarios-FileWriteRotate:
   PERLANCAR: 1
@@ -9301,11 +9317,11 @@ Business-BancaSella:
 Business-BankAccount-NZ:
   UNISOLVE: 1
 Business-BankCard:
-  SHARYANTO: 1
+  PERLANCAR: 1
 Business-BankCard-Indonesia:
   PERLANCAR: 1
 Business-BankList:
-  SHARYANTO: 1
+  PERLANCAR: 1
 Business-BankList-Indonesia:
   PERLANCAR: 1
 Business-Barcode-EAN13:
@@ -11005,6 +11021,8 @@ CPAN-Reporter:
   DAGOLDEN: 1
 CPAN-Reporter-Smoker:
   DAGOLDEN: 1
+CPAN-Reporter-Smoker-OpenBSD:
+  ARFREITAS: 1
 CPAN-Reporter-Smoker-Safer:
   DAVIDRW: 1
 CPAN-Repository:
@@ -14621,6 +14639,8 @@ Code-TidyAll-Plugin-Test-Vars:
 Code-TidyAll-Plugin-UniqueLines:
   OALDERS: 1
 Code-TidyAll-Plugin-YAML:
+  OALDERS: 1
+Code-TidyAll-Plugin-YAPF:
   OALDERS: 1
 Code-Tooling:
   STEVAN: 1
@@ -19948,6 +19968,8 @@ Date-Leapyear:
   RBOW: 1
 Date-Lectionary:
   MARMANOLD: 1
+Date-Lectionary-Daily:
+  MARMANOLD: 1
 Date-Lectionary-Time:
   MARMANOLD: 1
 Date-LibICal:
@@ -21853,6 +21875,8 @@ Dist-Zilla-Plugin-Authority:
   APOCAL: 1
 Dist-Zilla-Plugin-AuthorityFromModule:
   ETHER: 1
+Dist-Zilla-Plugin-AuthorsFromGit:
+  AKHUETTEL: 1
 Dist-Zilla-Plugin-AutoMetaResources:
   AJGB: 1
 Dist-Zilla-Plugin-AutoPrereqsFast:
@@ -29827,8 +29851,6 @@ HackaMol:
   DEMIAN: 1
 HackaMol-X-Calculator:
   DEMIAN: 1
-HackaMol-X-ExtensionRole:
-  DEMIAN: 1
 HackaMol-X-NERF:
   DEMIAN: 1
 HackaMol-X-Roles-ExtensionRole:
@@ -34970,8 +34992,6 @@ Log-Any-For-File-chdir:
   PERLANCAR: 1
 Log-Any-For-HTTP-Tiny:
   PERLANCAR: 1
-Log-Any-For-LWP:
-  PERLANCAR: 1
 Log-Any-For-Std:
   IVANYCH: 1
 Log-Any-IfLOG:
@@ -35398,6 +35418,8 @@ Log-ger-Manual:
   PERLANCAR: 1
 Log-ger-Output-ArrayWithLimits:
   PERLANCAR: 1
+Log-ger-Output-Callback:
+  PERLANCAR: 1
 Log-ger-Output-Composite:
   PERLANCAR: 1
 Log-ger-Output-DirWriteRotate:
@@ -35413,8 +35435,6 @@ Log-ger-Output-LogDispatchOutput:
 Log-ger-Output-Screen:
   PERLANCAR: 1
 Log-ger-Plugin-OptAway:
-  PERLANCAR: 1
-Log-ger-Plugin-SingleLog:
   PERLANCAR: 1
 Log-ger-UseDataDump:
   PERLANCAR: 1
@@ -38323,6 +38343,8 @@ Module-Load:
   BINGOS: 1
 Module-Load-Conditional:
   BINGOS: 1
+Module-Load-In-INIT:
+  PERLANCAR: 1
 Module-Loadable:
   PERLANCAR: 1
 Module-Loaded:
@@ -39588,7 +39610,7 @@ Monjon:
 Monkey-Patch:
   FRODWITH: 1
 Monkey-Patch-Action:
-  SHARYANTO: 1
+  PERLANCAR: 1
 Monkeywrench:
   CNATION: 1
 Monoceros:
@@ -39973,6 +39995,8 @@ MooseX-Fastly-Role:
   LLAP: 1
 MooseX-FileAttribute:
   ETHER: 1
+MooseX-Final:
+  TOBYINK: 1
 MooseX-FollowPBP:
   DROLSKY: 1
 MooseX-FunkyAttributes:
@@ -47138,6 +47162,8 @@ Perinci-Sub-Wrapper:
   PERLANCAR: 1
 Perinci-Sub-Wrapper-Patch-HandlePHPArray:
   PERLANCAR: 1
+Perinci-Sub-XCompletion:
+  PERLANCAR: 1
 Perinci-To-Doc:
   PERLANCAR: 1
 Perinci-To-HTML:
@@ -47391,8 +47417,6 @@ Perl-WhichPhase:
   JSMITH: 1
 Perl-osnames:
   PERLANCAR: 1
-Perl2Package:
-  MLHOLLEN: 1
 Perl4-CoreLibs:
   ZEFRAM: 1
 Perl6-Attributes:
@@ -49042,6 +49066,8 @@ Pod-Weaver-Plugin-Run:
   PERLANCAR: 1
 Pod-Weaver-Plugin-Sah-Schemas:
   PERLANCAR: 1
+Pod-Weaver-Plugin-Sort-Sub:
+  PERLANCAR: 1
 Pod-Weaver-Plugin-SortSections:
   PERLANCAR: 1
 Pod-Weaver-Plugin-StopWords:
@@ -49396,6 +49422,8 @@ Printer:
   SRPATT: 1
 Printer-ESCPOS:
   SHANTANU: 1
+Printer-ESCPOS-PDF:
+  DSONNTAG: 1
 Printer-EVOLIS:
   DPAVLIN: 1
 Printer-HP-Display:
@@ -50148,6 +50176,8 @@ RINO-Client:
   cif: 1
 RIPEMD160:
   CHGEUER: 1
+RL:
+  JACOBG: 1
 RMI:
   SAKOHT: 1
 RNA-HairpinFigure:
@@ -50259,6 +50289,8 @@ RPi-PIGPIO:
 RPi-Pin:
   STEVEB: 1
 RPi-SPI:
+  STEVEB: 1
+RPi-Serial:
   STEVEB: 1
 RPi-WiringPi:
   STEVEB: 1
@@ -50716,6 +50748,8 @@ RWDE:
   DAMJANP: 1
 RWDE-Doxy:
   DAMJANP: 1
+RabbitMQ-Consumer-Batcher:
+  JASEI: 1
 Race-Condition:
   DMUEY: 1
 RackMan:
@@ -52947,6 +52981,8 @@ Set-Relation:
   DUNCAND: 1
 Set-Scalar:
   DAVIDO: 1
+Set-SegmentTree:
+  DAVIDIAM: 1
 Set-Similarity:
   WOLLMERS: 1
 Set-Similarity-BV:
@@ -54564,7 +54600,7 @@ Sub-Args:
 Sub-Assert:
   SMUELLER: 1
 Sub-Attribute:
-  GFUJI: 1
+  DCANTRELL: 1
 Sub-Attributes:
   DFARRELL: 1
 Sub-Auto:
@@ -59763,8 +59799,6 @@ Tie-Coupler:
   UARUN: 1
 Tie-Cvs:
   AMBS: 1
-Tie-Cycle:
-  BDFOY: 1
 Tie-Cycle-Sinewave:
   DLAND: 1
 Tie-DBI:
@@ -59837,6 +59871,8 @@ Tie-FileHandle-Split:
   GBARCO: 1
 Tie-FileLRUCache:
   SNOWHARE: 1
+Tie-FileSection:
+  XLAT: 1
 Tie-FileSystem:
   INITDOTD: 1
 Tie-Filehandle-Preempt-Stdin:
@@ -59862,7 +59898,7 @@ Tie-Gzip:
 Tie-Handle-CSV:
   DANBOO: 1
 Tie-Handle-FileWriteRotate:
-  SHARYANTO: 1
+  PERLANCAR: 1
 Tie-Handle-Filter:
   MJGARDNER: 1
 Tie-Handle-Flock:
@@ -68340,7 +68376,7 @@ syntax:
 tagged:
   THOGEE: 1
 tainting:
-  SHARYANTO: 1
+  PERLANCAR: 1
 task-belike-est:
   EST: 1
 test-routini:
