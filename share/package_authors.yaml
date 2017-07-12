@@ -184,6 +184,10 @@ AI-Pathfinding-SMAstar:
   MBEEBE: 1
 AI-Perceptron:
   SPURKIS: 1
+AI-PredictionClient:
+  STALL: 1
+AI-PredictionClient-Alien-TensorFlowServingProtos:
+  STALL: 1
 AI-Prolog:
   DOUGW: 1
 AI-SimulatedAnnealing:
@@ -674,8 +678,6 @@ Acme-CPANLists-PERLANCAR-Temp-Plus:
   PERLANCAR: 1
 Acme-CPANLists-PERLANCAR-Test:
   PERLANCAR: 1
-Acme-CPANLists-SHARYANTO:
-  SHARYANTO: 1
 Acme-CPANPLUS-Module-With-Failing-Configure-Requires:
   BINGOS: 1
 Acme-CPANPLUS-PreReq-Text-Tabs:
@@ -1116,6 +1118,8 @@ Acme-MetaSyntactic-legopiratesofthecaribbean:
 Acme-MetaSyntactic-legostarwarstheforceawakens:
   BINGOS: 1
 Acme-MetaSyntactic-legothehobbit:
+  BINGOS: 1
+Acme-MetaSyntactic-legoworlds:
   BINGOS: 1
 Acme-MetaSyntactic-mlpfim:
   SHLOMIF: 1
@@ -2020,6 +2024,7 @@ Algorithm-Paxos:
   PERIGRIN: 1
 Algorithm-Permute:
   EDPRATOMO: 1
+  SLOYD: 1
 Algorithm-Points-MinimumDistance:
   KAKE: 1
 Algorithm-Prefixspan:
@@ -2106,6 +2111,8 @@ Algorithm-WordLevelStatistics:
   NIDS: 1
 Alias:
   GSAR: 1
+Alias-Any:
+  DCONWAY: 1
 Alice:
   LEEDO: 1
 Alien:
@@ -2186,6 +2193,8 @@ Alien-Gimp:
   ETJ: 1
 Alien-Gnuplot:
   ZOWIE: 1
+Alien-Google-GRPC:
+  STALL: 1
 Alien-GvaScript:
   DAMI: 1
 Alien-HDF4:
@@ -2470,8 +2479,6 @@ Alt-Acme-Math-XS-ZillaDist:
   INGY: 1
 Alt-Alien-FFI-System:
   PLICEASE: 1
-Alt-Base:
-  SHARYANTO: 1
 Alt-CPAN-Uploader-tinyua:
   SROMANOV: 1
 Alt-CWB-CL-ambs:
@@ -5014,6 +5021,8 @@ App-MusicExpo:
   MGV: 1
 App-MusicTools:
   JMATES: 1
+App-Muter:
+  BRIANC: 1
 App-Mver:
   KSURI: 1
 App-MyPerl:
@@ -5800,6 +5809,8 @@ App-cpanm-meta-checker:
   KENTNL: 1
 App-cpanm-script:
   PERLANCAR: 1
+App-cpanm-shcompgen:
+  PERLANCAR: 1
 App-cpanmigrate:
   PUNYTAN: 1
 App-cpanminus:
@@ -5807,6 +5818,8 @@ App-cpanminus:
 App-cpanminus-reporter:
   GARU: 1
 App-cpanminus-script-Patch-Blacklist:
+  PERLANCAR: 1
+App-cpanminus-script-Patch-RunShcompgen:
   PERLANCAR: 1
 App-cpanmw:
   KPEE: 1
@@ -5998,8 +6011,6 @@ App-loggrep:
   DFH: 1
 App-lookup:
   SYALTUT: 1
-App-lzf:
-  SHARYANTO: 1
 App-madeye:
   TOKUHIROM: 1
 App-makebeamerinfo:
@@ -7829,8 +7840,6 @@ Bencher-Scenario-ListMoreUtils:
   PERLANCAR: 1
 Bencher-Scenario-ListUtil:
   PERLANCAR: 1
-Bencher-Scenario-LogAny:
-  PERLANCAR: 1
 Bencher-Scenario-MathPrimeModules:
   PERLANCAR: 1
 Bencher-Scenario-ModuleInstalledTiny:
@@ -8971,8 +8980,6 @@ Bundle-DBD-PO:
 Bundle-DBWIZ:
   CALVINM: 1
 Bundle-DadaMail:
-  JJSIMONI: 1
-Bundle-DadaMailXXL:
   JJSIMONI: 1
 Bundle-DataMint:
   PRILUSKYJ: 1
@@ -10738,6 +10745,8 @@ CHI-Driver-BerkeleyDB:
   JSWARTZ: 1
 CHI-Driver-BerkeleyDB-Manager:
   ROUZIER: 1
+CHI-Driver-Cache-RedisDB:
+  INSPIRE: 1
 CHI-Driver-DBI:
   JSWARTZ: 1
 CHI-Driver-DBIC:
@@ -13183,7 +13192,7 @@ Catmandu-Resolver:
 Catmandu-SFX:
   HOCHSTEN: 1
 Catmandu-SRU:
-  NICS: 1
+  HOCHSTEN: 1
 Catmandu-Serializer-messagepack:
   NJFRANCK: 1
 Catmandu-Serializer-storable:
@@ -18084,7 +18093,7 @@ Dancer2:
 Dancer2-Debugger:
   SYSPETE: 1
 Dancer2-Logger-Console-Colored:
-  BURNERSK: 1
+  SIMBABQUE: 1
 Dancer2-Logger-File-RotateLogs:
   MASAKYST: 1
 Dancer2-Logger-Fluent:
@@ -18578,8 +18587,6 @@ Data-Dump-Patch-Deparse:
   PERLANCAR: 1
 Data-Dump-Patch-ReplaceWithDataDmp:
   PERLANCAR: 1
-Data-Dump-Perl6:
-  TRIZEN: 1
 Data-Dump-Ruby:
   SHARYANTO: 1
 Data-Dump-SortKeys:
@@ -19792,6 +19799,7 @@ Database-Sophia:
 Database-Wrapper:
   Wrapper: 1
 Datahub-Factory:
+  NETSENSEI: 1
   PIETERDP: 1
 Datahub-Factory-Arthub:
   NETSENSEI: 1
@@ -21669,6 +21677,8 @@ Dir-Which:
   JACQUELIN: 1
 Dir-Write-Rotate:
   PERLANCAR: 1
+Dir-ls:
+  DBOOK: 1
 DirDB:
   DirDB: 1
 DirDB-FTP:
@@ -21981,8 +21991,6 @@ Dist-Zilla-Plugin-ContributorsFromPod:
   RKITOVER: 1
 Dist-Zilla-Plugin-Control-Debian:
   SHANTANU: 1
-Dist-Zilla-Plugin-ConvertYAMLChanges:
-  SHARYANTO: 1
 Dist-Zilla-Plugin-CopyFilesFromBuild:
   RTHOMPSON: 1
 Dist-Zilla-Plugin-CopyFilesFromBuild-Filtered:
@@ -25091,8 +25099,6 @@ File-Slurp:
   URI: 1
 File-Slurp-Remote:
   modules: 1
-File-Slurp-Shortcuts:
-  SHARYANTO: 1
 File-Slurp-Tiny:
   LEONT: 1
 File-Slurp-Tree:
@@ -27096,6 +27102,8 @@ Geo-GML:
   MARKOV: 1
 Geo-GNIS:
   SDERLE: 1
+Geo-GNS-Parser:
+  BKB: 1
 Geo-GNUPlot:
   CARPENTER: 1
 Geo-GeoNames:
@@ -28035,6 +28043,8 @@ GraphViz-DBI-General:
   DOOM: 1
 GraphViz-Data-Structure:
   MCMAHON: 1
+GraphViz-Graph:
+  RENE: 1
 GraphViz-ISA:
   MARCEL: 1
 GraphViz-ISA-Multi:
@@ -29795,6 +29805,8 @@ HTTP-Tiny-Multipart:
 HTTP-Tiny-Paranoid:
   ROBN: 1
 HTTP-Tiny-Patch-LogAny:
+  PERLANCAR: 1
+HTTP-Tiny-Patch-LogGer:
   PERLANCAR: 1
 HTTP-Tiny-ProgressAny:
   PERLANCAR: 1
@@ -31766,7 +31778,7 @@ JSON-PP-Compat5006:
 JSON-Parse:
   BKB: 1
 JSON-Path:
-  TOBYINK: 1
+  POPEFELIX: 1
 JSON-Pointer:
   ZIGOROU: 1
 JSON-RPC:
@@ -35390,6 +35402,8 @@ Log-WithCallbacks:
   DAOTOAD: 1
 Log-ger:
   PERLANCAR: 1
+Log-ger-App:
+  PERLANCAR: 1
 Log-ger-DBI-Query:
   PERLANCAR: 1
 Log-ger-For-Class:
@@ -35412,6 +35426,8 @@ Log-ger-Layout-YAML:
   PERLANCAR: 1
 Log-ger-LevelFromEnv:
   PERLANCAR: 1
+Log-ger-Like-Log4perl:
+  PERLANCAR: 1
 Log-ger-Like-LogAny:
   PERLANCAR: 1
 Log-ger-Manual:
@@ -35433,6 +35449,8 @@ Log-ger-Output-LogAny:
 Log-ger-Output-LogDispatchOutput:
   PERLANCAR: 1
 Log-ger-Output-Screen:
+  PERLANCAR: 1
+Log-ger-Output-Syslog:
   PERLANCAR: 1
 Log-ger-Plugin-OptAway:
   PERLANCAR: 1
@@ -36390,6 +36408,8 @@ MailStats:
   SDAGUE: 1
 MailTools:
   MARKOV: 1
+MailboxValidator-SingleValidation:
+  mailboxvalidator: 1
 Maildir-Lite:
   DEIAN: 1
 Maildir-Quota:
@@ -38649,6 +38669,8 @@ Mojo-Log-Che:
   MCHE: 1
 Mojo-Log-Clearable:
   DBOOK: 1
+Mojo-Log-Colored:
+  SIMBABQUE: 1
 Mojo-Log-JSON:
   MJEMMESON: 1
 Mojo-Log-More:
@@ -38715,6 +38737,8 @@ Mojo-TypeModel:
   JBERGER: 1
 Mojo-Unicode-UTF8:
   DBOOK: 1
+Mojo-UserAgent-Cached:
+  NICOMEN: 1
 Mojo-UserAgent-CookieJar-ChromeMacOS:
   FAYLAND: 1
 Mojo-UserAgent-DigestAuth:
@@ -40947,6 +40971,8 @@ NativeCall:
   ETJ: 1
 NcFTPd-Log-Parse:
   SHAW: 1
+Neo4j-Cypher-Abstract:
+  MAJENSEN: 1
 Neovim-RPC:
   YANICK: 1
 Nephia:
@@ -41079,6 +41105,8 @@ Net-Amazon-DynamoDB-HighlyAvailable:
   KABLAMO: 1
 Net-Amazon-DynamoDB-Lite:
   SHIBUYA: 1
+Net-Amazon-DynamoDB-Marshaler:
+  SCALDWELL: 1
 Net-Amazon-DynamoDB-Table:
   KABLAMO: 1
 Net-Amazon-EC2:
@@ -43422,7 +43450,7 @@ Net-Zemanta:
 Net-Zendesk:
   GARU: 1
 Net-ZooIt:
-  Net-ZooIt-01targz: 1
+  SUBOGERO: 1
 Net-ZooKeeper:
   MAF: 1
 Net-ZooKeeper-Lock:
@@ -43765,6 +43793,8 @@ Number-Latin:
   SBURKE: 1
 Number-Misc:
   MIKO: 1
+Number-MuPhone:
+  CHOLLOWAY: 1
 Number-Nary:
   RJBS: 1
 Number-Natural-SetTheory:
@@ -43839,6 +43869,8 @@ Number-ZipCode-JP:
   TANIGUCHI: 1
 Numeric-LL_Array:
   modules: 1
+Nuspec-Reader:
+  TYNOVSKY: 1
 OAI-Harvester:
   THB: 1
 OAuth-Cmdline:
@@ -45930,8 +45962,6 @@ PQL-Cache:
   JPR: 1
 PRANG:
   MUTANT: 1
-PRIMERVIEW:
-  HALLORAN: 1
 PSGI:
   MIYAGAWA: 1
 PSGI-Hector:
@@ -49414,6 +49444,8 @@ PrimeTime-Report:
   YORKWU: 1
 PrimerMap:
   HALLORAN: 1
+PrimerView:
+  HALLORAN: 1
 Primeval:
   ASG: 1
 Print-Indented:
@@ -49600,8 +49632,6 @@ Progress-Any-Output-Callback:
   PERLANCAR: 1
 Progress-Any-Output-DesktopNotify:
   PERLANCAR: 1
-Progress-Any-Output-LogAny:
-  SHARYANTO: 1
 Progress-Any-Output-TermMessage:
   SHARYANTO: 1
 Progress-Any-Output-TermProgressBarColor:
@@ -51166,6 +51196,14 @@ Remote-Use:
   CASIANO: 1
 Renard-Curie:
   ZMUGHAL: 1
+Renard-Incunabula:
+  ZMUGHAL: 1
+Renard-Incunabula-Format-PDF:
+  ZMUGHAL: 1
+Renard-Incunabula-Frontend-Gtk3:
+  ZMUGHAL: 1
+Renard-Incunabula-MuPDF-mutool:
+  ZMUGHAL: 1
 RenderMan:
   GMLEWIS: 1
 RepRoot:
@@ -51645,12 +51683,6 @@ SHA:
   GAAS: 1
 SHA256:
   DIDO: 1
-SHARYANTO:
-  SHARYANTO: 1
-SHARYANTO-Misc:
-  SHARYANTO: 1
-SHARYANTO-Utils:
-  PERLANCAR: 1
 SIAM:
   SSINYAGIN: 1
 SIL-Shoe:
@@ -52185,6 +52217,8 @@ SVG-TT-Graph:
   LLAP: 1
 SVG-Template-Graph:
   RONAN: 1
+SVG-TrafficLight:
+  DAVECROSS: 1
 SVG-VCD:
   MIRK: 1
 SVGGraph:
@@ -52863,8 +52897,6 @@ SeqDiff:
   SeqDiff: 1
 Ser-BinRPC:
   TMA: 1
-Serabi:
-  SHARYANTO: 1
 Sereal:
   YVES: 1
 Sereal-Dclone:
@@ -53639,6 +53671,8 @@ Sort-Versions:
   NEILB: 1
 Sort-XS:
   ATOOMIC: 1
+Sort-filevercmp:
+  DBOOK: 1
 Sort-strverscmp:
   NNUTTER: 1
 SourceCode-LineCounter-Perl:
@@ -56682,8 +56716,6 @@ Term-Pager:
   JAW: 1
 Term-ProgressBar:
   MANWAR: 1
-Term-ProgressBar-Color:
-  SHARYANTO: 1
 Term-ProgressBar-Quiet:
   LBROCARD: 1
 Term-ProgressBar-Simple:
@@ -59799,6 +59831,8 @@ Tie-Coupler:
   UARUN: 1
 Tie-Cvs:
   AMBS: 1
+Tie-Cycle:
+  BDFOY: 1
 Tie-Cycle-Sinewave:
   DLAND: 1
 Tie-DBI:
@@ -60263,8 +60297,6 @@ Time-Duration-Parse-AsHash:
   PERLANCAR: 1
 Time-Duration-Parse-More:
   MELO: 1
-Time-Duration-Patch-Millisecond:
-  SHARYANTO: 1
 Time-Duration-es:
   BIAFRA: 1
 Time-Duration-fr:
@@ -61258,6 +61290,8 @@ Type-EmailAddress:
   ANDRE: 1
 Type-Libraries:
   TOBYINK: 1
+Type-Simple:
+  NFERRAZ: 1
 Type-Tie:
   TOBYINK: 1
 Type-Tiny:
@@ -63262,6 +63296,8 @@ WWW-Resource:
   IWOODHEAD: 1
 WWW-Restaurant-Menu:
   www-restaurant-menu: 1
+WWW-RiotGames-LeagueOfLegends:
+  ARCANEZ: 1
 WWW-RoboCop:
   OALDERS: 1
 WWW-Robot:
@@ -64228,6 +64264,8 @@ WebService-CaptchasDotNet:
   GEOFF: 1
 WebService-Careerjet:
   TBUSCH: 1
+WebService-CastleIO:
+  DSIMONE: 1
 WebService-Cath-FuncNet:
   ISILLITOE: 1
 WebService-ChangesXml:
@@ -67379,6 +67417,8 @@ cnutt-feed:
   IDERRICK: 1
 code-UnifdefPlus:
   Preprocessor: 1
+colorize-stderr:
+  PERLANCAR: 1
 combine:
   AARDO: 1
 common-sense:
@@ -67558,6 +67598,8 @@ ex-newest:
   RGARCIA: 1
 ex-override:
   CWEST: 1
+exact:
+  GRYPHON: 1
 examples:
   SRIRAM: 1
 experimental:
@@ -67789,6 +67831,8 @@ lib-prereqs-only:
   PERLANCAR: 1
 lib-projectroot:
   DOMM: 1
+lib-relative:
+  DBOOK: 1
 lib-remote:
   MCHE: 1
 lib-require-all:
@@ -68505,10 +68549,6 @@ version-AlphaBeta:
   JPEACOCK: 1
 version-Limit:
   JPEACOCK: 1
-version-Restrict:
-  SHARYANTO: 1
-version-Store:
-  SHARYANTO: 1
 vm:
   BRUMLEVE: 1
 vms-icc:

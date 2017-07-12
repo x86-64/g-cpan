@@ -64,9 +64,6 @@ Exporter:
 ExtUtils-CBuilder:
   category: virtual
   name: perl-ExtUtils-CBuilder
-ExtUtils-Command:
-  category: virtual
-  name: perl-ExtUtils-Command
 ExtUtils-Constant:
   category: virtual
   name: perl-ExtUtils-Constant
@@ -191,9 +188,6 @@ Net-Ping:
   name: perl-Net-Ping
 OLE-Storage_Lite:
   name: OLE-StorageLite
-Package-Constants:
-  category: virtual
-  name: perl-Package-Constants
 Params-Check:
   category: virtual
   name: perl-Params-Check
