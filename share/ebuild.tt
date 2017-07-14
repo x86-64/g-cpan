@@ -5,7 +5,7 @@
 EAPI=6
 
 DIST_AUTHOR="[% c.author %]"
-DIST_VERSION="[% c.version %]"
+DIST_VERSION="[% c.version.replace('^v','') %]"
 DIST_A="[% c.src_filename %]"
 inherit perl-module
 
