@@ -2119,6 +2119,8 @@ Alien:
   PLICEASE: 1
 Alien-ActiveMQ:
   LOKI: 1
+Alien-Alien:
+  PLICEASE: 1
 Alien-AntTweakBar:
   DMOL: 1
 Alien-Autotools:
@@ -2129,17 +2131,25 @@ Alien-Base:
   PLICEASE: 1
 Alien-Base-ModuleBuild:
   PLICEASE: 1
-Alien-Base-Wrapper:
-  PLICEASE: 1
 Alien-BatToExeConverter:
   ADAMK: 1
 Alien-Box2D:
   FROGGS: 1
 Alien-Build:
   PLICEASE: 1
+Alien-Build-Git:
+  PLICEASE: 1
 Alien-Build-MB:
   PLICEASE: 1
+Alien-Build-Plugin-Decode-SourceForge:
+  PLICEASE: 1
 Alien-Build-Plugin-Fetch-Cache:
+  PLICEASE: 1
+Alien-Build-Plugin-Fetch-Prompt:
+  PLICEASE: 1
+Alien-Build-Plugin-Fetch-Rewrite:
+  PLICEASE: 1
+Alien-Build-Plugin-Probe-GnuWin32:
   PLICEASE: 1
 Alien-CImg:
   GUGOD: 1
@@ -2399,6 +2409,8 @@ Alien-gmake:
   PLICEASE: 1
 Alien-gputils:
   VIKAS: 1
+Alien-gzip:
+  PLICEASE: 1
 Alien-libsndfile:
   GUGOD: 1
 Alien-libtermkey:
@@ -4927,8 +4939,6 @@ App-MediaWiki2Git:
   MCAST: 1
 App-Memcached-CLI:
   KEYAMB: 1
-App-Memcached-Roaster:
-  KEYAMB: 1
 App-Memcached-Tool:
   KEYAMB: 1
 App-MetaCPAN-Gtk2-Notify:
@@ -5807,6 +5817,8 @@ App-cpangrep:
   TSIBLEY: 1
 App-cpanm-meta-checker:
   KENTNL: 1
+App-cpanm-perlancar:
+  PERLANCAR: 1
 App-cpanm-script:
   PERLANCAR: 1
 App-cpanm-shcompgen:
@@ -5820,6 +5832,8 @@ App-cpanminus-reporter:
 App-cpanminus-script-Patch-Blacklist:
   PERLANCAR: 1
 App-cpanminus-script-Patch-RunShcompgen:
+  PERLANCAR: 1
+App-cpanminus-script-Patch-UseURIFromFoundMirror:
   PERLANCAR: 1
 App-cpanmw:
   KPEE: 1
@@ -6201,6 +6215,8 @@ App-rlibperl:
   RWSTAUNER: 1
 App-rmhere:
   PERLANCAR: 1
+App-rmspaces:
+  ATHOS: 1
 App-rsync-new2old:
   PERLANCAR: 1
 App-ruler:
@@ -7080,6 +7096,8 @@ Audio-Radio-XM-PCR:
   PBOWEN: 1
 Audio-RaveMP:
   DOUGM: 1
+Audio-SID:
+  LALA: 1
 Audio-Scan:
   AGRUNDMA: 1
 Audio-Scrobbler:
@@ -8414,6 +8432,8 @@ Bio-SSRTool:
   KCLARK: 1
 Bio-SamTools:
   LDS: 1
+Bio-SeqHash:
+  PEKINGSAM: 1
 Bio-SeqReader:
   JAC: 1
 Bio-Taxonomy-GlobalNames:
@@ -8474,6 +8494,8 @@ BioX-Map:
   PEKINGSAM: 1
 BioX-Seq:
   VOLKENING: 1
+BioX-SeqHash:
+  PEKINGSAM: 1
 BioX-SeqUtils-Promoter:
   CSTEPHENE: 1
 BioX-SeqUtils-RandomSequence:
@@ -9608,6 +9630,8 @@ Business-OnlinePayment-eSelectPlus:
   IVAN: 1
 Business-OnlinePayment-iAuthorizer:
   DBROOKS: 1
+Business-OnlinePayment-iTransact:
+  BGERRARD: 1
 Business-OnlinePayment-viaKLIX:
   JEF: 1
 Business-PFR:
@@ -13171,7 +13195,7 @@ Catmandu-OAI:
 Catmandu-OCLC:
   HOCHSTEN: 1
 Catmandu-PICA:
-  JOROL: 1
+  KLEE: 1
   VOJ: 1
 Catmandu-PLoS:
   NICS: 1
@@ -13181,6 +13205,8 @@ Catmandu-Plack-unAPI:
   VOJ: 1
 Catmandu-PubMed:
   NICS: 1
+Catmandu-Pure:
+  BRIEM: 1
 Catmandu-RDF:
   VOJ: 1
 Catmandu-RIS:
@@ -14649,6 +14675,8 @@ Code-TidyAll-Plugin-UniqueLines:
   OALDERS: 1
 Code-TidyAll-Plugin-YAML:
   OALDERS: 1
+Code-TidyAll-Plugin-YAMLFrontMatter:
+  MAXMIND: 1
 Code-TidyAll-Plugin-YAPF:
   OALDERS: 1
 Code-Tooling:
@@ -18422,7 +18450,7 @@ Data-Capture:
 Data-Censor:
   BIGPRESH: 1
 Data-Check-Structure:
-  SHARYANTO: 1
+  PERLANCAR: 1
 Data-Checker:
   SBECK: 1
 Data-ChipsChallenge:
@@ -18652,6 +18680,8 @@ Data-Eacherator:
 Data-Edit:
   DLAMBLEY: 1
 Data-Edit-Xml:
+  PRBRENAN: 1
+Data-Edit-Xml-Lint:
   PRBRENAN: 1
 Data-Embed:
   POLETTIX: 1
@@ -20681,6 +20711,8 @@ Devel-Dumpvar:
   ADAMK: 1
 Devel-EdTrace:
   ESP: 1
+Devel-End-PrintINC:
+  PERLANCAR: 1
 Devel-End-PrintINCVersion:
   PERLANCAR: 1
 Devel-EndStats:
@@ -20763,6 +20795,8 @@ Devel-INC-Sorted:
   ETHER: 1
 Devel-IPerl:
   ZMUGHAL: 1
+Devel-IPerl-Plugin-Chart-Plotly:
+  PABLROD: 1
 Devel-InPackage:
   JROCKWAY: 1
 Devel-InheritNamespace:
@@ -23892,6 +23926,8 @@ Event-Wrappable:
   WINTER: 1
 Event-tcp:
   JPRIT: 1
+Evented-API-Engine:
+  COOPER: 1
 Evented-Configuration:
   COOPER: 1
 Evented-Object:
@@ -28043,6 +28079,8 @@ GraphViz-DBI-General:
   DOOM: 1
 GraphViz-Data-Structure:
   MCMAHON: 1
+GraphViz-Diagram-ClassDiagram:
+  RENE: 1
 GraphViz-Graph:
   RENE: 1
 GraphViz-ISA:
@@ -28147,6 +28185,8 @@ Graphics-SANE:
   PFAUT: 1
 Graphics-Simple:
   LUKKA: 1
+Graphics-TIFF:
+  RATCLIFFE: 1
 Graphics-VTK:
   CERNEY: 1
 Graphite-Enumerator:
@@ -29804,8 +29844,6 @@ HTTP-Tiny-Multipart:
   RENEEB: 1
 HTTP-Tiny-Paranoid:
   ROBN: 1
-HTTP-Tiny-Patch-LogAny:
-  PERLANCAR: 1
 HTTP-Tiny-Patch-LogGer:
   PERLANCAR: 1
 HTTP-Tiny-ProgressAny:
@@ -30367,7 +30405,7 @@ IO-AIO:
 IO-AIO-Util:
   GRAY: 1
 IO-All:
-  INGY: 1
+  FREW: 1
 IO-All-LWP:
   ITUB: 1
 IO-All-Rule:
@@ -32920,6 +32958,8 @@ LaTeXML-Plugin-latexmls:
   DGINEV: 1
 Lab-Measurement:
   AKHUETTEL: 1
+Lab-Measurement-DocWriter:
+  AKHUETTEL: 1
 Lab-VISA:
   AKHUETTEL: 1
 Lab-Zhinst:
@@ -34966,8 +35006,6 @@ Log-Any-Adapter-Dupstd:
   IVANYCH: 1
 Log-Any-Adapter-FileHandle:
   JASONJAYR: 1
-Log-Any-Adapter-FileWriteRotate:
-  PERLANCAR: 1
 Log-Any-Adapter-Fille:
   IVANYCH: 1
 Log-Any-Adapter-Handler:
@@ -34992,32 +35030,14 @@ Log-Any-Adapter-Syslog:
   SDT: 1
 Log-Any-Adapter-TAP:
   NERDVANA: 1
-Log-Any-App:
-  PERLANCAR: 1
-Log-Any-DBI-Query:
-  PERLANCAR: 1
-Log-Any-For-Class:
-  PERLANCAR: 1
-Log-Any-For-DBI:
-  PERLANCAR: 1
-Log-Any-For-File-chdir:
-  PERLANCAR: 1
-Log-Any-For-HTTP-Tiny:
-  PERLANCAR: 1
 Log-Any-For-Std:
   IVANYCH: 1
-Log-Any-IfLOG:
-  PERLANCAR: 1
 Log-Any-Plugin:
   SDT: 1
 Log-Any-Plugin-Format:
   JJATRIA: 1
 Log-Any-Plugin-History:
   JJATRIA: 1
-Log-Any-Proxy-Patch-UseDataDmp:
-  PERLANCAR: 1
-Log-Any-Proxy-Patch-UseDataDump:
-  PERLANCAR: 1
 Log-AutoDump:
   CAGAO: 1
 Log-Basic:
@@ -35050,8 +35070,6 @@ Log-Dispatch:
   DROLSKY: 1
 Log-Dispatch-Array:
   RJBS: 1
-Log-Dispatch-ArrayWithLimits:
-  PERLANCAR: 1
 Log-Dispatch-Atom:
   HDM: 1
 Log-Dispatch-Binlog:
@@ -35078,8 +35096,6 @@ Log-Dispatch-Desktop-Notify:
   CGARBS: 1
 Log-Dispatch-DesktopNotification:
   ETHER: 1
-Log-Dispatch-Dir:
-  PERLANCAR: 1
 Log-Dispatch-Email-Async:
   RAJAG: 1
 Log-Dispatch-Email-EmailSend:
@@ -35098,8 +35114,6 @@ Log-Dispatch-FileRotate:
   MSCHOUT: 1
 Log-Dispatch-FileShared:
   CMANLEY: 1
-Log-Dispatch-FileWriteRotate:
-  PERLANCAR: 1
 Log-Dispatch-FogBugz:
   DIMARTINO: 1
 Log-Dispatch-Gelf:
@@ -35432,7 +35446,7 @@ Log-ger-Like-LogAny:
   PERLANCAR: 1
 Log-ger-Manual:
   PERLANCAR: 1
-Log-ger-Output-ArrayWithLimits:
+Log-ger-Output-ArrayRotate:
   PERLANCAR: 1
 Log-ger-Output-Callback:
   PERLANCAR: 1
@@ -35449,6 +35463,8 @@ Log-ger-Output-LogAny:
 Log-ger-Output-LogDispatchOutput:
   PERLANCAR: 1
 Log-ger-Output-Screen:
+  PERLANCAR: 1
+Log-ger-Output-SimpleFile:
   PERLANCAR: 1
 Log-ger-Output-Syslog:
   PERLANCAR: 1
@@ -36440,6 +36456,8 @@ MangoX-Queue:
   IANKENT: 1
 Manip-END:
   FDALY: 1
+Manta-Client:
+  ANDREWH: 1
 Map-Metro:
   CSSON: 1
 Map-Metro-Plugin-Map-Amsterdam:
@@ -39028,6 +39046,8 @@ Mojolicious-Plugin-Captcha-reCAPTCHA:
   HJANSEN: 1
 Mojolicious-Plugin-CaptchaRenderer:
   DMITRYNOD: 1
+Mojolicious-Plugin-Check:
+  RSHADOW: 1
 Mojolicious-Plugin-ChromeLogger:
   KOORCHIK: 1
 Mojolicious-Plugin-ClientIP:
@@ -40505,6 +40525,7 @@ Morpheus:
 Mortal-Kombat:
   PINYAN: 1
 Mouse:
+  GFUJI: 1
   SYOHEX: 1
 MouseX-App-Cmd:
   ETHER: 1
@@ -41526,7 +41547,7 @@ Net-DNS-QueryID:
 Net-DNS-RR-SRV-Helper:
   VVELOX: 1
 Net-DNS-Resolver-Programmable:
-  net-dns-resolver-programmable: 1
+  BIGPRESH: 1
 Net-DNS-SEC:
   NLNETLABS: 1
 Net-DNS-SEC-Validator:
@@ -44388,6 +44409,8 @@ OpenOffice-Wordlist:
   JV: 1
 OpenPlugin:
   ERIC: 1
+OpenSSH-Fingerprint:
+  ORANGE: 1
 OpenSSL-Versions:
   NANIS: 1
 OpenServices-SNMP:
@@ -44686,6 +44709,8 @@ PDF-API3:
   OTTO: 1
 PDF-Boxer:
   LECSTOR: 1
+PDF-Builder:
+  PMPERRY: 1
 PDF-Burst:
   LEOCHARRE: 1
 PDF-Create:
@@ -44956,7 +44981,11 @@ PGObject-Util-DBChange:
   EHUELS: 1
 PGObject-Util-DBMethod:
   EHUELS: 1
+PGObject-Util-PGConfig:
+  EINHVERFR: 1
 PGObject-Util-PseudoCSV:
+  EINHVERFR: 1
+PGObject-Util-Replication-Slot:
   EINHVERFR: 1
 PGP:
   GEHIC: 1
@@ -46906,6 +46935,8 @@ Paws:
   JLMARTIN: 1
 Paws-Kinesis-MemoryCaller:
   KEITHBRO: 1
+PawsX-DynamoDB-DocumentClient:
+  SCALDWELL: 1
 PayflowPro:
   VKHERA: 1
 Payment-Sisow:
@@ -47049,8 +47080,6 @@ Perinci-CmdLine-Server:
 Perinci-CmdLine-Util:
   PERLANCAR: 1
 Perinci-CmdLine-Util-Config:
-  PERLANCAR: 1
-Perinci-CmdLine-pause:
   PERLANCAR: 1
 Perinci-Declare:
   PERLANCAR: 1
@@ -50301,6 +50330,8 @@ RPi-ADC-ADS:
 RPi-ADC-MCP3008:
   STEVEB: 1
 RPi-BMP180:
+  STEVEB: 1
+RPi-Const:
   STEVEB: 1
 RPi-DAC-MCP4922:
   STEVEB: 1
@@ -56879,8 +56910,6 @@ Test-AgainstSchema:
   RJRAY: 1
 Test-Aggregate:
   RWSTAUNER: 1
-Test-Alien:
-  PLICEASE: 1
 Test-AllModules:
   BAYASHI: 1
 Test-AnyEvent-Time:
@@ -58294,8 +58323,6 @@ Test2-AsyncSubtest:
   EXODIST: 1
 Test2-Harness:
   EXODIST: 1
-Test2-Plugin-IOSync:
-  EXODIST: 1
 Test2-Plugin-NoWarnings:
   DROLSKY: 1
 Test2-Plugin-SourceDiag:
@@ -58321,6 +58348,8 @@ TestGen4Web-Runner:
 TestLink-API:
   TEODESIAN: 1
 TestML:
+  INGY: 1
+TestML-Bin:
   INGY: 1
 TestML-Script:
   INGY: 1
@@ -61681,6 +61710,8 @@ Ubuntu-Releases:
   PERLANCAR: 1
 Ucam-Term:
   JWAR: 1
+Udev-FFI:
+  ILUX: 1
 Ufal-MorphoDiTa:
   STRAKA: 1
 Ufal-NameTag:
@@ -64455,6 +64486,8 @@ WebService-HipChat:
   IRONCAMEL: 1
 WebService-HtmlKitCom-FavIconFromImage:
   ZOFFIX: 1
+WebService-IFConfig-Client:
+  NICDOYE: 1
 WebService-ILS:
   SRDJAN: 1
 WebService-IMDB:
@@ -67477,8 +67510,6 @@ data-trie:
   HAMMOND: 1
 dateheader:
   SMTP: 1
-dbMan:
-  MILSO: 1
 dbd_rdb:
   ASTILLER: 1
 dbsh:
@@ -67956,6 +67987,8 @@ mojolicious-plugin-geocoder:
   RAIGAD: 1
 mojolicious-plugin-page-navigator:
   SILVIOQ: 1
+monkeypatch:
+  PERLANCAR: 1
 multidimensional:
   ILMARI: 1
 mylib:
