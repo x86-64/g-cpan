@@ -2124,10 +2124,10 @@ Alien-Alien:
 Alien-AntTweakBar:
   DMOL: 1
 Alien-Autotools:
-  RSIMOES: 1
+  PLICEASE: 1
 Alien-BWIPP:
   MCNEWTON: 1
-Alien-Base:
+Alien-Base-Dino:
   PLICEASE: 1
 Alien-Base-ModuleBuild:
   PLICEASE: 1
@@ -2188,7 +2188,7 @@ Alien-GEOS:
 Alien-GHTTP:
   CAPOEIRAB: 1
 Alien-GMP:
-  RSIMOES: 1
+  PLICEASE: 1
 Alien-GPG-Error:
   AJGB: 1
 Alien-GSL:
@@ -2770,6 +2770,8 @@ AnyEvent-ConnPool:
 AnyEvent-Connection:
   MONS: 1
 AnyEvent-Consul:
+  ROBN: 1
+AnyEvent-Consul-Exec:
   ROBN: 1
 AnyEvent-CouchDB:
   BEPPU: 1
@@ -4602,7 +4604,7 @@ App-Framework-Lite:
 App-FromUnixtime:
   BAYASHI: 1
 App-GHPT:
-  DROLSKY: 1
+  MAXMIND: 1
 App-GSD:
   RJH: 1
 App-GUI-Notepad:
@@ -5539,6 +5541,8 @@ App-Sv:
   GVL: 1
 App-SweeperBot:
   PJF: 1
+App-Sybil:
+  ABERNDT: 1
 App-Syndicator:
   RGE: 1
 App-Sys-Info:
@@ -6563,14 +6567,14 @@ Array-Iterator:
   SHARYANTO: 1
 Array-KeepGrepped:
   ONEONETWO: 1
-Array-LIFO:
-  GENE: 1
 Array-LineReader:
   BHOLSTEN: 1
 Array-Lock:
   GKAPUR: 1
 Array-Lookup:
   AKSTE: 1
+Array-Merge-Unique:
+  LNATION: 1
 Array-OneOf:
   MIKO: 1
 Array-OrdHash:
@@ -7796,8 +7800,6 @@ Begin:
   SALVA: 1
 Begin-Declare:
   ASG: 1
-Bench:
-  SHARYANTO: 1
 Bencher:
   PERLANCAR: 1
 Bencher-BPM:
@@ -7807,6 +7809,8 @@ Bencher-Backend:
 Bencher-Scenario-AcmePERLANCARTestPerformance:
   PERLANCAR: 1
 Bencher-Scenario-Allocations:
+  PERLANCAR: 1
+Bencher-Scenario-ArraySamplePartition:
   PERLANCAR: 1
 Bencher-Scenario-ArrayVsHashBuilding:
   PERLANCAR: 1
@@ -8186,6 +8190,8 @@ Biblio-Refbase:
   HMA: 1
 Biblio-SICI:
   HJANSEN: 1
+Biblio-SIF:
+  NKUITSE: 1
 Biblio-Thesaurus:
   Biblio: 1
 Biblio-Thesaurus-ModRewrite:
@@ -8494,8 +8500,6 @@ BioX-Map:
   PEKINGSAM: 1
 BioX-Seq:
   VOLKENING: 1
-BioX-SeqHash:
-  PEKINGSAM: 1
 BioX-SeqUtils-Promoter:
   CSTEPHENE: 1
 BioX-SeqUtils-RandomSequence:
@@ -11404,6 +11408,8 @@ CSV-HistoryPlayer:
   BINARY: 1
 CSV-Template:
   STEVAN: 1
+CSVAWK:
+  BRYMCK: 1
 CSel-Examples:
   PERLANCAR: 1
 CTKlib:
@@ -11584,6 +11590,8 @@ Calendar-Indonesia-Holiday:
   PERLANCAR: 1
 Calendar-Japanese-Holiday:
   KZTOMITA: 1
+Calendar-Julian:
+  MANWAR: 1
 Calendar-List:
   BARBIE: 1
 Calendar-Model:
@@ -12944,6 +12952,8 @@ Catalyst-View-Vega:
   TSIBLEY: 1
 Catalyst-View-Wkhtmltopdf:
   ARTHAS: 1
+Catalyst-View-XLSX:
+  BASKARN: 1
 Catalyst-View-XML-Feed:
   MSTRAT: 1
 Catalyst-View-XML-Generator:
@@ -13163,6 +13173,8 @@ Catmandu-Importer-CPAN:
   HOCHSTEN: 1
 Catmandu-Importer-MWTemplates:
   VOJ: 1
+Catmandu-Importer-PDF:
+  NJFRANCK: 1
 Catmandu-Importer-Parltrack:
   JONASS: 1
 Catmandu-Importer-Purr:
@@ -18607,16 +18619,12 @@ Data-Dump-JavaScript:
   ABRAXXA: 1
 Data-Dump-OneLine:
   PERLANCAR: 1
-Data-Dump-PHP:
-  SHARYANTO: 1
 Data-Dump-Partial:
   SHARYANTO: 1
 Data-Dump-Patch-Deparse:
   PERLANCAR: 1
 Data-Dump-Patch-ReplaceWithDataDmp:
   PERLANCAR: 1
-Data-Dump-Ruby:
-  SHARYANTO: 1
 Data-Dump-SortKeys:
   PERLANCAR: 1
 Data-Dump-Streamer:
@@ -18786,11 +18794,7 @@ Data-Format-Pretty-HTML:
   PERLANCAR: 1
 Data-Format-Pretty-JSON:
   PERLANCAR: 1
-Data-Format-Pretty-PHP:
-  SHARYANTO: 1
 Data-Format-Pretty-PHPSerialization:
-  SHARYANTO: 1
-Data-Format-Pretty-Perl:
   SHARYANTO: 1
 Data-Format-Pretty-Ruby:
   PERLANCAR: 1
@@ -19914,6 +19918,8 @@ Date-Gregorian-Simple:
   MANWAR: 1
 Date-Handler:
   BBEAUSEJ: 1
+Date-Hebrew-Simple:
+  MANWAR: 1
 Date-Hijri-Simple:
   MANWAR: 1
 Date-HijriDate:
@@ -19959,7 +19965,7 @@ Date-Holidays-LT:
 Date-Holidays-NO:
   MRAMBERG: 1
 Date-Holidays-NZ:
-  SAMV: 1
+  HNEWPORT: 1
 Date-Holidays-PL:
   AJGB: 1
 Date-Holidays-PT:
@@ -19998,6 +20004,8 @@ Date-Japanese-Era-Table-Builder:
   WITO: 1
 Date-Japanese-Holiday:
   IKEBE: 1
+Date-Julian-Simple:
+  MANWAR: 1
 Date-Korean:
   AERO: 1
 Date-LastModified:
@@ -24665,6 +24673,8 @@ File-FDpasser:
   ADDI: 1
 File-FcntlLock:
   JTT: 1
+File-Feed:
+  NKUITSE: 1
 File-Fetch:
   BINGOS: 1
   KANE: 1
@@ -25109,6 +25119,8 @@ File-Share:
   INGY: 1
 File-ShareDir:
   REHSACK: 1
+File-ShareDir-Dist:
+  PLICEASE: 1
 File-ShareDir-Install:
   ETHER: 1
 File-ShareDir-Override:
@@ -26339,6 +26351,8 @@ GPS-SpaceTrack:
   MRDVT: 1
 GPS-Tracer:
   TULSOFT: 1
+GPS-Track:
+  GHANDI: 1
 GPSD-Parse:
   STEVEB: 1
 GPS_Poi:
@@ -28799,7 +28813,7 @@ HTML-FormFu-Imager:
 HTML-FormFu-Model-DBIC:
   NIGELM: 1
 HTML-FormFu-MultiForm:
-  CFRANKS: 1
+  NIGELM: 1
 HTML-FormFu-Role-JQueryValidation:
   CFRANKS: 1
 HTML-FormHandler:
@@ -30073,6 +30087,8 @@ Hash-Match:
   RRWO: 1
 Hash-Merge:
   REHSACK: 1
+Hash-Merge-Extra:
+  MIXAS: 1
 Hash-Merge-Simple:
   ROKR: 1
 Hash-Mogrify:
@@ -31976,6 +31992,8 @@ JavaBin:
   RAZ: 1
 JavaScript:
   CLAESJAC: 1
+JavaScript-Any:
+  TOBYINK: 1
 JavaScript-Autocomplete-Backend:
   ITUB: 1
 JavaScript-Beautifier:
@@ -33270,6 +33288,8 @@ Limper-SendJSON:
   ASHLEYW: 1
 Limper-Sugar:
   ASHLEYW: 1
+LinAlg-Vector:
+  SSTEFFL: 1
 LineByLine:
   BCROWELL: 1
 Lingua-31337:
@@ -35462,6 +35482,8 @@ Log-ger-Output-LogAny:
   PERLANCAR: 1
 Log-ger-Output-LogDispatchOutput:
   PERLANCAR: 1
+Log-ger-Output-Perl:
+  PERLANCAR: 1
 Log-ger-Output-Screen:
   PERLANCAR: 1
 Log-ger-Output-SimpleFile:
@@ -35606,11 +35628,15 @@ MARC-File-MiJ:
   GMCHARLT: 1
 MARC-File-XML:
   GMCHARLT: 1
+MARC-Indexer:
+  NKUITSE: 1
 MARC-Lint:
   EIJABB: 1
 MARC-Loader:
   REIVEUNE: 1
 MARC-Loop:
+  NKUITSE: 1
+MARC-Matcher:
   NKUITSE: 1
 MARC-Parser-RAW:
   JOROL: 1
@@ -35637,6 +35663,8 @@ MARC-Utils-MARC2Pairs:
 MARC-XML:
   BBIRTH: 1
   GMCHARLT: 1
+MARC-Xform:
+  NKUITSE: 1
 MAS-TIFF:
   GREGOR: 1
 MBclient:
@@ -36578,6 +36606,8 @@ MapReduce-Framework-Simple:
   ADOKOY: 1
 Maplat:
   CAVAC: 1
+Maplat-Array-Unique:
+  CAVAC: 1
 Maple:
   EAU: 1
 Maptastic:
@@ -36586,6 +36616,8 @@ Marathon:
   GEIDIES: 1
 MarekPodHtml:
   MAREKR: 1
+MariaDB-NonBlocking:
+  HUGMEIR: 1
 Mariachi:
   RCLAMP: 1
 Markapl:
@@ -38650,6 +38682,8 @@ Mojo-Email-Checker-SMTP:
   SNELIUS: 1
 Mojo-FriendFeed:
   JBERGER: 1
+Mojo-GoogleAnalytics:
+  JHTHORSEN: 1
 Mojo-IOLoop-DNSNative:
   COFFEE: 1
 Mojo-IOLoop-ForkCall:
@@ -44455,6 +44489,8 @@ OptArgs:
   MLAWREN: 1
 OptArgs2:
   MLAWREN: 1
+OptionHash:
+  DRAXIL: 1
 Options:
   PCHRISTE: 1
 Options-Generator:
@@ -44985,7 +45021,13 @@ PGObject-Util-PGConfig:
   EINHVERFR: 1
 PGObject-Util-PseudoCSV:
   EINHVERFR: 1
+PGObject-Util-Replication-Master:
+  EINHVERFR: 1
+PGObject-Util-Replication-SMO:
+  EINHVERFR: 1
 PGObject-Util-Replication-Slot:
+  EINHVERFR: 1
+PGObject-Util-Replication-Standby:
   EINHVERFR: 1
 PGP:
   GEHIC: 1
@@ -45740,8 +45782,6 @@ POE-Filter-Redis:
   BINGOS: 1
 POE-Filter-Regexp:
   VANY: 1
-POE-Filter-SSL:
-  PRIVI: 1
 POE-Filter-SimpleHTTP:
   NPEREZ: 1
 POE-Filter-Slim-CLI:
@@ -46394,6 +46434,8 @@ Params-Check:
   BINGOS: 1
 Params-Check-Faster:
   DAMS: 1
+Params-Check-Item:
+  SSTEFFL: 1
 Params-CheckCompiler:
   DROLSKY: 1
 Params-Classify:
@@ -46813,6 +46855,8 @@ Parser-IPTables-Save:
   GEOJS: 1
 Parser-MGC:
   PEVANS: 1
+Pask:
+  CHONGWISH: 1
 Passwd-DB:
   EESTABROO: 1
 Passwd-Keyring-Auto:
@@ -46935,8 +46979,12 @@ Paws:
   JLMARTIN: 1
 Paws-Kinesis-MemoryCaller:
   KEITHBRO: 1
+Paws-Net-MultiplexCaller:
+  JLMARTIN: 1
 PawsX-DynamoDB-DocumentClient:
   SCALDWELL: 1
+PawsX-FakeImplementation-Instance:
+  JLMARTIN: 1
 PayflowPro:
   VKHERA: 1
 Payment-Sisow:
@@ -50419,6 +50467,8 @@ RT-Authen-OpenID:
   ABERGMAN: 1
 RT-Authen-PAUSE:
   TSIBLEY: 1
+RT-Authen-Token:
+  BPS: 1
 RT-BugTracker:
   ALEXMV: 1
 RT-BugTracker-Public:
@@ -50618,6 +50668,8 @@ RT-Extension-QuickReassign:
 RT-Extension-QuickUpdate:
   ALEXMV: 1
 RT-Extension-QuoteSelection:
+  BPS: 1
+RT-Extension-REST2:
   BPS: 1
 RT-Extension-RT2toRT3:
   FALCONE: 1
@@ -52522,8 +52574,6 @@ Samba-SIDhelper:
   VVELOX: 1
 Samba-Smbstatus:
   LOKI: 1
-Sane:
-  RATCLIFFE: 1
 Sanitize:
   DENDORY: 1
 Saraltest:
@@ -53023,7 +53073,7 @@ Set-Integer-Gapfillers:
 Set-Intersection:
   TURUGINA: 1
 Set-IntervalTree:
-  BENBOOTH: 1
+  SLOYD: 1
 Set-Jaccard-SimilarityCoefficient:
   MLFISHER: 1
 Set-Light:
@@ -58323,6 +58373,8 @@ Test2-AsyncSubtest:
   EXODIST: 1
 Test2-Harness:
   EXODIST: 1
+Test2-Plugin-FauxHomeDir:
+  PLICEASE: 1
 Test2-Plugin-NoWarnings:
   DROLSKY: 1
 Test2-Plugin-SourceDiag:
@@ -58341,6 +58393,8 @@ Test2-Tools-Explain:
   PETDANCE: 1
 Test2-Tools-Expressive:
   PETDANCE: 1
+Test2-Tools-URL:
+  PLICEASE: 1
 Test2-Workflow:
   EXODIST: 1
 TestGen4Web-Runner:
@@ -58989,6 +59043,8 @@ Text-NSP:
   TPEDERSE: 1
 Text-Names:
   DBOURGET: 1
+Text-Names-GB:
+  NHORNE: 1
 Text-Naming-Convention:
   SUNNAVY: 1
 Text-NeatTemplate:
@@ -60388,6 +60444,8 @@ Time-Moment:
   CHANSEN: 1
 Time-Moment-Epoch:
   HEANEY: 1
+Time-Moment-Ext:
+  DSHADOW: 1
 Time-Monotonic:
   DAVID: 1
 Time-NT:
