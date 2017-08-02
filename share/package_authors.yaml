@@ -2253,6 +2253,8 @@ Alien-LibJIT:
   SMUELLER: 1
 Alien-LibMagic:
   ZMUGHAL: 1
+Alien-LibUSB:
+  ATHREEF: 1
 Alien-LibUSBx:
   BRIX: 1
 Alien-LibXML:
@@ -2329,6 +2331,10 @@ Alien-ROOT:
   SMUELLER: 1
 Alien-RRDtool:
   KAZEBURO: 1
+Alien-Role-Alt:
+  PLICEASE: 1
+Alien-Role-Dino:
+  PLICEASE: 1
 Alien-SDL:
   FROGGS: 1
 Alien-SDL2:
@@ -2407,6 +2413,8 @@ Alien-gettext:
   GETTY: 1
 Alien-gmake:
   PLICEASE: 1
+Alien-gperf:
+  ATHREEF: 1
 Alien-gputils:
   VIKAS: 1
 Alien-gzip:
@@ -2419,6 +2427,8 @@ Alien-libtool:
   PLICEASE: 1
 Alien-libtool24:
   PLICEASE: 1
+Alien-libudev:
+  ATHREEF: 1
 Alien-libuv:
   CAPOEIRAB: 1
 Alien-libvas:
@@ -3090,6 +3100,8 @@ AnyEvent-SerialPort:
   BEANZ: 1
 AnyEvent-Serialize:
   UNERA: 1
+AnyEvent-SlackBot:
+  AKALINUX: 1
 AnyEvent-SlackRTM:
   HANENKAMP: 1
 AnyEvent-Stomper:
@@ -4138,6 +4150,8 @@ App-Addex-Plugin-Nobody:
   RJBS: 1
 App-Adenosine:
   FREW: 1
+App-AlgorithmDiffUtils:
+  PERLANCAR: 1
 App-Alice:
   LEEDO: 1
 App-Aliyun:
@@ -4609,6 +4623,8 @@ App-GSD:
   RJH: 1
 App-GUI-Notepad:
   BLM: 1
+App-Gallery:
+  MGV: 1
 App-GamesWordlist:
   PERLANCAR: 1
 App-GenModEmbedder:
@@ -5200,6 +5216,8 @@ App-PerinciUtils:
   PERLANCAR: 1
 App-PerlCalc:
   DAVID: 1
+App-PerlCriticUtils:
+  PERLANCAR: 1
 App-PerlPackage2PlantUMLClassDiagram:
   HITODE: 1
 App-PerlXLock:
@@ -6134,6 +6152,8 @@ App-perlhl:
 App-perlminlint:
   HKOBA: 1
 App-perlmv:
+  PERLANCAR: 1
+App-perlmv-u:
   PERLANCAR: 1
 App-perlrdf:
   TOBYINK: 1
@@ -7930,6 +7950,8 @@ Bencher-ScenarioUtil-Completion:
   PERLANCAR: 1
 Bencher-Scenarios-Accessors:
   PERLANCAR: 1
+Bencher-Scenarios-AlgorithmDiff:
+  PERLANCAR: 1
 Bencher-Scenarios-AppHr:
   PERLANCAR: 1
 Bencher-Scenarios-AppLcpan:
@@ -8526,6 +8548,8 @@ Bio_AssemblyImprovement:
   AJPAGE: 1
 Bioinf:
   JONG: 1
+Bioinfo:
+  PEKINGSAM: 1
 Bisect-Perl-UsingGit:
   LBROCARD: 1
 Bison:
@@ -10839,6 +10863,8 @@ CLI-Gwrap:
   REID: 1
 CLI-Helpers:
   BLHOTSKY: 1
+CLI-Osprey:
+  ARODLAND: 1
 CLI-Startup:
   BUDNEY: 1
 CLIPSeqTools:
@@ -12656,7 +12682,7 @@ Catalyst-Plugin-Starch:
 Catalyst-Plugin-Static:
   BOBTFISH: 1
 Catalyst-Plugin-Static-Simple:
-  JJNAPIORK: 1
+  FREW: 1
 Catalyst-Plugin-Static-Simple-ButMaintained:
   ECARROLL: 1
 Catalyst-Plugin-Static-Simple-ByClass:
@@ -18691,6 +18717,8 @@ Data-Edit-Xml:
   PRBRENAN: 1
 Data-Edit-Xml-Lint:
   PRBRENAN: 1
+Data-Edit-Xml-SDL:
+  PRBRENAN: 1
 Data-Embed:
   POLETTIX: 1
 Data-Encoder:
@@ -19231,6 +19259,8 @@ Data-Pwgen:
   TEX: 1
 Data-Quantity:
   EVO: 1
+Data-Queue:
+  AKALINUX: 1
 Data-Queue-Batch:
   ILLO: 1
 Data-Queue-Persistent:
@@ -19293,6 +19323,8 @@ Data-Reporter:
   RVAZ: 1
 Data-ResourceSet:
   DMAKI: 1
+Data-Result:
+  AKALINUX: 1
 Data-ResultSet:
   DONEILL: 1
 Data-ResultsHelper:
@@ -19812,6 +19844,8 @@ DataWarehouse:
   NFERRAZ: 1
 Data_Translate:
   DAVIEIRA: 1
+Database-Async-SQLite:
+  TEAM: 1
 Database-Cassandra-Client:
   LASTMAC: 1
 Database-DumpTruck:
@@ -19966,6 +20000,8 @@ Date-Holidays-NO:
   MRAMBERG: 1
 Date-Holidays-NZ:
   HNEWPORT: 1
+Date-Holidays-PF:
+  DOMINIX: 1
 Date-Holidays-PL:
   AJGB: 1
 Date-Holidays-PT:
@@ -21923,6 +21959,8 @@ Dist-Zilla-Plugin-Author-KENTNL-TravisCI:
   KENTNL: 1
 Dist-Zilla-Plugin-Author-Plicease:
   PLICEASE: 1
+Dist-Zilla-Plugin-AuthorSignatureTest:
+  MSCHOUT: 1
 Dist-Zilla-Plugin-Authority:
   APOCAL: 1
 Dist-Zilla-Plugin-AuthorityFromModule:
@@ -22019,6 +22057,8 @@ Dist-Zilla-Plugin-CoderwallEndorse:
   YANICK: 1
 Dist-Zilla-Plugin-Comment:
   PERLANCAR: 1
+Dist-Zilla-Plugin-CommentOut:
+  PLICEASE: 1
 Dist-Zilla-Plugin-Config-Git:
   BBYRD: 1
 Dist-Zilla-Plugin-Conflicts:
@@ -29685,6 +29725,8 @@ HTTP-MobileUID:
   MIYAZAKI: 1
 HTTP-MobileUserID:
   MIYAZAKI: 1
+HTTP-MultiGet:
+  AKALINUX: 1
 HTTP-MultiPartParser:
   CHANSEN: 1
 HTTP-Negotiate:
@@ -32189,6 +32231,8 @@ Joystick:
   BDLILLEY: 1
 Jq:
   INGY: 1
+JsonSQL:
+  HOEFLERB: 1
 Judy:
   JJORE: 1
 Juju:
@@ -35320,6 +35364,8 @@ Log-Log4perl-Warn-Multiple-EasyInit:
   CHISEL: 1
 Log-LogLite:
   RANI: 1
+Log-LogMethods:
+  AKALINUX: 1
 Log-Logger:
   JLBEC: 1
 Log-Message:
@@ -37116,6 +37162,8 @@ Math-Logic:
   SUMMER: 1
 Math-Logic-Predicate:
   LPALMER: 1
+Math-Logic-Ternary:
+  MHASCH: 1
 Math-LongDouble:
   SISYPHUS: 1
 Math-Lsoda:
@@ -37672,8 +37720,6 @@ Memoize-Once:
   ZEFRAM: 1
 Memoize-Saves:
   FLORA: 1
-Memory-Leak-Hunter:
-  SZABGAB: 1
 Memory-Process:
   SKIM: 1
 Memory-Stats:
@@ -38413,6 +38459,8 @@ Module-Load:
   BINGOS: 1
 Module-Load-Conditional:
   BINGOS: 1
+Module-Load-DiffINC:
+  PERLANCAR: 1
 Module-Load-In-INIT:
   PERLANCAR: 1
 Module-Loadable:
@@ -40015,6 +40063,8 @@ MooseX-CurriedHandles:
   RATAXIS: 1
 MooseX-CustomInitArgs:
   TOBYINK: 1
+MooseX-DIC:
+  LPRIETO: 1
 MooseX-DOM:
   DMAKI: 1
 MooseX-Daemonize:
@@ -40965,7 +41015,7 @@ Nagios-Downtime:
 Nagios-Monitoring-Plugin:
   NAGIOS: 1
 Nagios-NRPE:
-  AMARSCHKE: 1
+  MICKE: 1
 Nagios-NSCA:
   MOCONNOR: 1
 Nagios-Object:
@@ -47387,6 +47437,8 @@ Perl-Critic-Policy-logicLAB-RequireSheBang:
   JONASBN: 1
 Perl-Critic-Policy-logicLAB-RequireVersionFormat:
   JONASBN: 1
+Perl-Critic-PolicyBundle-PERLANCAR:
+  PERLANCAR: 1
 Perl-Critic-Pulp:
   KRYDE: 1
 Perl-Critic-RENEEB:
@@ -47922,6 +47974,8 @@ Pg-Pcurse:
   IOANNIS: 1
 Pg-Priv:
   DWHEELER: 1
+Pg-Queue:
+  RMZG: 1
 Pg-Reindex:
   BINARY: 1
 Pg-Simple:
@@ -47962,6 +48016,8 @@ Photography-Website:
   JJVENS: 1
 Photonic:
   WLMB: 1
+Physics-Ballistics:
+  TTKCIAR: 1
 Physics-Lorentz:
   SMUELLER: 1
 Physics-Particles:
@@ -48240,7 +48296,7 @@ Plack-Middleware-Auth-Htpasswd:
 Plack-Middleware-Auth-JWT:
   DOMM: 1
 Plack-Middleware-Auth-Negotiate:
-  AVUSEROW: 1
+  IOANR: 1
 Plack-Middleware-Auth-OAuth:
   SONGMU: 1
 Plack-Middleware-Auth-QueryString:
@@ -52300,6 +52356,8 @@ SVG-TT-Graph:
   LLAP: 1
 SVG-Template-Graph:
   RONAN: 1
+SVG-Timeline:
+  DAVECROSS: 1
 SVG-TrafficLight:
   DAVECROSS: 1
 SVG-VCD:
@@ -54179,6 +54237,7 @@ Statistics-QuickMedian:
 Statistics-R:
   FANGLY: 1
 Statistics-R-IO:
+  DAVOR: 1
   Statistics-R-IO: 1
 Statistics-ROC:
   HAKESTLER: 1
@@ -54412,6 +54471,8 @@ String-Dump:
   PATCH: 1
 String-Ediff:
   BOXZOU: 1
+String-Elide-FromArray:
+  PERLANCAR: 1
 String-Elide-Lines:
   PERLANCAR: 1
 String-Elide-Parts:
@@ -59112,6 +59173,8 @@ Text-ParseWords:
   CHORNY: 1
 Text-Parts:
   KTAT: 1
+Text-Password-AutoMigration:
+  WORTHMINE: 1
 Text-Password-Pronounceable:
   TSIBLEY: 1
 Text-Password-Pronounceable-Harden:
@@ -59570,6 +59633,8 @@ Text-sprintfn:
   PERLANCAR: 1
 Text-vCard:
   LLAP: 1
+Text-vCard-Precisely:
+  WORTHMINE: 1
 Text-vFile:
   JLAWRENC: 1
 Text-vFile-asData:
@@ -63782,6 +63847,8 @@ WWW-StreetMap:
   SRSHAH: 1
 WWW-SubDB:
   BSM: 1
+WWW-Subsonic:
+  BLHOTSKY: 1
 WWW-Sucksub-Attila:
   TFOUCART: 1
 WWW-Sucksub-Divxstation:
@@ -64935,6 +65002,8 @@ WebService-Tesco-API:
   WBASSON: 1
 WebService-TestSystem:
   BRYCE: 1
+WebService-ThreatStack:
+  DSIMONE: 1
 WebService-ThrowAwayMail:
   LNATION: 1
 WebService-TicketAuth:
@@ -65931,6 +66000,8 @@ X86-Disasm:
   BOBW: 1
 X86-Udis86:
   BOBW: 1
+XAO-Base:
+  AMALTSEV: 1
 XAO-FS:
   AMALTSEV: 1
   XAOINC: 1
@@ -68095,6 +68166,8 @@ ogd:
   ELIZABETH: 1
 ogdl-perl:
   HZHOU: 1
+omnitool-installer:
+  ECHERNOF: 1
 once:
   MARCEL: 1
 only:
