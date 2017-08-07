@@ -1,11 +1,9 @@
 ---
 '':
-  582+: 1
   BMIDD: 1
+  ILYAZ: 1
   MICB: 1
   TIMB: 1
-  os2: 1
-  tk: 1
 AAAA-Crypt-DH:
   BINGOS: 1
 AAAA-Mail-SpamAssassin:
@@ -25,11 +23,11 @@ AC-MrGamoo:
 AC-Yenta:
   SOLVE: 1
 ACH:
-  ACH: 1
+  CPKOIS: 1
 ACH-Generator:
-  ACHGenerator: 1
+  CPKOIS: 1
 ACH-Parser:
-  ACHParser: 1
+  CPKOIS: 1
 ACL-Lite:
   HORNBURG: 1
 ACL-Regex:
@@ -124,7 +122,7 @@ AI-Genetic:
 AI-Genetic-Pro:
   STRZELEC: 1
 AI-LibNeural:
-  AI-LibNeural: 1
+  RMCFARLA: 1
 AI-Logic-AnswerSet:
   LEVIA: 1
 AI-MXNet:
@@ -140,7 +138,7 @@ AI-MicroStructure:
 AI-NNEasy:
   GMPASSOS: 1
 AI-NNFlex:
-  ai-nnflex: 1
+  CCOLBOURN: 1
 AI-NNVMCAPI:
   SKOLYCHEV: 1
 AI-NaiveBayes:
@@ -173,7 +171,7 @@ AI-PBDD:
 AI-PSO:
   KYLESCH: 1
 AI-ParticleSwarmOptimization:
-  AI-ParticleSwarmOptimization: 1
+  GRANDPA: 1
 AI-Pathfinding-AStar:
   ACDALTON: 1
 AI-Pathfinding-AStar-Rectangle:
@@ -199,7 +197,7 @@ AI-XGBoost:
 AIIA-GMT:
   CJUKUO: 1
 AIS-client:
-  AIS: 1
+  DAVIDNICO: 1
 AIX-LPP:
   CRITTER: 1
 AIX-LVM:
@@ -217,7 +215,7 @@ AMF-Connection:
 AMF-Perl:
   SIMONF: 1
 AMPR-Rip44:
-  AMPRRip44: 1
+  CJCOLLIER: 1
 AMQP:
   DGOEHRIG: 1
 ANSI-Heatmap:
@@ -589,7 +587,7 @@ Acme-CPANAuthors-POE:
 Acme-CPANAuthors-Polish:
   PWES: 1
 Acme-CPANAuthors-Portuguese:
-  AcmeCPANAuthorsPortuguese: 1
+  BRACETA: 1
 Acme-CPANAuthors-Pumpkings:
   ABIGAIL: 1
 Acme-CPANAuthors-Russian:
@@ -1255,7 +1253,7 @@ Acme-Orange:
 Acme-PDF-rescale:
   HERVE: 1
 Acme-PEPM:
-  Win32: 1
+  BULKDD: 1
 Acme-PERL-Autocorrect:
   CHROMATIC: 1
 Acme-PERLANCAR-Prime:
@@ -1265,7 +1263,7 @@ Acme-PETEK-Testkit:
 Acme-PGPSign:
   UNDERMINE: 1
 Acme-PIA-Export:
-  acme-pia-export: 1
+  CHRWIN: 1
 Acme-PM-Barcelona:
   ALEXM: 1
 Acme-PM-Berlin-Meetings:
@@ -1433,7 +1431,7 @@ Acme-Scurvy-Whoreson-BilgeRat-Backend-insultserver:
 Acme-SexualReproduction:
   AITAP: 1
 Acme-Shining:
-  benchmark: 1
+  BULKDD: 1
 Acme-Shukugawa-Atom:
   DMAKI: 1
 Acme-Signum:
@@ -1493,7 +1491,7 @@ Acme-SuddenlyDeath:
 Acme-SuperCollider-Programming:
   ADAMK: 1
 Acme-SvGROW:
-  Acme: 1
+  DAVIDNICO: 1
 Acme-Syntax-Python:
   PEDLAR: 1
 Acme-SysPath:
@@ -1517,7 +1515,7 @@ Acme-Tategaki:
 Acme-Tau:
   JMATES: 1
 Acme-Teddy:
-  developer-tools: 1
+  XIONG: 1
 Acme-Terror:
   MRDELAYER: 1
 Acme-Terror-AU:
@@ -1619,7 +1617,7 @@ Acme-Very-Modern-Perl:
 Acme-VerySign:
   MARKF: 1
 Acme-Void:
-  Acme-Void: 1
+  RYOCHIN: 1
 Acme-Voodoo:
   ESUMMERS: 1
 Acme-Vuvuzela:
@@ -1675,11 +1673,11 @@ Acme-eng2kor:
 Acme-kevinz:
   KEVINZ: 1
 Acme-landmine:
-  Acme: 1
+  DAVIDNICO: 1
 Acme-phillup:
   PHILLUP: 1
 Acme-please:
-  Acme: 1
+  DAVIDNICO: 1
 Acme-rafl-Everywhere:
   XSAWYERX: 1
 Acme-require-case:
@@ -1691,7 +1689,7 @@ Acme-this:
 Acme-use-strict-with-pride:
   NWCLARK: 1
 Acpi:
-  acpi: 1
+  SHY: 1
 Acpi-Class:
   MIMOSINET: 1
 Action-Retry:
@@ -2096,7 +2094,7 @@ Algorithm-TravelingSalesman-BitonicTour:
 Algorithm-Tree-NCA:
   MATKIN: 1
 Algorithm-TrunkClassifier:
-  TrunkClassifier_v101: 1
+  WOLFTOWER: 1
 Algorithm-VSM:
   AVIKAK: 1
 Algorithm-VectorClocks:
@@ -3215,7 +3213,7 @@ Apache-App-Mercury:
 Apache-AppCluster:
   MAUNDER: 1
 Apache-AppSamurai:
-  Apache-AppSamurai: 1
+  PAULDOOM: 1
 Apache-Archive:
   JPETERSON: 1
 Apache-Auth-AuthMemCookie:
@@ -3223,7 +3221,7 @@ Apache-Auth-AuthMemCookie:
 Apache-Auth-Subrequest:
   SCOTT: 1
 Apache-Auth-UserDB:
-  apache-auth-userdb: 1
+  JMEHNLE: 1
 Apache-AuthCAS:
   DCASTRO: 1
 Apache-AuthCASSimple:
@@ -3760,7 +3758,7 @@ Apache-Singleton:
 Apache-SiteConfig:
   CORNELIUS: 1
 Apache-SiteControl:
-  Apache: 1
+  AWKAY: 1
 Apache-SizeLimit:
   PHRED: 1
 Apache-Sling:
@@ -3913,7 +3911,7 @@ Apache2-AuthenNTLM:
 Apache2-AuthenNTLM-Cookie:
   DAMI: 1
 Apache2-AuthenRadius:
-  AuthenRadius: 1
+  KEVIN: 1
 Apache2-AuthenSecurID:
   TOBEYA: 1
 Apache2-AuthenSmb:
@@ -3927,7 +3925,7 @@ Apache2-AutoIndex-XSLT:
 Apache2-Autocomplete:
   RKOBES: 1
 Apache2-BalanceLogic:
-  Apache2: 1
+  MIKI: 1
 Apache2-Banner:
   OPI: 1
 Apache2-ClickPath:
@@ -3941,7 +3939,7 @@ Apache2-Connection-SkipDummy:
 Apache2-Connection-XForwardedFor:
   PHRED: 1
 Apache2-Controller:
-  A2C: 1
+  MARKLE: 1
 Apache2-DebugFilter:
   PGOLLUCCI: 1
 Apache2-DirBasedHandler:
@@ -3999,7 +3997,7 @@ Apache2-MimeInfo:
 Apache2-ModLogConfig:
   OPI: 1
 Apache2-ModProxyPerlHtml:
-  ModProxyPerlHtml: 1
+  DAROLD: 1
 Apache2-ModSSL:
   OPI: 1
 Apache2-ModXml2:
@@ -4049,7 +4047,7 @@ Apache2-ScoreboardIsFull:
 Apache2-ShowStatus:
   OPI: 1
 Apache2-SiteControl:
-  Apache2: 1
+  AWKAY: 1
 Apache2-SiteMap:
   SOCK: 1
 Apache2-Tail:
@@ -4327,7 +4325,7 @@ App-CalcAccumulatedDiscounts:
 App-CalcAccumulatedInflation:
   PERLANCAR: 1
 App-CamelPKI:
-  CamelPKI: 1
+  GRM: 1
 App-Caoliu:
   TOMORROW: 1
 App-CatalystStarter-Bloated:
@@ -4465,7 +4463,7 @@ App-Difio-OpenShift:
 App-Difio-dotCloud:
   ATODOROV: 1
 App-Diskd:
-  App-Diskd: 1
+  DMALONE: 1
 App-Dispatch:
   EXODIST: 1
 App-DisplayResolutionUtils:
@@ -5295,7 +5293,7 @@ App-Prove-Dist:
 App-Prove-Plugin-Distributed:
   LSF: 1
 App-Prove-Plugin-Idempotent:
-  idempotent: 1
+  SCHWIGON: 1
 App-Prove-Plugin-MySQLPool:
   MACOPY: 1
   MASH: 1
@@ -5346,7 +5344,7 @@ App-Rad-Plugin-MoreHelp:
 App-Rad-Plugin-ReadLine:
   FOOLISH: 1
 App-Rad-Plugin-TT:
-  App-Rad-Plugin-TT: 1
+  FCO: 1
 App-Rad-Plugin-ValuePriority:
   FCO: 1
 App-Randf:
@@ -5686,7 +5684,7 @@ App-Unicheck-Modules-MySQL:
 App-Unicheck-Modules-Redis:
   MKRULL: 1
 App-UnifdefPlus:
-  Preprocessor: 1
+  JULVR: 1
 App-UniqFiles:
   PERLANCAR: 1
 App-Unix-RPasswd:
@@ -6362,13 +6360,13 @@ App-yamlsel:
 AppConfig:
   NEILB: 1
 AppConfig-Exporter:
-  AppConfig-Exporter: 1
+  MODULO: 1
 AppConfig-MyFile:
   ABW: 1
 AppConfig-Std:
   NEILB: 1
 AppendHash.pm:
-  Tie: 1
+  TOMC: 1
 Appium:
   GEMPESAW: 1
 AppleII-LibA2:
@@ -6570,7 +6568,7 @@ Array-FileReader:
 Array-Find:
   PERLANCAR: 1
 Array-Frugal:
-  Acme: 1
+  DAVIDNICO: 1
 Array-Group:
   ACCARDO: 1
 Array-GroupBy:
@@ -6654,7 +6652,7 @@ Array-Uniq:
 Array-Unique:
   SZABGAB: 1
 Array-Utils:
-  Array: 1
+  ZMIJ: 1
 Array-Window:
   ADAMK: 1
 Array-Windowed:
@@ -6738,9 +6736,9 @@ Asterisk-FastAGI:
 Asterisk-LCR:
   JHIVER: 1
 Asterisk-Store-Queue:
-  asterisk-store: 1
+  GOOZBACH: 1
 Asterisk-Store-Queue-Member:
-  asterisk-store: 1
+  GOOZBACH: 1
 Asterisk-config:
   HOOWA: 1
 Asterisk-config-syntax-highlight:
@@ -7011,7 +7009,7 @@ Audio-Ardour-Irc:
 Audio-Audacious:
   ALYX: 1
 Audio-Audiere:
-  audio: 1
+  TELS: 1
 Audio-BASSXS:
   JOUKE: 1
 Audio-Beep:
@@ -7055,7 +7053,7 @@ Audio-File-Wav:
 Audio-File-Wma:
   NHEINRIC: 1
 Audio-FindChunks:
-  modules: 1
+  ILYAZ: 1
 Audio-GSM:
   FROLLER: 1
 Audio-Gramofile:
@@ -7199,7 +7197,7 @@ AuthLLDAPSympa:
 Authen-ACE:
   DCARRIGAN: 1
 Authen-ACE4:
-  Authen: 1
+  MIKEM: 1
 Authen-Bitcard:
   ABH: 1
 Authen-CAS-Client:
@@ -7539,7 +7537,7 @@ B-XSUB-Dumber:
 BBCode-Parser:
   DLKING: 1
 BBConfig:
-  BoxBackup: 1
+  PTHOMSEN: 1
 BBDB:
   LAXEN: 1
 BBDB-Export:
@@ -7603,7 +7601,7 @@ BIND-Config-Parser:
 BIND-SDB-LDAP-Helper:
   VVELOX: 1
 BLASTaid:
-  modules: 1
+  TWYLIE: 1
 BLOB:
   JUERD: 1
 BPAN:
@@ -7617,11 +7615,11 @@ BS2000-LMS:
 BSD-Getfsent:
   SCHUBIGER: 1
 BSD-Ipfwgen:
-  modules: 1
+  MUIR: 1
 BSD-Itimer:
   HAG: 1
 BSD-Jail:
-  Jail: 1
+  TBONECA: 1
 BSD-Jail-Object:
   MAHLON: 1
 BSD-Process:
@@ -7745,7 +7743,7 @@ Barcode-ZBar:
 Barracuda-Api:
   MQL: 1
 Base64-Serializer:
-  CGI: 1
+  MJFS: 1
 BaseLib:
   HASANT: 1
 Baseball-Sabermetrics:
@@ -8117,13 +8115,13 @@ Benchmark-Lab:
 Benchmark-Object:
   QWER: 1
 Benchmark-Perl-CoreHashes:
-  benchmark: 1
+  BULKDD: 1
 Benchmark-Perl-Formance:
-  perl-formance: 1
+  SCHWIGON: 1
 Benchmark-Perl-Formance-Analyzer:
   SCHWIGON: 1
 Benchmark-Perl-Formance-Cargo:
-  perl-formance: 1
+  SCHWIGON: 1
 Benchmark-Perl-Formance-Plugin-Mandelbrot:
   SCHWIGON: 1
 Benchmark-Perl-Formance-Plugin-PerlStone2015:
@@ -8195,9 +8193,9 @@ Biblio-COUNTER:
 Biblio-Citation-Compare:
   DBOURGET: 1
 Biblio-Citation-Parser:
-  citeparser: 1
+  MJEWELL: 1
 Biblio-Document-Parser:
-  docparser: 1
+  MJEWELL: 1
 Biblio-EndnoteStyle:
   MIRK: 1
 Biblio-ILL-ISO:
@@ -8215,11 +8213,11 @@ Biblio-SICI:
 Biblio-SIF:
   NKUITSE: 1
 Biblio-Thesaurus:
-  Biblio: 1
+  AMBS: 1
 Biblio-Thesaurus-ModRewrite:
   SMASH: 1
 Biblio-Thesaurus-SQLite:
-  Biblio: 1
+  ROOT: 1
 Biblio-Zotero-DB:
   ZMUGHAL: 1
 BigIP-ParseConfig:
@@ -8231,13 +8229,13 @@ Bigtop:
 BikePower:
   SREZIC: 1
 BinTree.pm:
-  trees: 1
+  TOMC: 1
 Binary-Heap-Array:
   PRBRENAN: 1
 Binary-Heap-Search:
   PRBRENAN: 1
 Binary.pm:
-  Tree: 1
+  TOMC: 1
 Binding:
   GUGOD: 1
 Bing-Search:
@@ -8289,7 +8287,7 @@ Bio-Cigar:
 Bio-Community:
   FANGLY: 1
 Bio-ConnectDots:
-  ConnectDots: 1
+  DBURDICK: 1
 Bio-Coordinate:
   CJFIELDS: 1
 Bio-DB-Big:
@@ -8396,7 +8394,7 @@ Bio-MAGE-Utils:
 Bio-MAGETAB:
   TFRAYNER: 1
 Bio-MCPrimers:
-  MCPrimers: 1
+  SLENK: 1
 Bio-MLST-Check:
   AJPAGE: 1
 Bio-MaxQuant-Evidence-Statistics:
@@ -8503,7 +8501,7 @@ Bio-WebService-LANL-SequenceLocator:
 Bio-fastAPD:
   JDBAUGHER: 1
 BioGraph:
-  BioGraph: 1
+  BALDR: 1
 BioPerl:
   CJFIELDS: 1
 BioPerl-DB:
@@ -8625,9 +8623,9 @@ Blosxom-Plugin:
 BlueCoat-SGOS:
   MMLANGE: 1
 Bluepay-Bluepay20DailyReport:
-  BluepayBluepay20DailyReport: 1
+  CPKOIS: 1
 Bluepay-Bluepay20Post:
-  BluepayBluepay20Post: 1
+  CPKOIS: 1
 BokkaKumiai:
   DUKKIE: 1
 Bolts:
@@ -8645,7 +8643,7 @@ Boolean-String:
 Boost-Geometry-Utils:
   AAR: 1
 Boost-Graph:
-  BoostGraph: 1
+  DBURDICK: 1
 Bootylicious:
   OLEG: 1
 Bootylicious-Plugin-AjaxLibLoader:
@@ -9040,7 +9038,7 @@ Bundle-Delivery:
 Bundle-Devel:
   ADAMK: 1
 Bundle-Dotiac:
-  dotiac: 1
+  MALUKU: 1
 Bundle-Egrail:
   MUENALAN: 1
 Bundle-Email:
@@ -9208,7 +9206,7 @@ Bundle-Net-SNMP-Mixin:
 Bundle-NiceSleep:
   JOSHR: 1
 Bundle-OS2_default:
-  modules: 1
+  ILYAZ: 1
 Bundle-OpenInteract:
   CWINTERS: 1
 Bundle-OpenInteract2:
@@ -9218,7 +9216,7 @@ Bundle-OpenXPKI:
 Bundle-Ovid:
   OVID: 1
 Bundle-PBib:
-  PBib: 1
+  PTANDLER: 1
 Bundle-POPFile:
   MANNI: 1
 Bundle-Padre-Plugin:
@@ -9242,7 +9240,7 @@ Bundle-Rose:
 Bundle-SDK-COG:
   COG: 1
 Bundle-SDK-SIMON:
-  Bundle: 1
+  AMBS: 1
 Bundle-SPOPS:
   CWINTERS: 1
 Bundle-SQL-Translator:
@@ -9845,7 +9843,7 @@ C-Tokenize:
 C-Utility:
   BKB: 1
 C-sparse:
-  sparse-decpp: 1
+  EISELEKD: 1
 C3000:
   XYF: 1
 C3000-RepUtils:
@@ -9859,7 +9857,6 @@ CACertOrg-CA:
 CAD-Calc:
   EWILHELM: 1
 CAD-Drawing:
-  Drawing: 1
   EWILHELM: 1
 CAD-Drawing-IO-DWGI:
   EWILHELM: 1
@@ -10439,7 +10436,7 @@ CGI-Header:
 CGI-Header-PSGI:
   ANAZAWA: 1
 CGI-IDS:
-  PerlIDS: 1
+  HINNERK: 1
 CGI-Imagemap:
   JPIERCE: 1
 CGI-Info:
@@ -10451,9 +10448,9 @@ CGI-JSONRPC:
 CGI-Kwiki:
   INGY: 1
 CGI-Lazy:
-  Lazy: 1
+  VAYDE: 1
 CGI-Lazy-ModPerl:
-  Lazy: 1
+  VAYDE: 1
 CGI-Lingua:
   NHORNE: 1
 CGI-List:
@@ -10477,7 +10474,7 @@ CGI-MultiValuedHash:
 CGI-Multiscript:
   MORGOTHII: 1
 CGI-Mungo:
-  Mungo: 1
+  DUMB: 1
 CGI-MxScreen:
   PURDY: 1
 CGI-NoPoison:
@@ -10485,7 +10482,7 @@ CGI-NoPoison:
 CGI-OptimalQuery:
   LIKEHIKE: 1
 CGI-Out:
-  modules: 1
+  MUIR: 1
 CGI-PSGI:
   MIYAGAWA: 1
 CGI-Pager:
@@ -10872,7 +10869,7 @@ CLIPSeqTools:
 CLucene:
   PEDWARDS: 1
 CMD-Colors:
-  contribs: 1
+  UHANDA: 1
 CMS-Drupal:
   TONKIN: 1
 CMS-Drupal-Modules-MembershipEntity:
@@ -10882,7 +10879,7 @@ CMS-Joomla:
 CMS-JoomlaToDrupal:
   HESCO: 1
 CMS-MediaWiki:
-  CMS: 1
+  RETOH: 1
 CN-Province:
   ZYY: 1
 CNAB:
@@ -11451,7 +11448,7 @@ CVSUtils:
 CWB-CQP-More:
   AMBS: 1
 CaCORE:
-  CaCORE: 1
+  NCICB: 1
 Cac:
   OESI: 1
 Cache:
@@ -11533,7 +11530,7 @@ Cache-Memcached-Mock:
 Cache-Memcached-Queue:
   BANG: 1
 Cache-Memcached-Semaphore:
-  Memcached: 1
+  ZMIJ: 1
 Cache-Memcached-Sweet:
   STIGTSP: 1
 Cache-Memcached-Tags:
@@ -11649,7 +11646,7 @@ CallGraph:
 CallOfDuty-LANMapper:
   PSINNOTT: 1
 Callback:
-  modules: 1
+  MUIR: 1
 Callback-Cleanup:
   NUFFIN: 1
 Callback-Frame:
@@ -13320,77 +13317,77 @@ Ceph-RadosGW-Admin:
 CfgTie:
   RANDYM: 1
 ChainMake:
-  ChainMake: 1
+  SCHROEER: 1
 Champlain:
   POTYL: 1
 Char-Arabic:
-  Arabic: 1
+  INA: 1
 Char-Big5HKSCS:
-  Big5HKSCS: 1
+  INA: 1
 Char-Big5Plus:
-  Big5Plus: 1
+  INA: 1
 Char-Cyrillic:
-  Cyrillic: 1
+  INA: 1
 Char-EUCJP:
-  EUCJP: 1
+  INA: 1
 Char-EUCTW:
-  EUCTW: 1
+  INA: 1
 Char-GB18030:
-  GB18030: 1
+  INA: 1
 Char-GBK:
-  GBK: 1
+  INA: 1
 Char-Greek:
-  Greek: 1
+  INA: 1
 Char-HP15:
-  HP15: 1
+  INA: 1
 Char-Hebrew:
-  Hebrew: 1
+  INA: 1
 Char-INFORMIXV6ALS:
-  INFORMIXV6ALS: 1
+  INA: 1
 Char-JIS8:
-  JIS8: 1
+  INA: 1
 Char-KOI8R:
-  KOI8R: 1
+  INA: 1
 Char-KOI8U:
-  KOI8U: 1
+  INA: 1
 Char-KPS9566:
-  KPS9566: 1
+  INA: 1
 Char-Latin1:
-  Latin1: 1
+  INA: 1
 Char-Latin10:
-  Latin10: 1
+  INA: 1
 Char-Latin2:
-  Latin2: 1
+  INA: 1
 Char-Latin3:
-  Latin3: 1
+  INA: 1
 Char-Latin4:
-  Latin4: 1
+  INA: 1
 Char-Latin5:
-  Latin5: 1
+  INA: 1
 Char-Latin6:
-  Latin6: 1
+  INA: 1
 Char-Latin7:
-  Latin7: 1
+  INA: 1
 Char-Latin8:
-  Latin8: 1
+  INA: 1
 Char-Latin9:
-  Latin9: 1
+  INA: 1
 Char-OldUTF8:
-  OldUTF8: 1
+  INA: 1
 Char-Sjis:
-  Sjis: 1
+  INA: 1
 Char-TIS620:
-  TIS620: 1
+  INA: 1
 Char-UHC:
-  UHC: 1
+  INA: 1
 Char-USASCII:
-  USASCII: 1
+  INA: 1
 Char-UTF2:
-  UTF2: 1
+  INA: 1
 Char-Windows1252:
-  Windows1252: 1
+  INA: 1
 Char-Windows1258:
-  Windows1258: 1
+  INA: 1
 CharsetDetector:
   FOOLFISH: 1
 Chart:
@@ -13406,9 +13403,9 @@ Chart-EPS_graph:
 Chart-GRACE:
   TJENNESS: 1
 Chart-Gnuplot:
-  Gnuplot: 1
+  KWMAK: 1
 Chart-Gnuplot-Pie:
-  Pie: 1
+  KWMAK: 1
 Chart-Graph:
   CAIDAPERL: 1
 Chart-Math-Axis:
@@ -13452,7 +13449,7 @@ Chatbot-Alpha:
 Chatbot-Eliza:
   GRANTG: 1
 Cheat-Meta:
-  developer-tools: 1
+  XIONG: 1
 Cheater:
   AGENT: 1
 Check-ISA:
@@ -13506,7 +13503,7 @@ Chemistry-File-XYZ:
 Chemistry-FormulaPattern:
   ITUB: 1
 Chemistry-Harmonia:
-  Chemistry: 1
+  DONANGEL: 1
 Chemistry-InternalCoords:
   ITUB: 1
 Chemistry-Isotope:
@@ -13654,9 +13651,9 @@ Chloro:
 Chooser:
   VVELOX: 1
 Chorus-Engine:
-  Chorus: 1
+  IVORRACH: 1
 Chorus-Expert:
-  Chorus: 1
+  IVORRACH: 1
 Chouette:
   FRACTAL: 1
 ChromosomeMap:
@@ -13698,13 +13695,13 @@ Cisco-IronPort:
 Cisco-Management:
   VINSWORLD: 1
 Cisco-Reconfig:
-  modules: 1
+  MUIR: 1
 Cisco-Regex:
   JKISTER: 1
 Cisco-SNMP:
   VINSWORLD: 1
 Cisco-ShowIPRoute-Parser:
-  cisco: 1
+  MARKPF: 1
 Cisco-UCS:
   LTP: 1
 Cisco-Version:
@@ -13714,7 +13711,7 @@ Citizen3540:
 Citrix:
   OHOLLMEN: 1
 ClamAV-Client:
-  clamav-client: 1
+  JMEHNLE: 1
 Clamd:
   MSERGEANT: 1
 Clang:
@@ -13724,7 +13721,7 @@ Clarion:
 ClarionUnlock:
   AJDIXON: 1
 Clarity-XOG-Merge:
-  clarity: 1
+  SCHWIGON: 1
 Class-Accessor:
   KASEI: 1
 Class-Accessor-Array:
@@ -13929,7 +13926,6 @@ Class-DBI-DATA-Schema:
 Class-DBI-DB2:
   MFERRIS: 1
 Class-DBI-DDL:
-  Class-DBI-DDL: 1
   HANENKAMP: 1
 Class-DBI-DFV:
   EVDB: 1
@@ -14159,7 +14155,7 @@ Class-Dot-Model:
 Class-Dynamic:
   SIMON: 1
 Class-EHierarchy:
-  Class-EHierarchy: 1
+  CORLISS: 1
 Class-Easy:
   APLA: 1
 Class-Entity:
@@ -14211,7 +14207,7 @@ Class-Handler:
 Class-HasA:
   SIMON: 1
 Class-Hash:
-  Class-Hash: 1
+  HANENKAMP: 1
 Class-Hook:
   NEILB: 1
   PDENIS: 1
@@ -14260,7 +14256,7 @@ Class-Light:
 Class-Listener:
   MUENALAN: 1
 Class-Lite:
-  developer-tools: 1
+  XIONG: 1
 Class-Load:
   ETHER: 1
 Class-Load-XS:
@@ -14304,7 +14300,7 @@ Class-MethodCache:
 Class-MethodFilter:
   MSTROUT: 1
 Class-MethodMaker:
-  class-methodmaker: 1
+  SCHWIGON: 1
 Class-MethodMapper:
   LENZO: 1
 Class-Methodist:
@@ -14512,7 +14508,7 @@ Class-Unload:
 Class-User-DBI:
   DAVIDO: 1
 Class-Usul:
-  class-usul: 1
+  PJFL: 1
 Class-Utils:
   SKIM: 1
 Class-Validating:
@@ -14572,7 +14568,7 @@ ClearCase-CRDB:
 ClearCase-ClearPrompt:
   DSB: 1
 ClearCase-Region:
-  Region: 1
+  LESPAUL: 1
 ClearCase-SyncTree:
   DSB: 1
 ClearCase-Wrapper:
@@ -14586,7 +14582,7 @@ ClearPress:
 ClickHouse:
   ELCAMLOST: 1
 Client.pm:
-  TCP: 1
+  TOMC: 1
 Clio:
   AJGB: 1
 Clipboard:
@@ -14594,7 +14590,7 @@ Clipboard:
 CljPerl:
   WEHU: 1
 ClockTimer.pm:
-  Tie: 1
+  TOMC: 1
 Clone:
   GARU: 1
 Clone-Any:
@@ -15005,7 +15001,7 @@ ConditionSystem:
 Conductrics-Agent:
   FERZ: 1
 Conductrics-Client:
-  Commercial_Software_Interfaces: 1
+  FERZ: 1
 Conf-Libconfig:
   CNANGEL: 1
 ConfInt:
@@ -15069,13 +15065,13 @@ Config-Cascade:
 Config-Cfe:
   JHAGG: 1
 Config-Checker:
-  modules: 1
+  MUIR: 1
 Config-Cmd:
   HEIKKI: 1
 Config-CmdRC:
   BAYASHI: 1
 Config-Column:
-  Config-Column: 1
+  NARAZAKA: 1
 Config-Constants:
   STEVAN: 1
 Config-Context:
@@ -15175,7 +15171,7 @@ Config-IniFiles:
 Config-IniHashReadDeep:
   AHERNIT: 1
 Config-IniMan:
-  mewsoft: 1
+  MEWSOFT: 1
 Config-IniRegEx:
   SASIKALA: 1
 Config-IniSearch:
@@ -15311,7 +15307,7 @@ Config-Properties-Simple:
 Config-PropertiesSequence:
   BADGERSRC: 1
 Config-ReadAndCheck:
-  Config-ReadAndCheck: 1
+  TPABA: 1
 Config-Record:
   DANBERR: 1
 Config-Reload:
@@ -15568,7 +15564,7 @@ Convert-ModHex:
 Convert-Moji:
   BKB: 1
 Convert-Morse:
-  convert: 1
+  TELS: 1
 Convert-NLS_DATE_FORMAT:
   KOLIBRIE: 1
 Convert-Number-Armenian:
@@ -15624,11 +15620,11 @@ Convert-UU:
 Convert-UUlib:
   MLEHMANN: 1
 Convert-Wiki:
-  convert: 1
+  TELS: 1
 Convert-X509:
   LEO: 1
 Convert-XText:
-  convert-xtext: 1
+  CHRWIN: 1
 Convert-YText:
   DDB: 1
 Convert-Z85:
@@ -15698,7 +15694,7 @@ CouchDB-Client:
 CouchDB-Deploy:
   RBERJON: 1
 CouchDB-ExternalProcess:
-  CouchDB-ExternalProcess: 1
+  FANSIPANS: 1
 CouchDB-Utils:
   BARTENDER: 1
 CouchDB-View:
@@ -15708,11 +15704,11 @@ Couchbase:
 Couchbase-Client:
   MNUNBERG: 1
 Counter.pm:
-  ties: 1
+  TOMC: 1
 Country-Codes:
   JCROCHON: 1
 Courier-Filter:
-  courier-filter: 1
+  JMEHNLE: 1
 Courriel:
   DROLSKY: 1
 Coy:
@@ -15871,7 +15867,7 @@ Crypt-HashCash:
 Crypt-Hill:
   MANWAR: 1
 Crypt-IDA:
-  Crypt-IDA: 1
+  DMALONE: 1
 Crypt-IDEA:
   DPARIS: 1
 Crypt-Image:
@@ -15979,7 +15975,7 @@ Crypt-OpenSSL-ECDSA:
 Crypt-OpenSSL-FASTPBKDF2:
   DUANE: 1
 Crypt-OpenSSL-PBKDF2:
-  OpenSSL: 1
+  SKUPSY: 1
 Crypt-OpenSSL-PKCS10:
   JONOZZZ: 1
 Crypt-OpenSSL-PKCS12:
@@ -16043,7 +16039,7 @@ Crypt-Perl:
 Crypt-Polybius:
   TOBYINK: 1
 Crypt-Present:
-  Crypt: 1
+  GODE: 1
 Crypt-Primes:
   VIPUL: 1
 Crypt-Pwsafe:
@@ -16427,7 +16423,7 @@ DBD-MaxDB:
 DBD-Mimer:
   MIMER: 1
 DBD-Mock:
-  DBD-Mock: 1
+  DICHI: 1
 DBD-Multi:
   DWRIGHT: 1
 DBD-Multiplex:
@@ -16453,7 +16449,7 @@ DBD-PgLite:
 DBD-PgPP:
   ARC: 1
 DBD-PgPPSjis:
-  PgPPSjis: 1
+  INA: 1
 DBD-PgSPI:
   APILOS: 1
 DBD-Plibdata:
@@ -16537,7 +16533,7 @@ DBD-mysql-SimpleMySQL:
 DBD-mysqlPP:
   TSUCCHI: 1
 DBD-mysqlPPrawSjis:
-  mysqlPPrawSjis: 1
+  INA: 1
 DBD-pNET:
   JWIED: 1
 DBD_SQLFLEX:
@@ -16567,7 +16563,7 @@ DBI-Shell:
 DBI-Test:
   REHSACK: 1
 DBI-Transaction:
-  DBI: 1
+  PORTON: 1
 DBICx-AutoDoc:
   ILMARI: 1
 DBICx-Backend-Move:
@@ -17202,7 +17198,7 @@ DBIx-MyParsePP:
 DBIx-MyParseX:
   CTBROWN: 1
 DBIx-MyPassword:
-  dbix_mypassword: 1
+  JMCADA: 1
 DBIx-MySQL-Replication-Slave:
   OALDERS: 1
 DBIx-MySQLSequence:
@@ -17494,7 +17490,7 @@ DBIx-XML_RDB:
 DBIx-YAWM:
   AHICOX: 1
 DBIx-bind_param_inline:
-  DBI: 1
+  DAVIDNICO: 1
 DBIx-glueHTML:
   JFURNESS: 1
 DBM-Any:
@@ -17722,7 +17718,7 @@ Daemon-Device:
 Daemon-Easy:
   JZHANG: 1
 Daemon-Generic:
-  modules: 1
+  MUIR: 1
 Daemon-Mplayer:
   WOLDRICH: 1
 Daemon-Shutdown:
@@ -18237,7 +18233,7 @@ Dancer2-Plugin-ElasticSearch:
 Dancer2-Plugin-Email:
   SYSPETE: 1
 Dancer2-Plugin-Emailesque:
-  Dancer: 1
+  AMBS: 1
 Dancer2-Plugin-EncryptID:
   SHARDIWAL: 1
 Dancer2-Plugin-Etcd:
@@ -18516,7 +18512,7 @@ Data-ClearSilver-HDF:
 Data-Clone:
   GFUJI: 1
 Data-CloudWeights:
-  data-cloudweights: 1
+  PJFL: 1
 Data-CodeRepos-CommitPing:
   YAPPO: 1
 Data-Collector:
@@ -18776,7 +18772,7 @@ Data-Float-DoubleDouble:
 Data-Floid:
   NKUITSE: 1
 Data-Flow:
-  modules: 1
+  ILYAZ: 1
 Data-Focus:
   TOSHIOITO: 1
 Data-Form-Elements:
@@ -18935,7 +18931,7 @@ Data-Iter:
 Data-Iterator:
   HCAMP: 1
 Data-Iterator-EasyObj:
-  Iterator: 1
+  TEEJAY: 1
 Data-Iterator-Hierarchical:
   NOBULL: 1
 Data-Iterator-SlidingWindow:
@@ -19053,7 +19049,7 @@ Data-Nested:
 Data-NestedParams:
   TOKUHIROM: 1
 Data-NestedSet:
-  Data: 1
+  SHIRIRU: 1
 Data-OFAC:
   THARDISON: 1
 Data-Object:
@@ -19220,7 +19216,7 @@ Data-PowerSet:
 Data-PowerSet-Hash:
   IMIRELA: 1
 Data-Predicate:
-  data: 1
+  AYATES: 1
 Data-Presenter:
   JKEENAN: 1
 Data-PrettyPrintObjects:
@@ -19539,7 +19535,7 @@ Data-Structure-Util:
 Data-Swap:
   XMATH: 1
 Data-Sync:
-  Data-Sync: 1
+  CCOLBOURN: 1
 Data-TDMA:
   JANE: 1
 Data-TUID:
@@ -19745,7 +19741,7 @@ Data-Validate-WithYAML-Plugin-URL:
 Data-Validate-XSD:
   DOCTORMO: 1
 Data-Validation:
-  data-validation: 1
+  PJFL: 1
 Data-Validator:
   GFUJI: 1
 Data-Validator-Item:
@@ -19859,13 +19855,13 @@ Database-Migrator-Pg:
 Database-Migrator-mysql:
   DROLSKY: 1
 Database-Schema-Config:
-  database: 1
+  SAXJAZMAN: 1
 Database-Schema-Verification:
   SAXJAZMAN: 1
 Database-Sophia:
   LASTMAC: 1
 Database-Wrapper:
-  Wrapper: 1
+  JOEYATES: 1
 Datahub-Factory:
   NETSENSEI: 1
   PIETERDP: 1
@@ -19957,7 +19953,7 @@ Date-Hebrew-Simple:
 Date-Hijri-Simple:
   MANWAR: 1
 Date-HijriDate:
-  mewsoft: 1
+  MEWSOFT: 1
 Date-HolidayParser:
   ZERODOGG: 1
 Date-Holidays:
@@ -20123,7 +20119,7 @@ Date-Simple-Range:
 Date-Span:
   RJBS: 1
 Date-Spoken-German:
-  date-spoken-german: 1
+  CHRWIN: 1
 Date-SundayLetter:
   RBOW: 1
 Date-Tie:
@@ -20151,7 +20147,7 @@ DateConvert:
 DateLocale:
   NIKOLAS: 1
 DateStamp:
-  modules: 1
+  TWYLIE: 1
 DateTime:
   DROLSKY: 1
 DateTime-Astro:
@@ -20211,7 +20207,7 @@ DateTime-Event-Lunar:
 DateTime-Event-MultiCron:
   NEVES: 1
 DateTime-Event-NameDay:
-  nameday: 1
+  BBENNETT: 1
 DateTime-Event-Random:
   FGLOCK: 1
 DateTime-Event-Recurrence:
@@ -20225,7 +20221,7 @@ DateTime-Event-Zodiac:
 DateTime-Fiction-JRRTolkien-Shire:
   WYANT: 1
 DateTime-Fiscal-Retail454:
-  Retail454: 1
+  BOFTX: 1
 DateTime-Fiscal-Year:
   JSHY: 1
 DateTime-Format-Alami:
@@ -20247,7 +20243,7 @@ DateTime-Format-DB2:
 DateTime-Format-DBI:
   CFAERBER: 1
 DateTime-Format-DateManip:
-  dt-fmt-datemanip: 1
+  BBENNETT: 1
 DateTime-Format-DateParse:
   JHOBLITT: 1
 DateTime-Format-Diotek:
@@ -20399,7 +20395,7 @@ DateTimeX-Easy:
 DateTimeX-Factory:
   TAKUJI: 1
 DateTimeX-Fiscal-Fiscal5253:
-  Fiscal5253: 1
+  BOFTX: 1
 DateTimeX-Format:
   ECARROLL: 1
 DateTimeX-Format-Ago:
@@ -20452,7 +20448,7 @@ DbFramework:
   IMACAT: 1
   PSHARPE: 1
 Dblink:
-  bhuvan: 1
+  BHUVAN: 1
 Debarnacle:
   THEDEVIL: 1
 Debian-Apt-PM:
@@ -20654,7 +20650,7 @@ Devel-Command-Viz:
 Devel-Comment-Output:
   MOTEMEN: 1
 Devel-Comments:
-  developer-tools: 1
+  XIONG: 1
 Devel-CompileLevel:
   HAARG: 1
 Devel-CompiledCalls:
@@ -20686,7 +20682,7 @@ Devel-Cover-Report-Json_detailed:
 Devel-Cover-Report-Kritika:
   VTI: 1
 Devel-Cover-Report-OwnServer:
-  devel-cover-report-ownserver: 1
+  PJFL: 1
 Devel-Cover-Report-Phabricator:
   MCARTMELL: 1
 Devel-CoverReport:
@@ -20794,7 +20790,7 @@ Devel-FakeOSName:
 Devel-FastProf:
   SALVA: 1
 Devel-FileProfile:
-  modules: 1
+  MUIR: 1
 Devel-FindBlessedRefs:
   JETTERO: 1
 Devel-FindGlobals:
@@ -20826,7 +20822,7 @@ Devel-GlobalPhase:
 Devel-GoFaster:
   ZEFRAM: 1
 Devel-Graph:
-  devel: 1
+  TELS: 1
 Devel-Hexdump:
   MONS: 1
 Devel-Hide:
@@ -21016,7 +21012,7 @@ Devel-Refactor:
 Devel-Refcount:
   PEVANS: 1
 Devel-RegExp:
-  modules: 1
+  ILYAZ: 1
 Devel-RemoteTrace:
   PMAKHOLM: 1
 Devel-Required:
@@ -21046,7 +21042,7 @@ Devel-SimpleTrace:
 Devel-Size:
   NWCLARK: 1
 Devel-Size-Report:
-  devel: 1
+  TELS: 1
 Devel-SizeMe:
   TIMB: 1
 Devel-SlowBless:
@@ -21356,7 +21352,7 @@ Device-Modbus-TCP:
 Device-Modem:
   COSIMO: 1
 Device-Modem-GSM:
-  Device-Modem-GSM: 1
+  SKATTOOR: 1
 Device-Modem-SMSModem:
   DMITRIII: 1
 Device-Moose-SCSI:
@@ -21644,7 +21640,7 @@ Digest-Luffa:
 Digest-MD2:
   GAAS: 1
 Digest-MD4:
-  DigestMD4: 1
+  MIKEM: 1
 Digest-MD5:
   GAAS: 1
 Digest-MD5-File:
@@ -21656,7 +21652,7 @@ Digest-MD5-Reverse:
 Digest-MD6:
   ANDYA: 1
 Digest-ManberHash:
-  DigestManberHash: 1
+  PMAREK: 1
 Digest-MurmurHash:
   TMAESAKA: 1
 Digest-MurmurHash2-Neutral:
@@ -21758,11 +21754,11 @@ Dir-Write-Rotate:
 Dir-ls:
   DBOOK: 1
 DirDB:
-  DirDB: 1
+  DAVIDNICO: 1
 DirDB-FTP:
-  DirDB: 1
+  DAVIDNICO: 1
 DirDB-Storable:
-  DirDB: 1
+  DAVIDNICO: 1
 Dirbuster-Parser:
   JABRA: 1
 Directory-Deploy:
@@ -21920,7 +21916,7 @@ Dist-Zilla-MintingProfile-RTx:
 Dist-Zilla-MintingProfile-SYP:
   SYP: 1
 Dist-Zilla-Plugin-AbstractFromPOD:
-  dist-zilla-plugin-abstractfrompod: 1
+  PJFL: 1
 Dist-Zilla-Plugin-Acme-CPANLists:
   PERLANCAR: 1
 Dist-Zilla-Plugin-Acme-CPANLists-Blacklist:
@@ -22258,7 +22254,7 @@ Dist-Zilla-Plugin-Manifest-Read:
 Dist-Zilla-Plugin-Manifest-Write:
   VDB: 1
 Dist-Zilla-Plugin-ManifestInRoot:
-  dist-zilla-plugin-manifestinroot: 1
+  PJFL: 1
 Dist-Zilla-Plugin-MapMetro-MakeGraphViz:
   CSSON: 1
 Dist-Zilla-Plugin-MapMetro-MakeLinePod:
@@ -22620,7 +22616,7 @@ Dist-Zilla-Plugin-Test-PodSpelling:
 Dist-Zilla-Plugin-Test-Portability:
   ETHER: 1
 Dist-Zilla-Plugin-Test-ReportMetadata:
-  dist-zilla-plugin-test-reportmetadata: 1
+  PJFL: 1
 Dist-Zilla-Plugin-Test-ReportPrereqs:
   DAGOLDEN: 1
 Dist-Zilla-Plugin-Test-Rinci:
@@ -23084,25 +23080,25 @@ DotICD9:
 DotLock:
   KBARBER: 1
 Dotiac:
-  dotiac: 1
+  MALUKU: 1
 Dotiac-addon-case-insensitive:
-  dotiac: 1
+  MALUKU: 1
 Dotiac-addon-html_template:
-  dotiac: 1
+  MALUKU: 1
 Dotiac-addon-importloop:
-  dotiac: 1
+  MALUKU: 1
 Dotiac-addon-json:
-  dotiac: 1
+  MALUKU: 1
 Dotiac-addon-jsonify:
-  dotiac: 1
+  MALUKU: 1
 Dotiac-addon-markup:
-  dotiac: 1
+  MALUKU: 1
 Dotiac-addon-unparsed:
-  dotiac: 1
+  MALUKU: 1
 DoubleBlind:
-  modules: 1
+  ILYAZ: 1
 Doxygen-Filter-Perl:
-  Doxygen-Filter-Perl: 1
+  JORDAN: 1
 Doxygen-Lua:
   ALEC: 1
 DracPerl-Client:
@@ -23120,7 +23116,7 @@ Drogo:
 Drupal-Admin:
   DURIST: 1
 Drupal-Module-Starter:
-  Drupal-Module-Starter: 1
+  SMCNABB: 1
 Dua:
   SMPILL: 1
 DublinCore-Record:
@@ -23209,7 +23205,7 @@ EMDIS-ECS:
 EO:
   JDUNCAN: 1
 EOL:
-  modules: 1
+  TWYLIE: 1
 EPL2:
   TEDKAT: 1
 EPUB-Parser:
@@ -23267,7 +23263,7 @@ EZID:
 Earlybird:
   RFLORENCE: 1
 Earth-USA-Washington-Cascadia:
-  Earth-USA-Washington-Cascadia: 1
+  CJCOLLIER: 1
 Earthquake_EEW_Decoder:
   SKUBOTA: 1
 Easy-WML:
@@ -23293,7 +23289,7 @@ Ed2k_link:
 EdgeExpressDB:
   JMS: 1
 Edit.pm:
-  String: 1
+  TOMC: 1
 EekBoek:
   JV: 1
 Eesh:
@@ -23813,7 +23809,7 @@ EntityModel-Web-NaFastCGI:
 EntityModel-Web-PSGI:
   TEAM: 1
 Entry.pm:
-  LastLog: 1
+  TOMC: 1
 Enumerate-PerlList:
   MHCRNL: 1
 Enumeration:
@@ -23867,7 +23863,7 @@ Errno-AnyString:
 Error:
   SHLOMIF: 1
 Error-Base:
-  developer-tools: 1
+  XIONG: 1
 Error-Dumb:
   ILIAL: 1
 Error-Exception:
@@ -23931,7 +23927,7 @@ Eval-Compile:
 Eval-Context:
   NKH: 1
 Eval-LineNumbers:
-  modules: 1
+  MUIR: 1
 Eval-Logic:
   ZEBAZ: 1
 Eval-WithLexicals:
@@ -23983,11 +23979,11 @@ Evented-Object:
 Every:
   TEODOR: 1
 EvilBoss:
-  evilboss: 1
+  ALEXEVIL: 1
 Evo:
   ALEXBYK: 1
 Example-XS-FasterHashes:
-  examples: 1
+  BULKDD: 1
 Examples-Generator:
   PERLANCAR: 1
 Excel-CloneXLSX-Format:
@@ -24256,11 +24252,11 @@ FAQ-OMatic:
 FAST:
   DHARD: 1
 FASTAParse:
-  modules: 1
+  TWYLIE: 1
 FASTAid:
   GLASSCOCK: 1
 FB-Statify:
-  Facebook: 1
+  XXGHOSTXX: 1
 FBP:
   ADAMK: 1
 FBP-Demo:
@@ -24347,7 +24343,7 @@ FLAT-Legacy-FA:
 FLTK:
   MKENNEDY: 1
 FLUTF:
-  games-freelancer-utf: 1
+  MALUKU: 1
 FLV-AudioExtractor:
   FVOX: 1
 FLV-Info:
@@ -24371,7 +24367,7 @@ FSpot-DbTool:
 FT817COMM:
   JRUBIN: 1
 FTDI-D2XX:
-  FTDI: 1
+  MVOELKER: 1
 FTN-Addr:
   VAL: 1
 FTN-Address:
@@ -24429,9 +24425,9 @@ Facebook-OpenGraph:
 FactorOracle:
   IWOODHEAD: 1
 Fake-Encode:
-  Encode: 1
+  INA: 1
 Fake-Our:
-  Our: 1
+  INA: 1
 FakeHash:
   MJD: 1
 Faker:
@@ -24568,7 +24564,7 @@ File-Basename-Extra:
 File-Basename-Object:
   CRAKRJACK: 1
 File-BasicFlock:
-  modules: 1
+  MUIR: 1
 File-BetweenTree:
   DSYRTM: 1
 File-Bidirectional:
@@ -24580,7 +24576,7 @@ File-Blarf:
 File-Box:
   MUENALAN: 1
 File-BufferedInput:
-  mewsoft: 1
+  MEWSOFT: 1
 File-Butler:
   SIFUKURT: 1
 File-Cache:
@@ -24658,7 +24654,7 @@ File-CreationTime:
 File-Data:
   RFOLEY: 1
 File-DataClass:
-  file-dataclass: 1
+  PJFL: 1
 File-Dedup:
   MCMILLHJ: 1
 File-Defrag:
@@ -24682,7 +24678,7 @@ File-Dir-Map:
 File-DirCompare:
   GAVINC: 1
 File-DirList:
-  File-DirList: 1
+  TPABA: 1
 File-DirObject:
   RORYRJB: 1
 File-DirSync:
@@ -24819,7 +24815,7 @@ File-Fingerprint-Huge:
 File-Flat:
   ADAMK: 1
 File-Flock:
-  modules: 1
+  MUIR: 1
 File-Flock-Retry:
   PERLANCAR: 1
 File-Flock-Tiny:
@@ -24835,7 +24831,7 @@ File-Fu:
 File-GetLineMaxLength:
   ROBM: 1
 File-Gettext:
-  file-gettext: 1
+  PJFL: 1
 File-Glob-Slurp:
   DANKOGAI: 1
 File-Glob-Windows:
@@ -24954,7 +24950,7 @@ File-MimeInfo:
 File-MimeInfo-Simple:
   DAMOG: 1
 File-Mirror:
-  File-Mirror: 1
+  JWU: 1
 File-Misc:
   MIKO: 1
 File-MkTemp:
@@ -25000,7 +24996,7 @@ File-OSS-Scan:
 File-Object:
   SKIM: 1
 File-OldSlurp:
-  modules: 1
+  MUIR: 1
 File-Open:
   MAUKE: 1
 File-Open-OOP:
@@ -25080,7 +25076,7 @@ File-RandomLine:
 File-Rdiff:
   MLEHMANN: 1
 File-RdistByRsync:
-  modules: 1
+  MUIR: 1
 File-Read:
   SAPER: 1
 File-ReadBackwards:
@@ -25110,7 +25106,7 @@ File-Rotate-Simple:
 File-RotateLogs:
   KAZEBURO: 1
 File-RoundRobin:
-  File-RoundRobin: 1
+  HOREA: 1
 File-RsyBak:
   PERLANCAR: 1
 File-RsyBak-Unpacked:
@@ -25186,7 +25182,7 @@ File-Sip:
 File-Slurp:
   URI: 1
 File-Slurp-Remote:
-  modules: 1
+  MUIR: 1
 File-Slurp-Tiny:
   LEONT: 1
 File-Slurp-Tree:
@@ -25374,7 +25370,7 @@ File-stat-Extra:
 File-umask:
   SHARYANTO: 1
 File.pm:
-  LastLog: 1
+  TOMC: 1
 FileCache-Appender:
   ZWON: 1
 FileCache-Handle:
@@ -25394,7 +25390,7 @@ FileMetadata:
 FileMode:
   AQUTIV: 1
 FileSystem-LL-FAT:
-  modules: 1
+  ILYAZ: 1
 FileUpload-Filename:
   FMERGES: 1
 Filename-Archive:
@@ -25408,7 +25404,7 @@ Filesys-Btrfs:
 Filesys-Cap:
   PERLANCAR: 1
 Filesys-CygwinPaths:
-  unregistered: 1
+  SOMIAN: 1
 Filesys-Df:
   IGUTHRIE: 1
 Filesys-DfPortable:
@@ -25590,7 +25586,7 @@ Finance-Bank-Fubon-TW:
 Finance-Bank-HSBC:
   CHRIS: 1
 Finance-Bank-Halifax-Sharedealing:
-  Finance-Bank-Halifax-Sharedealing: 1
+  RAYNERLUC: 1
 Finance-Bank-ID-BCA:
   PERLANCAR: 1
 Finance-Bank-ID-BPRKS:
@@ -25629,7 +25625,7 @@ Finance-Bank-SK-SLSP-Notification:
 Finance-Bank-Schwab:
   MGRIMES: 1
 Finance-Bank-SentinelBenefits-Csv401kConverter:
-  Csv401kConverter: 1
+  DSOLIMANO: 1
 Finance-Bank-Sporo:
   KOZO: 1
 Finance-Bank-SuomenVerkkomaksut:
@@ -25655,9 +25651,9 @@ Finance-BankVal-UK:
 Finance-BitPay-API:
   PEASWORTH: 1
 Finance-BitStamp-API:
-  FinanceBitStampAPI: 1
+  PEASWORTH: 1
 Finance-BitStamp-Socket:
-  FinanceBitStampSocket: 1
+  PEASWORTH: 1
 Finance-Bitcoin:
   TOBYINK: 1
 Finance-Bitcoin-Feed:
@@ -25671,7 +25667,7 @@ Finance-Bookkeeping-Account:
 Finance-Budget:
   DYLAN: 1
 Finance-CaVirtex-API:
-  FinanceCaVirtexAPI: 1
+  PEASWORTH: 1
 Finance-CampBX:
   RBRAGG: 1
 Finance-Card-Citibank:
@@ -25739,13 +25735,13 @@ Finance-InteractiveBrokers-SWIG:
 Finance-InteractiveBrokers-TWS:
   JSTRAUSS: 1
 Finance-Kitko-Charts:
-  Finance: 1
+  AMBS: 1
 Finance-Loan:
   ZAKZ: 1
 Finance-Loan-Private:
   RAPMANKIN: 1
 Finance-LocalBitcoins-API:
-  FinanceLocalBitcoinsAPI: 1
+  PEASWORTH: 1
 Finance-MICR-GOCR-Check:
   LEOCHARRE: 1
 Finance-MICR-LineParser:
@@ -25915,7 +25911,7 @@ Flv-Info-Lite:
 FlyBy:
   BINARY: 1
 Folded.pm:
-  Tie: 1
+  TOMC: 1
 Font-AFM:
   GAAS: 1
 Font-BDF-Reader:
@@ -26067,7 +26063,7 @@ Fraction:
 FrameMaker-FromHTML:
   PGMART: 1
 FrameMaker-MifTree:
-  FrameMaker-MifTree: 1
+  RST: 1
 FrameNet-QueryData:
   REITER: 1
 FrameNet-WordNet-Detour:
@@ -26113,7 +26109,7 @@ FreeWRL:
 Freecell-App:
   SHIRHA: 1
 FreezeThaw:
-  modules: 1
+  ILYAZ: 1
 Freq:
   IWOODHEAD: 1
 Frontier-Client-Easy:
@@ -26470,7 +26466,7 @@ Game-WordBrain:
 Games-2048:
   BLAIZER: 1
 Games-3D:
-  games: 1
+  TELS: 1
 Games-ABC_Path-Generator:
   SHLOMIF: 1
 Games-ABC_Path-Solver:
@@ -26532,7 +26528,7 @@ Games-Chess-Referee:
 Games-Chipmunk:
   TMURRAY: 1
 Games-Console:
-  games: 1
+  TELS: 1
 Games-Construder:
   ELMEX: 1
 Games-CroqueMonster:
@@ -26558,7 +26554,7 @@ Games-Dissociate:
 Games-Domino:
   MANWAR: 1
 Games-Dukedom:
-  Games-Dukedom: 1
+  BOFTX: 1
 Games-DungeonMaker:
   ACDALTON: 1
 Games-EternalLands:
@@ -26627,9 +26623,9 @@ Games-GuessWord:
 Games-Hack-Live:
   PMAREK: 1
 Games-Hack-Patch-i686:
-  Patch: 1
+  PMAREK: 1
 Games-Hack-Patch-x86_64:
-  Patch: 1
+  PMAREK: 1
 Games-Hanabi:
   JATILL: 1
 Games-Hangman:
@@ -26639,7 +26635,7 @@ Games-HotPotato:
 Games-IL2Device-Link:
   MATJA: 1
 Games-Irrlicht:
-  games: 1
+  TELS: 1
 Games-JackThief:
   KAPILRTHR: 1
 Games-Jumble:
@@ -26691,7 +26687,7 @@ Games-Nonogram:
 Games-Object:
   PSTEWART: 1
 Games-OpenGL-Font-2D:
-  games: 1
+  TELS: 1
 Games-Othello:
   DWRIGHT: 1
 Games-PMM:
@@ -27359,9 +27355,9 @@ Geo-Proj-Japan:
 Geo-Proj4:
   MARKOV: 1
 Geo-Query:
-  Geo: 1
+  RETOH: 1
 Geo-Query-LatLong:
-  Geo: 1
+  RETOH: 1
 Geo-Raster:
   AJOLMA: 1
 Geo-ReadGRIB:
@@ -27488,7 +27484,7 @@ GetWeb:
 Getargs-Long:
   DCOPPIT: 1
 Getargs-Mixed:
-  Getargs-Mixed: 1
+  HANENKAMP: 1
 Getargs-Original:
   JFITZ: 1
 Getopt-Abridged:
@@ -27544,7 +27540,7 @@ Getopt-ExPar:
 Getopt-Fancy:
   BATMAN: 1
 Getopt-FileConfig:
-  Getopt-FileConfig: 1
+  MTADEL: 1
 Getopt-Flex:
   RPKELLY: 1
 Getopt-Function:
@@ -27648,11 +27644,11 @@ Getopt-Std-Strict:
 Getopt-Std-Util:
   PERLANCAR: 1
 Getopt-Std-WithCheck:
-  Getopt-Std-WithCheck: 1
+  TPABA: 1
 Getopt-Tabular:
   GWARD: 1
 Getopt-Tiny:
-  modules: 1
+  MUIR: 1
 Getopt-Tree:
   JEAGLE: 1
 Getopt-TypeConstraint-Mouse:
@@ -27890,8 +27886,8 @@ Gnome2-PanelApplet:
   TSCH: 1
 Gnome2-Print:
   EBASSI: 1
-  Gtk2-Perl: 1
   MLEHMANN: 1
+  RMCFARLA: 1
 Gnome2-Rsvg:
   TSCH: 1
 Gnome2-VFS:
@@ -27954,7 +27950,7 @@ Google-Directions:
 Google-Fusion:
   RCL: 1
 Google-GeoCoder-Smart:
-  Google-GeoCoder-Smart: 1
+  TTG: 1
 Google-OAuth:
   TQISJIM: 1
 Google-OAuth2-Client-Simple:
@@ -27962,7 +27958,7 @@ Google-OAuth2-Client-Simple:
 Google-Plus:
   ZAKAME: 1
 Google-ProtocolBuffers:
-  protobuf: 1
+  SAXJAZMAN: 1
 Google-ProtocolBuffers-Dynamic:
   MBARBON: 1
 Google-ProvisioningAPI:
@@ -28024,11 +28020,11 @@ Graph-ChuLiuEdmonds:
 Graph-Clique:
   EWIJAYA: 1
 Graph-Convert:
-  graph: 1
+  TELS: 1
 Graph-D3:
   SHOHEIK: 1
 Graph-Dependency:
-  graph: 1
+  TELS: 1
 Graph-Dijkstra:
   DDALLEN: 1
 Graph-Easy:
@@ -28036,15 +28032,15 @@ Graph-Easy:
 Graph-Easy-As_svg:
   SHLOMIF: 1
 Graph-Easy-Manual:
-  graph: 1
+  TELS: 1
 Graph-Easy-StateMachine:
-  StateMachines: 1
+  DAVIDNICO: 1
 Graph-Easy-Weighted:
   GENE: 1
 Graph-Fast:
   PENMA: 1
 Graph-Flowchart:
-  graph: 1
+  TELS: 1
 Graph-GML:
   LMETCALF: 1
 Graph-Graph6:
@@ -28066,7 +28062,7 @@ Graph-Matching:
 Graph-MaxFlow:
   WALTMAN: 1
 Graph-ModularDecomposition:
-  graph: 1
+  AZS: 1
 Graph-NewmanGirvan:
   BJOERN: 1
 Graph-PetriNet:
@@ -28086,7 +28082,7 @@ Graph-Reader-TGF-CSV:
 Graph-Reader-UnicodeTree:
   SKIM: 1
 Graph-Regexp:
-  graph: 1
+  TELS: 1
 Graph-Similarity:
   SHOHEIK: 1
 Graph-Simple:
@@ -28106,7 +28102,7 @@ Graph-Timeline:
 Graph-Undirected-Components:
   KUBINA: 1
 Graph-Usage:
-  graph: 1
+  TELS: 1
 Graph-Weighted:
   GENE: 1
 Graph-Writer-Cytoscape:
@@ -28126,7 +28122,7 @@ GraphQL:
 GraphViz:
   RSAVAGE: 1
 GraphViz-DBI:
-  GraphViz: 1
+  TEEJAY: 1
 GraphViz-DBI-FromSchema:
   SMYLERS: 1
 GraphViz-DBI-General:
@@ -28194,7 +28190,7 @@ Graphics-Colourset:
 Graphics-DZI:
   DRRHO: 1
 Graphics-EPS:
-  Graphics: 1
+  WIHAA: 1
 Graphics-Fig:
   SCOOTER: 1
 Graphics-Framebuffer:
@@ -28302,7 +28298,7 @@ Gtk-Perl:
   LUPUS: 1
   MLEHMANN: 1
 Gtk2:
-  Gtk2-Perl: 1
+  RMCFARLA: 1
   XAOC: 1
 Gtk2-AppIndicator:
   OESTERHOL: 1
@@ -28401,11 +28397,11 @@ Gtk2-Ex-RecordsFilter:
 Gtk2-Ex-SearchBox:
   OFEYAIKON: 1
 Gtk2-Ex-Simple-List:
-  Gtk2-Perl-Ex: 1
+  RMCFARLA: 1
 Gtk2-Ex-Simple-Menu:
-  Gtk2-Perl-Ex: 1
+  RMCFARLA: 1
 Gtk2-Ex-Simple-Tree:
-  Gtk2-Perl-Ex: 1
+  RMCFARLA: 1
 Gtk2-Ex-Spinner:
   STRZELEC: 1
 Gtk2-Ex-Splash:
@@ -28435,7 +28431,7 @@ Gtk2-Ex-WidgetCursor:
 Gtk2-Ex-Xor:
   KRYDE: 1
 Gtk2-GLExt:
-  Gtk2-Perl: 1
+  RMCFARLA: 1
 Gtk2-GladeXML:
   TSCH: 1
 Gtk2-GladeXML-OO:
@@ -28547,9 +28543,9 @@ HEP-MCNS:
 HEP-Names-LaTeX:
   PHILHA: 1
 HOI-Comprehensions:
-  HOI-Comprehensions-0045: 1
+  WITHERING: 1
 HOI-Match:
-  HOIMatch-0072: 1
+  WITHERING: 1
 HON-Deploy:
   WILLBELL: 1
 HON-EC2-Snapshots-Monitoring:
@@ -28593,7 +28589,7 @@ HPCD-SLURM:
 HPCI:
   BOUTROSLB: 1
 HPSG-Mason:
-  HPSG: 1
+  CJCOLLIER: 1
 HPUX-FS:
   CWHITE: 1
 HPUX-LVM:
@@ -28601,7 +28597,7 @@ HPUX-LVM:
 HPUX-Pstat:
   SCHWENKE: 1
 HPUX-SDUX:
-  HPUX-SDUX: 1
+  ASARIH: 1
 HSTS-Preloaded:
   BESSARABV: 1
 HTCondor-Queue-Parser:
@@ -28833,7 +28829,7 @@ HTML-Form:
 HTML-Form-ForceValue:
   RJBS: 1
 HTML-Form-XSS:
-  HTML-Form-XSS: 1
+  DUMB: 1
 HTML-FormBuilder:
   BINARY: 1
 HTML-FormEngine:
@@ -29078,7 +29074,7 @@ HTML-Myasp:
 HTML-Native:
   MCB: 1
 HTML-Normalize:
-  HTML-Normalize: 1
+  GRANDPA: 1
 HTML-Notebook:
   PABLROD: 1
 HTML-Obliterate:
@@ -29234,7 +29230,7 @@ HTML-StripScripts-Parser:
 HTML-StripScripts-Regex:
   NCLEATON: 1
 HTML-StripTags:
-  StripTags: 1
+  HINNERK: 1
 HTML-Subtext:
   KAELIN: 1
 HTML-Summary:
@@ -29386,7 +29382,7 @@ HTML-Timeline:
 HTML-Tiny:
   ANDYA: 1
 HTML-Tmojo:
-  tmojo: 1
+  LABZERONE: 1
 HTML-Toc:
   FVULTO: 1
 HTML-TokeParser-Simple:
@@ -29396,7 +29392,7 @@ HTML-Tooltip-Javascript:
 HTML-TrackerLink:
   ADAMK: 1
 HTML-Transmorgify:
-  modules: 1
+  MUIR: 1
 HTML-Tree:
   KENTNL: 1
 HTML-Tree-Create-Callback:
@@ -29502,7 +29498,7 @@ HTML-WikiConverter-Socialtext:
 HTML-WikiConverter-TikiWiki:
   DIBERRI: 1
 HTML-WikiConverter-Txt2tags:
-  HTML-WikiConverter-Txt2tags-004: 1
+  EFORGEOT: 1
 HTML-WikiConverter-UseMod:
   DIBERRI: 1
 HTML-WikiConverter-WakkaWiki:
@@ -29533,7 +29529,7 @@ HTML-Zoom-Parser-HH5P:
 HTML-Zoom-Parser-HTML-Parser:
   MATTP: 1
 HTML.pm:
-  Proxy: 1
+  TOMC: 1
 HTML5-Manifest:
   YAPPO: 1
 HTMLTMPL:
@@ -29852,7 +29848,7 @@ HTTP-Server-Simple-Static:
 HTTP-Server-Simple-WebDAO:
   ZAG: 1
 HTTP-Server-Singlethreaded:
-  Singlethreaded: 1
+  DAVIDNICO: 1
 HTTP-ServerEvent:
   CORION: 1
 HTTP-Session:
@@ -30116,7 +30112,7 @@ Hash-Identity:
 Hash-Inflator:
   MARCEL: 1
 Hash-KeyMorpher:
-  KeyMorpher: 1
+  TDWINTER: 1
 Hash-Layout:
   VANSTYN: 1
 Hash-Lazy:
@@ -30582,7 +30578,7 @@ IO-EditPrompt:
 IO-Epoll:
   BRUCEK: 1
 IO-Event:
-  modules: 1
+  MUIR: 1
 IO-EventMux:
   TLBDK: 1
 IO-EventMux-Socket-MsgHdr:
@@ -30885,7 +30881,7 @@ IPC-ConcurrencyLimit-Lock-Redis:
 IPC-DirQueue:
   JMASON: 1
 IPC-Door:
-  IPC-Door: 1
+  ASARIH: 1
 IPC-Exe:
   GLAI: 1
 IPC-Filter:
@@ -30969,7 +30965,7 @@ IPC-RunExternal:
 IPC-RunSession-Simple:
   RKRIMEN: 1
 IPC-SRLock:
-  ipc-srlock: 1
+  PJFL: 1
 IPC-SafeFork:
   GWYN: 1
 IPC-ScoreBoard:
@@ -31053,7 +31049,7 @@ IRC-Bot-Hangman:
 IRC-Bot-Log-Extended:
   FAYLAND: 1
 IRC-Crypt:
-  Crypt: 1
+  JASKA: 1
 IRC-Formatting-HTML:
   LEEDO: 1
 IRC-FromANSI-Tiny:
@@ -31067,7 +31063,7 @@ IRC-Toolkit:
 IRC-Utils:
   HINRIK: 1
 IRCDHelp:
-  Plugin: 1
+  SCILLEY: 1
 IRI:
   GWILLIAMS: 1
 IS-Conf:
@@ -31108,7 +31104,7 @@ Ima-DBI-Contextual:
 Image-Animated-JPEG:
   CLIPLAND: 1
 Image-BMP:
-  Image: 1
+  DAVEOLA: 1
 Image-Base:
   KRYDE: 1
 Image-Base-GD:
@@ -31330,7 +31326,7 @@ Image-PNG-Simple:
 Image-PNG-Write-BW:
   ANALL: 1
 Image-PNGwriter:
-  pngwriter: 1
+  ANK: 1
 Image-PNM:
   DOY: 1
 Image-ParseGIF:
@@ -31434,7 +31430,7 @@ Imager-Barcode128:
 Imager-Bing-MapLayer:
   RRWO: 1
 Imager-Chart-Radial:
-  Chart: 1
+  TEEJAY: 1
 Imager-DTP:
   BASHI: 1
 Imager-Draw-Hexagon:
@@ -31513,7 +31509,6 @@ In-Korean-Numbers-SinoKorean:
   BRYAN: 1
 InSilicoSpectro:
   ALEXMASS: 1
-  bioinfo: 1
 InSilicoSpectro-Databanks:
   ALEXMASS: 1
 Indent:
@@ -31675,7 +31670,7 @@ Interval:
 IntervalTree:
   BENBOOTH: 1
 Iodef-Pb-Simple:
-  iodef: 1
+  SAXJAZMAN: 1
 Ipernity-API:
   WNEESSEN: 1
 Iphone-SMS:
@@ -32273,7 +32268,7 @@ Kaiten-Container:
 Kamaitachi:
   TYPESTER: 1
 KappaCUDA:
-  psilambdallc: 1
+  BRIAN: 1
 Karas:
   TOKUHIROM: 1
 Karel:
@@ -32417,7 +32412,7 @@ Kollos:
 Konfidi-Client:
   BRONDSEM: 1
 Konstrukt:
-  konstrukt: 1
+  TWITTEK: 1
 Kook:
   KWATCH: 1
 Kools-Okapi:
@@ -32457,9 +32452,9 @@ Kwiki-AuthorOnlyPageEditing:
 Kwiki-Autoformat:
   IAN: 1
 Kwiki-Backlinks:
-  Kwiki: 1
+  CDENT: 1
 Kwiki-Blog:
-  Kwiki: 1
+  CDENT: 1
 Kwiki-BreadCrumbs:
   INGY: 1
 Kwiki-BroadcastMessage:
@@ -32479,7 +32474,7 @@ Kwiki-DB:
 Kwiki-DNSBL:
   JOOON: 1
 Kwiki-DatedAnnounce:
-  Kwiki: 1
+  CDENT: 1
 Kwiki-Diff:
   IAN: 1
 Kwiki-Diff-Mutual:
@@ -32509,7 +32504,7 @@ Kwiki-Export:
 Kwiki-Favorites:
   INGY: 1
 Kwiki-FetchRSS:
-  Kwiki: 1
+  CDENT: 1
 Kwiki-Footnote:
   MIYAGAWA: 1
 Kwiki-ForeignLinkGlyphs:
@@ -32551,7 +32546,7 @@ Kwiki-JSLog:
 Kwiki-JSON:
   CORDATA: 1
 Kwiki-Keywords:
-  Kwiki: 1
+  CDENT: 1
 Kwiki-Kwiki:
   GUGOD: 1
 Kwiki-ListPages:
@@ -32579,19 +32574,19 @@ Kwiki-OpenSearch:
 Kwiki-OpenSearch-Service:
   MIYAGAWA: 1
 Kwiki-Orphans:
-  Kwiki: 1
+  CDENT: 1
 Kwiki-Outline2Html:
   GUGOD: 1
 Kwiki-PPerl:
-  Kwiki: 1
+  CDENT: 1
 Kwiki-PageInclude:
   GUGOD: 1
 Kwiki-PagePrivacy:
   INGY: 1
 Kwiki-PageStats:
-  Kwiki: 1
+  CDENT: 1
 Kwiki-PageTemperature:
-  Kwiki: 1
+  CDENT: 1
 Kwiki-PageTemplate:
   GUGOD: 1
 Kwiki-Pages-Perldoc:
@@ -32615,11 +32610,11 @@ Kwiki-PrinterFriendly:
 Kwiki-Prototype:
   CORDATA: 1
 Kwiki-Purple:
-  Kwiki: 1
+  CDENT: 1
 Kwiki-QuickWAFL:
   CORDATA: 1
 Kwiki-Raw:
-  Kwiki: 1
+  CDENT: 1
 Kwiki-RecentChanges:
   GUGOD: 1
 Kwiki-RecentChanges-Atom:
@@ -32651,9 +32646,9 @@ Kwiki-ShortcutLinks:
 Kwiki-Simple-Server-HTTP:
   GUGOD: 1
 Kwiki-Soap:
-  Kwiki: 1
+  CDENT: 1
 Kwiki-Soap-Google:
-  Kwiki: 1
+  CDENT: 1
 Kwiki-SocialMap:
   GUGOD: 1
 Kwiki-Spork:
@@ -32663,11 +32658,11 @@ Kwiki-TableOfContents:
 Kwiki-TableOfContents-Print:
   CORDATA: 1
 Kwiki-Technorati:
-  Kwiki: 1
+  CDENT: 1
 Kwiki-Template-TT2-UTF8:
   GUGOD: 1
 Kwiki-Test:
-  Kwiki: 1
+  CDENT: 1
 Kwiki-Textile:
   GUGOD: 1
 Kwiki-Theme-BlueOcean:
@@ -32675,7 +32670,7 @@ Kwiki-Theme-BlueOcean:
 Kwiki-Theme-Bluepole:
   JOOON: 1
 Kwiki-Theme-CPB:
-  Kwiki: 1
+  CDENT: 1
 Kwiki-Theme-ColumnLayout:
   GUGOD: 1
 Kwiki-Theme-HLB:
@@ -32697,7 +32692,7 @@ Kwiki-TimeZone:
 Kwiki-Toolbar-List:
   DMABE: 1
 Kwiki-Trackback:
-  Kwiki: 1
+  CDENT: 1
 Kwiki-TypeKey:
   MIYAGAWA: 1
 Kwiki-URLBL:
@@ -32733,7 +32728,7 @@ Kwiki-Widgets-RecentChanges:
 Kwiki-Wikiwyg:
   INGY: 1
 Kwiki-Yahoo:
-  Kwiki: 1
+  CDENT: 1
 Kwiki-Zipcode:
   INGY: 1
 Kwim-Plugin-badge:
@@ -32829,7 +32824,7 @@ LSF-Batch:
 LSF-Hosts:
   AUKJAN: 1
 LSF_Batch:
-  LSF_PERL_API: 1
+  LSFISV: 1
 LUGS-Events-Parser:
   SCHUBIGER: 1
 LV:
@@ -32925,7 +32920,7 @@ LWP-UserAgent-DNS-Hosts:
 LWP-UserAgent-Determined:
   ALEXMV: 1
 LWP-UserAgent-ExponentialBackoff:
-  LWP-UserAgent-ExponentialBackoff-004: 1
+  MARROTTE: 1
 LWP-UserAgent-Keychain:
   MIYAGAWA: 1
 LWP-UserAgent-Mockable:
@@ -32969,7 +32964,7 @@ LWP-UserAgent-WithCache:
 LWP-attic:
   GAAS: 1
 LWPx-ParanoidAgent:
-  lwp: 1
+  SAXJAZMAN: 1
 LWPx-ParanoidHandler:
   TOKUHIROM: 1
 LWPx-Profile:
@@ -33123,7 +33118,7 @@ Language-Lisp-ECLs:
 Language-LispPerl:
   JETEVE: 1
 Language-Logo:
-  LanguageLogo: 1
+  JCNORTON: 1
 Language-MPI:
   HANELYP: 1
 Language-MinCaml:
@@ -33213,7 +33208,7 @@ Lemonldap-Handlers-CAS:
 Lemonldap-Handlers-Generic:
   EGERMAN: 1
 Lemonldap-NG-Cli:
-  NG: 1
+  LINKDD: 1
 Lemonldap-NG-Common:
   COUDOT: 1
 Lemonldap-NG-Handler:
@@ -33287,7 +33282,7 @@ LibCAS:
 LibJIT:
   VYF: 1
 LibTerm-GetKey:
-  Term-GetKey: 1
+  BARRYP: 1
 LibTracker-Client:
   GERA: 1
 LibWeb:
@@ -33423,7 +33418,7 @@ Lingua-DE-Tagger:
 Lingua-DE-TypoGenerator:
   MWITTE: 1
 Lingua-DE-Wortschatz:
-  Wortschatz: 1
+  SCHROEER: 1
 Lingua-DEU-Num2Word:
   PETAMEM: 1
 Lingua-DEU-Word2Num:
@@ -33501,7 +33496,7 @@ Lingua-EN-NameParse-Simple:
 Lingua-EN-NamedEntity:
   RUNARB: 1
 Lingua-EN-Namegame:
-  Namegame: 1
+  YUMPY: 1
 Lingua-EN-Ngram:
   EMORGAN: 1
 Lingua-EN-Nickname:
@@ -33621,11 +33616,11 @@ Lingua-FRA-Word2Num:
 Lingua-FeatureMatrix:
   KAHN: 1
 Lingua-Flags:
-  Lingua: 1
+  AMBS: 1
 Lingua-FreeLing3:
-  Lingua: 1
+  AMBS: 1
 Lingua-FreeLing3-Utils:
-  Lingua: 1
+  AMBS: 1
 Lingua-GA-Gramadoir:
   SCANNELL: 1
 Lingua-Guess:
@@ -33635,7 +33630,7 @@ Lingua-HE-MacHebrew:
 Lingua-HE-Sentence:
   SHLOMOY: 1
 Lingua-HPSG:
-  Lingua-HPSG: 1
+  CJCOLLIER: 1
 Lingua-HU-Numbers:
   SZBALINT: 1
 Lingua-Han-CanonicalPinYin:
@@ -33683,7 +33678,7 @@ Lingua-Ident:
 Lingua-Identifier:
   AMBS: 1
 Lingua-Identify:
-  Lingua: 1
+  AMBS: 1
 Lingua-Identify-Blacklists:
   TIEDEMANN: 1
 Lingua-Identify-CLD:
@@ -33883,9 +33878,9 @@ Lingua-PT-PLN:
 Lingua-PT-PLNbase:
   AMBS: 1
 Lingua-PT-ProperNames:
-  Lingua: 1
+  AMBS: 1
 Lingua-PT-Speaker:
-  Lingua: 1
+  AMBS: 1
 Lingua-PT-Stemmer:
   NEILB: 1
 Lingua-PT-Words2Nums:
@@ -34209,7 +34204,7 @@ Linux-IRPulses:
 Linux-Info:
   ARFREITAS: 1
 Linux-Inotify:
-  inotify: 1
+  TWERNER: 1
 Linux-Inotify2:
   MLEHMANN: 1
 Linux-Input:
@@ -34243,7 +34238,7 @@ Linux-Netfilter-Log:
 Linux-Pdeathsig:
   ZEROHP: 1
 Linux-Personality:
-  linux-personality: 1
+  SCHWIGON: 1
 Linux-Pid:
   RGARCIA: 1
 Linux-Pidfile:
@@ -34371,7 +34366,7 @@ List-Enumerate:
 List-Enumerator:
   SATOH: 1
 List-EvenMore:
-  modules: 1
+  MUIR: 1
 List-Extract:
   LODIN: 1
 List-Filter:
@@ -35036,7 +35031,7 @@ Lock-Socket:
 LockFile-NetLock:
   RONALDWS: 1
 LockFile-Simple:
-  lockfile-simple: 1
+  SCHWIGON: 1
 Log-Accounting:
   OLIMAUL: 1
 Log-Accounting-Sendmail:
@@ -35085,7 +35080,7 @@ Log-Any-Adapter-Mojo:
 Log-Any-Adapter-MojoLog:
   JBERGER: 1
 Log-Any-Adapter-Multiplexor:
-  Log-Any-Adapter-Multiplexor-003: 1
+  VRAG: 1
 Log-Any-Adapter-Redis:
   MILA: 1
 Log-Any-Adapter-Screen:
@@ -35109,7 +35104,7 @@ Log-Basic:
 Log-CSVLogger:
   GAURAVKH: 1
 Log-Cabin:
-  Log-Cabin: 1
+  JORVIS: 1
 Log-Channel:
   JMAY: 1
 Log-Common:
@@ -35195,7 +35190,7 @@ Log-Dispatch-Kafka:
 Log-Dispatch-Log-Syslog-Fast:
   ATHOMASON: 1
 Log-Dispatch-MacGrowl:
-  Log-Dispatch-MacGrowl: 1
+  RYOCHIN: 1
 Log-Dispatch-Message-Passing:
   BOBTFISH: 1
 Log-Dispatch-MongoDB:
@@ -35299,7 +35294,7 @@ Log-Log4perl-Appender-DBIx-Class:
 Log-Log4perl-Appender-Elasticsearch:
   PALIK: 1
 Log-Log4perl-Appender-File-FixedSize:
-  Log-Log4perl: 1
+  HOREA: 1
 Log-Log4perl-Appender-Fluent:
   DOZZIE: 1
 Log-Log4perl-Appender-Gearman:
@@ -35389,7 +35384,7 @@ Log-Minimal-Object:
 Log-MultiChannel:
   PLAPOINTE: 1
 Log-Parallel:
-  modules: 1
+  MUIR: 1
 Log-Pony:
   TOKUHIROM: 1
 Log-Procmail:
@@ -35421,7 +35416,7 @@ Log-Scrubber:
 Log-SelfHistory:
   TUSHAR: 1
 Log-Sentry:
-  Log-Sentry: 1
+  ZAPAD: 1
 Log-Shiras:
   JANDREW: 1
 Log-Sigil:
@@ -35922,7 +35917,7 @@ MP3-M3U:
 MP3-M3U-Parser:
   BURAK: 1
 MP3-Merge:
-  mewsoft: 1
+  MEWSOFT: 1
 MP3-Mplib:
   VPARSEVAL: 1
 MP3-Player-PktConcert:
@@ -35930,9 +35925,9 @@ MP3-Player-PktConcert:
 MP3-PodcastFetch:
   LDS: 1
 MP3-Splitter:
-  modules: 1
+  ILYAZ: 1
 MP3-Tag:
-  modules: 1
+  ILYAZ: 1
 MP3-Tag-Utils:
   VVELOX: 1
 MP4-File:
@@ -36140,7 +36135,7 @@ Mackerel-ReleaseUtils:
 Mackerel-Webhook-Receiver:
   SONGMU: 1
 Macrame:
-  ParsingPerl: 1
+  DAVIDNICO: 1
 Macro-Micro:
   RJBS: 1
 Mad-Mapper:
@@ -36346,7 +36341,7 @@ Mail-POP3Client:
 Mail-POPRelay:
   KHOERLING: 1
 Mail-Pegasus:
-  Pegasus: 1
+  SORBS: 1
 Mail-PopPwd:
   HDIAS: 1
 Mail-Postfix-Attr:
@@ -36372,7 +36367,7 @@ Mail-QmailSend-MultilogParser:
 Mail-Query:
   KWILLIAMS: 1
 Mail-Queue-DB:
-  Mail: 1
+  ZACS: 1
 Mail-RBL:
   LUISMUNOZ: 1
 Mail-RFC822-Address:
@@ -36386,14 +36381,14 @@ Mail-SMTP-Honeypot:
 Mail-SNCF:
   IDERRICK: 1
 Mail-SPF:
+  JMEHNLE: 1
   SHEVEK: 1
-  mail-spf: 1
 Mail-SPF-Iterator:
   SULLR: 1
 Mail-SPF-Query:
-  mail-spf-query: 1
+  JMEHNLE: 1
 Mail-SPF-Test:
-  mail-spf-test: 1
+  JMEHNLE: 1
 Mail-SRS:
   SHEVEK: 1
 Mail-Salsa:
@@ -36407,7 +36402,7 @@ Mail-SendGrid:
 Mail-SendGrid-SmtpApiHeader:
   POTYL: 1
 Mail-SendVarious:
-  modules: 1
+  MUIR: 1
 Mail-Sender:
   CAPOEIRAB: 1
 Mail-Sender-Easy:
@@ -36422,8 +36417,8 @@ Mail-SimpleList:
   CHROMATIC: 1
 Mail-SpamAssassin:
   JMASON: 1
+  KMCGRAIL: 1
   MSERGEANT: 1
-  SpamAssassin: 1
 Mail-SpamAssassin-Contrib-Plugin-IPFilter:
   TRIZK: 1
 Mail-SpamAssassin-Plugin-AttachmentPresent:
@@ -36499,7 +36494,7 @@ MailStats:
 MailTools:
   MARKOV: 1
 MailboxValidator-SingleValidation:
-  mailboxvalidator: 1
+  MBV: 1
 Maildir-Lite:
   DEIAN: 1
 Maildir-Quota:
@@ -36519,7 +36514,7 @@ Makefile-Update:
 Makerelease:
   HARDAKER: 1
 Malware:
-  malware: 1
+  SAXJAZMAN: 1
 Mandel:
   JHTHORSEN: 1
 Mango:
@@ -36815,7 +36810,7 @@ MasonX-Resolver-Multiplex:
 MasonX-Resolver-PAR:
   MRAMBERG: 1
 MasonX-Resolver-Polyglot:
-  Polyglot: 1
+  MODULO: 1
 MasonX-Resolver-WidgetFactory:
   RJBS: 1
 MasonX-StaticBuilder:
@@ -36845,7 +36840,7 @@ Math-Approx-Symbolic:
 Math-Aronson:
   KRYDE: 1
 Math-Assistant:
-  Math: 1
+  DONANGEL: 1
 Math-BLAS:
   RALPH: 1
 Math-Base-Convert:
@@ -36987,7 +36982,7 @@ Math-DyckWords:
 Math-EMA:
   OPI: 1
 Math-ES:
-  ES: 1
+  AHCHORN: 1
 Math-EWMA:
   ESAYM: 1
 Math-EllipticCurve-Prime:
@@ -37013,7 +37008,7 @@ Math-Factor-XS:
 Math-Factoring:
   LETO: 1
 Math-FastGF2:
-  Math-FastGF2: 1
+  DMALONE: 1
 Math-Fibonacci:
   VIPUL: 1
 Math-Fibonacci-Phi:
@@ -37039,7 +37034,7 @@ Math-Fractal-DLA:
 Math-Fractal-Julia:
   JTPALMER: 1
 Math-Fractal-Mandelbrot:
-  math: 1
+  TELS: 1
 Math-Fractal-Noisemaker:
   AAYARS: 1
 Math-Fraction-Egyptian:
@@ -37089,7 +37084,7 @@ Math-Geometry-Planar:
 Math-Geometry-Planar-GPC:
   DVDPOL: 1
 Math-Geometry-Planar-GPC-Polygon:
-  Math: 1
+  EWILHELM: 1
 Math-Geometry-Planar-GPC-PolygonXS:
   LIOSHA: 1
 Math-Geometry-Planar-Offset:
@@ -37237,7 +37232,7 @@ Math-Palindrome:
 Math-Pandigital:
   DAVIDO: 1
 Math-Pari:
-  modules: 1
+  ILYAZ: 1
 Math-PartialOrder:
   MOOCOW: 1
 Math-Partition-Rand:
@@ -37663,7 +37658,7 @@ Mediainfo:
 Mediawiki-Blame:
   DAXIM: 1
 Mediawiki-POD:
-  wiki: 1
+  TELS: 1
 Mediawiki-Spider:
   CSELT: 1
 Medical-DukePTP:
@@ -37994,7 +37989,7 @@ Minion-Notifier:
 Minions:
   ARUNBEAR: 1
 Mira:
-  mira: 1
+  KIAVASH: 1
 Miril:
   PSHANGOV: 1
 Mirror-JSON:
@@ -38098,9 +38093,9 @@ ModPerl2-Tools:
 Modbus-Client:
   DVKLEIN: 1
 Model3D-Poser:
-  Poser: 1
+  DODGER: 1
 Model3D-WavefrontObject:
-  Model3D: 1
+  DODGER: 1
 ModelSim-List:
   AGENT: 1
 Modem-VBox:
@@ -38108,7 +38103,7 @@ Modem-VBox:
 Modem-Vgetty:
   YENYA: 1
 Modern-Open:
-  Open: 1
+  INA: 1
 Modern-PBP-Moose:
   JVBSOFT: 1
 Modern-PBP-Perl:
@@ -38560,7 +38555,7 @@ Module-Pragma:
 Module-PrintUsed:
   CRENZ: 1
 Module-Provision:
-  module-provision: 1
+  PJFL: 1
 Module-Quote:
   TOBYINK: 1
 Module-Reader:
@@ -39607,7 +39602,7 @@ Mojolicious-Plugin-ViewBuilder:
 Mojolicious-Plugin-Vparam:
   RSHADOW: 1
 Mojolicious-Plugin-WWWSession:
-  Mojolicious: 1
+  HOREA: 1
 Mojolicious-Plugin-Web-Auth:
   HAYAJO: 1
 Mojolicious-Plugin-Web-Auth-Site-Fitbit:
@@ -39744,7 +39739,7 @@ Monoceros:
 Monorail:
   CREIN: 1
 Monotone-AutomateStdio:
-  monotone: 1
+  AECOOPER: 1
 Month-Simple:
   MORITZ: 1
 Moo:
@@ -39845,7 +39840,7 @@ MooX-Role-Parameterized:
 MooX-Role-Pluggable:
   AVENJ: 1
 MooX-Role-Reconstruct:
-  MooX: 1
+  BOFTX: 1
 MooX-Roles-Pluggable:
   REHSACK: 1
 MooX-SetOnce:
@@ -40922,7 +40917,7 @@ MzML-Parser:
 NBU:
   DUTCHMAN: 1
 NCAR:
-  NCAR: 1
+  PHILOU: 1
 NCBI:
   TSIRKIN: 1
 NCBIx-BigFetch:
@@ -40948,7 +40943,7 @@ NETIOM:
 NEXT:
   NEILB: 1
 NG:
-  NG: 1
+  CHENRYN: 1
 NGS-Tools-BAMSurgeon:
   BOUTROSLB: 1
 NIS:
@@ -40960,9 +40955,9 @@ NISPlus:
 NIST-Beacon:
   WOODRUFFW: 1
 NIST-NVD:
-  NIST-NVD: 1
+  CJCOLLIER: 1
 NIST-NVD-Store-SQLite3:
-  NIST-NVD: 1
+  CJCOLLIER: 1
 NKTI-general:
   YUSRIDEB: 1
 NL-File-Lock:
@@ -40997,7 +40992,7 @@ NTS-Utils:
 NTS_SqlLink:
   NATTIS: 1
 NTree.pm:
-  trees: 1
+  TOMC: 1
 NTuples:
   CMORRIS: 1
 NVDefined:
@@ -41171,13 +41166,13 @@ Net-AWS-SES:
 Net-Abuse-Utils:
   MIKEGRB: 1
 Net-Abuse-Utils-Spamhaus:
-  net: 1
+  SAXJAZMAN: 1
 Net-Address-Ethernet:
   MTHURN: 1
 Net-Address-IP-Local:
-  net-address-ip-local: 1
+  JMEHNLE: 1
 Net-Address-IPv4-Local:
-  net-address-ipv4-local: 1
+  JMEHNLE: 1
 Net-Airbrake:
   SIXAPART: 1
 Net-Airbrake-V2:
@@ -41364,7 +41359,7 @@ Net-Async-Webservice-UPS:
 Net-Async-XMPP:
   TEAM: 1
 Net-Autoconfig:
-  Net-Autoconfig: 1
+  KEVIN: 1
 Net-Axigen:
   ITMFROLOV: 1
 Net-Azure-Authorization-SAS:
@@ -41409,7 +41404,7 @@ Net-BitTorrent-DHT:
 Net-BitTorrent-File:
   ORCLEV: 1
 Net-BitTorrent-PeerPacket:
-  net_bittorrent: 1
+  JMCADA: 1
 Net-BitTorrent-Protocol:
   SANKO: 1
 Net-BitTorrentSync:
@@ -41485,7 +41480,7 @@ Net-Chat-Daemon:
 Net-Chaton-API:
   POCKET: 1
 Net-ChooseFName:
-  modules: 1
+  ILYAZ: 1
 Net-Cisco-ACS:
   BEATNIK: 1
 Net-Cisco-AccessList-Extended:
@@ -41511,7 +41506,7 @@ Net-CloudStack-API:
 Net-Comcast-Customer:
   KTDREYER: 1
 Net-Connection-Simple:
-  net: 1
+  SAXJAZMAN: 1
 Net-Connection-Sniffer:
   MIKER: 1
 Net-Continental:
@@ -41539,7 +41534,7 @@ Net-DAAP-Server-AAC:
 Net-DAAP-Server-MythTV:
   JABLKO: 1
 Net-DAS:
-  Das: 1
+  TDWINTER: 1
 Net-DAV-Server:
   CPANEL: 1
   GWADEJ: 1
@@ -41615,7 +41610,7 @@ Net-DNS-Lite:
 Net-DNS-LivedoorDomain-DDNS:
   MASAHITO: 1
 Net-DNS-Match:
-  net: 1
+  SAXJAZMAN: 1
 Net-DNS-Method:
   LUISMUNOZ: 1
 Net-DNS-Nameserver-Trivial:
@@ -41697,11 +41692,11 @@ Net-Delicious-Export-Post-XBEL:
 Net-Detect:
   DMUEY: 1
 Net-Dev-MIBLoadOrder:
-  tools: 1
+  SPARSONS: 1
 Net-Dev-Tools-Syslog:
-  tools: 1
+  SPARSONS: 1
 Net-Dev-Tools-SyslogMessage:
-  Logging: 1
+  DMITRYSOL: 1
 Net-Dict:
   NEILB: 1
 Net-DiffBot:
@@ -41773,7 +41768,7 @@ Net-EMI-Client:
 Net-EMI-Common:
   SCHAFFTER: 1
 Net-ENUM:
-  Net: 1
+  DETI: 1
 Net-EPP:
   GBROWN: 1
 Net-EPP-Proxy:
@@ -41974,7 +41969,7 @@ Net-Fritz-Phonebook:
 Net-FullAuto:
   REEDFISH: 1
 Net-GNUDBSearch:
-  Net-GNUDBSearch: 1
+  DUMB: 1
 Net-GPSD:
   MRDVT: 1
 Net-GPSD-Server-Fake:
@@ -42142,7 +42137,7 @@ Net-Hulu:
 Net-IANA-Services:
   LESPEA: 1
 Net-ICAP:
-  Net-ICAP: 1
+  CORLISS: 1
 Net-ICAP-Client:
   DDICK: 1
 Net-ICB:
@@ -42205,7 +42200,7 @@ Net-IP-Lite:
 Net-IP-Match:
   MARCEL: 1
 Net-IP-Match-Bin:
-  src: 1
+  TOMO: 1
 Net-IP-Match-Regexp:
   CDOLAN: 1
 Net-IP-Match-Trie:
@@ -42281,7 +42276,7 @@ Net-IdentServer:
 Net-Ifconfig-Wrapper:
   MTHURN: 1
 Net-Ifstat:
-  Net: 1
+  VGIRISH: 1
 Net-Ikano:
   IVAN: 1
 Net-Inspect:
@@ -42447,7 +42442,7 @@ Net-MQTT-Simple:
 Net-MQTT-Simple-Auth:
   KRENZKE: 1
 Net-MRIM:
-  MRIM: 1
+  AAU: 1
 Net-MRT:
   MBASUNOV: 1
 Net-MSN:
@@ -42525,7 +42520,7 @@ Net-NBsocket:
 Net-NIS:
   ESM: 1
 Net-NIS-Listgroup:
-  listgroup: 1
+  MPREWITT: 1
 Net-NIS-Netgroup:
   BASTIAN: 1
 Net-NISplusTied:
@@ -42556,7 +42551,7 @@ Net-Nessus-XMLRPC:
 Net-NetSend:
   GREB: 1
 Net-Netcat:
-  Net: 1
+  VGIRISH: 1
 Net-Netconf:
   JUNIPER: 1
 Net-Netfilter-NetFlow:
@@ -42566,7 +42561,7 @@ Net-Netflix:
 Net-Netid:
   SOFTDIA: 1
 Net-Netmask:
-  modules: 1
+  MUIR: 1
 Net-NfDump:
   TPODER: 1
 Net-NicoVideo:
@@ -42607,7 +42602,7 @@ Net-OmaDrm:
 Net-OneTimeSecret:
   KYLED: 1
 Net-OnlineCode:
-  Net-OnlineCode-004: 1
+  DMALONE: 1
 Net-OpenAMD:
   ANDREW: 1
 Net-OpenFlow:
@@ -42685,7 +42680,7 @@ Net-POP3-PerMsgHandler:
 Net-POP3-SSLWrapper:
   TOKUHIROM: 1
 Net-POP3S:
-  src: 1
+  TOMO: 1
 Net-POP3_auth:
   APLEINER: 1
 Net-PSYC:
@@ -42715,7 +42710,7 @@ Net-Partty-Screen:
 Net-Patricia:
   GRUBER: 1
 Net-Pavatar:
-  Pavatar: 1
+  KARJALA: 1
 Net-PayPal:
   SHERZODR: 1
 Net-Payjp:
@@ -43001,11 +42996,11 @@ Net-SMTP-IPMM:
 Net-SMTP-OneLiner:
   JETTERO: 1
 Net-SMTP-Pipelining:
-  Net-SMTP-Pipelining: 1
+  MARCB: 1
 Net-SMTP-Receive:
-  modules: 1
+  MUIR: 1
 Net-SMTP-Retryable:
-  net-smtp-retryable: 1
+  MPREWITT: 1
 Net-SMTP-SSL:
   RJBS: 1
 Net-SMTP-Server-AnyEvent:
@@ -43019,7 +43014,7 @@ Net-SMTP-TLS-ButMaintained:
 Net-SMTP-Verify:
   BENNING: 1
 Net-SMTPS:
-  src: 1
+  TOMO: 1
 Net-SMTP_auth:
   APLEINER: 1
 Net-SNMP:
@@ -43215,7 +43210,7 @@ Net-Social-Service-Vox:
 Net-SocialGraph:
   SIMONW: 1
 Net-Socket-NonBlock:
-  Net-Socket-NonBlock: 1
+  TPABA: 1
 Net-SolarWinds-REST:
   AKALINUX: 1
 Net-Soma:
@@ -43589,7 +43584,7 @@ Net-uwsgi:
 Net-vCard:
   JLAWRENC: 1
 Net-validMX:
-  validMX: 1
+  KMCGRAIL: 1
 Net-xFTP:
   TURNERJW: 1
 NetAddr-BridgeID:
@@ -43773,7 +43768,7 @@ Nginx-ParseLog:
 Nginx-Perl:
   ZZZ: 1
 Nginx-ReadBody:
-  Nginx: 1
+  TPABA: 1
 Nginx-Redis:
   ZZZ: 1
 Nginx-Runner:
@@ -43783,7 +43778,7 @@ Nginx-Simple:
 NgxQueue:
   TYPESTER: 1
 Nice.pm:
-  nice: 1
+  TOMC: 1
 Nikto-Parser:
   JABRA: 1
 Nile:
@@ -43829,7 +43824,7 @@ Norma:
 Normalize:
   KAKADU: 1
 Notes:
-  Notes: 1
+  CCLOUTIER: 1
 Nothing-Tiny:
   JROCKWAY: 1
 Notification-Center:
@@ -43973,7 +43968,7 @@ Number-YAUID:
 Number-ZipCode-JP:
   TANIGUCHI: 1
 Numeric-LL_Array:
-  modules: 1
+  ILYAZ: 1
 Nuspec-Reader:
   TYNOVSKY: 1
 OAI-Harvester:
@@ -43981,7 +43976,7 @@ OAI-Harvester:
 OAuth-Cmdline:
   MSCHILLI: 1
 OAuth-Consumer:
-  OAuth-Consumer: 1
+  MATHIAS: 1
 OAuth-Lite:
   LYOKATO: 1
 OAuth-Lite2:
@@ -44023,7 +44018,7 @@ OMA-Download-OTA:
 ONE:
   WINTER: 1
 ONTO-PERL:
-  ONTO-PERL: 1
+  EASR: 1
 OO-Closures:
   ABIGAIL: 1
 OO-DateTime:
@@ -44041,7 +44036,7 @@ OOP:
 OOP-Perlish-Class:
   JBEVERLY: 1
 OOPS:
-  modules: 1
+  MUIR: 1
 OOTools:
   DOMIZIO: 1
   SKNPP: 1
@@ -44112,9 +44107,9 @@ OSS-LDAPops:
 OTRS-ForwardQueue:
   PWARING: 1
 OTRS-Kernel-Module-TicketAutoAssignment:
-  OTRS: 1
+  ROHITBASU: 1
 OTRS-Kernel-System-MultilevelEscalation:
-  OTRS: 1
+  ROHITBASU: 1
 OTRS-OPM-Analyzer:
   RENEEB: 1
 OTRS-OPM-Maker:
@@ -44192,7 +44187,7 @@ Object-Declare:
 Object-Deferred:
   EDENC: 1
 Object-Dependency:
-  modules: 1
+  MUIR: 1
 Object-Destroyer:
   ADAMK: 1
 Object-Disoriented:
@@ -44300,7 +44295,7 @@ Object-Tiny:
 Object-Tiny-Lvalue:
   ARISTOTLE: 1
 Object-Tiny-RW:
-  object-tiny-rw: 1
+  SCHWIGON: 1
 Object-Tiny-RW-XS:
   SRCHULO: 1
 Object-Tiny-XS:
@@ -44308,7 +44303,7 @@ Object-Tiny-XS:
 Object-Trampoline:
   LEMBARK: 1
 Object-Transaction:
-  modules: 1
+  MUIR: 1
 Object-Util:
   TOBYINK: 1
 Object-WithParams:
@@ -44322,9 +44317,9 @@ ObjectDB-InflateColumn:
 ObjectDBI:
   KJH: 1
 ObjectRowMap:
-  B: 1
+  CWELCH: 1
 ObjectivePerl:
-  ObjectivePerl: 1
+  KYLED: 1
 Objects-Collection:
   ZAG: 1
 Ocs-Nagios:
@@ -44720,7 +44715,7 @@ PAD:
 PAM:
   HACHI: 1
 PANT:
-  PANT: 1
+  JONIONS: 1
 PAR:
   AUTRIJUS: 1
   RSCHUPP: 1
@@ -44769,7 +44764,7 @@ PBKDF2-Tiny:
 PBS:
   TMERRITT: 1
 PBS-Client:
-  Client: 1
+  KWMAK: 1
 PBS-Logs:
   RKOWEN: 1
 PCGI:
@@ -44810,7 +44805,7 @@ PDF-EasyPDF:
 PDF-Extract:
   NSHARROCK: 1
 PDF-FDF-Simple:
-  pdf-fdf-simple: 1
+  SCHWIGON: 1
 PDF-FromHTML:
   AUDREYT: 1
 PDF-FromImage:
@@ -44864,7 +44859,7 @@ PDF-WebKit:
 PDF-Writer:
   RKINYON: 1
 PDF-Xtract:
-  008: 1
+  SUNILS: 1
 PDF-pdf2json:
   ZMUGHAL: 1
 PDFLib:
@@ -44888,7 +44883,7 @@ PDL-DSP-Windows:
 PDL-DateTime:
   KMX: 1
 PDL-Dims:
-  PDL-Dims: 1
+  FANTASMA: 1
 PDL-Drawing-Prima:
   DCMERTENS: 1
 PDL-EditDistance:
@@ -44926,7 +44921,7 @@ PDL-IO-CSV:
 PDL-IO-DBI:
   KMX: 1
 PDL-IO-Dcm:
-  PDL-IO-Dcm: 1
+  FANTASMA: 1
 PDL-IO-Grib:
   JEDWARDS: 1
 PDL-IO-HDF5:
@@ -44936,7 +44931,7 @@ PDL-IO-Image:
 PDL-IO-NDF:
   TJENNESS: 1
 PDL-IO-Nifti:
-  PDL-IO-Nifti: 1
+  FANTASMA: 1
 PDL-IO-Sereal:
   KMX: 1
 PDL-IO-XLSX:
@@ -45197,7 +45192,7 @@ PMLTQ:
 PNC:
   ARMSTRONG: 1
 POCSAG-Encode:
-  POCSAG: 1
+  HESSU: 1
 POD-Credentials:
   MPG: 1
 POD-Tested:
@@ -45849,7 +45844,7 @@ POE-Filter-XML-RPC:
 POE-Filter-Zlib:
   BINGOS: 1
 POE-Framework-MIDI:
-  POE-Framework-MIDI: 1
+  SMCNABB: 1
 POE-Future:
   PEVANS: 1
 POE-Loop-AnyEvent:
@@ -45972,7 +45967,7 @@ POSIX-2008:
 POSIX-AtFork:
   GFUJI: 1
 POSIX-Open3:
-  POSIX: 1
+  AMBS: 1
 POSIX-RT-MQ:
   ILJATABAC: 1
 POSIX-RT-Scheduler:
@@ -45990,7 +45985,7 @@ POSIX-RT-Timer:
 POSIX-Regex:
   JETTERO: 1
 POSIX-SchedYield:
-  POSIX-SchedYield: 1
+  MARCB: 1
 POSIX-Socket:
   YURY: 1
 POSIX-Util:
@@ -46084,7 +46079,7 @@ PRANG:
 PSGI:
   MIYAGAWA: 1
 PSGI-Hector:
-  PSGI-Hector: 1
+  DUMB: 1
 PSGRAPH:
   KENOWEN: 1
 PSPP-Perl:
@@ -46537,13 +46532,13 @@ Params-Validate-Micro:
 Params-ValidationCompiler:
   DROLSKY: 1
 Paranoid:
-  Paranoid: 1
+  CORLISS: 1
 Paranoid-BerkeleyDB:
-  Paranoid-BerkeleyDB: 1
+  CORLISS: 1
 Paranoid-Log-Email:
-  Paranoid-Log-Email: 1
+  CORLISS: 1
 Paranoid-Log-Syslog:
-  Paranoid-Log-Syslog: 1
+  CORLISS: 1
 Parcel-Track:
   KEEDI: 1
 Parcel-Track-KR-CJKorea:
@@ -46788,9 +46783,9 @@ Parse-PhoneNumber-ID:
 Parse-Pidl:
   CTRLSOFT: 1
 Parse-Plain:
-  Parse-Plain: 1
+  ANDREWN: 1
 Parse-PlainConfig:
-  Parse-PlainConfig: 1
+  CORLISS: 1
 Parse-Pyapp:
   XERN: 1
 Parse-QTEDI:
@@ -47473,7 +47468,7 @@ Perl-Dist-WiX:
 Perl-Dist-WiX-BuildPerl-5123:
   CSJEWELL: 1
 Perl-Exactly:
-  Exactly: 1
+  INA: 1
 Perl-Examples:
   PERLANCAR: 1
 Perl-Examples-Accessors:
@@ -47893,7 +47888,7 @@ Perldoc-Server:
 Perlilog:
   BILLAUER: 1
 Perlipse:
-  perlipse: 1
+  JAE: 1
 Perlito5:
   FGLOCK: 1
 Perlmazing:
@@ -48105,7 +48100,7 @@ PkgForge-Registry:
 PkgForge-Server:
   SJQUINNEY: 1
 PlRPC:
-  PlRPC: 1
+  MNOONING: 1
 Plack:
   MIYAGAWA: 1
 Plack-App-Apache-ActionWrapper:
@@ -48208,7 +48203,7 @@ Plack-App-URLHashMap:
 Plack-App-Vhost:
   KARUPA: 1
 Plack-App-WebMySQL:
-  Plack-App-WebMySQL: 1
+  DUMB: 1
 Plack-App-WebSocket:
   TOSHIOITO: 1
 Plack-App-dbi2http:
@@ -48362,7 +48357,7 @@ Plack-Middleware-DBIC-QueryLog:
 Plack-Middleware-DBIx-DisconnectAll:
   KAZEBURO: 1
 Plack-Middleware-DNSBL:
-  Plack-Middleware-DNSBL: 1
+  VTFRVL: 1
 Plack-Middleware-Debug:
   MIYAGAWA: 1
 Plack-Middleware-Debug-Ajax:
@@ -48875,7 +48870,7 @@ Plugin-Simple:
 Plugin-Tiny:
   MMAURICE: 1
 Plugins:
-  modules: 1
+  MUIR: 1
 Plugins-Factory:
   CCCP: 1
 Plugtools:
@@ -49514,7 +49509,7 @@ Postscript-HTML-Map:
 Postscript-TextDecode:
   JKVA: 1
 Pots:
-  Pots: 1
+  RCHIBOIS: 1
 Power-Outlet:
   MRDVT: 1
 PowerBuilder-ORCA:
@@ -49556,7 +49551,7 @@ PrayMind:
 Preproc-Tiny:
   PSCUST: 1
 PriQueue.pm:
-  strpris: 1
+  TOMC: 1
 Prima:
   KARASIK: 1
 Prima-Cairo:
@@ -49614,7 +49609,7 @@ Proc-BackOff:
 Proc-Background:
   BZAJAC: 1
 Proc-Branch:
-  Proc-Branch-001: 1
+  ISJOUNG: 1
 Proc-CPUUsage:
   MELO: 1
 Proc-ChildError:
@@ -49648,7 +49643,7 @@ Proc-Fork:
 Proc-Fork-Control:
   CFABER: 1
 Proc-Forkfunc:
-  modules: 1
+  MUIR: 1
 Proc-Forking:
   FDULAU: 1
 Proc-Forkmap:
@@ -49662,7 +49657,7 @@ Proc-Info-Environment:
 Proc-InvokeEditor:
   MSTEVENS: 1
 Proc-JobQueue:
-  modules: 1
+  MUIR: 1
 Proc-Launcher:
   VVU: 1
 Proc-Lite:
@@ -49678,7 +49673,7 @@ Proc-PID-File:
 Proc-PID-File-Fcntl:
   JGMYERS: 1
 Proc-Parallel:
-  modules: 1
+  MUIR: 1
 Proc-ParallelLoop:
   BDARRAH: 1
 Proc-PersistentControl:
@@ -49772,7 +49767,7 @@ Progress-Any-Output-TermProgressBarColor:
 Progress-Any-Output-TermSpin:
   PERLANCAR: 1
 Progress-PV:
-  Progress: 1
+  VGIRISH: 1
 ProgressBar-Stack:
   LANY: 1
 ProgressMonitor:
@@ -49902,9 +49897,9 @@ Puncheur:
 Puppet-Tidy:
   JASPER: 1
 Purple:
-  Purple: 1
+  CDENT: 1
 PurpleWiki:
-  PurpleWiki: 1
+  CDENT: 1
 Pushmi:
   CLKAO: 1
 Puzzle:
@@ -49912,9 +49907,9 @@ Puzzle:
 Pvm:
   EWALKER: 1
 PwTree.pm:
-  trees: 1
+  TOMC: 1
 PwdOb.pm:
-  trees: 1
+  TOMC: 1
 Pye:
   IDOPEREL: 1
 Pye-MongoDB:
@@ -50024,7 +50019,7 @@ Qmail-Mysql:
 Qpsmtpd-Plugin-EmailAddressLoose:
   TOMITA: 1
 Qpsmtpd-Plugin-Quarantine:
-  modules: 1
+  MUIR: 1
 Qpsmtpd-Plugin-Queue-HTTPRequest:
   TOMITA: 1
 Qstruct:
@@ -50104,7 +50099,7 @@ Queue-Q4Pg-Lite:
 Queue-Worker:
   BOSU: 1
 Queue.pm:
-  strpris: 1
+  TOMC: 1
 Quilt:
   KMACLEOD: 1
 Quine:
@@ -50146,7 +50141,7 @@ RADIUS:
 RADIUS-UserFile:
   OEVANS: 1
 RADIUS-XMLParser:
-  RADIUS: 1
+  AAMEND: 1
 RAPNAP-client:
   DAVIDNICO: 1
 RAS-AS5200:
@@ -50336,7 +50331,7 @@ RGB2HSI:
 RHP-Timer:
   PHRED: 1
 RINO-Client:
-  cif: 1
+  SAXJAZMAN: 1
 RIPEMD160:
   CHGEUER: 1
 RL:
@@ -50368,7 +50363,7 @@ RPC-JSON:
 RPC-Lite:
   ABURKE: 1
 RPC-Object:
-  RPC-Object: 1
+  JWU: 1
 RPC-Oracle:
   WSMITH: 1
 RPC-Serialized:
@@ -50450,7 +50445,7 @@ RPi-I2C:
 RPi-LCD:
   STEVEB: 1
 RPi-PIGPIO:
-  RPi-PIGPIO: 1
+  HOREA: 1
 RPi-Pin:
   STEVEB: 1
 RPi-SPI:
@@ -50518,7 +50513,7 @@ RT-Authen-CookieAuth:
 RT-Authen-ExternalAuth:
   BPS: 1
 RT-Authen-Federation:
-  RT: 1
+  CARLOSFB: 1
 RT-Authen-OpenID:
   ABERGMAN: 1
 RT-Authen-PAUSE:
@@ -50530,7 +50525,7 @@ RT-BugTracker:
 RT-BugTracker-Public:
   ALEXMV: 1
 RT-CIFMinimal:
-  RT: 1
+  SAXJAZMAN: 1
 RT-Client:
   AUTRIJUS: 1
 RT-Client-CLI:
@@ -50676,7 +50671,7 @@ RT-Extension-MandatorySubject:
 RT-Extension-MenubarSearches:
   JESSE: 1
 RT-Extension-MenubarUserTickets:
-  RT-Extension-MenubarUserTickets: 1
+  DUMB: 1
 RT-Extension-MergeUsers:
   BPS: 1
 RT-Extension-MessageSizeLimit:
@@ -50708,7 +50703,7 @@ RT-Extension-PreviewInSearch:
 RT-Extension-PriorityAsString:
   BPS: 1
 RT-Extension-PushoverNotify:
-  PushoverNotify: 1
+  RINGERC: 1
 RT-Extension-QueueWizard:
   KEVINR: 1
 RT-Extension-QuickAddTimeWorked:
@@ -50751,7 +50746,7 @@ RT-Extension-SLA:
   ALEXMV: 1
   TSIBLEY: 1
 RT-Extension-SMSNotify:
-  SMSNotify: 1
+  RINGERC: 1
 RT-Extension-SavedSearchResults:
   WESAL: 1
 RT-Extension-SearchResults-ODS:
@@ -50763,7 +50758,7 @@ RT-Extension-SelfServiceSimpleSearch:
 RT-Extension-ServiceUpdates:
   JESSE: 1
 RT-Extension-ShiftPlanning:
-  ShiftPlanning: 1
+  RINGERC: 1
 RT-Extension-ShowEmailAction:
   ELEMECCA: 1
 RT-Extension-ShowTransactionSquelching:
@@ -50809,7 +50804,7 @@ RT-Extension-WatchedQueues:
 RT-Extension-rt_cpan_org:
   RUZ: 1
 RT-IODEF:
-  RT: 1
+  SAXJAZMAN: 1
 RT-Integration-SVN:
   JESSE: 1
 RT-Interface-Email-Filter-CheckMessageId:
@@ -51098,7 +51093,7 @@ Ref-Util-Rewriter:
 Ref-Util-XS:
   XSAWYERX: 1
 Ref.pm:
-  modules: 1
+  MUIR: 1
 Refine:
   JHTHORSEN: 1
 Refinements:
@@ -51224,7 +51219,7 @@ Regexp-Log-Common:
 Regexp-Log-DateRange:
   KARASIK: 1
 Regexp-Log-Helix:
-  Regexp-Log-Helix: 1
+  MODULO: 1
 Regexp-Log-Progress:
   KESTEB: 1
 Regexp-Log-RealServer:
@@ -51316,13 +51311,13 @@ Religion-Bible-Regex-Reference:
 Religion-Bible-Regex-Versification:
   HOLMLUND: 1
 Religion-Islam-PrayTime:
-  mewsoft: 1
+  MEWSOFT: 1
 Religion-Islam-PrayerTimes:
   MEWSOFT: 1
 Religion-Islam-Qibla:
   MEWSOFT: 1
 Religion-Islam-Quran:
-  mewsoft: 1
+  MEWSOFT: 1
 Remedy-ARSTools:
   AHICOX: 1
 Remember-Anything-AsPath:
@@ -51434,9 +51429,9 @@ Return-Value:
 Reuters-SSL:
   CBARKEY: 1
 RevHash.pm:
-  Tie: 1
+  TOMC: 1
 RevRefHash.pm:
-  Tie: 1
+  TOMC: 1
 ReverseProxy-FormFiller:
   DELTOMBE: 1
 Rex:
@@ -51504,7 +51499,7 @@ RiveScript:
 RobotC-Wrapper:
   CRLYJEP: 1
 Robotics:
-  Robotics-023: 1
+  JCLINE: 1
 Robotics-IRobot:
   RATLIFFM: 1
 RocksDB:
@@ -51704,7 +51699,7 @@ Rudesind:
 Rule-Engine:
   GPHAT: 1
 Run:
-  modules: 1
+  ILYAZ: 1
 Run-Env:
   JKUTEJ: 1
 Run-Parts:
@@ -51740,7 +51735,7 @@ SADI-Simple:
 SAL:
   SELCOMB: 1
 SANtricity-SMcli:
-  SMcli: 1
+  RJB: 1
 SAP-BC-XMLRFC:
   PIERS: 1
 SAP-WAS-SOAP:
@@ -51760,7 +51755,7 @@ SCUBA-Table-NoDeco:
 SDL:
   FROGGS: 1
 SDL-App-FPS:
-  sdl: 1
+  TELS: 1
 SDL-OpenGL-Cg:
   MOLT: 1
 SDL-Tutorial-3DWorld:
@@ -51787,7 +51782,7 @@ SDLx-Widget:
 SDLx-XScreenSaver:
   LIGHTSEY: 1
 SDP:
-  SDP: 1
+  DBIALAC: 1
 SDR:
   FRACTAL: 1
 SDR-Radio-HackRF:
@@ -51803,7 +51798,7 @@ SETI-WebStats:
 SFML:
   JAKEANQ: 1
 SF_form_secure:
-  SF_form_secure: 1
+  SFLEX: 1
 SGI-FAM:
   JGLICK: 1
 SGI-Syssgi:
@@ -51923,7 +51918,7 @@ SMS-Send-NexmoUnicode:
 SMS-Send-Orange-ContactEveryone:
   ALEXARN: 1
 SMS-Send-RedOxygen:
-  RedOxygen: 1
+  RINGERC: 1
 SMS-Send-Retarus:
   ABRAXXA: 1
 SMS-Send-SMSDiscount:
@@ -52051,7 +52046,6 @@ SOAP-Lite:
   BYRNE: 1
   MKUTTER: 1
   PHRED: 1
-  SOAP: 1
 SOAP-Lite-ActiveWorks:
   DYACOB: 1
 SOAP-Lite-InstanceExporter:
@@ -52063,7 +52057,7 @@ SOAP-Lite-SmartProxy:
 SOAP-Lite-Utility:
   BRYCE: 1
 SOAP-MIME:
-  SOAP: 1
+  BYRNE: 1
 SOAP-Message:
   SARGIE: 1
 SOAP-Transport-FTP:
@@ -52097,7 +52091,7 @@ SOAPjr:
 SOCKS:
   CLINTDW: 1
 SOM:
-  modules: 1
+  ILYAZ: 1
 SOOT:
   SMUELLER: 1
 SOOT-App:
@@ -52109,9 +52103,9 @@ SPOPS:
 SPOPSx-Ginsu:
   ZMAN: 1
 SPOPSx-Tool-DateTime:
-  SPOPS: 1
+  HANENKAMP: 1
 SPOPSx-Tool-YAML:
-  SPOPS: 1
+  HANENKAMP: 1
 SPVM:
   KIMOTO: 1
 SPVM-Examples:
@@ -52159,7 +52153,7 @@ SQL-Easy:
 SQL-Entity:
   ADRIANWIT: 1
 SQL-Exec:
-  SQL-Exec: 1
+  MATHIAS: 1
 SQL-Executor:
   TSUCCHI: 1
 SQL-Format:
@@ -52191,7 +52185,7 @@ SQL-OOP:
 SQL-Object:
   NEKOKAK: 1
 SQL-Object-Interp:
-  SQL-Object-Interp: 1
+  NARAZAKA: 1
 SQL-OrderBy:
   GENE: 1
 SQL-Preproc:
@@ -52312,7 +52306,7 @@ STUN-Attributes:
 STUN-Client:
   TBR: 1
 STUN-RFC_5389:
-  STUN: 1
+  DETI: 1
 SUPER:
   CHROMATIC: 1
 SVG:
@@ -52755,7 +52749,7 @@ Schedule-TableImage:
 Schedule-Week:
   MAXSCHUBE: 1
 ScheduleSGE:
-  SGE: 1
+  LINSALROB: 1
 Schema-RDBMS-AUS:
   CRAKRJACK: 1
 Schema-RackTables:
@@ -52793,7 +52787,7 @@ Scope-Upper:
 Scope-With:
   CHOCOLATE: 1
 Scope-local_OnExit:
-  handy_tied_functions: 1
+  DAVIDNICO: 1
 Scrabble-Dict:
   ACG: 1
 Scrapar:
@@ -52889,7 +52883,7 @@ Search-GIN-Extract-AttributeIndexes:
 Search-GIN-Extract-ClassMap:
   KENTNL: 1
 Search-Glimpse:
-  Search: 1
+  AMBS: 1
 Search-Indexer:
   PJDEVOPS: 1
 Search-Indexer-Incremental-MD5:
@@ -52999,7 +52993,7 @@ Selenium-UserAgent:
 SelfLoader:
   SMUELLER: 1
 SelfUnzip:
-  modules: 1
+  ILYAZ: 1
 SemMed-Interface:
   AYMULYAR: 1
 SemVer:
@@ -53033,7 +53027,7 @@ Sentry-Raven:
 Sepia:
   SEANO: 1
 SeqDiff:
-  SeqDiff: 1
+  BLUECURIO: 1
 Ser-BinRPC:
   TMA: 1
 Sereal:
@@ -53135,7 +53129,7 @@ Set-IntervalTree:
 Set-Jaccard-SimilarityCoefficient:
   MLFISHER: 1
 Set-Light:
-  set: 1
+  TELS: 1
 Set-NestedGroups:
   ABARCLAY: 1
 Set-Object:
@@ -53403,7 +53397,7 @@ SimpleDBI:
 SimpleFlake:
   JEGADE: 1
 SimpleProcess:
-  SimpleProcess: 1
+  TEDK: 1
 SimpleR-Reshape:
   ABBYPAN: 1
 SimpleR-Reshape-ChartData:
@@ -53565,7 +53559,7 @@ Snapforce-API:
 Sniffer-HTTP:
   CORION: 1
 Snort-Rule:
-  Snort: 1
+  SAXJAZMAN: 1
 Snowball-Norwegian:
   ASKSH: 1
 Snowball-Swedish:
@@ -53625,7 +53619,7 @@ Socket6:
 SocketIO-Emitter:
   TORITSUYO: 1
 Softref:
-  modules: 1
+  ILYAZ: 1
 Software-Catalog:
   PERLANCAR: 1
 Software-GenoScan:
@@ -53677,7 +53671,7 @@ Software-Release:
 Software-Release-Watch:
   PERLANCAR: 1
 Sofu:
-  sofu: 1
+  MALUKU: 1
 SoggyOnion:
   IAN: 1
 SolarBeam:
@@ -53693,7 +53687,7 @@ Solaris-DeviceTree:
 Solaris-Kvm:
   AGOLOMSH: 1
 Solaris-Lgrp:
-  Solaris: 1
+  AKOLB: 1
 Solaris-MIB2:
   AGOLOMSH: 1
 Solaris-Modinfo:
@@ -53715,7 +53709,7 @@ Solaris-Vmem:
 Solaris-loadavg:
   AGOLOMSH: 1
 Solr:
-  Solr: 1
+  GARAFOLA: 1
 Solstice:
   MCRAWFOR: 1
 Solution:
@@ -53783,7 +53777,7 @@ Sort-Maker:
 Sort-Merge:
   JMASTROS: 1
 Sort-MergeSort:
-  modules: 1
+  MUIR: 1
 Sort-MultipleFields:
   DCANTRELL: 1
 Sort-Naturally:
@@ -54035,7 +54029,7 @@ Squid-Guard:
 Sslscan-Parser:
   JABRA: 1
 Stable-Module:
-  Module: 1
+  INA: 1
 Stack-Persistent:
   KESTEB: 1
 StackTrace-HiPerf:
@@ -54045,7 +54039,7 @@ Stackato-Stackrad:
 Stacktrace-Configurable:
   OPI: 1
 StanzaFile:
-  stanzafile: 1
+  MUNROER: 1
 Starch:
   BLUEFEET: 1
 Starch-Plugin-Net-Statsd:
@@ -54238,7 +54232,6 @@ Statistics-R:
   FANGLY: 1
 Statistics-R-IO:
   DAVOR: 1
-  Statistics-R-IO: 1
 Statistics-ROC:
   HAKESTLER: 1
 Statistics-RVector:
@@ -54366,9 +54359,9 @@ Stow:
 Str-Filter:
   TSC: 1
 StrNum.pm:
-  trees: 1
+  TOMC: 1
 StrTree.pm:
-  trees: 1
+  TOMC: 1
 Strategic-Wiki:
   INGY: 1
 Strava-GPX:
@@ -54376,7 +54369,7 @@ Strava-GPX:
 Stream:
   GARY: 1
 Stream-Aggregate:
-  modules: 1
+  MUIR: 1
 Stream-Buffered:
   DOY: 1
 Stream-Reader:
@@ -54390,7 +54383,7 @@ Strehler-Element-Extra:
 Strehler-RSS:
   CYMON: 1
 Strict-Perl:
-  Perl: 1
+  INA: 1
 String-Alignment:
   CLSUNG: 1
 String-Any-Extensions:
@@ -54418,7 +54411,7 @@ String-BufferStack:
 String-CP1251:
   ROWAA: 1
 String-CRC:
-  modules: 1
+  MUIR: 1
 String-CRC-Cksum:
   AHAMM: 1
 String-CRC32:
@@ -54620,7 +54613,7 @@ String-Random-NiceURL:
 String-Range-Expand:
   MITHUN: 1
 String-Replace:
-  String-Replace: 1
+  MATHIAS: 1
 String-RewritePrefix:
   RJBS: 1
 String-Rexx:
@@ -54696,7 +54689,7 @@ String-Thai-Segmentation:
 String-ToIdentifier-EN:
   RKITOVER: 1
 String-Tokeniser:
-  String: 1
+  AMBS: 1
 String-Tokenizer:
   STEVAN: 1
 String-Tools:
@@ -54760,7 +54753,7 @@ Stump:
 StupidMarkov:
   JTGANS: 1
 StupidTree.pm:
-  trees: 1
+  TOMC: 1
 Su:
   LOTTZ: 1
 Sub-Alias:
@@ -55174,7 +55167,7 @@ Syntax-Highlight-Mason:
 Syntax-Highlight-Perl:
   JOHNSCA: 1
 Syntax-Highlight-Perl-Improved:
-  Syntax-Highlight-Perl-Improved-101: 1
+  DAVIDCYL: 1
 Syntax-Highlight-Perl6:
   AZAWAWI: 1
 Syntax-Highlight-RDF:
@@ -55376,13 +55369,13 @@ SysV-SharedMem:
 Sysadm-Install:
   MSCHILLI: 1
 SyslgScnDamn-Blacklist:
-  modules: 1
+  MUIR: 1
 SyslogScan:
   RHNELSON: 1
 SyslogScan-Daemon:
-  modules: 1
+  MUIR: 1
 SyslogScan-Daemon-SpamDetector:
-  modules: 1
+  MUIR: 1
 Sysstat-Sar:
   HEINCE: 1
 System-Command:
@@ -55940,7 +55933,7 @@ Task-Lego:
 Task-Lingua-Any-Numbers:
   BURAK: 1
 Task-Lingua-PT:
-  Lingua: 1
+  AMBS: 1
 Task-Litmus:
   SZABGAB: 1
 Task-Map-Tube:
@@ -56066,7 +56059,7 @@ Task-XNLSoar-Graphing:
 Task-Yeb:
   GETTY: 1
 TaskForest:
-  TaskForest: 1
+  ENOOR: 1
 Tasks:
   SERGEY: 1
 Taskwarrior-Kusarigama:
@@ -56102,7 +56095,7 @@ TeamCity-BuildMessages:
 TeamCity-Message:
   MAXMIND: 1
 Teamspeak:
-  Teamspeak: 1
+  MALETIN: 1
 Tee:
   DAGOLDEN: 1
 Telegram-Bot:
@@ -56831,7 +56824,7 @@ Term-GnuScreen:
 Term-GnuScreen-WindowArrayLike:
   TOKUBASS: 1
 Term-Gnuplot:
-  modules: 1
+  ILYAZ: 1
 Term-Highlight:
   RADKOV: 1
 Term-HiliteDiff:
@@ -56881,7 +56874,7 @@ Term-ReadLine-Event:
 Term-ReadLine-Gnu:
   HAYASHI: 1
 Term-ReadLine-Perl:
-  modules: 1
+  ILYAZ: 1
 Term-ReadLine-Perl5:
   ROCKY: 1
 Term-ReadLine-Simple:
@@ -56891,25 +56884,25 @@ Term-ReadLine-TTYtter:
 Term-ReadLine-Tiny:
   ORKUN: 1
 Term-ReadLine-Zoid:
-  Term-ReadLine-Zoid: 1
+  PARDUS: 1
 Term-ReadPassword:
   PHOENIX: 1
   SZABGAB: 1
 Term-Report:
   SHAYH: 1
 Term-RouterCLI:
-  Term-RouterCLI: 1
+  JORDAN: 1
 Term-Sample:
   JBRYAN: 1
 Term-Screen:
   JSTOWE: 1
-  Term-Screen: 1
+  TPABA: 1
 Term-Screen-Lite:
   MANWAR: 1
 Term-Screen-ReadLine:
   OESTERHOL: 1
 Term-Screen-Uni:
-  Term-Screen: 1
+  TPABA: 1
 Term-Screen-Wizard:
   OESTERHOL: 1
 Term-ScreenColor:
@@ -57040,7 +57033,7 @@ Test-Approx:
 Test-Approximate:
   TADEG: 1
 Test-AskAnExpert:
-  dists: 1
+  TRIZOR: 1
 Test-Assert:
   DEXTER: 1
 Test-Assertions:
@@ -57054,7 +57047,7 @@ Test-Attribute-AutoLevel:
 Test-AutoBuild:
   DANBERR: 1
 Test-AutoLoader:
-  NRGN: 1
+  BWARFIELD: 1
 Test-AutomationFramework:
   YWANGPERL: 1
 Test-BDD-Cucumber:
@@ -57427,7 +57420,7 @@ Test-Fixme:
 Test-Fixture-DBI:
   ZIGOROU: 1
 Test-Fixture-DBIC-Schema:
-  fixtures: 1
+  SCHWIGON: 1
 Test-Fixture-DBIxSkinny:
   NEKOKAK: 1
 Test-Fixture-KyotoTycoon:
@@ -57716,7 +57709,7 @@ Test-Mock-Signature:
 Test-Mock-Simple:
   TANK: 1
 Test-Mock-Test:
-  test: 1
+  SCHWIGON: 1
 Test-Mock-Time:
   POWERMAN: 1
 Test-Mock-Wrapper:
@@ -57818,7 +57811,7 @@ Test-Most:
 Test-Mountebank:
   DAGFINNR: 1
 Test-MultiFork:
-  modules: 1
+  MUIR: 1
 Test-MultiProcess:
   DBRIAN: 1
 Test-Name-FromLine:
@@ -57981,7 +57974,7 @@ Test-RandomCheck:
 Test-RandomResults:
   COG: 1
 Test-Ranger:
-  developer-tools: 1
+  XIONG: 1
 Test-Recent:
   MARKF: 1
 Test-RedisServer:
@@ -58117,7 +58110,7 @@ Test-Skip-UnlessExistsExecutable:
 Test-Slow:
   ZOUL: 1
 Test-Smart:
-  dists: 1
+  TRIZOR: 1
 Test-Smoke:
   ABELTJE: 1
 Test-Smoke-Database:
@@ -58165,7 +58158,7 @@ Test-SubCalls:
 Test-Subroutines:
   OLIVER: 1
 Test-Subs:
-  Test-Subs: 1
+  MATHIAS: 1
 Test-Subtests:
   BATLOCK: 1
 Test-Subunits:
@@ -58906,7 +58899,7 @@ Text-Header:
 Text-HikiDoc:
   KAWABATA: 1
 Text-Histogram:
-  text-histogram: 1
+  NEVES: 1
 Text-HistogramChart:
   MIKKOI: 1
 Text-Hoborg:
@@ -59113,7 +59106,7 @@ Text-NeatTemplate:
 Text-Netstring:
   JRAFTERY: 1
 Text-Ngram:
-  Text: 1
+  AMBS: 1
 Text-Ngramize:
   KUBINA: 1
 Text-Ngrams:
@@ -59264,7 +59257,7 @@ Text-Restructured-Writer-LibXML:
 Text-ResusciAnneparser:
   HOLLIE: 1
 Text-RewriteRules:
-  Text: 1
+  AMBS: 1
 Text-Roman:
   SYP: 1
 Text-Same:
@@ -59368,11 +59361,11 @@ Text-Statistics-Latin:
 Text-StemTagPOS:
   KUBINA: 1
 Text-StripAccents:
-  Text-StripAccents: 1
+  CCOLBOURN: 1
 Text-Striphigh:
   JPC: 1
 Text-Stripper:
-  Text: 1
+  BERA: 1
 Text-SuDocs:
   CFOUTS: 1
 Text-Summarize:
@@ -59424,7 +59417,7 @@ Text-Table-TinyColorWide:
 Text-Table-TinyWide:
   PERLANCAR: 1
 Text-Tabs+Wrap:
-  modules: 1
+  MUIR: 1
 Text-TabularDisplay:
   DARREN: 1
 Text-Tabulate:
@@ -59506,7 +59499,7 @@ Text-Tree:
 Text-TreeFile:
   JNK: 1
 Text-Trie:
-  modules: 1
+  ILYAZ: 1
 Text-Trim:
   MATTLAW: 1
 Text-Truncate:
@@ -59582,7 +59575,7 @@ Text-WordCounter:
 Text-WordDiff:
   DWHEELER: 1
 Text-WordGrams:
-  Text: 1
+  AMBS: 1
 Text-Wrap-Smart:
   SCHUBIGER: 1
 Text-Wrap-Smart-XS:
@@ -59720,7 +59713,7 @@ Thread-Pipeline:
 Thread-Pool:
   ELIZABETH: 1
 Thread-Pool-Simple:
-  Thread-Pool-Simple: 1
+  JWU: 1
 Thread-Queue:
   JDHEDDEN: 1
 Thread-Queue-Any:
@@ -59768,14 +59761,14 @@ Thread-Tie:
 Thread-Workers:
   PANIKAL: 1
 ThreadTree.pm:
-  trees: 1
+  TOMC: 1
 ThreatNet:
   ADAMK: 1
 ThreatNet-DATN2004:
   ADAMK: 1
 Thrift:
   GSLIN: 1
-  thrift: 1
+  JKING: 1
 Thrift-API-HiveClient:
   SSCAFFIDI: 1
 Thrift-API-HiveClient2:
@@ -59875,9 +59868,9 @@ Tickit-WidgetRole-Movable:
 Tickit-Widgets:
   PEVANS: 1
 TiddlyWeb-Wikrad:
-  TiddlyWeb: 1
+  CDENT: 1
 Tie-Alias:
-  handy_tied_functions: 1
+  DAVIDNICO: 1
 Tie-Alias-Array:
   DAVIDNICO: 1
 Tie-Alias-Handle:
@@ -60062,7 +60055,7 @@ Tie-FileSystem:
 Tie-Filehandle-Preempt-Stdin:
   JKEENAN: 1
 Tie-Filter:
-  Tie-Filter: 1
+  HANENKAMP: 1
 Tie-FlatFile-Array:
   MUMIAW: 1
 Tie-FlipFlop:
@@ -60072,7 +60065,7 @@ Tie-Form:
 Tie-FormA:
   SOFTDIA: 1
 Tie-Function:
-  handy_tied_functions: 1
+  DAVIDNICO: 1
 Tie-GHash:
   LBROCARD: 1
 Tie-Google:
@@ -60110,7 +60103,7 @@ Tie-Hash-Attribute:
 Tie-Hash-Blame:
   RHOELZ: 1
 Tie-Hash-Cache-MRU:
-  handy_tied_functions: 1
+  DAVIDNICO: 1
 Tie-Hash-Cannabinol:
   DAVECROSS: 1
 Tie-Hash-Check:
@@ -60184,7 +60177,7 @@ Tie-InsertOrderHash:
 Tie-IntegerArray:
   SAMTREGAR: 1
 Tie-Ispell:
-  Tie: 1
+  AMBS: 1
 Tie-IxHash:
   CHORNY: 1
 Tie-IxHash-Easy:
@@ -60202,7 +60195,7 @@ Tie-LLHash:
 Tie-Layers:
   SOFTDIA: 1
 Tie-LazyFunction:
-  handy_tied_functions: 1
+  DAVIDNICO: 1
 Tie-LazyList:
   GENIE: 1
 Tie-LevelDB:
@@ -60242,7 +60235,7 @@ Tie-OffsetArray:
 Tie-OneOff:
   NOBULL: 1
 Tie-PagedArray:
-  dataware: 1
+  KARB: 1
 Tie-PerFH:
   PINYAN: 1
 Tie-Persistent:
@@ -60252,7 +60245,7 @@ Tie-Pick:
 Tie-Plural:
   ROODE: 1
 Tie-Proxy-Changes:
-  tie-proxy-changes: 1
+  MALUKU: 1
 Tie-Proxy-Hash:
   FLUFFY: 1
 Tie-PureDB:
@@ -60260,7 +60253,7 @@ Tie-PureDB:
 Tie-Queue:
   FDULAU: 1
 Tie-Quicksort-Lazy:
-  handy_tied_functions: 1
+  DAVIDNICO: 1
 Tie-RDBM-Cached:
   HARRY: 1
 Tie-REHash:
@@ -60310,7 +60303,7 @@ Tie-Scalar-Timestamp:
 Tie-Scalar-Transactional:
   UARUN: 1
 Tie-ScalarFile:
-  Tie: 1
+  LINC: 1
 Tie-SecureHash:
   ZARQUON: 1
 Tie-Select:
@@ -60378,7 +60371,7 @@ Tie-TwoLevelHash:
 Tie-UnionHash:
   ZAG: 1
 Tie-UrlEncoder:
-  handy_tied_functions: 1
+  DAVIDNICO: 1
 Tie-Util:
   SPROUT: 1
 Tie-VecArray:
@@ -60530,7 +60523,7 @@ Time-Out:
 Time-PT:
   PIP: 1
 Time-ParseDate:
-  modules: 1
+  MUIR: 1
 Time-Period:
   PBOYD: 1
 Time-Piece:
@@ -60646,7 +60639,7 @@ TimeConvert:
 TimeDate:
   GBARR: 1
 TimeOut.pm:
-  timeouts: 1
+  TOMC: 1
 TimeSeries-AdaptiveFilter:
   BINARY: 1
 Timed-Logger:
@@ -60666,7 +60659,7 @@ Timer-Simple:
 Timestamp-Simple:
   SHOOP: 1
 Tinder-API:
-  Tinder: 1
+  XXGHOSTXX: 1
 Tinker:
   INGY: 1
 Tinker-App-YAMLTesting:
@@ -60680,7 +60673,7 @@ TinyDNS-Reader:
 TinyMake:
   WALTERH: 1
 TipJar-MTA:
-  SMTP: 1
+  DAVIDNICO: 1
 TipJar-MTA-queue:
   DAVIDNICO: 1
 TipJar-Template-fill:
@@ -60688,7 +60681,7 @@ TipJar-Template-fill:
 TipJar-fields:
   DAVIDNICO: 1
 TipJar-sparse-array-perl-hashbased:
-  handy_tied_functions: 1
+  DAVIDNICO: 1
 Titanium:
   MARKSTOS: 1
 Tivoli:
@@ -60704,7 +60697,7 @@ Tk-AbstractCanvas:
 Tk-Action:
   JQUELIN: 1
 Tk-ActivityBar:
-  Tk-ActivityBar: 1
+  AARDEN: 1
 Tk-Airports:
   RENEEB: 1
 Tk-ApplicationNest:
@@ -60837,7 +60830,7 @@ Tk-Graph:
 Tk-GraphItems:
   LAMPRECHT: 1
 Tk-GraphViz:
-  GraphViz: 1
+  JGS: 1
 Tk-GridColumns:
   MATTHIASW: 1
 Tk-GridEntry:
@@ -60952,11 +60945,11 @@ Tk-PerlInheritanceTree:
 Tk-PerlMethodList:
   LAMPRECHT: 1
 Tk-Pgplot:
-  Tk-Pgplot: 1
+  RKACKLEY: 1
 Tk-Playlist:
   CRAKRJACK: 1
 Tk-PlotDataset:
-  Tk-PlotDataset: 1
+  ITDEV: 1
 Tk-Pod:
   SREZIC: 1
 Tk-PodSingle:
@@ -61136,7 +61129,7 @@ Toadfarm-Plugin-Letsencrypt:
 Toggle:
   CVLIBRARY: 1
 Told-Client:
-  Told-Client: 1
+  PETERSHAW: 1
 TomTom-WEBFLEET-Connect:
   IMIOSGA: 1
 Tool-Bench:
@@ -61189,7 +61182,6 @@ Tree-BK:
   NGLENN: 1
 Tree-BPTree:
   HANENKAMP: 1
-  Tree-BPTree: 1
 Tree-Base:
   EWILHELM: 1
 Tree-Binary:
@@ -61314,7 +61306,7 @@ Tree-Walker:
 Tree-XPathEngine:
   MIROD: 1
 TreeHash.pm:
-  trees: 1
+  TOMC: 1
 TreePath:
   DAB: 1
 TreePath-Role-Graph:
@@ -61425,7 +61417,7 @@ Twiggy-Prefork-Metabolic:
 Twiggy-TLS:
   UNDEF: 1
 Twiki-Upload:
-  modules: 1
+  MUIR: 1
 Twitter-API:
   MMIMS: 1
 Twitter-Badge:
@@ -61535,7 +61527,7 @@ UI-Dialog:
 UI-Dialog-Util-MenuControl:
   AHERNIT: 1
 UI-KeyboardLayout:
-  modules: 1
+  ILYAZ: 1
 UI-Notify-Cocoa:
   ATHREEF: 1
 UID:
@@ -61866,13 +61858,13 @@ Unamerican-Truth:
 UnazuSan:
   SONGMU: 1
 UnderScore.pm:
-  ties: 1
+  TOMC: 1
 UnderscoreJS:
   VTI: 1
 Unexpected:
-  unexpected: 1
+  PJFL: 1
 UniLog:
-  UniLog: 1
+  TPABA: 1
 Unicode-BiDiRule:
   NEZUMI: 1
 Unicode-Block:
@@ -61896,7 +61888,7 @@ Unicode-CheckUTF8-PP:
 Unicode-Collate:
   SADAHIRO: 1
 Unicode-Collate-Standard-V3_1_1:
-  collate: 1
+  BBENNETT: 1
 Unicode-Debug:
   TOBYINK: 1
 Unicode-Decompose:
@@ -62016,7 +62008,7 @@ Unix-Groups:
 Unix-Login:
   NWIGER: 1
 Unix-Lsof:
-  Unix-Lsof: 1
+  MARCB: 1
 Unix-Mgt:
   MIKO: 1
 Unix-Mknod:
@@ -62088,7 +62080,7 @@ User-getgrouplist:
 UserDB:
   DENDORY: 1
 Usergrid-Client:
-  Usergrid: 1
+  ANURADHA: 1
 Util-Any:
   KTAT: 1
 Util-CommandLine:
@@ -62129,7 +62121,6 @@ VCS-Hms:
   GMCCAR: 1
 VCS-LibCVS:
   DISSENT: 1
-  VCSLibCVS: 1
 VCS-Lite:
   BARBIE: 1
 VCS-Lite-Repository:
@@ -62155,17 +62146,17 @@ VCfs:
 VFS:
   SHEVEK: 1
 VFSsimple:
-  VFSsimple: 1
+  NANARDON: 1
 VFSsimple-Drv-File:
-  VFSsimple: 1
+  NANARDON: 1
 VFSsimple-Drv-Ftp:
-  VFSsimple: 1
+  NANARDON: 1
 VFSsimple-Drv-Http:
-  VFSsimple: 1
+  NANARDON: 1
 VFSsimple-Drv-Iso:
-  VFSsimple: 1
+  NANARDON: 1
 VFSsimple-Drv-Rsync:
-  VFSsimple: 1
+  NANARDON: 1
 VIC:
   VIKAS: 1
 VIM-Packager:
@@ -62187,7 +62178,7 @@ VKontakte-API:
 VM-CloudAtCost:
   LITTLEURL: 1
 VM-Dreamer:
-  Dreamer: 1
+  WDS: 1
 VM-EC2:
   LDS: 1
 VM-EC2-Instance-Located:
@@ -62271,33 +62262,33 @@ VSS:
 VT-API:
   SANTERI: 1
 VUser-Email:
-  vuser: 1
+  RSMITH: 1
 VUser-Email-Postfix-SQL:
-  vuser: 1
+  RSMITH: 1
 VUser-ExtLib-SQL:
-  vuser: 1
+  RSMITH: 1
 VUser-Firewall:
-  vuser: 1
+  RSMITH: 1
 VUser-Google-Api:
-  vuser: 1
+  RSMITH: 1
 VUser-Google-Apps:
-  vuser: 1
+  RSMITH: 1
 VUser-Install:
-  vuser: 1
+  RSMITH: 1
 VUser-Radius:
-  vuser: 1
+  RSMITH: 1
 VUser-Radius-Acct:
-  vuser: 1
+  RSMITH: 1
 VUser-Radius-Acct-SQL:
-  vuser: 1
+  RSMITH: 1
 VUser-Radius-SQL:
-  vuser: 1
+  RSMITH: 1
 VUser-SpamAssassin:
-  vuser: 1
+  RSMITH: 1
 VUser-SpamAssassin-SQL:
-  vuser: 1
+  RSMITH: 1
 VUser-SquirrelMail:
-  vuser: 1
+  RSMITH: 1
 Valence:
   FRACTAL: 1
 Validate-NPI:
@@ -62327,7 +62318,7 @@ Value-Canary:
 Value-Object:
   GWADEJ: 1
 ValueTree.pm:
-  trees: 1
+  TOMC: 1
 Var-Extract:
   MNUNBERG: 1
 Var-Pairs:
@@ -62429,7 +62420,7 @@ Video-Capture-V4l-Imager:
 Video-Delay:
   SKIM: 1
 Video-Dumper-QuickTime:
-  Video-Dumper-QuickTime: 1
+  GRANDPA: 1
 Video-FFmpeg:
   RANDOMMAN: 1
 Video-Filename:
@@ -62445,7 +62436,7 @@ Video-Generator:
 Video-Info:
   ALLENDAY: 1
 Video-Info-Quicktime_PL:
-  video-info: 1
+  SHOGE: 1
 Video-Manip:
   HVC: 1
 Video-OpenQuicktime:
@@ -62487,7 +62478,7 @@ VirtualFS-ISO9660:
 Visio:
   AAKHTER: 1
 VisionDB-Read:
-  VisionDB: 1
+  SKUPSY: 1
 VisualDreams-Yubikey-online:
   WILDCHILD: 1
 Vitacilina:
@@ -62521,7 +62512,7 @@ Vroom-Vroom-Link:
 W3C-LinkChecker:
   SCOP: 1
 W3C-LogValidator:
-  LogValidator: 1
+  OLIVIERT: 1
 W3C-SOAP:
   IVANWILLS: 1
 W3C-SOAP-WADL:
@@ -62529,7 +62520,7 @@ W3C-SOAP-WADL:
 W3C-Validator-Server:
   JHTHORSEN: 1
 W3C-XHTML-HTMLCompatChecker:
-  XHTML: 1
+  OLIVIERT: 1
 W3C-XMLSchema:
   ROBINS: 1
 WAIT:
@@ -62672,11 +62663,11 @@ WWW-Billomat:
 WWW-Bing-Search:
   EDAM: 1
 WWW-BitTorrent:
-  WWW: 1
+  AMITSIDES: 1
 WWW-Bizowie-API:
   AQUILINA: 1
 WWW-Bleep:
-  WWW-Bleep-092: 1
+  SNEVINE: 1
 WWW-Blog-Identify:
   MCEGLOWS: 1
 WWW-Blog-Metadata:
@@ -62736,7 +62727,7 @@ WWW-CheckHTML:
 WWW-CheckPad:
   TAKESHIGE: 1
 WWW-ClickSource:
-  WWW-ClickSource: 1
+  HOREA: 1
 WWW-CloudCreator:
   SOCK: 1
 WWW-Codeguard:
@@ -62913,7 +62904,7 @@ WWW-Form-UrlEncoded:
 WWW-Form-UrlEncoded-XS:
   KAZEBURO: 1
 WWW-Formspring:
-  Formspring: 1
+  WORR: 1
 WWW-Foursquare:
   FXZUZ: 1
 WWW-FreeProxy:
@@ -63171,7 +63162,7 @@ WWW-Mechanize-Firefox-Extended:
 WWW-Mechanize-FormFiller:
   CORION: 1
 WWW-Mechanize-Frames:
-  frames: 1
+  CPANPERL: 1
 WWW-Mechanize-GZip:
   PEGI: 1
 WWW-Mechanize-Meta:
@@ -63291,7 +63282,7 @@ WWW-Netflix-API:
 WWW-NewsReach:
   AJCT: 1
 WWW-Newzbin:
-  Newzbin: 1
+  CHRISN: 1
 WWW-NicoVideo:
   HIRATA: 1
 WWW-NicoVideo-Download:
@@ -63449,7 +63440,7 @@ WWW-RenRen:
 WWW-Resource:
   IWOODHEAD: 1
 WWW-Restaurant-Menu:
-  www-restaurant-menu: 1
+  JMEHNLE: 1
 WWW-RiotGames-LeagueOfLegends:
   ARCANEZ: 1
 WWW-RoboCop:
@@ -63482,7 +63473,7 @@ WWW-SFDC:
   ABRETT: 1
   TMINNEY: 1
 WWW-SMS:
-  WWW-SMS: 1
+  EIM: 1
 WWW-SVT-Play:
   OLOF: 1
 WWW-Salesforce:
@@ -63706,7 +63697,7 @@ WWW-Selenium-NetworkCapture:
 WWW-Selenium-Utils:
   LUKEC: 1
 WWW-Session:
-  WWW-Session: 1
+  HOREA: 1
 WWW-Session-Storage-Redis:
   JGOFF: 1
 WWW-SherlockSearch:
@@ -63810,7 +63801,7 @@ WWW-SlideShare:
 WWW-SmartSheet:
   SZABGAB: 1
 WWW-SmugMug-API:
-  SmugMug: 1
+  FLOWERYSO: 1
 WWW-Socrata:
   OVENMAN: 1
 WWW-SolveMedia:
@@ -63872,7 +63863,7 @@ WWW-TVMaze:
 WWW-TWSMS:
   SNOWFLY: 1
 WWW-TWikiClient:
-  twikiclient: 1
+  SCHWIGON: 1
 WWW-Tabela-Fipe:
   HERNAN: 1
 WWW-TamperData:
@@ -64119,7 +64110,7 @@ Weather-NOAA-Alert:
 Weather-NOAA-GFS:
   LBECCHI: 1
 Weather-NWS:
-  weather: 1
+  JMCADA: 1
 Weather-OpenWeatherMap:
   AVENJ: 1
 Weather-TW:
@@ -64160,13 +64151,13 @@ Web-ChromeLogger:
 Web-Compare:
   BAYASHI: 1
 Web-Components:
-  web-components: 1
+  PJFL: 1
 Web-Components-Role-Email:
-  web-components-role-email: 1
+  PJFL: 1
 Web-Components-Role-TT:
-  web-components-role-tt: 1
+  PJFL: 1
 Web-ComposableRequest:
-  web-composablerequest: 1
+  PJFL: 1
 Web-Dash:
   TOSHIOITO: 1
 Web-DataService:
@@ -64299,7 +64290,7 @@ WebNano-Controller-CRUD:
 WebNano-Renderer-TT:
   ZBY: 1
 WebPresence-Profile:
-  WebPresence: 1
+  DODGER: 1
 WebPrototypes-Registration:
   ZBY: 1
 WebPrototypes-ResetPass:
@@ -64636,7 +64627,7 @@ WebService-Instapaper:
 WebService-Intercom:
   RCONOVER: 1
 WebService-Jamendo:
-  webservicejamendo: 1
+  CGLASS: 1
 WebService-Jamendo-RSS:
   JLOPHTY: 1
 WebService-JotForm:
@@ -64912,7 +64903,7 @@ WebService-SendInBlue:
 WebService-SetlistFM:
   HONDALLIC: 1
 WebService-ShiftPlanning:
-  ShiftPlanning: 1
+  RINGERC: 1
 WebService-Shippo:
   CPANIC: 1
 WebService-Shutterstock:
@@ -64997,7 +64988,7 @@ WebService-TaobaoIP:
 WebService-TeamCity:
   MAXMIND: 1
 WebService-Technorati:
-  WebService-Technorati: 1
+  IKALLEN: 1
 WebService-Tesco-API:
   WBASSON: 1
 WebService-TestSystem:
@@ -65035,7 +65026,7 @@ WebService-Ustream-API:
 WebService-Validator-CSS-W3C:
   BJOERN: 1
 WebService-Validator-Feed-W3C:
-  WebService: 1
+  OLIVIERT: 1
 WebService-Validator-HTML-W3C:
   STRUAN: 1
 WebService-Validator-HTML-W3C-Fast:
@@ -65049,7 +65040,7 @@ WebService-Viddler:
 WebService-VigLink:
   PHRED: 1
 WebService-VirusTotal:
-  WebService: 1
+  SORBS: 1
 WebService-Vtiger:
   MONSENHOR: 1
 WebService-Vultr:
@@ -65143,7 +65134,7 @@ Webservice-OVH:
 Webservice-Shipment:
   JBERGER: 1
 Website:
-  Template: 1
+  RETOH: 1
 Weewar:
   JROCKWAY: 1
 Weightbot-API:
@@ -65173,7 +65164,7 @@ WiX3:
 Widget-Meta:
   DWHEELER: 1
 Wifi:
-  Wifi: 1
+  SHY: 1
 Wifi-WpaCtrl:
   FLORA: 1
 Wight:
@@ -65235,7 +65226,7 @@ Win32-ADRecurse:
 Win32-ADSIEnumerations:
   BINGOS: 1
 Win32-API:
-  Win32: 1
+  BULKDD: 1
 Win32-API-Interface:
   ESSKAR: 1
 Win32-API-OutputDebugString:
@@ -65340,7 +65331,7 @@ Win32-FileOp:
 Win32-FileSecurity:
   JDB: 1
 Win32-FileSystem-Watcher:
-  FSWatcher: 1
+  ANK: 1
 Win32-FileTime:
   ROBAU: 1
 Win32-Filenames:
@@ -65358,15 +65349,15 @@ Win32-Fonts-Info:
 Win32-GUI:
   ACALPINI: 1
   KMX: 1
-  Win32-GUI: 1
+  ROBERTMAY: 1
 Win32-GUI-HyperLink:
-  Win32-GUI-HyperLink: 1
+  ROBERTMAY: 1
 Win32-GUI-OpenGLFrame:
-  Win32-GUI-OPenGLFrame: 1
+  ROBERTMAY: 1
 Win32-GUI-Scintilla:
   LROCHER: 1
 Win32-GUI-SplashScreen:
-  Win32-GUI-SplashScreen: 1
+  ROBERTMAY: 1
 Win32-GUI-XMLBuilder:
   BSDZ: 1
 Win32-GUIRobot:
@@ -65446,9 +65437,9 @@ Win32-MMF:
 Win32-MSAgent:
   JOUKE: 1
 Win32-MSI-DB:
-  MSI: 1
+  PMAREK: 1
 Win32-MSI-HighLevel:
-  Win32-MSI-HighLevel: 1
+  GRANDPA: 1
 Win32-MailboxGUID:
   BINGOS: 1
 Win32-MediaPlayer:
@@ -65498,7 +65489,7 @@ Win32-OLE-OPC:
 Win32-Outlook-IAF:
   PCZERKAS: 1
 Win32-PEFile:
-  Win32-PEFile: 1
+  GRANDPA: 1
 Win32-Palm-Install:
   JOHANVDB: 1
 Win32-ParseWords:
@@ -65508,7 +65499,7 @@ Win32-PerfCounter:
 Win32-PerfLib:
   JDB: 1
 Win32-PerfMon:
-  Perl56: 1
+  GLENSMALL: 1
 Win32-PerlExe-Env:
   THW: 1
 Win32-PingICMP:
@@ -65656,7 +65647,7 @@ Win32-Utilization:
 Win32-VBScript:
   KEICHNER: 1
 Win32-VisualStyles:
-  Win32-VisualStyles: 1
+  ROBERTMAY: 1
 Win32-Wallpaper:
   ACCARDO: 1
 Win32-Watir:
@@ -65817,7 +65808,7 @@ WordPress-Base-MediaObject:
 WordPress-CLI:
   LEOCHARRE: 1
 WordPress-Plugin-WallFlower:
-  WordPress-Plugin: 1
+  CJCOLLIER: 1
 WordPress-Post:
   LEOCHARRE: 1
 WordPress-XMLRPC:
@@ -65846,7 +65837,7 @@ Worlogog-Incident:
 Worlogog-Restart:
   MAUKE: 1
 Wraith:
-  Wraith-012: 1
+  WITHERING: 1
 Wrangler:
   CLIPLAND: 1
 Wrap-Sub:
@@ -66470,7 +66461,7 @@ XML-Handler-Trees:
 XML-Handler-YAWriter:
   KRAEHE: 1
 XML-Hash:
-  XML-Hash: 1
+  BRACETA: 1
 XML-Hash-LX:
   MONS: 1
 XML-Hash-XS:
@@ -66478,11 +66469,11 @@ XML-Hash-XS:
 XML-IDMEF:
   ERWAN: 1
 XML-IODEF:
-  iodef: 1
+  SAXJAZMAN: 1
 XML-IODEF-PhraudReport:
-  iodef: 1
+  SAXJAZMAN: 1
 XML-IODEF-Simple:
-  iodef: 1
+  SAXJAZMAN: 1
 XML-Jing:
   BYUTRG: 1
 XML-Lenient:
@@ -66538,7 +66529,7 @@ XML-Loy:
 XML-Maker:
   VADIMT: 1
 XML-Malware:
-  malware: 1
+  SAXJAZMAN: 1
 XML-Merge:
   PIP: 1
 XML-MetaGenerator:
@@ -66634,7 +66625,7 @@ XML-Quote:
 XML-RAI:
   TIMA: 1
 XML-RAI-Enclosure:
-  xml_rai_enclosure: 1
+  JMCADA: 1
 XML-RAI-TrackBack:
   TIMA: 1
 XML-RDB:
@@ -66867,7 +66858,7 @@ XML-WriterX-Simple:
 XML-XBEL:
   ASCOPE: 1
 XML-XCES:
-  XML: 1
+  AMBS: 1
 XML-XForms-Validate:
   JWALT: 1
 XML-XML2JSON:
@@ -66877,8 +66868,8 @@ XML-XMLWriter:
 XML-XMetaL:
   HEMA: 1
 XML-XOXO:
+  IKALLEN: 1
   TIMA: 1
-  XMLXOXO: 1
 XML-XPath:
   MANWAR: 1
 XML-XPath-Diver:
@@ -66968,7 +66959,7 @@ XS-Tutorial:
 XS-Writer:
   MSCHWERN: 1
 XSConfig:
-  other: 1
+  BULKDD: 1
 XSDSQL:
   BLX: 1
 XSLT-Cache:
@@ -67171,7 +67162,7 @@ Yahoo-Search:
 Yahoo-Weather:
   KCHAITAN: 1
 Yakuake-Sessions:
-  yakuake-sessions: 1
+  PJFL: 1
 YamlTime:
   INGY: 1
 YamlTime-Extension-Git:
@@ -67496,7 +67487,7 @@ base:
 base-Glob:
   CHRIS: 1
 basis:
-  basis: 1
+  SKNPP: 1
 bbobj:
   DONSHANK: 1
 beancounter:
@@ -67524,7 +67515,7 @@ boolean:
 business-bban:
   MARCC: 1
 business-payroll:
-  payroll: 1
+  JAMESP: 1
 bw-db:
   BILLW: 1
 bw-lib:
@@ -67546,7 +67537,7 @@ cPanel-TaskQueue:
 cPanel-nginx:
   IDIVISION: 1
 c_plus_plus:
-  modules: 1
+  ILYAZ: 1
 callee:
   MARCEL: 1
 capitalization:
@@ -67578,7 +67569,7 @@ cmt-libchm:
 cnutt-feed:
   IDERRICK: 1
 code-UnifdefPlus:
-  Preprocessor: 1
+  JULVR: 1
 colorize-stderr:
   PERLANCAR: 1
 combine:
@@ -67616,7 +67607,7 @@ cppref:
 crap:
   BINGOS: 1
 criticism:
-  criticism: 1
+  THALJEF: 1
 csv2txt:
   SANFACE: 1
 csvgrep:
@@ -67638,7 +67629,7 @@ dan:
 data-trie:
   HAMMOND: 1
 dateheader:
-  SMTP: 1
+  DAVIDNICO: 1
 dbd_rdb:
   ASTILLER: 1
 dbsh:
@@ -67741,7 +67732,7 @@ eperl:
 eris:
   BLHOTSKY: 1
 etext:
-  etext: 1
+  ILYAZ: 1
 everywhere:
   AWWAIID: 1
 ex-caution:
@@ -67811,7 +67802,7 @@ foundation:
 fp:
   STEVAN: 1
 frogbak:
-  scripts: 1
+  MUIR: 1
 ftndb:
   JAME: 1
 fwlog:
@@ -67825,7 +67816,7 @@ gd-rppng:
 generics:
   STEVAN: 1
 genomics:
-  test: 1
+  LTBOOTS: 1
 gestalt:
   KITE: 1
 getaddress:
@@ -67936,7 +67927,7 @@ junoscript-perl:
 khatgallery:
   RUBYKAT: 1
 kif:
-  kif: 1
+  MUNROER: 1
 lambda:
   EWILHELM: 1
 lanman:
@@ -67944,7 +67935,7 @@ lanman:
 last:
   DMUEY: 1
 lastlog.pm:
-  SYS: 1
+  TOMC: 1
 later:
   ERWAN: 1
 latest:
@@ -68217,7 +68208,7 @@ package-compute:
 pake:
   IZI: 1
 pamlyn:
-  wychung: 1
+  WYCHUNG: 1
 pantheon:
   KAN: 1
 parent:
@@ -68289,7 +68280,7 @@ perl-Apache2-LogUtil:
 perl-GPS:
   SREZIC: 1
 perl-Hardware-UPS-Perl:
-  UPS: 1
+  DRULENSOT: 1
 perl-ldap:
   MARSCHAP: 1
 perl-lisp:
@@ -68402,11 +68393,11 @@ ppt:
 pragma:
   JJORE: 1
 pref.pm:
-  rprint: 1
+  TOMC: 1
 prefork:
   ADAMK: 1
 promessaging-MRS:
-  MRS: 1
+  ETWOECMA: 1
 provide:
   BELDEN: 1
 proxyhunter:
@@ -68524,7 +68515,7 @@ shit:
 signatures:
   ETHER: 1
 simplexmlparse:
-  simpleXMLParse: 1
+  DGRAHAM: 1
 sitemapper:
   AWRIGLEY: 1
 smg:
@@ -68536,9 +68527,9 @@ smokeinabox:
 snaked:
   KOHTS: 1
 sofu:
-  sofu: 1
+  MALUKU: 1
 sofu-config:
-  sofu-config: 1
+  MALUKU: 1
 sol-inst:
   CHRISJ: 1
 spamcupNG:
@@ -68616,11 +68607,11 @@ threads-variables-reap:
 threads-variables-reap-attr:
   REHSACK: 1
 tic:
-  tic: 1
+  PSIONIC: 1
 tidyview:
   LEIF: 1
 tie-multikeyinsertorderhash:
-  tie-multikeyinsertorderhash: 1
+  MALUKU: 1
 tinyperl:
   GMPASSOS: 1
 tk-zinc:
@@ -68726,15 +68717,15 @@ vms-user:
 vpopmail:
   SSCANLON: 1
 vptk_w:
-  vptk: 1
+  FELIXL: 1
 vsDB:
   JHINKLE: 1
 vsoapd:
-  vuser: 1
+  RSMITH: 1
 vstadaf:
   TOSTI: 1
 vuser:
-  vuser: 1
+  RSMITH: 1
 w3mir:
   JANL: 1
 warnings-DynamicScope:
@@ -68770,7 +68761,7 @@ win:
 win32-guidgen:
   JOEPHAYES: 1
 win32-snarl:
-  Win32-Snarl: 1
+  ABERNDT: 1
 with:
   VPIT: 1
 worky:
