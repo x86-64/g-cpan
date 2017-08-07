@@ -7,6 +7,10 @@ EAPI=6
 DIST_AUTHOR="[% c.author %]"
 DIST_VERSION="[% c.version.replace('^v','') %]"
 DIST_A="[% c.src_filename %]"
+[%- b = c.author.substr(0,1) _ "/" _ c.author.substr(0,2) _ "/" _ c.author _ "/" _ c.src_filename %]
+[%- IF b != c.src_uri %]
+SRC_URI="mirror://cpan/authors/id/[% c.src_uri %]"
+[%- END %]
 inherit perl-module
 
 DESCRIPTION="[% c.description | remove('[\r\n"]+') %]"
