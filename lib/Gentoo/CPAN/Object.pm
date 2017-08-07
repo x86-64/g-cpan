@@ -186,7 +186,7 @@ sub author {
 	my ($self) = @_;
 	
 	my $dirname = dirname($self->src_uri);
-	return (split m@/@, $dirname)[-1];
+	return (split m@/@, $dirname)[2];
 }
 
 sub extension {
