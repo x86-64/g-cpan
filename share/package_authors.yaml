@@ -2125,8 +2125,6 @@ Alien-Autotools:
   PLICEASE: 1
 Alien-BWIPP:
   MCNEWTON: 1
-Alien-Base-Dino:
-  PLICEASE: 1
 Alien-Base-ModuleBuild:
   PLICEASE: 1
 Alien-BatToExeConverter:
@@ -4458,6 +4456,10 @@ App-Devel-MAT-Explorer-GTK:
   PEVANS: 1
 App-Devmode2:
   IVANWILLS: 1
+App-DiffCPANReleases:
+  PERLANCAR: 1
+App-DiffTarballs:
+  PERLANCAR: 1
 App-Difio-OpenShift:
   ATODOROV: 1
 App-Difio-dotCloud:
@@ -4903,6 +4905,8 @@ App-LoadWatcher:
   KAZEBURO: 1
 App-Locker:
   BES: 1
+App-LogGerUtils:
+  PERLANCAR: 1
 App-LogStats:
   BAYASHI: 1
 App-MBUtiny:
@@ -5188,6 +5192,8 @@ App-PS1:
   IVANWILLS: 1
 App-PYX2XML:
   SKIM: 1
+App-Packager:
+  JV: 1
 App-Padadoy:
   VOJ: 1
 App-PandoraPerisope:
@@ -5909,6 +5915,8 @@ App-elsquid:
   SALVOR: 1
 App-envfile:
   XAICRON: 1
+App-envset:
+  PERLANCAR: 1
 App-epoch:
   TRON: 1
 App-errno:
@@ -6312,8 +6320,6 @@ App-todoist:
 App-tonematch:
   WLMB: 1
 App-toposort:
-  PERLANCAR: 1
-App-tracepm:
   PERLANCAR: 1
 App-trash-u:
   PERLANCAR: 1
@@ -8590,6 +8596,8 @@ Blatte:
   BOBG: 1
 Blatte-HTML:
   BOBG: 1
+Blessed-Merge:
+  LNATION: 1
 Blikistan:
   LUKEC: 1
 Blio:
@@ -9960,6 +9968,8 @@ CECALA:
   CECALA: 1
 CEDict-Pinyin:
   DAVAZ: 1
+CFDI:
+  AMONTES: 1
 CGI:
   LEEJO: 1
 CGI-ACL:
@@ -13310,6 +13320,8 @@ Cellular-Automata-Wolfram:
   JMFREEMAN: 1
 CentOS-Releases:
   PERLANCAR: 1
+Centrifugo-Client:
+  BCHAUVET: 1
 Ceph-Rados:
   KILINRAX: 1
 Ceph-RadosGW-Admin:
@@ -17675,6 +17687,8 @@ DR-Money:
   UNERA: 1
 DR-Msgpuck:
   UNERA: 1
+DR-R:
+  UNERA: 1
 DR-SunDown:
   UNERA: 1
 DR-Tarantool:
@@ -18284,6 +18298,8 @@ Dancer2-Plugin-OAuth2-Server:
   PVIGIER: 1
 Dancer2-Plugin-PageHistory:
   SYSPETE: 1
+Dancer2-Plugin-Paginator:
+  MANWAR: 1
 Dancer2-Plugin-ParamKeywords:
   CAMSPI: 1
 Dancer2-Plugin-ParamTypes:
@@ -19421,6 +19437,8 @@ Data-Sah-Util-Type:
   PERLANCAR: 1
 Data-Sample-SQL-Slow:
   MUDDYDIXN: 1
+Data-Save-S3:
+  PRBRENAN: 1
 Data-Scan:
   JDDPAUSE: 1
 Data-Scroller:
@@ -21869,6 +21887,8 @@ Dist-Zilla-App-Command-dumpphases:
   KENTNL: 1
 Dist-Zilla-App-Command-dumpwith:
   KENTNL: 1
+Dist-Zilla-App-Command-installdeps:
+  DBOOK: 1
 Dist-Zilla-App-Command-kwalitee:
   NEILB: 1
 Dist-Zilla-App-Command-lsplugins:
@@ -23894,6 +23914,8 @@ Error-Pure-Output-Tags-HTMLCustomPage:
   SKIM: 1
 Error-Pure-Output-Text:
   SKIM: 1
+Error-ROP:
+  PAUDIRAC: 1
 Error-Return:
   MARCEL: 1
 Error-Subclasses:
@@ -25175,6 +25197,8 @@ File-Shuffle:
   KUBINA: 1
 File-Signature:
   JEREMY: 1
+File-SimpleDiff:
+  KAAVANNAN: 1
 File-SimpleQuery:
   BTP: 1
 File-Sip:
@@ -26028,6 +26052,8 @@ FormValidator-Simple-ProfileManager-YAML:
   HORIUCHI: 1
 FormValidator-Simple-Struct:
   SATOSIN: 1
+FormValidator-Tiny:
+  HANENKAMP: 1
 Format-Human-Bytes:
   SEWI: 1
 Format-LongNumber:
@@ -28249,6 +28275,8 @@ Grep-Query:
   KNTH: 1
 Grid-Coord:
   OSFAMERON: 1
+Grid-Layout:
+  RENE: 1
 Grid-Request:
   VICTORF: 1
 Grid-Transform:
@@ -31521,6 +31549,8 @@ Inferno-RegMgr:
   POWERMAN: 1
 InfluxDB:
   HIROSE: 1
+InfluxDB-Client:
+  TBE: 1
 InfluxDB-HTTP:
   RAPHI: 1
 InfluxDB-LineProtocol:
@@ -32317,6 +32347,8 @@ Kephra:
   LICHTKIND: 1
 Kernel-Keyring:
   LIXMAL: 1
+Kevin-Command-kevin:
+  FERREIRA: 1
 Keybinder:
   DMOL: 1
 KeyedMutex:
@@ -35499,7 +35531,13 @@ Log-ger-Layout-Pattern:
   PERLANCAR: 1
 Log-ger-Layout-YAML:
   PERLANCAR: 1
-Log-ger-LevelFromEnv:
+Log-ger-Level-FromEnv:
+  PERLANCAR: 1
+Log-ger-Level-Like-LogAny:
+  PERLANCAR: 1
+Log-ger-Level-Like-PythonLogging:
+  PERLANCAR: 1
+Log-ger-Level-Like-RubyLogging:
   PERLANCAR: 1
 Log-ger-Like-Log4perl:
   PERLANCAR: 1
@@ -35532,6 +35570,10 @@ Log-ger-Output-SimpleFile:
 Log-ger-Output-Syslog:
   PERLANCAR: 1
 Log-ger-Plugin-OptAway:
+  PERLANCAR: 1
+Log-ger-Plugin-WithWarn:
+  PERLANCAR: 1
+Log-ger-Screen-ColorSchemes-Kuler:
   PERLANCAR: 1
 Log-ger-UseDataDump:
   PERLANCAR: 1
@@ -38820,6 +38862,8 @@ Mojo-Server-FastCGI:
   ARPI: 1
 Mojo-Server-Morbo-Backend-Inotify:
   MRAMBERG: 1
+Mojo-Server-Threaded:
+  TOMK: 1
 Mojo-SinaWeibo:
   SJDY: 1
 Mojo-SlackRTM:
@@ -38976,6 +39020,8 @@ MojoX-UserAgent:
   ACAJOU: 1
 MojoX-UserAgent-Throttler:
   POWERMAN: 1
+MojoX-Validate-Util:
+  RSAVAGE: 1
 MojoX-ValidateHeadLinks:
   RSAVAGE: 1
 MojoX-Validator:
@@ -39223,6 +39269,8 @@ Mojolicious-Plugin-FormValidator:
   BPMEDLEY: 1
 Mojolicious-Plugin-FormValidatorLazy:
   JAMADAM: 1
+Mojolicious-Plugin-Future:
+  DBOOK: 1
 Mojolicious-Plugin-Geo:
   ELBOW: 1
 Mojolicious-Plugin-Google-Cloud-UserAgent:
@@ -41200,7 +41248,7 @@ Net-Amazon-DVD2IMDB:
 Net-Amazon-DirectConnect:
   CDANIEL: 1
 Net-Amazon-DynamoDB:
-  UKAUTZ: 1
+  FREW: 1
 Net-Amazon-DynamoDB-HighlyAvailable:
   KABLAMO: 1
 Net-Amazon-DynamoDB-Lite:
@@ -42115,7 +42163,7 @@ Net-Hadoop-DFSAdmin-ReportParser:
 Net-Hadoop-HuahinManager:
   TAGOMORIS: 1
 Net-Hadoop-Oozie:
-  BURAK: 1
+  BOOK: 1
 Net-Hadoop-WebHDFS:
   BURAK: 1
 Net-Hadoop-WebHDFS-LWP:
@@ -42869,8 +42917,6 @@ Net-Rendezvous-Publish-Backend-Avahi:
   IOANR: 1
 Net-Rendezvous-Publish-Backend-Howl:
   RCLAMP: 1
-Net-Rest-Generic:
-  SUTT: 1
 Net-Rexec:
   FKOLODNY: 1
 Net-Rexster-Client:
@@ -53188,6 +53234,8 @@ Sex:
   MSCHWERN: 1
 Shadowd-Connector:
   ZITHB: 1
+Shannon-Entropy:
+  LNATION: 1
 Shape-RegularPolygon:
   KZTOMITA: 1
 Shardcache-Client:
@@ -54160,6 +54208,8 @@ Statistics-Distributions-Bartlett:
   DSTH: 1
 Statistics-Distributions-GTest:
   DSTH: 1
+Statistics-Diversity-Shannon:
+  GENE: 1
 Statistics-EfficiencyCI:
   SMUELLER: 1
 Statistics-FactorAnalysis:
@@ -58737,6 +58787,8 @@ Text-DoubleMetaphone:
   MAURICE: 1
 Text-DoubleMetaphone_PP:
   THEOK: 1
+Text-DumbTemplate:
+  PERLANCAR: 1
 Text-ECSV:
   JKUTEJ: 1
 Text-EP3:
@@ -60082,6 +60134,10 @@ Tie-Handle-Flock:
   IHEFFNER: 1
 Tie-Handle-HTTP:
   HACHI: 1
+Tie-Handle-LogAny:
+  PERLANCAR: 1
+Tie-Handle-LogGer:
+  PERLANCAR: 1
 Tie-Handle-Offset:
   DAGOLDEN: 1
 Tie-Handle-Scalar:
@@ -62823,8 +62879,6 @@ WWW-Discogs:
   MGASEK: 1
 WWW-DistroWatch-ReleaseInfo:
   PERLANCAR: 1
-WWW-Docker:
-  SUTT: 1
 WWW-DoctypeGrabber:
   ZOFFIX: 1
 WWW-DoingItWrongCom-RandImage:
@@ -64351,6 +64405,8 @@ WebService-Azure-Search:
   SYSCAT: 1
 WebService-BBC-MusicCharts:
   DWILSON: 1
+WebService-BR-AceitaFacil:
+  DLIMA: 1
 WebService-BR-Vindi:
   DLIMA: 1
 WebService-Backlog:
@@ -67835,6 +67891,8 @@ grepmail:
   DCOPPIT: 1
 grok:
   HINRIK: 1
+grpc-xs:
+  JOYREX: 1
 head-r:
   ONEGRAY: 1
 helm:
