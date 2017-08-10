@@ -15,6 +15,7 @@ no_package:
   '^perl\d\.\d+': 1
   'perl542b': 1
   'perlMIF': 1
+  'netenumdnsserver5': 1
 no_version:
   '5foldCV': 1
   'Apache-AxKit-Language-Svg2AnyFormat': 1
