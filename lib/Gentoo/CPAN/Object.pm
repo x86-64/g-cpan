@@ -186,6 +186,7 @@ sub author {
 	my ($self) = @_;
 	
 	my $dirname = dirname($self->src_uri);
+	$dirname =~ s/authors\/id\///sgi;
 	return (split m@/@, $dirname)[2];
 }
 
