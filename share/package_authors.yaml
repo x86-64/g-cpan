@@ -2125,8 +2125,6 @@ Alien-Autotools:
   PLICEASE: 1
 Alien-BWIPP:
   MCNEWTON: 1
-Alien-Base-Dino:
-  PLICEASE: 1
 Alien-Base-ModuleBuild:
   PLICEASE: 1
 Alien-BatToExeConverter:
@@ -2138,6 +2136,10 @@ Alien-Build:
 Alien-Build-Git:
   PLICEASE: 1
 Alien-Build-MB:
+  PLICEASE: 1
+Alien-Build-Plugin-Build-CMake:
+  PLICEASE: 1
+Alien-Build-Plugin-Build-Make:
   PLICEASE: 1
 Alien-Build-Plugin-Decode-SourceForge:
   PLICEASE: 1
@@ -2307,6 +2309,8 @@ Alien-OTR:
   AJGB: 1
 Alien-OpenSSL:
   JOHANNA: 1
+Alien-OpenSSL-Static:
+  OLIVER: 1
 Alien-OpenVcdiff:
   FRACTAL: 1
 Alien-PCRE2:
@@ -2339,6 +2343,8 @@ Alien-SDL2:
   KTHAKORE: 1
 Alien-SFML:
   JAKEANQ: 1
+Alien-SNMP-MAXTC:
+  OLIVER: 1
 Alien-SVN:
   MSCHWERN: 1
 Alien-SamTools:
@@ -2401,6 +2407,8 @@ Alien-bison:
   PLICEASE: 1
 Alien-bz2-Installer:
   PLICEASE: 1
+Alien-cmake3:
+  PLICEASE: 1
 Alien-curl:
   PLICEASE: 1
 Alien-ffmpeg:
@@ -2459,6 +2467,8 @@ Alien-wxWidgets:
   MDOOTSON: 1
 Alien-xz:
   PLICEASE: 1
+Alien-zlib-Static:
+  OLIVER: 1
 Align-Sequence:
   WOLLMERS: 1
 AlignAid:
@@ -2873,8 +2883,6 @@ AnyEvent-Gearman:
   MELO: 1
 AnyEvent-Gearman-WorkerPool:
   KHS: 1
-AnyEvent-Git-Wrapper:
-  PLICEASE: 1
 AnyEvent-Gmail-Feed:
   SEKIMURA: 1
 AnyEvent-GnuPG:
@@ -4408,8 +4416,6 @@ App-CreateRandomFile:
   PERLANCAR: 1
 App-CreateSelfSignedSSLCert:
   PERLANCAR: 1
-App-CreateSparseFile:
-  PERLANCAR: 1
 App-Critique:
   STEVAN: 1
 App-Cronjob:
@@ -4458,6 +4464,10 @@ App-Devel-MAT-Explorer-GTK:
   PEVANS: 1
 App-Devmode2:
   IVANWILLS: 1
+App-DiffCPANReleases:
+  PERLANCAR: 1
+App-DiffTarballs:
+  PERLANCAR: 1
 App-Difio-OpenShift:
   ATODOROV: 1
 App-Difio-dotCloud:
@@ -4903,6 +4913,8 @@ App-LoadWatcher:
   KAZEBURO: 1
 App-Locker:
   BES: 1
+App-LogGerUtils:
+  PERLANCAR: 1
 App-LogStats:
   BAYASHI: 1
 App-MBUtiny:
@@ -5188,6 +5200,8 @@ App-PS1:
   IVANWILLS: 1
 App-PYX2XML:
   SKIM: 1
+App-Packager:
+  JV: 1
 App-Padadoy:
   VOJ: 1
 App-PandoraPerisope:
@@ -5305,6 +5319,8 @@ App-Prove-RunScripts:
   YSASAKI: 1
 App-Prove-Watch:
   CREIN: 1
+App-ProveDeps:
+  PERLANCAR: 1
 App-ProveWithPrereqsOnly:
   PERLANCAR: 1
 App-Provision-Tiny:
@@ -5821,6 +5837,8 @@ App-combinesheets:
   TULSOFT: 1
 App-contenttype:
   BAYASHI: 1
+App-corruptor:
+  PERLANCAR: 1
 App-count:
   YAKEX: 1
 App-cpackage:
@@ -5889,6 +5907,10 @@ App-devmode:
   IVANWILLS: 1
 App-diffdir:
   IVANWILLS: 1
+App-diffwc:
+  PERLANCAR: 1
+App-diffwc-ColorSchemes-Kuler:
+  PERLANCAR: 1
 App-digestarchive:
   HOLLY: 1
 App-distfind:
@@ -5909,6 +5931,8 @@ App-elsquid:
   SALVOR: 1
 App-envfile:
   XAICRON: 1
+App-envset:
+  PERLANCAR: 1
 App-epoch:
   TRON: 1
 App-errno:
@@ -5925,6 +5949,8 @@ App-financeta:
   VIKAS: 1
 App-find2perl:
   LEONT: 1
+App-finddo:
+  PERLANCAR: 1
 App-fsql:
   PERLANCAR: 1
 App-gcal:
@@ -6125,8 +6151,6 @@ App-p5stack:
   SMASH: 1
 App-padconsole:
   LDIDRY: 1
-App-palien:
-  PLICEASE: 1
 App-pandoc-preprocess:
   DBR: 1
 App-passmanager:
@@ -6312,8 +6336,6 @@ App-todoist:
 App-tonematch:
   WLMB: 1
 App-toposort:
-  PERLANCAR: 1
-App-tracepm:
   PERLANCAR: 1
 App-trash-u:
   PERLANCAR: 1
@@ -6903,6 +6925,8 @@ Attach-Stuff:
   TMURRAY: 1
 Attean:
   GWILLIAMS: 1
+AtteanX-Compatibility-Trine:
+  KJETILK: 1
 AtteanX-Endpoint:
   GWILLIAMS: 1
 AtteanX-Query-Cache:
@@ -8230,8 +8254,6 @@ BikePower:
   SREZIC: 1
 BinTree.pm:
   TOMC: 1
-Binary-Heap-Array:
-  PRBRENAN: 1
 Binary-Heap-Search:
   PRBRENAN: 1
 Binary.pm:
@@ -8590,6 +8612,8 @@ Blatte:
   BOBG: 1
 Blatte-HTML:
   BOBG: 1
+Blessed-Merge:
+  LNATION: 1
 Blikistan:
   LUKEC: 1
 Blio:
@@ -9714,6 +9738,8 @@ Business-RO-CIF:
   STEFANS: 1
 Business-RO-CNP:
   TEDDY: 1
+Business-RO-TaxDeduction:
+  STEFANS: 1
 Business-RU:
   GERMANS: 1
 Business-RealEx:
@@ -9960,6 +9986,8 @@ CECALA:
   CECALA: 1
 CEDict-Pinyin:
   DAVAZ: 1
+CFDI:
+  AMONTES: 1
 CGI:
   LEEJO: 1
 CGI-ACL:
@@ -11606,6 +11634,8 @@ Calendar-Bahai:
 Calendar-CSA:
   KJALB: 1
 Calendar-Gregorian:
+  MANWAR: 1
+Calendar-Hebrew:
   MANWAR: 1
 Calendar-Hijri:
   MANWAR: 1
@@ -13310,6 +13340,8 @@ Cellular-Automata-Wolfram:
   JMFREEMAN: 1
 CentOS-Releases:
   PERLANCAR: 1
+Centrifugo-Client:
+  BCHAUVET: 1
 Ceph-Rados:
   KILINRAX: 1
 Ceph-RadosGW-Admin:
@@ -15719,6 +15751,8 @@ CracTools:
   JAUDOUX: 1
 Crane:
   TEMOON: 1
+CrawlerCommons-RobotRulesParser:
+  AKROBINSN: 1
 Criteria-Compile:
   ALUCAS: 1
 Crixa:
@@ -17003,6 +17037,8 @@ DBIx-Config:
   SYMKAT: 1
 DBIx-Connect-FromConfig:
   SAPER: 1
+DBIx-Connect-MySQL:
+  PERLANCAR: 1
 DBIx-Connection:
   ADRIANWIT: 1
 DBIx-Connector:
@@ -17675,6 +17711,8 @@ DR-Money:
   UNERA: 1
 DR-Msgpuck:
   UNERA: 1
+DR-R:
+  UNERA: 1
 DR-SunDown:
   UNERA: 1
 DR-Tarantool:
@@ -17695,10 +17733,6 @@ DSlib:
   MADZ: 1
 DTL-Fast:
   HURRICUP: 1
-DVB-Carousel:
-  NABOJ: 1
-DVB-Epg:
-  NABOJ: 1
 DVD-Read:
   NANARDON: 1
 DWH_File:
@@ -18284,6 +18318,8 @@ Dancer2-Plugin-OAuth2-Server:
   PVIGIER: 1
 Dancer2-Plugin-PageHistory:
   SYSPETE: 1
+Dancer2-Plugin-Paginator:
+  MANWAR: 1
 Dancer2-Plugin-ParamKeywords:
   CAMSPI: 1
 Dancer2-Plugin-ParamTypes:
@@ -19421,6 +19457,8 @@ Data-Sah-Util-Type:
   PERLANCAR: 1
 Data-Sample-SQL-Slow:
   MUDDYDIXN: 1
+Data-Save-S3:
+  PRBRENAN: 1
 Data-Scan:
   JDDPAUSE: 1
 Data-Scroller:
@@ -21257,8 +21295,6 @@ Device-Chip-TSL256x:
   PEVANS: 1
 Device-Chip-nRF24L01P:
   PEVANS: 1
-Device-Cisco-NXAPI:
-  PUGLET: 1
 Device-Conrad-RelaisControl:
   NOHA: 1
 Device-CurrentCost:
@@ -21869,6 +21905,8 @@ Dist-Zilla-App-Command-dumpphases:
   KENTNL: 1
 Dist-Zilla-App-Command-dumpwith:
   KENTNL: 1
+Dist-Zilla-App-Command-installdeps:
+  DBOOK: 1
 Dist-Zilla-App-Command-kwalitee:
   NEILB: 1
 Dist-Zilla-App-Command-lsplugins:
@@ -23894,6 +23932,8 @@ Error-Pure-Output-Tags-HTMLCustomPage:
   SKIM: 1
 Error-Pure-Output-Text:
   SKIM: 1
+Error-ROP:
+  PAUDIRAC: 1
 Error-Return:
   MARCEL: 1
 Error-Subclasses:
@@ -24152,6 +24192,8 @@ ExtUtils-CBuilder:
   AMBS: 1
 ExtUtils-CChecker:
   PEVANS: 1
+ExtUtils-CXX:
+  MLEHMANN: 1
 ExtUtils-Config:
   LEONT: 1
 ExtUtils-Constant:
@@ -25175,6 +25217,8 @@ File-Shuffle:
   KUBINA: 1
 File-Signature:
   JEREMY: 1
+File-SimpleDiff:
+  KAAVANNAN: 1
 File-SimpleQuery:
   BTP: 1
 File-Sip:
@@ -25242,7 +25286,7 @@ File-TTX:
 File-Tabular:
   DAMI: 1
 File-Tabular-Web:
-  DAMI: 1
+  PJDEVOPS: 1
 File-Tail:
   MGRABNAR: 1
 File-Tail-App:
@@ -25395,9 +25439,17 @@ FileUpload-Filename:
   FMERGES: 1
 Filename-Archive:
   PERLANCAR: 1
+Filename-Audio:
+  PERLANCAR: 1
 Filename-Backup:
   PERLANCAR: 1
 Filename-Compressed:
+  PERLANCAR: 1
+Filename-Image:
+  PERLANCAR: 1
+Filename-Media:
+  PERLANCAR: 1
+Filename-Video:
   PERLANCAR: 1
 Filesys-Btrfs:
   KOLYA: 1
@@ -26028,6 +26080,8 @@ FormValidator-Simple-ProfileManager-YAML:
   HORIUCHI: 1
 FormValidator-Simple-Struct:
   SATOSIN: 1
+FormValidator-Tiny:
+  HANENKAMP: 1
 Format-Human-Bytes:
   SEWI: 1
 Format-LongNumber:
@@ -27607,8 +27661,6 @@ Getopt-Long-Subcommand-Dump:
   PERLANCAR: 1
 Getopt-Long-Subcommand-Util:
   PERLANCAR: 1
-Getopt-Long-Util:
-  PERLANCAR: 1
 Getopt-LongUsage:
   RGLAUE: 1
 Getopt-Lucid:
@@ -28249,6 +28301,8 @@ Grep-Query:
   KNTH: 1
 Grid-Coord:
   OSFAMERON: 1
+Grid-Layout:
+  RENE: 1
 Grid-Request:
   VICTORF: 1
 Grid-Transform:
@@ -30789,7 +30843,7 @@ IO-Stty:
 IO-Tail:
   HIO: 1
 IO-Tee:
-  KENSHAN: 1
+  NEILB: 1
 IO-Termios:
   PEVANS: 1
 IO-TieCombine:
@@ -30998,8 +31052,6 @@ IPC-Signal-Force:
   ZEFRAM: 1
 IPC-SysV:
   MHX: 1
-IPC-System-Options:
-  PERLANCAR: 1
 IPC-System-Simple:
   PJF: 1
 IPC-Transit:
@@ -31866,6 +31918,8 @@ JSON-PP-Compat5005:
   MAKAMAKA: 1
 JSON-PP-Compat5006:
   MAKAMAKA: 1
+JSON-PP-Monkey:
+  FERREIRA: 1
 JSON-Parse:
   BKB: 1
 JSON-Path:
@@ -32317,6 +32371,8 @@ Kephra:
   LICHTKIND: 1
 Kernel-Keyring:
   LIXMAL: 1
+Kevin-Command-kevin:
+  FERREIRA: 1
 Keybinder:
   DMOL: 1
 KeyedMutex:
@@ -35107,6 +35163,8 @@ Log-Cabin:
   JORVIS: 1
 Log-Channel:
   JMAY: 1
+Log-Colorize-Helper:
+  VVELOX: 1
 Log-Common:
   MHAMILTON: 1
 Log-Contextual:
@@ -35475,6 +35533,8 @@ Log-WarnDie:
   NHORNE: 1
 Log-WithCallbacks:
   DAOTOAD: 1
+Log-err:
+  PERLANCAR: 1
 Log-ger:
   PERLANCAR: 1
 Log-ger-App:
@@ -35499,7 +35559,13 @@ Log-ger-Layout-Pattern:
   PERLANCAR: 1
 Log-ger-Layout-YAML:
   PERLANCAR: 1
-Log-ger-LevelFromEnv:
+Log-ger-Level-FromEnv:
+  PERLANCAR: 1
+Log-ger-Level-Like-LogAny:
+  PERLANCAR: 1
+Log-ger-Level-Like-PythonLogging:
+  PERLANCAR: 1
+Log-ger-Level-Like-RubyLogging:
   PERLANCAR: 1
 Log-ger-Like-Log4perl:
   PERLANCAR: 1
@@ -35532,6 +35598,10 @@ Log-ger-Output-SimpleFile:
 Log-ger-Output-Syslog:
   PERLANCAR: 1
 Log-ger-Plugin-OptAway:
+  PERLANCAR: 1
+Log-ger-Plugin-WithWarn:
+  PERLANCAR: 1
+Log-ger-Screen-ColorSchemes-Kuler:
   PERLANCAR: 1
 Log-ger-UseDataDump:
   PERLANCAR: 1
@@ -36000,6 +36070,8 @@ MT-Import-Mbox:
   ASCOPE: 1
 MTDB:
   THOMSON: 1
+MToken:
+  ABALAMA: 1
 MVC-Neaf:
   KHEDIN: 1
 MVS-JESFTP:
@@ -36593,6 +36665,8 @@ Map-Tube-Kiev:
   SKIM: 1
 Map-Tube-KoelnBonn:
   GWS: 1
+Map-Tube-Kolkatta:
+  MANWAR: 1
 Map-Tube-KualaLumpur:
   SKIM: 1
 Map-Tube-London:
@@ -37199,8 +37273,6 @@ Math-MatrixSparse:
   KESINGER: 1
 Math-ModInt:
   MHASCH: 1
-Math-Modular-SquareRoot:
-  PRBRENAN: 1
 Math-MultiplicationTable:
   PMINT: 1
 Math-NV:
@@ -37929,6 +38001,8 @@ Mewsoft-Pagination:
   MEWSOFT: 1
 Mhash:
   FKUO: 1
+Mic:
+  ARUNBEAR: 1
 Mica:
   SISYPHUS: 1
 Micro-Container:
@@ -38210,6 +38284,8 @@ Module-CPANTS-Site:
   DOMM: 1
 Module-CPANfile:
   MIYAGAWA: 1
+Module-CPANfile-FromDistINI:
+  PERLANCAR: 1
 Module-Changes:
   MARCEL: 1
 Module-Changes-ADAMK:
@@ -38820,6 +38896,8 @@ Mojo-Server-FastCGI:
   ARPI: 1
 Mojo-Server-Morbo-Backend-Inotify:
   MRAMBERG: 1
+Mojo-Server-Threaded:
+  TOMK: 1
 Mojo-SinaWeibo:
   SJDY: 1
 Mojo-SlackRTM:
@@ -38968,14 +39046,14 @@ MojoX-Session-Store-Redis:
   BLUET: 1
 MojoX-Transaction-WebSocket76:
   DIONYS: 1
-MojoX-Tree:
-  KOSTYA: 1
 MojoX-Twitter:
   FAYLAND: 1
 MojoX-UserAgent:
   ACAJOU: 1
 MojoX-UserAgent-Throttler:
   POWERMAN: 1
+MojoX-Validate-Util:
+  RSAVAGE: 1
 MojoX-ValidateHeadLinks:
   RSAVAGE: 1
 MojoX-Validator:
@@ -39223,6 +39301,8 @@ Mojolicious-Plugin-FormValidator:
   BPMEDLEY: 1
 Mojolicious-Plugin-FormValidatorLazy:
   JAMADAM: 1
+Mojolicious-Plugin-Future:
+  DBOOK: 1
 Mojolicious-Plugin-Geo:
   ELBOW: 1
 Mojolicious-Plugin-Google-Cloud-UserAgent:
@@ -39845,6 +39925,8 @@ MooX-Roles-Pluggable:
   REHSACK: 1
 MooX-SetOnce:
   HAARG: 1
+MooX-ShortHas:
+  MITHALDU: 1
 MooX-Singleton:
   AJGB: 1
 MooX-StrictConstructor:
@@ -40714,6 +40796,8 @@ MsqlCGI:
   ALTITUDE: 1
 MtCmd:
   RATL: 1
+Mu:
+  MITHALDU: 1
 Muck:
   MIKE: 1
 Muldis-D-Manual:
@@ -41200,7 +41284,7 @@ Net-Amazon-DVD2IMDB:
 Net-Amazon-DirectConnect:
   CDANIEL: 1
 Net-Amazon-DynamoDB:
-  UKAUTZ: 1
+  FREW: 1
 Net-Amazon-DynamoDB-HighlyAvailable:
   KABLAMO: 1
 Net-Amazon-DynamoDB-Lite:
@@ -41272,6 +41356,8 @@ Net-AnimeNewsNetwork-Encyclopedia:
   RIYWO: 1
 Net-AozoraBunko:
   BAYASHI: 1
+Net-AppDynamics-REST:
+  AKALINUX: 1
 Net-AppNotifications:
   YANNK: 1
 Net-Appliance-Logical:
@@ -41625,6 +41711,8 @@ Net-DNS-QueryID:
   MIKER: 1
 Net-DNS-RR-SRV-Helper:
   VVELOX: 1
+Net-DNS-Resolver-Mock:
+  MBRADSHAW: 1
 Net-DNS-Resolver-Programmable:
   BIGPRESH: 1
 Net-DNS-SEC:
@@ -42115,7 +42203,7 @@ Net-Hadoop-DFSAdmin-ReportParser:
 Net-Hadoop-HuahinManager:
   TAGOMORIS: 1
 Net-Hadoop-Oozie:
-  BURAK: 1
+  BOOK: 1
 Net-Hadoop-WebHDFS:
   BURAK: 1
 Net-Hadoop-WebHDFS-LWP:
@@ -42869,8 +42957,6 @@ Net-Rendezvous-Publish-Backend-Avahi:
   IOANR: 1
 Net-Rendezvous-Publish-Backend-Howl:
   RCLAMP: 1
-Net-Rest-Generic:
-  SUTT: 1
 Net-Rexec:
   FKOLODNY: 1
 Net-Rexster-Client:
@@ -45049,7 +45135,7 @@ PGObject-Type-ByteString:
 PGObject-Type-Composite:
   EINHVERFR: 1
 PGObject-Type-DateTime:
-  EINHVERFR: 1
+  EHUELS: 1
 PGObject-Type-JSON:
   EINHVERFR: 1
 PGObject-Util-BulkLoad:
@@ -46934,6 +47020,8 @@ PasswordMonkey:
   MSCHILLI: 1
 Passwords:
   PHIPSTER: 1
+Patch-chdir-Print:
+  PERLANCAR: 1
 PatchReader:
   TMANNERM: 1
 Path-Abstract:
@@ -47829,6 +47917,8 @@ PerlX-ArraySkip-XS:
   TOBYINK: 1
 PerlX-Assert:
   TOBYINK: 1
+PerlX-AsyncAwait:
+  MSTROUT: 1
 PerlX-Maybe:
   TOBYINK: 1
 PerlX-Maybe-XS:
@@ -50593,6 +50683,8 @@ RT-Extension-CommentOnCreate:
   ALEXMV: 1
 RT-Extension-ConditionalCustomFields:
   GIBUS: 1
+RT-Extension-ConfigInDatabase:
+  BPS: 1
 RT-Extension-Converter:
   FALCONE: 1
 RT-Extension-CreateByProblemType:
@@ -51188,6 +51280,8 @@ Regexp-Fields:
   GRAZZ: 1
 Regexp-Flow:
   PERRETTDL: 1
+Regexp-Functions-chmod_et_al:
+  JKEENAN: 1
 Regexp-Genex:
   BOWMANBS: 1
 Regexp-Grammars:
@@ -51248,6 +51342,8 @@ Regexp-Pattern:
   PERLANCAR: 1
 Regexp-Pattern-CPAN:
   PERLANCAR: 1
+Regexp-Pattern-License:
+  JONASS: 1
 Regexp-Pattern-RegexpCommon:
   PERLANCAR: 1
 Regexp-Pattern-Twitter:
@@ -52568,6 +52664,8 @@ Sah-Schemas-Email:
   PERLANCAR: 1
 Sah-Schemas-Examples:
   PERLANCAR: 1
+Sah-Schemas-Float:
+  PERLANCAR: 1
 Sah-Schemas-Int:
   PERLANCAR: 1
 Sah-Schemas-Net:
@@ -53188,6 +53286,8 @@ Sex:
   MSCHWERN: 1
 Shadowd-Connector:
   ZITHB: 1
+Shannon-Entropy:
+  LNATION: 1
 Shape-RegularPolygon:
   KZTOMITA: 1
 Shardcache-Client:
@@ -54160,6 +54260,8 @@ Statistics-Distributions-Bartlett:
   DSTH: 1
 Statistics-Distributions-GTest:
   DSTH: 1
+Statistics-Diversity-Shannon:
+  GENE: 1
 Statistics-EfficiencyCI:
   SMUELLER: 1
 Statistics-FactorAnalysis:
@@ -57014,6 +57116,8 @@ Test-AgainstSchema:
   RJRAY: 1
 Test-Aggregate:
   RWSTAUNER: 1
+Test-Alien-CPP:
+  PLICEASE: 1
 Test-AllModules:
   BAYASHI: 1
 Test-AnyEvent-Time:
@@ -58737,6 +58841,8 @@ Text-DoubleMetaphone:
   MAURICE: 1
 Text-DoubleMetaphone_PP:
   THEOK: 1
+Text-DumbTemplate:
+  PERLANCAR: 1
 Text-ECSV:
   JKUTEJ: 1
 Text-EP3:
@@ -59119,7 +59225,7 @@ Text-Normalize-NACO:
   BRICAS: 1
 Text-Number:
   FIXLER: 1
-Text-Numbers-100:
+Text-Numbers:
   PRBRENAN: 1
 Text-NumericData:
   THORGIS: 1
@@ -59574,6 +59680,8 @@ Text-WordCounter:
   ZBY: 1
 Text-WordDiff:
   DWHEELER: 1
+Text-WordDiff-Unified-ANSIColor:
+  PERLANCAR: 1
 Text-WordGrams:
   AMBS: 1
 Text-Wrap-Smart:
@@ -59620,6 +59728,8 @@ Text-YAWikiFormater:
   NEVES: 1
 Text-Yats:
   HDIAS: 1
+Text-Yeti-Table:
+  FERREIRA: 1
 Text-ZPL:
   AVENJ: 1
 Text-sprintfn:
@@ -60082,6 +60192,10 @@ Tie-Handle-Flock:
   IHEFFNER: 1
 Tie-Handle-HTTP:
   HACHI: 1
+Tie-Handle-LogAny:
+  PERLANCAR: 1
+Tie-Handle-LogGer:
+  PERLANCAR: 1
 Tie-Handle-Offset:
   DAGOLDEN: 1
 Tie-Handle-Scalar:
@@ -61729,6 +61843,8 @@ URI-redis:
   MENDEL: 1
 URI-tag:
   MIYAGAWA: 1
+URI-tcp:
+  JASEI: 1
 URI-tel:
   TBR: 1
 URI-urn-uuid:
@@ -62722,6 +62838,8 @@ WWW-Chain:
   GETTY: 1
 WWW-Challonge:
   KIRBY: 1
+WWW-CheckGzip:
+  BKB: 1
 WWW-CheckHTML:
   SILLYMOOS: 1
 WWW-CheckPad:
@@ -62823,8 +62941,6 @@ WWW-Discogs:
   MGASEK: 1
 WWW-DistroWatch-ReleaseInfo:
   PERLANCAR: 1
-WWW-Docker:
-  SUTT: 1
 WWW-DoctypeGrabber:
   ZOFFIX: 1
 WWW-DoingItWrongCom-RandImage:
@@ -64351,6 +64467,8 @@ WebService-Azure-Search:
   SYSCAT: 1
 WebService-BBC-MusicCharts:
   DWILSON: 1
+WebService-BR-AceitaFacil:
+  DLIMA: 1
 WebService-BR-Vindi:
   DLIMA: 1
 WebService-Backlog:
@@ -66908,6 +67026,8 @@ XML-YYLex:
   BOEWE: 1
 XML-miniXQL:
   MSERGEANT: 1
+XMLDB:
+  DEDMEDVED: 1
 XMLNews-HTMLTemplate:
   DMEGG: 1
 XMLNews-Meta:
@@ -66946,6 +67066,8 @@ XRI-Resolution-Lite:
   ZIGOROU: 1
 XS-Assert:
   GFUJI: 1
+XS-Check:
+  BKB: 1
 XS-MRO-Compat:
   GFUJI: 1
 XS-MagicExt:
@@ -67602,6 +67724,8 @@ cpan-listchanges:
   MIYAGAWA: 1
 cpan-outdated:
   DOLMEN: 1
+cppAdaptive1:
+  MFJONKER: 1
 cppref:
   KAZUHO: 1
 crap:
@@ -67835,6 +67959,8 @@ grepmail:
   DCOPPIT: 1
 grok:
   HINRIK: 1
+grpc-xs:
+  JOYREX: 1
 head-r:
   ONEGRAY: 1
 helm:
