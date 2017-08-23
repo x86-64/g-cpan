@@ -965,6 +965,8 @@ Acme-Kensiro:
   TOKUHIROM: 1
 Acme-KeyboardMarathon:
   BENNIE: 1
+Acme-Kiyoshi-Array:
+  MASAKYST: 1
 Acme-KnowledgeWisdom:
   JKUTEJ: 1
 Acme-LAUTER-DEUTSCHER:
@@ -2137,10 +2139,6 @@ Alien-Build-Git:
   PLICEASE: 1
 Alien-Build-MB:
   PLICEASE: 1
-Alien-Build-Plugin-Build-CMake:
-  PLICEASE: 1
-Alien-Build-Plugin-Build-Make:
-  PLICEASE: 1
 Alien-Build-Plugin-Decode-SourceForge:
   PLICEASE: 1
 Alien-Build-Plugin-Fetch-Cache:
@@ -2307,6 +2305,8 @@ Alien-Nettle:
   PLICEASE: 1
 Alien-OTR:
   AJGB: 1
+Alien-OpenJPEG:
+  ZMUGHAL: 1
 Alien-OpenSSL:
   JOHANNA: 1
 Alien-OpenSSL-Static:
@@ -2393,6 +2393,8 @@ Alien-Web-HalBrowser:
   VANSTYN: 1
 Alien-WiX-Version30:
   CSJEWELL: 1
+Alien-XGBoost:
+  PABLROD: 1
 Alien-XPA:
   DJERIUS: 1
 Alien-ZMQ:
@@ -2425,6 +2427,8 @@ Alien-gputils:
   VIKAS: 1
 Alien-gzip:
   PLICEASE: 1
+Alien-libpid:
+  ATHREEF: 1
 Alien-libsndfile:
   GUGOD: 1
 Alien-libtermkey:
@@ -5631,6 +5635,8 @@ App-Test-Tapat:
   JEREMIAH: 1
 App-TestOnTap:
   KNTH: 1
+App-TextDiffUUtils:
+  PERLANCAR: 1
 App-TextFragmentUtils:
   PERLANCAR: 1
 App-TextTableUtils:
@@ -8212,6 +8218,8 @@ BibTeX-Parser:
   BORISV: 1
 Bible-OBML:
   GRYPHON: 1
+Bible-Reference:
+  GRYPHON: 1
 Biblio-COUNTER:
   NKUITSE: 1
 Biblio-Citation-Compare:
@@ -8532,6 +8540,8 @@ BioPerl-Network:
   CJFIELDS: 1
 BioPerl-Run:
   CJFIELDS: 1
+BioSAILs:
+  JILLROWE: 1
 BioUtil:
   SHENWEI: 1
 BioX-CLPM:
@@ -12080,6 +12090,8 @@ Catalyst-Helper-InitScript-FreeBSD:
 Catalyst-Helper-Model-Email:
   TEDDY: 1
 Catalyst-Helper-View-Bootstrap:
+  FERZ: 1
+Catalyst-Helper-View-SemanticUI:
   FERZ: 1
 Catalyst-Helper-View-TT-Bootstrap:
   DRPROLIX: 1
@@ -16272,6 +16284,8 @@ CryptX:
   MIK: 1
 Csistck:
   AGJ: 1
+Csound:
+  RENE: 1
 Cstools:
   JANPAZ: 1
 CtCmd:
@@ -17707,6 +17721,8 @@ DPKG-Parse:
   ETHER: 1
 DPKG-Tools:
   SHARRISON: 1
+DR-DateTime:
+  UNERA: 1
 DR-Money:
   UNERA: 1
 DR-Msgpuck:
@@ -18931,7 +18947,7 @@ Data-Hive:
 Data-ICal:
   ALEXMV: 1
 Data-ICal-DateTime:
-  SIMONW: 1
+  FGLOCK: 1
 Data-ICal-RDF:
   DORIAN: 1
 Data-ICal-TimeZone:
@@ -19610,6 +19626,10 @@ Data-Template:
   FERREIRA: 1
 Data-TemporaryBag:
   YSAS: 1
+Data-Tersify:
+  SKINGTON: 1
+Data-Tersify-Plugin-DateTime:
+  SKINGTON: 1
 Data-TestImage:
   ZMUGHAL: 1
 Data-Throttler:
@@ -21265,6 +21285,8 @@ Device-Chip-AVR_HVSP:
   PEVANS: 1
 Device-Chip-Adapter-LinuxKernel:
   SIMCOP: 1
+Device-Chip-AnalogConverters:
+  PEVANS: 1
 Device-Chip-BV4243:
   PEVANS: 1
 Device-Chip-DS1307:
@@ -21276,8 +21298,6 @@ Device-Chip-INA219:
 Device-Chip-MAX7219:
   PEVANS: 1
 Device-Chip-MCP23x17:
-  PEVANS: 1
-Device-Chip-MCP4725:
   PEVANS: 1
 Device-Chip-MPL3115A2:
   PEVANS: 1
@@ -22725,8 +22745,6 @@ Dist-Zilla-Plugin-if:
   KENTNL: 1
 Dist-Zilla-Plugin-if-ENV:
   KENTNL: 1
-Dist-Zilla-Plugin-jQuery:
-  PLICEASE: 1
 Dist-Zilla-Plugin-lib:
   KENTNL: 1
 Dist-Zilla-Plugin-shcompgen-InitOnInstall:
@@ -22821,6 +22839,8 @@ Dist-Zilla-PluginBundle-Author-RUSSOZ:
   RUSSOZ: 1
 Dist-Zilla-PluginBundle-Author-RWSTAUNER:
   RWSTAUNER: 1
+Dist-Zilla-PluginBundle-Author-SKIRMESS:
+  SKIRMESS: 1
 Dist-Zilla-PluginBundle-Author-STHEBERT:
   STHEBERT: 1
 Dist-Zilla-PluginBundle-Author-VDB:
@@ -27583,6 +27603,8 @@ Getopt-Config-FromPod:
   YAKEX: 1
 Getopt-Declare:
   FANGLY: 1
+Getopt-EX:
+  UTASHIRO: 1
 Getopt-Easy:
   JONBJ: 1
 Getopt-Euclid:
@@ -33431,6 +33453,8 @@ Lingua-AtD:
   DDAY: 1
 Lingua-Atinlay-Igpay:
   CWEST: 1
+Lingua-Awkwords:
+  JMATES: 1
 Lingua-BioYaTeA:
   BIBLIOME: 1
 Lingua-Boolean:
@@ -35405,6 +35429,8 @@ Log-Log4perl-Layout-PatternLayout-Redact:
   KATE: 1
 Log-Log4perl-Layout-SimpleLayout-Multiline:
   NUFFIN: 1
+Log-Log4perl-Layout-Syslog:
+  NHORNE: 1
 Log-Log4perl-Layout-XMLLayout:
   GCARLS: 1
 Log-Log4perl-Lazy:
@@ -36080,6 +36106,8 @@ MVS-VBFile:
   GROMMEL: 1
 MW-ssNA:
   MSPERL: 1
+MYDan:
+  LIJINFENG: 1
 Mac-Alias-Parse:
   WIML: 1
 Mac-AppleEvents-Simple:
@@ -36480,7 +36508,7 @@ Mail-Sender:
 Mail-Sender-Easy:
   DMUEY: 1
 Mail-Sendmail:
-  MIVKOVIC: 1
+  NEILB: 1
 Mail-Sendmail-Enhanced:
   FRANCISCO: 1
 Mail-Simple-DKIM-Signer:
@@ -38791,6 +38819,8 @@ Mojo-Cloudstack:
   HRUPP: 1
 Mojo-Command-Generate-InitScript:
   NUCLON: 1
+Mojo-DOM-Role-PrettyPrinter:
+  MRAMBERG: 1
 Mojo-DOM58:
   DBOOK: 1
 Mojo-Downloader:
@@ -38918,8 +38948,6 @@ Mojo-UserAgent-DigestAuth:
   JHTHORSEN: 1
 Mojo-UserAgent-Mockable:
   POPEFELIX: 1
-Mojo-UserAgent-UnixSocket:
-  BTYLER: 1
 Mojo-WebService-Twitter:
   DBOOK: 1
 Mojo-WebSocketProxy:
@@ -38928,6 +38956,8 @@ Mojo-Webqq:
   SJDY: 1
 Mojo-Weixin:
   SJDY: 1
+Mojo-XMLRPC:
+  JBERGER: 1
 Mojo-YR:
   MRAMBERG: 1
 Mojo-Zabbix:
@@ -42134,6 +42164,8 @@ Net-Google-SafeBrowsing2-Redis:
   JSOBRIER: 1
 Net-Google-SafeBrowsing3:
   JSOBRIER: 1
+Net-Google-SafeBrowsing4:
+  JSOBRIER: 1
 Net-Google-Spreadsheets:
   DANJOU: 1
 Net-Google-Spreadsheets-V4:
@@ -42398,7 +42430,7 @@ Net-Joker-DMAPI:
 Net-Journyx:
   SARTAK: 1
 Net-KashFlow:
-  SIMON: 1
+  GHENRY: 1
 Net-Kestrel:
   GPHAT: 1
 Net-Kotonoha:
@@ -43659,6 +43691,8 @@ Net-isoHunt:
   HAGGAI: 1
 Net-oRTP:
   NJH: 1
+Net-pWhoIs:
+  MHEARSE: 1
 Net-sFlow:
   ELISA: 1
 Net-uFTP:
@@ -44002,6 +44036,8 @@ Number-Phone-DE-Mobile:
 Number-Phone-FR:
   DOLMEN: 1
 Number-Phone-Formatter-EPP:
+  MSCHOUT: 1
+Number-Phone-Formatter-NationalDigits:
   MSCHOUT: 1
 Number-Phone-IE:
   DERMOT: 1
@@ -44450,6 +44486,8 @@ Opcodes:
   RURBAN: 1
 OpenAPI:
   ALTREUS: 1
+OpenAPI-Client:
+  JHTHORSEN: 1
 OpenCA-CRL:
   MADWOLF: 1
 OpenCA-CRR:
@@ -44786,6 +44824,8 @@ P5U-Command-Peek:
   TOBYINK: 1
 P5U-Command-cttail:
   TOBYINK: 1
+P5kkelabels:
+  KAARE: 1
 P9Y-ProcessTable:
   BBYRD: 1
 PAB3:
@@ -45913,6 +45953,8 @@ POE-Filter-Redis:
   BINGOS: 1
 POE-Filter-Regexp:
   VANY: 1
+POE-Filter-SSL:
+  PRIVI: 1
 POE-Filter-SimpleHTTP:
   NPEREZ: 1
 POE-Filter-Slim-CLI:
@@ -50874,7 +50916,7 @@ RT-Extension-TicketLocking:
 RT-Extension-TicketPDF:
   WESAL: 1
 RT-Extension-TimeTracking:
-  CBRANDT: 1
+  BPS: 1
 RT-Extension-TimeTracking-Automatic:
   BPS: 1
 RT-Extension-TimeWorkedReport:
@@ -52448,6 +52490,8 @@ SVG-Template-Graph:
   RONAN: 1
 SVG-Timeline:
   DAVECROSS: 1
+SVG-Timeline-Genealogy:
+  DAVECROSS: 1
 SVG-TrafficLight:
   DAVECROSS: 1
 SVG-VCD:
@@ -53468,6 +53512,8 @@ SimString-Wrapper:
   WOLLMERS: 1
 Simple-Accessor:
   ATOOMIC: 1
+Simple-Confvpn:
+  KAAVANNAN: 1
 Simple-Factory:
   PACMAN: 1
 Simple-Html:
@@ -56640,6 +56686,8 @@ Template-Plugin-StashValidate:
   SARGIE: 1
 Template-Plugin-StickyQuery:
   KOBAYASI: 1
+Template-Plugin-String-CRC32:
+  GNATYNA: 1
 Template-Plugin-String-Compare:
   TANIMOTO: 1
 Template-Plugin-String-Truncate:
@@ -58829,6 +58877,8 @@ Text-Diff-Unified-XS:
   PINE: 1
 Text-Diff3:
   TOCIYUKI: 1
+Text-DiffU:
+  PERLANCAR: 1
 Text-Difference:
   CAGAO: 1
 Text-Distill:
@@ -61889,6 +61939,8 @@ URPM:
   TVIGNAUD: 1
 USB-Descriptor:
   BFOZ: 1
+USB-LibUSB:
+  AMBA: 1
 USPS-RateRequest:
   RIZEN: 1
 UTF8BOM:
@@ -63301,8 +63353,6 @@ WWW-Mechanize-Plugin-FollowMetaRedirect:
   RYOCHIN: 1
 WWW-Mechanize-Plugin-Retry:
   MCMAHON: 1
-WWW-Mechanize-Plugin-Selector:
-  CORION: 1
 WWW-Mechanize-Plugin-Sleepy:
   MJEMMESON: 1
 WWW-Mechanize-Plugin-Snapshot:
@@ -63532,7 +63582,7 @@ WWW-Pusher:
 WWW-Pusher-Client:
   GEMPESAW: 1
 WWW-REST:
-  AUDREYT: 1
+  SHLOMIF: 1
 WWW-REST-Apid:
   TLINDEN: 1
 WWW-RMDown:
@@ -68022,6 +68072,8 @@ io-page:
   RMITZ: 1
 iodbc_ext:
   JMAHAN: 1
+ios_get_interfaces:
+  CLADI: 1
 jBilling-Client-SOAP:
   GUISEA: 1
 jQluster-Server-WebSocket:

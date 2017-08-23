@@ -286,12 +286,6 @@ bignum:
 constant:
   category: dev-lang
   name: perl
-lib:
-  category: dev-lang
-  name: perl
-base:
-  category: dev-lang
-  name: perl
 gettext:
   name: Locale-gettext
 if:
