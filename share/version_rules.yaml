@@ -585,7 +585,6 @@ ignore:
   Net-SNPP: 'unknown version style: 1.15a 1.16 1.17'
   Net-SSH-Perl: 'mixed version style: 1.37 1.41 1.42 2.01 2.09.01 2.12'
   Net-Salesforce: 'mixed version style: 1.0.0 1.100 1.101'
-  Net-SugarCRM: 'incorrect float version: 1.12816 1.12833 1.12839 1.12855 1.12860 1.12863 1.12990 1.14455 1.15262 2.17723 2.17728 2.17738 2.19983 2.20254 2.20414 2.20449 3.20466 2.20469 3.20471 3.20472 3.20492 3.20698 3.21345 3.22375 3.23126 3.23133 3.23143 3.23144'
   Net-SynchroEdit-Service: 'unknown version style: 0.039r2'
   Net-Telnet-Cisco-IOS: 'unknown version style: 0.4beta 0.5beta 0.5abeta 0.6beta'
   Net-UPnP: 'mixed version style: 1.1 1.1.2 1.1.3 1.2 1.2.1 1.2.4 1.4 1.4.1 1.4.2 1.4.3'
