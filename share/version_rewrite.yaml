@@ -99,3 +99,5 @@ rewrite:
      '0.0.3': ~
   'Lingua-Romana-Perligata':
      '0.007': ~
+  'Net-SugarCRM':
+     '2.20469': ~
