@@ -238,6 +238,8 @@ API-Client:
   AWNCORP: 1
 API-DirectAdmin:
   CHIPSOID: 1
+API-Drip-Request:
+  DWRIGHT: 1
 API-Facebook:
   AWNCORP: 1
 API-Github:
@@ -2177,6 +2179,8 @@ Alien-FFI:
   PLICEASE: 1
 Alien-FLTK:
   SANKO: 1
+Alien-FontForge:
+  ZMUGHAL: 1
 Alien-FreeImage:
   KMX: 1
 Alien-GCrypt:
@@ -2259,10 +2263,6 @@ Alien-LibXML:
   TOBYINK: 1
 Alien-LibYAML:
   PLICEASE: 1
-Alien-Libarchive:
-  PLICEASE: 1
-Alien-Libarchive-Installer:
-  PLICEASE: 1
 Alien-Libarchive3:
   PLICEASE: 1
 Alien-Libbz2:
@@ -2288,8 +2288,6 @@ Alien-Lua:
 Alien-LuaJIT:
   SMUELLER: 1
 Alien-MSYS:
-  PLICEASE: 1
-Alien-MSYS2:
   PLICEASE: 1
 Alien-MeCab:
   DMAKI: 1
@@ -2319,6 +2317,8 @@ Alien-PNG:
   FROGGS: 1
 Alien-Packages:
   REHSACK: 1
+Alien-Poppler:
+  ZMUGHAL: 1
 Alien-ProtoBuf:
   MBARBON: 1
 Alien-Prototype:
@@ -2407,8 +2407,6 @@ Alien-automake:
   PLICEASE: 1
 Alien-bison:
   PLICEASE: 1
-Alien-bz2-Installer:
-  PLICEASE: 1
 Alien-cmake3:
   PLICEASE: 1
 Alien-curl:
@@ -2451,6 +2449,8 @@ Alien-nasm:
   PLICEASE: 1
 Alien-patch:
   PLICEASE: 1
+Alien-pdf2htmlEX:
+  ZMUGHAL: 1
 Alien-pdf2json:
   ZMUGHAL: 1
 Alien-pkgconf:
@@ -2701,6 +2701,8 @@ Anarres-Mud-Driver:
   SHEVEK: 1
 Android-Releases:
   PERLANCAR: 1
+Anego:
+  PAPIX: 1
 Angle-Omega:
   MSPERL: 1
 Aniki:
@@ -4234,6 +4236,8 @@ App-BigQuery-Importer-MySQL:
   MERU: 1
 App-Birthday:
   FARHAD: 1
+App-BitBucketCli:
+  IVANWILLS: 1
 App-BlockWebFlooders:
   PERLANCAR: 1
 App-Bondage:
@@ -4553,6 +4557,8 @@ App-Env-Login:
   DJERIUS: 1
 App-Environ:
   IPH: 1
+App-Environ-DNS:
+  KAKTUS: 1
 App-Environ-Mojo-Pg:
   KAKTUS: 1
 App-ErrorCalculator:
@@ -5204,6 +5210,8 @@ App-PS1:
   IVANWILLS: 1
 App-PYX2XML:
   SKIM: 1
+App-PackUtils:
+  PERLANCAR: 1
 App-Packager:
   JV: 1
 App-Padadoy:
@@ -5902,6 +5910,8 @@ App-datecalc:
 App-dategrep:
   MDOM: 1
 App-dateseq:
+  PERLANCAR: 1
+App-dbinfo:
   PERLANCAR: 1
 App-depak:
   PERLANCAR: 1
@@ -11651,6 +11661,8 @@ Calendar-Hijri:
   MANWAR: 1
 Calendar-Indonesia-Holiday:
   PERLANCAR: 1
+Calendar-Japanese-Acme-Syukujitsu:
+  MUTO: 1
 Calendar-Japanese-Holiday:
   KZTOMITA: 1
 Calendar-Julian:
@@ -19102,6 +19114,8 @@ Data-NestedParams:
   TOKUHIROM: 1
 Data-NestedSet:
   SHIRIRU: 1
+Data-Netflow:
+  FDULAU: 1
 Data-OFAC:
   THARDISON: 1
 Data-Object:
@@ -22023,6 +22037,8 @@ Dist-Zilla-Plugin-AuthorsFromGit:
   AKHUETTEL: 1
 Dist-Zilla-Plugin-AutoMetaResources:
   AJGB: 1
+Dist-Zilla-Plugin-AutoPrereqs-Perl-Critic:
+  SKIRMESS: 1
 Dist-Zilla-Plugin-AutoPrereqsFast:
   LEONT: 1
 Dist-Zilla-Plugin-AutoVersion-Relative:
@@ -22597,8 +22613,6 @@ Dist-Zilla-Plugin-SvnObtain:
   DUFF: 1
 Dist-Zilla-Plugin-TaskWeaver:
   RJBS: 1
-Dist-Zilla-Plugin-Template-Tiny:
-  PLICEASE: 1
 Dist-Zilla-Plugin-TemplateCJM:
   CJM: 1
 Dist-Zilla-Plugin-TemplateFiles:
@@ -22845,6 +22859,8 @@ Dist-Zilla-PluginBundle-Author-STHEBERT:
   STHEBERT: 1
 Dist-Zilla-PluginBundle-Author-VDB:
   VDB: 1
+Dist-Zilla-PluginBundle-Author-WATERKIP:
+  WATERKIP: 1
 Dist-Zilla-PluginBundle-Author-WOLVERIAN:
   WOLVERIAN: 1
 Dist-Zilla-PluginBundle-Author-XENO:
@@ -22901,6 +22917,8 @@ Dist-Zilla-PluginBundle-GRS:
   CELOGEEK: 1
 Dist-Zilla-PluginBundle-Git-CheckFor:
   RSRCHBOY: 1
+Dist-Zilla-PluginBundle-Git-VersionManager:
+  ETHER: 1
 Dist-Zilla-PluginBundle-HARTZELL:
   HARTZELL: 1
 Dist-Zilla-PluginBundle-IDOPEREL:
@@ -23264,6 +23282,8 @@ EO:
   JDUNCAN: 1
 EOL:
   TWYLIE: 1
+EPFL-Sciper-List:
+  WILLBELL: 1
 EPL2:
   TEDKAT: 1
 EPUB-Parser:
@@ -25812,6 +25832,8 @@ Finance-Loan:
   ZAKZ: 1
 Finance-Loan-Private:
   RAPMANKIN: 1
+Finance-Loan-Repayment:
+  WATERKIP: 1
 Finance-LocalBitcoins-API:
   PEASWORTH: 1
 Finance-MICR-GOCR-Check:
@@ -25962,6 +25984,8 @@ Flickr-Upload-FireEagle:
   ASCOPE: 1
 Fliggy:
   VTI: 1
+Flip-Flop:
+  PRBRENAN: 1
 Flow:
   ZAG: 1
 Flower:
@@ -26533,6 +26557,8 @@ Game-TextPacMonster:
   UNLEARNED: 1
 Game-Theory-TwoPersonMatrix:
   GENE: 1
+Game-Tibia-Cam:
+  ATHREEF: 1
 Game-Tibia-Packet:
   ATHREEF: 1
 Game-WordBrain:
@@ -27683,6 +27709,8 @@ Getopt-Long-Subcommand-Dump:
   PERLANCAR: 1
 Getopt-Long-Subcommand-Util:
   PERLANCAR: 1
+Getopt-Long-Util:
+  PERLANCAR: 1
 Getopt-LongUsage:
   RGLAUE: 1
 Getopt-Lucid:
@@ -27925,6 +27953,8 @@ Glib-Ex-ObjectBits:
   KRYDE: 1
 Glib-FindMinVersion:
   ATHREEF: 1
+Glib-IO:
+  XAOC: 1
 Glib-JSON:
   EBASSI: 1
 Glib-Object-Introspection:
@@ -31074,6 +31104,8 @@ IPC-Signal-Force:
   ZEFRAM: 1
 IPC-SysV:
   MHX: 1
+IPC-System-Options:
+  PERLANCAR: 1
 IPC-System-Simple:
   PJF: 1
 IPC-Transit:
@@ -32023,6 +32055,8 @@ JSON-WebEncryption:
   CHGOVUK: 1
 JSON-WebToken:
   XAICRON: 1
+JSON-WithComments:
+  RJRAY: 1
 JSON-XS:
   MLEHMANN: 1
 JSON-XS-ByteString:
@@ -37595,6 +37629,8 @@ Math-Vector-Real-MultiNormalMixture:
   SALVA: 1
 Math-Vector-Real-Neighbors:
   SALVA: 1
+Math-Vector-Real-Polyline:
+  SALVA: 1
 Math-Vector-Real-Random:
   SALVA: 1
 Math-Vector-Real-XS:
@@ -38813,8 +38849,6 @@ Mojo-CallFire:
   SADAMS: 1
 Mojo-CloudCheckr:
   SADAMS: 1
-Mojo-Cloudflare:
-  JHTHORSEN: 1
 Mojo-Cloudstack:
   HRUPP: 1
 Mojo-Command-Generate-InitScript:
@@ -39157,8 +39191,6 @@ Mojolicious-Plugin-AppCacheManifest:
 Mojolicious-Plugin-Args:
   AMIRITE: 1
 Mojolicious-Plugin-AssetPack:
-  JHTHORSEN: 1
-Mojolicious-Plugin-AssetPack-Backcompat:
   JHTHORSEN: 1
 Mojolicious-Plugin-AssetPack-Che:
   MCHE: 1
@@ -42368,7 +42400,7 @@ Net-IPTrie:
 Net-IPv4Addr:
   FRAJULAC: 1
 Net-IPv6Addr:
-  TMONROE: 1
+  BKB: 1
 Net-IPv6Address:
   JJMB: 1
 Net-IRC:
@@ -44538,6 +44570,8 @@ OpenGL-Earth:
   COSIMO: 1
 OpenGL-FTGL:
   JLMOREL: 1
+OpenGL-GLFW:
+  CHM: 1
 OpenGL-GLM:
   JCHIN: 1
 OpenGL-GLU:
@@ -47144,6 +47178,8 @@ Paths-Graph:
   CAVASQUEZ: 1
 Paths-Tree:
   CAVASQUEZ: 1
+Patro:
+  MOB: 1
 Patterns-ChainOfResponsibility:
   JJNAPIORK: 1
 Patterns-UndefObject:
@@ -47183,6 +47219,8 @@ Pcore-API-PayPal:
 Pcore-API-ReCaptcha:
   ZDM: 1
 Pcore-Captcha:
+  ZDM: 1
+Pcore-Chrome:
   ZDM: 1
 Pcore-Ext:
   ZDM: 1
@@ -49924,6 +49962,7 @@ Promise-Tiny:
   HATZ: 1
 Promises:
   STEVAN: 1
+  YANICK: 1
 Prompt-ReadKey:
   SARTAK: 1
 Prompt-Timeout:
@@ -55184,8 +55223,6 @@ Svsh:
   IDOPEREL: 1
 Swagger-Schema:
   JLMARTIN: 1
-Swagger2:
-  JHTHORSEN: 1
 Swagger2-Markdown:
   LEEJO: 1
 Sweet-Home:
@@ -58218,8 +58255,6 @@ Test-SVN-Repo:
 Test-Sah:
   SHARYANTO: 1
 Test-Script:
-  PLICEASE: 1
-Test-Script-Async:
   PLICEASE: 1
 Test-Script-Run:
   SUNNAVY: 1
@@ -64499,6 +64534,8 @@ WebService-AngelXML-Auth:
   MRDVT: 1
 WebService-Annict:
   NUKOSUKE: 1
+WebService-AntiCaptcha:
+  FAYLAND: 1
 WebService-Antigate:
   OLEG: 1
 WebService-Antispam:
