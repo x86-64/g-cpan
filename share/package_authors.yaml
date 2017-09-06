@@ -756,6 +756,8 @@ Acme-Damn:
   IBB: 1
 Acme-DarmstadtPM-TieHash:
   RENEEB: 1
+Acme-Data-Dumper-Extensions:
+  KENTNL: 1
 Acme-DateTime-Duration-Numeric:
   MIYAGAWA: 1
 Acme-Debug:
@@ -2151,6 +2153,8 @@ Alien-Build-Plugin-Fetch-Rewrite:
   PLICEASE: 1
 Alien-Build-Plugin-Probe-GnuWin32:
   PLICEASE: 1
+Alien-Build-Plugin-Probe-Override:
+  PLICEASE: 1
 Alien-CImg:
   GUGOD: 1
 Alien-CMake:
@@ -2699,6 +2703,8 @@ Anansi-Singleton:
   ANANSI: 1
 Anarres-Mud-Driver:
   SHEVEK: 1
+Android-ADB:
+  MGV: 1
 Android-Releases:
   PERLANCAR: 1
 Anego:
@@ -3707,8 +3713,6 @@ Apache-SdnFw:
   CJS: 1
 Apache-SearchEngineLog:
   OCTO: 1
-Apache-SecSess:
-  PLIAM: 1
 Apache-Session:
   CHORNY: 1
   JBAKER: 1
@@ -4174,6 +4178,8 @@ App-AltSQL:
   EWATERS: 1
 App-Antigen:
   TBSLIVER: 1
+App-Aphra:
+  DAVECROSS: 1
 App-AppSpec:
   TINITA: 1
 App-ArchiveDevelCover:
@@ -5323,6 +5329,8 @@ App-Prove-Plugin-Idempotent:
 App-Prove-Plugin-MySQLPool:
   MACOPY: 1
   MASH: 1
+App-Prove-Plugin-RandomSeed:
+  MASIUCHI: 1
 App-Prove-Plugin-SetEnv:
   ILMARI: 1
 App-Prove-Plugin-TraceUse:
@@ -13272,6 +13280,8 @@ Catmandu-MODS:
   NJFRANCK: 1
 Catmandu-Markdown:
   NJFRANCK: 1
+Catmandu-MediaHaven:
+  HOCHSTEN: 1
 Catmandu-MediaMosa:
   NJFRANCK: 1
 Catmandu-MediaWiki:
@@ -13826,6 +13836,8 @@ Class-Accessor-Lvalue:
   RCLAMP: 1
 Class-Accessor-Named:
   JESSE: 1
+Class-Accessor-PackedString:
+  PERLANCAR: 1
 Class-Accessor-Ref:
   GAAL: 1
 Class-Accessor-Tiny:
@@ -16188,8 +16200,6 @@ Crypt-Scrypt:
   GRAY: 1
 Crypt-ScryptKDF:
   MIK: 1
-Crypt-SecurID:
-  PLIAM: 1
 Crypt-Serpent:
   JHUGHES: 1
 Crypt-Shark:
@@ -19596,8 +19606,6 @@ Data-StreamSerializer:
   UNERA: 1
 Data-Struct:
   JV: 1
-Data-Structure-Compare:
-  SSQQ: 1
 Data-Structure-Util:
   ANDYA: 1
 Data-Swap:
@@ -22307,6 +22315,8 @@ Dist-Zilla-Plugin-LicenseFromModule:
   MIYAGAWA: 1
 Dist-Zilla-Plugin-LintPrereqs:
   PERLANCAR: 1
+Dist-Zilla-Plugin-LocalHTML:
+  VRURG: 1
 Dist-Zilla-Plugin-LocaleMsgfmt:
   JQUELIN: 1
 Dist-Zilla-Plugin-LogContextual:
@@ -24617,6 +24627,8 @@ File-Append-Undoable:
   PERLANCAR: 1
 File-AptFetch:
   WHYNOT: 1
+File-ArchivableFormats:
+  WATERKIP: 1
 File-Archive:
   RBOW: 1
 File-Assets:
@@ -31449,6 +31461,8 @@ Image-QRCode-Effects:
   MCARTMELL: 1
 Image-RGBA:
   BPOSTLE: 1
+Image-Randim:
+  SEATEK: 1
 Image-Random:
   SKIM: 1
 Image-Resize:
@@ -33131,6 +33145,8 @@ Lab-Measurement-DocWriter:
   AKHUETTEL: 1
 Lab-VISA:
   AKHUETTEL: 1
+Lab-VXI11:
+  AMBA: 1
 Lab-Zhinst:
   AMBA: 1
 LabKey-Query:
@@ -35864,6 +35880,8 @@ MDV-Packdrakeng:
   NANARDON: 1
 MDV-Repsys:
   NANARDON: 1
+MEME-Alphabet:
+  CVINER: 1
 MFor:
   CORNELIUS: 1
 MHA-AWS:
@@ -36265,7 +36283,7 @@ MacPerl-AppleScript:
 Machine-Epsilon:
   BINARY: 1
 Mackerel-ReleaseUtils:
-  SONGMU: 1
+  SHIBAZAKI: 1
 Mackerel-Webhook-Receiver:
   SONGMU: 1
 Macrame:
@@ -36353,7 +36371,7 @@ Mail-DKIM:
 Mail-DKIM-Iterator:
   SULLR: 1
 Mail-DMARC:
-  MSIMERSON: 1
+  MBRADSHAW: 1
 Mail-DMARC-opendmarc:
   SHARI: 1
 Mail-DSPAM-Learning:
@@ -38117,7 +38135,7 @@ Minion-Backend-SQLite:
 Minion-Backend-Storable:
   NICZERO: 1
 Minion-Backend-mysql:
-  BPMEDLEY: 1
+  PREACTION: 1
 Minion-Command-minion-jobx:
   BFAIST: 1
 Minion-Command-minion-version:
@@ -39997,6 +40015,8 @@ MooX-Struct:
   TOBYINK: 1
 MooX-TaggedAttributes:
   DJERIUS: 1
+MooX-Thunking:
+  ETJ: 1
 MooX-Traits:
   TOBYINK: 1
 MooX-TypeTiny:
@@ -41048,6 +41068,8 @@ Myco-Core-Person:
   SOMMERB: 1
 Myco-Core-User:
   SOMMERB: 1
+Mylisp:
+  SSQQ: 1
 Mysql-DBLink:
   JOZEFN: 1
 Mysql-Locker:
@@ -46463,6 +46485,8 @@ PagSeguro-API:
   DVINCI: 1
 PagSeguro-Status:
   MANTOVANI: 1
+PagerDuty-Agent:
+  QRRY: 1
 Paginator-Lite:
   BLABOS: 1
 Palm:
@@ -48564,6 +48588,8 @@ Plack-Middleware-Debug-Profiler-NYTProf:
   SDECASTE: 1
 Plack-Middleware-Debug-Redis:
   CHIM: 1
+Plack-Middleware-Debug-Template:
+  MYSOCIETY: 1
 Plack-Middleware-Debug-Timed-Logger:
   KOLYA: 1
 Plack-Middleware-Debug-TraceENV:
@@ -49382,6 +49408,8 @@ Pod-Weaver-Plugin-Eval:
   PERLANCAR: 1
 Pod-Weaver-Plugin-Exec:
   FREW: 1
+Pod-Weaver-Plugin-Include:
+  VRURG: 1
 Pod-Weaver-Plugin-PERLANCAR-SortSections:
   PERLANCAR: 1
 Pod-Weaver-Plugin-PatchModule:
@@ -50104,6 +50132,8 @@ QBit-Application:
 QBit-Application-Model-Authorization:
   MADSKILL: 1
 QBit-Application-Model-DB:
+  MADSKILL: 1
+QBit-Application-Model-DB-clickhouse:
   MADSKILL: 1
 QBit-Application-Model-DB-mysql:
   MADSKILL: 1
@@ -55694,6 +55724,8 @@ THD7:
   KWITTMER: 1
 THEMA-MEDIA:
   VANHOESEL: 1
+TIGR:
+  JORVIS: 1
 TL1-Toolkit:
   RVDP: 1
 TL1ng:
@@ -57889,6 +57921,8 @@ Test-Mock-Net-SNMP:
   ROBH: 1
 Test-Mock-Net-Server-Mail:
   BENNING: 1
+Test-Mock-One:
+  WATERKIP: 1
 Test-Mock-Recorder:
   KZYS: 1
 Test-Mock-Redis:
@@ -61975,6 +62009,8 @@ URPM:
 USB-Descriptor:
   BFOZ: 1
 USB-LibUSB:
+  AMBA: 1
+USB-TMC:
   AMBA: 1
 USPS-RateRequest:
   RIZEN: 1
@@ -67841,6 +67877,8 @@ data-trie:
   HAMMOND: 1
 dateheader:
   DAVIDNICO: 1
+dbMan:
+  MILSO: 1
 dbd_rdb:
   ASTILLER: 1
 dbsh:
@@ -67980,8 +68018,6 @@ failures:
   DAGOLDEN: 1
 fameperl:
   TRIAS: 1
-fastQ_brew:
-  HALLORAN: 1
 fewer:
   RJBS: 1
 fields-aliased:
@@ -68155,6 +68191,8 @@ later:
   ERWAN: 1
 latest:
   ANDYA: 1
+lazy:
+  OALDERS: 1
 lc_time:
   ABELTJE: 1
 ldapsh:
