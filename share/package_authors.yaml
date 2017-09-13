@@ -3717,7 +3717,7 @@ Apache-Session:
   CHORNY: 1
   JBAKER: 1
 Apache-Session-Browseable:
-  GUIMARD: 1
+  COUDOT: 1
 Apache-Session-CacheAny:
   MIYAGAWA: 1
 Apache-Session-Counted:
@@ -4563,6 +4563,10 @@ App-Env-Login:
   DJERIUS: 1
 App-Environ:
   IPH: 1
+App-Environ-ClickHouse:
+  KAKTUS: 1
+App-Environ-ClickHouse-Proxy:
+  KAKTUS: 1
 App-Environ-DNS:
   KAKTUS: 1
 App-Environ-Mojo-Pg:
@@ -8520,6 +8524,8 @@ Bio-Tools-CodonOptTable:
   SHARDIWAL: 1
 Bio-Tools-DNAGen:
   XERN: 1
+Bio-Tools-Phylo-PAML:
+  CDRAUG: 1
 Bio-Tools-Prepeat:
   XERN: 1
 Bio-Tools-Primer3Redux:
@@ -13793,6 +13799,8 @@ Class-Accessor:
 Class-Accessor-Array:
   PERLANCAR: 1
 Class-Accessor-Array-Glob:
+  PERLANCAR: 1
+Class-Accessor-Array-Slurpy:
   PERLANCAR: 1
 Class-Accessor-Assert:
   SMUELLER: 1
@@ -20917,6 +20925,10 @@ Devel-IPerl:
   ZMUGHAL: 1
 Devel-IPerl-Plugin-Chart-Plotly:
   PABLROD: 1
+Devel-IPerl-Plugin-ChartClicker:
+  ZMUGHAL: 1
+Devel-IPerl-Plugin-PDLGraphicsGnuplot:
+  ZMUGHAL: 1
 Devel-InPackage:
   JROCKWAY: 1
 Devel-InheritNamespace:
@@ -27424,10 +27436,16 @@ Geo-OGC-Service-WMTS:
   AJOLMA: 1
 Geo-OLC:
   JGREELY: 1
+Geo-OSM-DBI:
+  RENE: 1
 Geo-OSM-Imager:
   FIREDRAKE: 1
 Geo-OSM-MapFeatures:
   BOBKARE: 1
+Geo-OSM-Primitive:
+  RENE: 1
+Geo-OSM-Render:
+  RENE: 1
 Geo-OSM-StaticMap:
   PEPL: 1
 Geo-OSM-Tiles:
@@ -30080,7 +30098,7 @@ HackaMol-X-Vina:
 Hadoop-Admin:
   CWIMMER: 1
 Hadoop-HDFS-Command:
-  BURAK: 1
+  PSILVA: 1
 Hadoop-Inline-ClassLoader:
   BURAK: 1
 Hadoop-Streaming:
@@ -31891,6 +31909,8 @@ JOAP:
   EVAN: 1
 JPEG-Comment:
   IFROL: 1
+JPList:
+  SHEEJU: 1
 JQuery:
   PETERG: 1
 JQuery-DataTables-Heavy:
@@ -35140,6 +35160,8 @@ Locale-VersionedMessages:
   SBECK: 1
 Locale-Wolowitz:
   IDOPEREL: 1
+Locale-XGettext:
+  GUIDO: 1
 Locales:
   DMUEY: 1
 Localizer:
@@ -43469,7 +43491,7 @@ Net-Telnet:
 Net-Telnet-Brcd:
   LBENDAVID: 1
 Net-Telnet-Cisco:
-  JOSHUA: 1
+  VINSWORLD: 1
 Net-Telnet-Cisco-IOS:
   KRAKEN: 1
 Net-Telnet-Gearman:
@@ -44725,7 +44747,7 @@ OpusVL-AppKit:
 OpusVL-AppKit-Schema-AppKitAuthDB:
   ALTREUS: 1
 OpusVL-Preferences:
-  NEWELLC: 1
+  ALTREUS: 1
 OpusVL-SimpleCrypto:
   NEWELLC: 1
 OpusVL-SysParams:
@@ -50852,6 +50874,8 @@ RT-Extension-LDAPImport:
   ALEXMV: 1
 RT-Extension-LDAPImport-MultiEmail:
   ALEXMV: 1
+RT-Extension-LifecycleUI:
+  BPS: 1
 RT-Extension-LinkSelfLoops:
   ALEXMV: 1
 RT-Extension-LinkedTicketsHistory:
@@ -54229,6 +54253,8 @@ Sprite:
   SHGUN: 1
 Sprocket:
   XANTUS: 1
+Sql-Textify:
+  FTHIELLA: 1
 Squatting:
   BEPPU: 1
 Squatting-On-HTTP-Engine:
@@ -55615,8 +55641,6 @@ System2:
   REICHERT: 1
 SystemManagement-GSP:
   COOK: 1
-SystemPerl:
-  WSNYDER: 1
 SystemTray-Applet:
   PSINNOTT: 1
 SystemTray-Applet-Gnome:
@@ -56563,6 +56587,8 @@ Template-Plugin-Filter-VisualTruncate:
   BOKUTIN: 1
 Template-Plugin-ForumCode:
   CHISEL: 1
+Template-Plugin-Gettext:
+  GUIDO: 1
 Template-Plugin-GnuPG:
   DARREN: 1
 Template-Plugin-GoogleChart:
@@ -57658,8 +57684,6 @@ Test-Fork:
   MSCHWERN: 1
 Test-FormValidator:
   MGRAHAM: 1
-Test-Formats:
-  RJRAY: 1
 Test-Functional:
   ERIK: 1
 Test-Gearman:
@@ -58887,6 +58911,8 @@ Text-Context-Porter:
   SIMON: 1
 Text-Contraction:
   BHOLZMAN: 1
+Text-Control:
+  FELIPE: 1
 Text-Conversation:
   RCAPUTO: 1
 Text-Convert-PETSCII:
@@ -59807,6 +59833,8 @@ Text-Wrap-Smart:
   SCHUBIGER: 1
 Text-Wrap-Smart-XS:
   SCHUBIGER: 1
+Text-WrapAsUtf8:
+  SHLOMIF: 1
 Text-WrapI18N:
   KUBOTA: 1
 Text-WrapProp:
@@ -64871,6 +64899,8 @@ WebService-Jamendo:
   CGLASS: 1
 WebService-Jamendo-RSS:
   JLOPHTY: 1
+WebService-Jandi-WebHook:
+  AANOAA: 1
 WebService-JotForm:
   VROOM: 1
 WebService-JugemKey-Auth:
@@ -64981,6 +65011,8 @@ WebService-Naver-TTS:
   AANOAA: 1
 WebService-NetSuite:
   PHRED: 1
+WebService-NextEpisode:
+  ATHREEF: 1
 WebService-Nextbus-Agency:
   PHLI: 1
 WebService-NiigataUnyu:
@@ -65533,6 +65565,8 @@ Win32-EmailSend:
   HAVI: 1
 Win32-Encode:
   KMELTZ: 1
+Win32-EnumPrinters:
+  SALVA: 1
 Win32-Env:
   ROWAA: 1
 Win32-Env-Path:
