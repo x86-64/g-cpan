@@ -2191,8 +2191,6 @@ Alien-GCrypt:
   AJGB: 1
 Alien-GEOS:
   AAR: 1
-Alien-GHTTP:
-  CAPOEIRAB: 1
 Alien-GMP:
   PLICEASE: 1
 Alien-GPG-Error:
@@ -4953,6 +4951,8 @@ App-MTPUtils:
   PERLANCAR: 1
 App-MaMGal:
   PORRIDGE: 1
+App-MacVictimUtils:
+  PERLANCAR: 1
 App-MadEye-Plugin-Agent-Qudo:
   NEKOKAK: 1
 App-MadEye-Plugin-Notify-HipChat:
@@ -5455,6 +5455,8 @@ App-SFDC-Metadata:
   TMINNEY: 1
 App-SSH-Cluster:
   MCMILLHJ: 1
+App-SSH-SwitchShell:
+  SKIRMESS: 1
 App-SVG-Graph:
   SHLOMIF: 1
 App-SVN-Bisect:
@@ -5533,6 +5535,8 @@ App-SimpleScan-Plugin-Snapshot:
   MCMAHON: 1
 App-SimplenoteSync:
   IOANR: 1
+App-SimulateReads:
+  TMILLER: 1
 App-Skeletor:
   JJNAPIORK: 1
 App-Sky:
@@ -6929,6 +6933,8 @@ Async-Simple-Pool:
   ANTONC: 1
 Async-Stream:
   KSYSOEV: 1
+Async-Trampoline:
+  AMON: 1
 Async-Util:
   WHITNEY: 1
 AsyncPing:
@@ -8532,6 +8538,10 @@ Bio-Tools-Primer3Redux:
   CJFIELDS: 1
 Bio-Tools-ProteinogenicAA:
   LEPREVOST: 1
+Bio-Tools-Run-Alignment-Clustalw:
+  CDRAUG: 1
+Bio-Tools-Run-Alignment-TCoffee:
+  CDRAUG: 1
 Bio-Tools-Run-Qcons:
   BRUNOV: 1
 Bio-Trace-ABIF:
@@ -10348,6 +10358,8 @@ CGI-AutoForm:
   RSANDBERG: 1
 CGI-Browse:
   ROGERHALL: 1
+CGI-BrowserDetect:
+  LNATION: 1
 CGI-Buffer:
   NHORNE: 1
 CGI-Builder:
@@ -15023,7 +15035,7 @@ Compress-Huffman-Binary:
 Compress-LZ4:
   GRAY: 1
 Compress-LZ4Frame:
-  AUTINITY: 1
+  DRAKO: 1
 Compress-LZF:
   MLEHMANN: 1
 Compress-LZF_PP:
@@ -15492,6 +15504,8 @@ Const-Exporter:
   RRWO: 1
 Const-Fast:
   LEONT: 1
+Const-Fast-Exporter:
+  NEILB: 1
 Constant-Export-Lazy:
   AVAR: 1
 Constant-Exporter:
@@ -16766,7 +16780,7 @@ DBIx-Class-DateTime-Epoch:
 DBIx-Class-DeleteAction:
   MAROS: 1
 DBIx-Class-DeploymentAdapter:
-  MOVEAX: 1
+  JEGADE: 1
 DBIx-Class-DeploymentHandler:
   FREW: 1
 DBIx-Class-DeploymentHandler-CLI:
@@ -18240,6 +18254,8 @@ Dancer2-Logger-File-RotateLogs:
   MASAKYST: 1
 Dancer2-Logger-Fluent:
   ATANCASIS: 1
+Dancer2-Logger-LogAny:
+  TONKIN: 1
 Dancer2-Logger-Multiplex:
   ATANCASIS: 1
 Dancer2-Logger-Radis:
@@ -19034,6 +19050,8 @@ Data-KeyDiff:
   RKRIMEN: 1
 Data-Keys:
   JKUTEJ: 1
+Data-LNPath:
+  LNATION: 1
 Data-LUID:
   RKRIMEN: 1
 Data-Layout-BuddySystem:
@@ -23143,6 +23161,8 @@ Document-Maker:
   RKRIMEN: 1
 Document-Manager:
   BRYCE: 1
+Document-OOXML:
+  MSTREEK: 1
 Document-Stembolt:
   RKRIMEN: 1
 Document-Tools:
@@ -25201,6 +25221,8 @@ File-Rename:
   RMBARKER: 1
 File-Repl:
   DROBERTS: 1
+File-Replace:
+  HAUKEX: 1
 File-ReplaceBytes:
   JMATES: 1
 File-Revision:
@@ -31643,6 +31665,12 @@ Import-Into:
   HAARG: 1
 Importer:
   EXODIST: 1
+Importer-Zim:
+  FERREIRA: 1
+Importer-Zim-Base:
+  FERREIRA: 1
+Importer-Zim-Lexical:
+  FERREIRA: 1
 In-Korean-Numbers-SinoKorean:
   BRYAN: 1
 InSilicoSpectro:
@@ -38919,6 +38947,8 @@ Mojo-IOLoop-ProcBackground:
   BPMEDLEY: 1
 Mojo-IOLoop-ReadWriteFork:
   JHTHORSEN: 1
+Mojo-IOLoop-ReadWriteProcess:
+  MUDLER: 1
 Mojo-IOLoop-Signal:
   SKAJI: 1
 Mojo-IOLoop-Subprocess-Sereal:
@@ -39489,6 +39519,8 @@ Mojolicious-Plugin-Log-Timestamp:
   NICZERO: 1
 Mojolicious-Plugin-Logf:
   JHTHORSEN: 1
+Mojolicious-Plugin-Loop:
+  MRAMBERG: 1
 Mojolicious-Plugin-Mail:
   SHARIFULN: 1
 Mojolicious-Plugin-MailException:
@@ -41342,6 +41374,8 @@ Net-APNS-Persistent:
 Net-APNS-Simple:
   ROCKBONE: 1
 Net-APNs-Extended:
+  XAICRON: 1
+Net-APNs-HTTP2:
   XAICRON: 1
 Net-APP:
   IVAN: 1
@@ -48826,6 +48860,8 @@ Plack-Middleware-PyeLogger:
   IDOPEREL: 1
 Plack-Middleware-QRCode:
   CORNELIUS: 1
+Plack-Middleware-QueryCounter:
+  ACIDLEMON: 1
 Plack-Middleware-RDF-Flow:
   VOJ: 1
 Plack-Middleware-REPL:
@@ -51149,6 +51185,8 @@ RadioMobile:
   EBRUNI: 1
 Radioactive-Decay:
   TMTM: 1
+Rails-Assets:
+  KUPTA: 1
 Railsish:
   GUGOD: 1
 Raisin:
@@ -51765,6 +51803,8 @@ Role-Log-Syslog-Fast:
   TBR: 1
 Role-Markup-XML:
   DORIAN: 1
+Role-MimeInfo:
+  DORIAN: 1
 Role-Multiton:
   DMUEY: 1
 Role-Pg-Notify:
@@ -51977,6 +52017,8 @@ SAS-TRX:
   ACCA: 1
 SAVI-Perl:
   PHENSON: 1
+SC-Lomonosov:
+  ALEXFMSU: 1
 SCGI:
   VIPERCODE: 1
 SCUBA-Blender:
@@ -54991,6 +55033,8 @@ Struct-Path:
   MIXAS: 1
 Struct-Path-PerlStyle:
   MIXAS: 1
+Struct-WOP:
+  LNATION: 1
 Stump:
   INGY: 1
 StupidMarkov:
@@ -55095,6 +55139,8 @@ Sub-Info:
   EXODIST: 1
 Sub-Information:
   OVID: 1
+Sub-Inject:
+  FERREIRA: 1
 Sub-Inspector:
   CSIDE: 1
 Sub-Install:
@@ -55399,6 +55445,8 @@ Syntax-Highlight-CSS:
   ZOFFIX: 1
 Syntax-Highlight-Engine-Kate:
   SZABGAB: 1
+Syntax-Highlight-Engine-Simple:
+  AKHUETTEL: 1
 Syntax-Highlight-HTML:
   SAPER: 1
 Syntax-Highlight-JSON:
@@ -56335,6 +56383,8 @@ TeamCity-BuildMessages:
   ELLIOTJS: 1
 TeamCity-Message:
   MAXMIND: 1
+Teamcity-Executor:
+  TYNOVSKY: 1
 Teamspeak:
   MALETIN: 1
 Tee:
@@ -62516,6 +62566,8 @@ VS-RuleEngine-Loader-XML:
   CLAESJAC: 1
 VS-RuleEngine-Writer-XML:
   CLAESJAC: 1
+VSGDR-MergeData:
+  DEDMEDVED: 1
 VSGDR-StaticData:
   DEDMEDVED: 1
 VSGDR-TestScriptGen:
@@ -63742,7 +63794,7 @@ WWW-SMS:
 WWW-SVT-Play:
   OLOF: 1
 WWW-Salesforce:
-  PHRED: 1
+  CAPOEIRAB: 1
 WWW-Salesforce-Report:
   PAIXAOP: 1
 WWW-Saucelabs:
@@ -68052,6 +68104,8 @@ failures:
   DAGOLDEN: 1
 fameperl:
   TRIAS: 1
+fastQ_brew:
+  HALLORAN: 1
 fewer:
   RJBS: 1
 fields-aliased:
@@ -68112,6 +68166,8 @@ go-db-perl:
   SJCARBON: 1
 go-perl:
   CMUNGALL: 1
+goto-file:
+  EXODIST: 1
 grepmail:
   DCOPPIT: 1
 grok:
