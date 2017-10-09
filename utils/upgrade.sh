@@ -1,5 +1,5 @@
 #!/bin/bash
 
 layman -a x86
-emerge --nodeps g-cpan
+emerge dev-perl/g-cpan
 layman -d x86

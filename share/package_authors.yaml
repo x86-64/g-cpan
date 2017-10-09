@@ -332,7 +332,7 @@ AWS-CLIWrapper:
 AWS-CloudFront:
   JOHND: 1
 AWS-IP:
-  SILLYMOOS: 1
+  DFARRELL: 1
 AWS-Networks:
   JLMARTIN: 1
 AWS-S3:
@@ -2281,6 +2281,8 @@ Alien-Libmcrypt:
   LZH: 1
 Alien-Librdkafka:
   ZWON: 1
+Alien-LibreSSL:
+  PLICEASE: 1
 Alien-Libxml2:
   PLICEASE: 1
 Alien-Lightbox:
@@ -2397,6 +2399,8 @@ Alien-WiX-Version30:
   CSJEWELL: 1
 Alien-XGBoost:
   PABLROD: 1
+Alien-XInputSimulator:
+  ATHREEF: 1
 Alien-XPA:
   DJERIUS: 1
 Alien-ZMQ:
@@ -2703,6 +2707,8 @@ Anarres-Mud-Driver:
   SHEVEK: 1
 Android-ADB:
   MGV: 1
+Android-Build:
+  PRBRENAN: 1
 Android-Releases:
   PERLANCAR: 1
 Anego:
@@ -3715,7 +3721,7 @@ Apache-Session:
   CHORNY: 1
   JBAKER: 1
 Apache-Session-Browseable:
-  COUDOT: 1
+  GUIMARD: 1
 Apache-Session-CacheAny:
   MIYAGAWA: 1
 Apache-Session-Counted:
@@ -4254,6 +4260,8 @@ App-Bootstrap-Perl:
   SCHWIGON: 1
 App-BorgRestore:
   BLUEWIND: 1
+App-Brl2Brl:
+  LRS: 1
 App-BrowserOpenUtils:
   PERLANCAR: 1
 App-Build:
@@ -5107,6 +5115,8 @@ App-NetdiscoX-Web-Plugin-RANCID:
   OLIVER: 1
 App-NoPAN:
   KAZUHO: 1
+App-NoodlePay:
+  HASH: 1
 App-Nopaste:
   ETHER: 1
   SARTAK: 1
@@ -5326,6 +5336,10 @@ App-Prolix:
   GAAL: 1
 App-Prove-Dist:
   INGY: 1
+App-Prove-Plugin-Count:
+  MASIUCHI: 1
+App-Prove-Plugin-CumulativeTimer:
+  MASIUCHI: 1
 App-Prove-Plugin-Distributed:
   LSF: 1
 App-Prove-Plugin-Idempotent:
@@ -9097,6 +9111,8 @@ Bundle-DBWIZ:
   CALVINM: 1
 Bundle-DadaMail:
   JJSIMONI: 1
+Bundle-DadaMailXXL:
+  JJSIMONI: 1
 Bundle-DataMint:
   PRILUSKYJ: 1
 Bundle-DateTime-Complete:
@@ -9427,6 +9443,8 @@ Business-BR-Boleto-Banco-Itau:
   BLABOS: 1
 Business-BR-CEP:
   GARU: 1
+Business-BR-CNJ:
+  DLIMA: 1
 Business-BR-Ids:
   FERREIRA: 1
 Business-BR-NFe-RPS-TXT:
@@ -11139,6 +11157,8 @@ CPAN-Patches-Plugin-Debian:
   JKUTEJ: 1
 CPAN-Perl-Releases:
   BINGOS: 1
+CPAN-Perl-Releases-MetaCPAN:
+  SKAJI: 1
 CPAN-Plugin-Sysdeps:
   SREZIC: 1
 CPAN-Porters:
@@ -11886,6 +11906,8 @@ Catalyst-ActionRole-FindViewByIsa:
   BOBTFISH: 1
 Catalyst-ActionRole-JMS:
   DAKKAR: 1
+Catalyst-ActionRole-JSV:
+  MASAKYST: 1
 Catalyst-ActionRole-MatchHost:
   NUCLON: 1
 Catalyst-ActionRole-MatchRequestAccepts:
@@ -11906,6 +11928,8 @@ Catalyst-ActionRole-Public:
   JJNAPIORK: 1
 Catalyst-ActionRole-QueryParameter:
   JJNAPIORK: 1
+Catalyst-ActionRole-Renderer:
+  MASAKYST: 1
 Catalyst-ActionRole-RequireSSL:
   WREIS: 1
 Catalyst-ActionRole-Tabs:
@@ -14685,6 +14709,8 @@ Clone-Any:
   EVO: 1
 Clone-AsUTF8Bytes:
   MARKF: 1
+Clone-Choose:
+  HERMES: 1
 Clone-Closure:
   BMORROW: 1
 Clone-PP:
@@ -14807,6 +14833,8 @@ CodeBase:
   ANDREWF: 1
 CodeManager:
   FRANCISCO: 1
+Coerce-Types-Standard:
+  LNATION: 1
 Cog:
   INGY: 1
 CogBase:
@@ -15278,6 +15306,8 @@ Config-KingKong:
   RAPHINK: 1
 Config-LDAPClient:
   MFOWLER: 1
+Config-LNPath:
+  LNATION: 1
 Config-Layered:
   SYMKAT: 1
 Config-Lite:
@@ -15867,6 +15897,8 @@ Crypt-Chimera:
   SHEVEK: 1
 Crypt-CipherSaber:
   CHROMATIC: 1
+Crypt-Cisco:
+  VINSWORLD: 1
 Crypt-Cracklib:
   DANIEL: 1
 Crypt-Cryptoki:
@@ -16782,7 +16814,7 @@ DBIx-Class-DeleteAction:
 DBIx-Class-DeploymentAdapter:
   JEGADE: 1
 DBIx-Class-DeploymentHandler:
-  FREW: 1
+  MMCCLIMON: 1
 DBIx-Class-DeploymentHandler-CLI:
   HORNBURG: 1
 DBIx-Class-DeploymentHandler-VersionStorage-WithSchema:
@@ -18378,6 +18410,8 @@ Dancer2-Plugin-Negotiate:
   ZURBORG: 1
 Dancer2-Plugin-OAuth2-Server:
   PVIGIER: 1
+Dancer2-Plugin-OpenAPIRoutes:
+  ANTONPETR: 1
 Dancer2-Plugin-PageHistory:
   SYSPETE: 1
 Dancer2-Plugin-Paginator:
@@ -18434,6 +18468,8 @@ Dancer2-Plugin-UnicodeNormalize:
   JBARRETT: 1
 Dancer2-Plugin-WebService:
   MPOURASG: 1
+Dancer2-Plugin-WebSocket:
+  YANICK: 1
 Dancer2-Plugin-reCAPTCHA:
   PATTAWAN: 1
 Dancer2-Serializer-CBOR:
@@ -19529,6 +19565,8 @@ Data-Scan:
   JDDPAUSE: 1
 Data-Scroller:
   BENH: 1
+Data-SeaBASS:
+  JLEFLER: 1
 Data-Search:
   ALX: 1
 Data-SearchEngine:
@@ -19562,6 +19600,8 @@ Data-Semantic-Net:
   MARCEL: 1
 Data-Semantic-URI:
   MARCEL: 1
+Data-Send-Local:
+  PRBRENAN: 1
 Data-Serializable:
   ROBINS: 1
 Data-Serializer:
@@ -21467,6 +21507,8 @@ Device-Moose-SCSI:
   POTATOGIM: 1
 Device-Nest:
   KEDAR: 1
+Device-Network-ConfigParser:
+  PUGLET: 1
 Device-Neurio:
   KEDAR: 1
 Device-NeurioTools:
@@ -21973,6 +22015,8 @@ Dist-Zilla-App-Command-critic:
   KENTNL: 1
 Dist-Zilla-App-Command-dhmakeperl:
   SHANTANU: 1
+Dist-Zilla-App-Command-distversion:
+  ALTREUS: 1
 Dist-Zilla-App-Command-dumpphases:
   KENTNL: 1
 Dist-Zilla-App-Command-dumpwith:
@@ -23450,6 +23494,8 @@ Egg-Release-XML-FeedPP:
   LUSHE: 1
 Egg-View-TT:
   LUSHE: 1
+Ei:
+  NKUITSE: 1
 Eidolon:
   ABEL: 1
 Eidolon-Driver-DB-MySQL:
@@ -23742,6 +23788,8 @@ Embedix-ECD:
   BEPPU: 1
 Embperl:
   GRICHTER: 1
+Emoji-NationalFlag:
+  PUNYTAN: 1
 Enbld:
   MAGNOLIA: 1
 Enbugger:
@@ -24588,12 +24636,6 @@ Fdb:
   HASSEILY: 1
 FedEx:
   PTULLY: 1
-Fedora-App-MaintainerTools:
-  RSRCHBOY: 1
-Fedora-App-ReviewTool:
-  RSRCHBOY: 1
-Fedora-Bugzilla:
-  RSRCHBOY: 1
 FedoraCommons-APIA:
   DFIELDING: 1
 FedoraCommons-APIM:
@@ -26008,6 +26050,8 @@ FlatFile-DataStore:
   BBAXTER: 1
 Flea:
   FRODWITH: 1
+Flexconf:
+  OKLAS: 1
 Flexnet-lmutil:
   ODENBACH: 1
 Flickr-API:
@@ -27740,6 +27784,8 @@ Getopt-Long-EvenLess:
 Getopt-Long-GUI:
   HARDAKER: 1
 Getopt-Long-Less:
+  PERLANCAR: 1
+Getopt-Long-Less-Dump:
   PERLANCAR: 1
 Getopt-Long-Modern:
   DBOOK: 1
@@ -30048,6 +30094,8 @@ HTTP-Tiny:
   DAGOLDEN: 1
 HTTP-Tiny-Bandwidth:
   SKAJI: 1
+HTTP-Tiny-FileProtocol:
+  RENEEB: 1
 HTTP-Tiny-Mech:
   KENTNL: 1
 HTTP-Tiny-Multipart:
@@ -30363,6 +30411,8 @@ Hash-WithDefaults:
   JENDA: 1
 Hash-Work:
   AHERNIT: 1
+Hash-Wrap:
+  DJERIUS: 1
 HashBang:
   INGY: 1
 Hashids:
@@ -30614,6 +30664,8 @@ IO:
   GBARR: 1
 IO-AIO:
   MLEHMANN: 1
+IO-AIO-LoadLimited:
+  UFOBAT: 1
 IO-AIO-Util:
   GRAY: 1
 IO-All:
@@ -31669,7 +31721,11 @@ Importer-Zim:
   FERREIRA: 1
 Importer-Zim-Base:
   FERREIRA: 1
+Importer-Zim-EndOfScope:
+  FERREIRA: 1
 Importer-Zim-Lexical:
+  FERREIRA: 1
+Importer-Zim-Unit:
   FERREIRA: 1
 In-Korean-Numbers-SinoKorean:
   BRYAN: 1
@@ -32185,6 +32241,8 @@ Java-2Perl6API:
   TIMB: 1
 Java-Build:
   PHILCROW: 1
+Java-Doc:
+  PRBRENAN: 1
 Java-Import:
   RUSEKD: 1
 Java-JCR:
@@ -34519,6 +34577,8 @@ List-BinarySearch-XS:
   DAVIDO: 1
 List-Bisect:
   NOTBENH: 1
+List-Breakdown:
+  TEJR: 1
 List-Categorize:
   WNODOM: 1
 List-Categorize-Multi:
@@ -34641,6 +34701,8 @@ List-SomeUtils:
   DROLSKY: 1
 List-SomeUtils-XS:
   DROLSKY: 1
+List-ToHash:
+  AKIYM: 1
 List-ToHumanString:
   ZOFFIX: 1
 List-Tuples:
@@ -35251,6 +35313,8 @@ Log-Any-Adapter-Handler:
   GVL: 1
 Log-Any-Adapter-Journal:
   MGRIMES: 1
+Log-Any-Adapter-LinuxJournal:
+  IOANR: 1
 Log-Any-Adapter-Log4perl:
   DAGOLDEN: 1
 Log-Any-Adapter-LogGer:
@@ -35265,13 +35329,13 @@ Log-Any-Adapter-Redis:
   MILA: 1
 Log-Any-Adapter-Screen:
   PERLANCAR: 1
-Log-Any-Adapter-Syslog:
-  SDT: 1
 Log-Any-Adapter-TAP:
   NERDVANA: 1
 Log-Any-For-Std:
   IVANYCH: 1
 Log-Any-Plugin:
+  SDT: 1
+Log-Any-Plugin-ANSIColor:
   SDT: 1
 Log-Any-Plugin-Format:
   JJATRIA: 1
@@ -35711,6 +35775,8 @@ Log-ger-Output-File:
   PERLANCAR: 1
 Log-ger-Output-FileWriteRotate:
   PERLANCAR: 1
+Log-ger-Output-Journald:
+  PERLANCAR: 1
 Log-ger-Output-LogAny:
   PERLANCAR: 1
 Log-ger-Output-LogDispatchOutput:
@@ -36109,7 +36175,7 @@ MP3-Icecast-Simple:
   GREGORY: 1
 MP3-Info:
   CNANDOR: 1
-  DANIEL: 1
+  JMERELO: 1
 MP3-M3U:
   ILIAL: 1
 MP3-M3U-Parser:
@@ -36914,6 +36980,8 @@ MarpaX-Demo-StringParser:
 MarpaX-ESLIF:
   JDDPAUSE: 1
 MarpaX-ESLIF-ECMA404:
+  JDDPAUSE: 1
+MarpaX-ESLIF-URI:
   JDDPAUSE: 1
 MarpaX-Grammar-GraphViz2:
   RSAVAGE: 1
@@ -38911,6 +38979,8 @@ Mojo-Autobox:
   JBERGER: 1
 Mojo-Base-XS:
   YKO: 1
+Mojo-Bass:
+  FERREIRA: 1
 Mojo-CSV:
   ZOFFIX: 1
 Mojo-CallFire:
@@ -39520,7 +39590,7 @@ Mojolicious-Plugin-Log-Timestamp:
 Mojolicious-Plugin-Logf:
   JHTHORSEN: 1
 Mojolicious-Plugin-Loop:
-  MRAMBERG: 1
+  JHTHORSEN: 1
 Mojolicious-Plugin-Mail:
   SHARIFULN: 1
 Mojolicious-Plugin-MailException:
@@ -40153,6 +40223,8 @@ MooseX-AbstractMethod:
   RSRCHBOY: 1
 MooseX-Accessors-ReadWritePrivate:
   ELLIOTJS: 1
+MooseX-AccessorsOnly:
+  CHOHAG: 1
 MooseX-Aliases:
   DOY: 1
 MooseX-Alien:
@@ -41066,8 +41138,6 @@ MySQL-Binlog_RBR_Data:
   STRANGE: 1
 MySQL-Config:
   DARREN: 1
-MySQL-DateFormat:
-  TONKIN: 1
 MySQL-Diff:
   ASPIERS: 1
   ESTRABD: 1
@@ -42140,6 +42210,8 @@ Net-Frame-Layer-ICMPv4:
   GOMOR: 1
 Net-Frame-Layer-ICMPv6:
   GOMOR: 1
+Net-Frame-Layer-ICMPv6-MLD:
+  VINSWORLD: 1
 Net-Frame-Layer-IGMP:
   VINSWORLD: 1
 Net-Frame-Layer-IPv6:
@@ -44343,6 +44415,8 @@ OTRS-Kernel-Module-TicketAutoAssignment:
 OTRS-Kernel-System-MultilevelEscalation:
   ROHITBASU: 1
 OTRS-OPM-Analyzer:
+  RENEEB: 1
+OTRS-OPM-Installer:
   RENEEB: 1
 OTRS-OPM-Maker:
   RENEEB: 1
@@ -47312,6 +47386,8 @@ Pcore-PDF:
   ZDM: 1
 Pcore-PgSQL:
   ZDM: 1
+Pcore-Proxy:
+  ZDM: 1
 Pcore-Redis:
   ZDM: 1
 Pcore-SMTP:
@@ -47767,6 +47843,8 @@ Perl-PrereqScanner-Lite:
   MOZNION: 1
 Perl-PrereqScanner-NotQuiteLite:
   ISHIGAKI: 1
+Perl-PrereqScanner-Scanner-Catalyst:
+  SLOYD: 1
 Perl-PrereqScanner-Scanner-Hint:
   VDB: 1
 Perl-PrereqScanner-Scanner-MooseXTypesCombine:
@@ -50711,6 +50789,8 @@ RPi-SPI:
   STEVEB: 1
 RPi-Serial:
   STEVEB: 1
+RPi-UnicornHatHD:
+  SANKO: 1
 RPi-WiringPi:
   STEVEB: 1
 RPi-WiringPi-Constant:
@@ -50880,6 +50960,8 @@ RT-Extension-EasyRelatedTickets:
   SUNNAVY: 1
 RT-Extension-EscalationDates:
   BHEISIG: 1
+RT-Extension-ExampleTheme:
+  BPS: 1
 RT-Extension-ExcelFeed:
   BPS: 1
 RT-Extension-ExternalStorage:
@@ -50896,6 +50978,8 @@ RT-Extension-Gravatar:
   CLOOS: 1
 RT-Extension-GroupBroadcast:
   WESAL: 1
+RT-Extension-GroupSummary:
+  GIBUS: 1
 RT-Extension-HideWidgets:
   OERIS: 1
 RT-Extension-HistoryFilter:
@@ -52818,7 +52902,7 @@ Safe-Hole:
   SEYN: 1
   TODDR: 1
 Safe-Isa:
-  HAARG: 1
+  ETHER: 1
 Safe-Logs:
   LUISMUNOZ: 1
 Safe-World:
@@ -53109,8 +53193,6 @@ Sdict:
   SWAJ: 1
 Se-PersonNr:
   EBOSRUP: 1
-SeaBASS-File:
-  JLEFLER: 1
 Search-Binary:
   XAERXESS: 1
 Search-ByPrefix:
@@ -53281,6 +53363,8 @@ SemanticWeb-OAI-ORE:
   SIMEON: 1
 Semi-Semicolons:
   DHA: 1
+Sendmail-AbuseIPDB:
+  TTNDY: 1
 Sendmail-AccessDB:
   STEPHANJ: 1
 Sendmail-Milter:
@@ -53705,6 +53789,8 @@ Skype-Any:
   AKIYM: 1
 SkypeAPI:
   LAOMOI: 1
+Slack-Notify:
+  ROBN: 1
 Slack-RTM-Bot:
   SHMAEDA: 1
 Slackware-Slackget:
@@ -53809,6 +53895,8 @@ SmarTalk:
   CLADI: 1
 Smart-Args:
   TOKUHIROM: 1
+Smart-Args-TypeTiny:
+  AKIYM: 1
 Smart-Comments:
   NEILB: 1
 Smart-Comments-Log4perl:
@@ -54163,6 +54251,8 @@ Spike:
   SILENCER: 1
 Spirit-Of-PallThayer:
   PTHAYER: 1
+Splunk-HEC:
+  EFORBUS: 1
 Splunklib:
   GOMOR: 1
 Spoon:
@@ -54965,6 +55055,8 @@ String-Tagged-HTML:
   PEVANS: 1
 String-Tagged-IRC:
   PEVANS: 1
+String-Tagged-Terminal:
+  PEVANS: 1
 String-Template:
   PLICEASE: 1
 String-Tests:
@@ -55221,6 +55313,8 @@ Sub-Recursive:
   LODIN: 1
 Sub-Regex:
   XERN: 1
+Sub-Replace:
+  FERREIRA: 1
 Sub-Retry:
   TOKUHIROM: 1
 Sub-ScopeFinalizer:
@@ -55447,6 +55541,10 @@ Syntax-Highlight-Engine-Kate:
   SZABGAB: 1
 Syntax-Highlight-Engine-Simple:
   AKHUETTEL: 1
+Syntax-Highlight-Engine-Simple-HTML:
+  AKHUETTEL: 1
+Syntax-Highlight-Engine-Simple-Perl:
+  AKHUETTEL: 1
 Syntax-Highlight-HTML:
   SAPER: 1
 Syntax-Highlight-JSON:
@@ -55598,7 +55696,7 @@ Sys-Run:
 Sys-Run-Safer:
   PERLANCAR: 1
 Sys-RunAlone:
-  ELIZABETH: 1
+  TILLY: 1
 Sys-RunAlone-User:
   PEDLAR: 1
 Sys-RunAlways:
@@ -58736,12 +58834,16 @@ Test2-Suite:
   EXODIST: 1
 Test2-Tools-AfterSubtest:
   SHUMPHREY: 1
+Test2-Tools-Condition:
+  AKIYM: 1
 Test2-Tools-EventDumper:
   EXODIST: 1
 Test2-Tools-Explain:
   PETDANCE: 1
 Test2-Tools-Expressive:
   PETDANCE: 1
+Test2-Tools-JSON:
+  AKIYM: 1
 Test2-Tools-URL:
   PLICEASE: 1
 Test2-Workflow:
@@ -61755,6 +61857,8 @@ Type-Tiny-Signatures:
   AWNCORP: 1
 Type-Tiny-XS:
   TOBYINK: 1
+Type-TinyX-Facets:
+  DJERIUS: 1
 TypeLibrary-FromXSD:
   RENEEB: 1
 Types:
@@ -61781,6 +61885,8 @@ Types-LoadableClass:
   TOBYINK: 1
 Types-Numbers:
   BBYRD: 1
+Types-PDL:
+  DJERIUS: 1
 Types-Path-Tiny:
   DAGOLDEN: 1
 Types-PerlVersion:
@@ -61908,6 +62014,8 @@ UPS-Nut:
 UR:
   BRUMMETT: 1
   SAKOHT: 1
+UR-Object-Command-Crud:
+  EBELTER: 1
 URBL-Prepare:
   MIKER: 1
 URI:
@@ -62248,6 +62356,8 @@ Unicode-Number:
   ZMUGHAL: 1
 Unicode-Overload:
   JGOFF: 1
+Unicode-Peek:
+  GARYFALOS: 1
 Unicode-Precis:
   NEZUMI: 1
 Unicode-Precis-Preparation:
@@ -62802,6 +62912,8 @@ VisualDreams-Yubikey-online:
   WILDCHILD: 1
 Vitacilina:
   DAMOG: 1
+Vlc-Engine:
+  BRNFLK: 1
 VoiceXML-Client:
   PDEEGAN: 1
 VoiceXML-Server:
@@ -65139,6 +65251,8 @@ WebService-PutIo:
   MRAMBERG: 1
 WebService-Qiita:
   YUUKI: 1
+WebService-Qiita-V2:
+  RISOU: 1
 WebService-RTMAgent:
   RJBS: 1
 WebService-Rackspace-CloudFiles:
@@ -65360,6 +65474,8 @@ WebService-VaultPress-Partner:
   SYMKAT: 1
 WebService-VerifyEmail:
   NEILB: 1
+WebService-Vichan:
+  MGV: 1
 WebService-Viddler:
   PDW: 1
 WebService-VigLink:
@@ -65571,6 +65687,8 @@ Win32-ActAcc:
   PBWOLF: 1
 Win32-App-which:
   DOLMEN: 1
+Win32-AutoItX:
+  MTELNOV: 1
 Win32-Autoglob:
   SBURKE: 1
 Win32-CLR:
@@ -65791,6 +65909,8 @@ Win32-MultiMedia:
   THAMUS: 1
 Win32-NameTranslate:
   BINGOS: 1
+Win32-Net-Info:
+  VINSWORLD: 1
 Win32-Net-Session:
   RPAGITSCH: 1
 Win32-NetAdmin:
@@ -65835,6 +65955,8 @@ Win32-Pipe:
   JDB: 1
 Win32-PowerPoint:
   ISHIGAKI: 1
+Win32-PowerShell-IPC:
+  NERDVANA: 1
 Win32-PrintBox:
   DCLARKE: 1
 Win32-Printer:
@@ -67502,6 +67624,8 @@ YamlTime-Git:
   INGY: 1
 Yandex-Dictionary:
   BRNFLK: 1
+Yandex-Disk:
+  VRAG: 1
 Yandex-Metrika:
   CHIPSOID: 1
 Yandex-OAuth:
@@ -67595,8 +67719,6 @@ ZConf-Runner-GUI-GTK:
 ZConf-Weather:
   VVELOX: 1
 ZHOUYI:
-  ORANGE: 1
-ZHOUYI-ZhanPu:
   ORANGE: 1
 ZM-SSI:
   MAXICO: 1
@@ -67693,6 +67815,8 @@ Zonemaster:
 Zonemaster-CLI:
   ZNMSTR: 1
 Zonemaster-GUI:
+  ZNMSTR: 1
+Zonemaster-LDNS:
   ZNMSTR: 1
 Zonemaster-WebBackend:
   ZNMSTR: 1
@@ -68534,6 +68658,10 @@ overload-reify:
   DJERIUS: 1
 overload-substr:
   PEVANS: 1
+oxdperl:
+  GLUU: 1
+oxdperl_sobhantest:
+  SOBHAN: 1
 p2:
   RURBAN: 1
 p5-Text-Xslate-Syntax-Any:
@@ -68617,7 +68745,6 @@ perl:
   NWCLARK: 1
   RGARCIA: 1
   SHAY: 1
-  XSAWYERX: 1
 perl-Apache2-LogUtil:
   RYANGIES: 1
 perl-GPS:
