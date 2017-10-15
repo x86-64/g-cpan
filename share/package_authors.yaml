@@ -4180,6 +4180,8 @@ App-AllMyChangesUtils:
   BESSARABV: 1
 App-AltSQL:
   EWATERS: 1
+App-Anchr:
+  WANGQ: 1
 App-Antigen:
   TBSLIVER: 1
 App-Aphra:
@@ -4276,6 +4278,8 @@ App-CCSV:
   GARGAMEL: 1
 App-CELL:
   SMITHFARM: 1
+App-CGIThis:
+  SIMBABQUE: 1
 App-CISetup:
   DROLSKY: 1
 App-CLI:
@@ -4799,6 +4803,8 @@ App-HPGL2Cadsoft:
   HOLLIE: 1
 App-HTRender:
   LAJANDY: 1
+App-HTTPSThis:
+  PERLANCAR: 1
 App-HTTPThis:
   MELO: 1
 App-HTTP_Proxy_IMP:
@@ -5623,6 +5629,8 @@ App-Sys-Info:
   BURAK: 1
 App-Sysadmin-Log-Simple:
   DOHERTY: 1
+App-TEWK-tt:
+  TEWK: 1
 App-TLSMe:
   VTI: 1
 App-TOMLUtils:
@@ -6433,6 +6441,8 @@ AppConfig-MyFile:
   ABW: 1
 AppConfig-Std:
   NEILB: 1
+AppLib-CreateSelfSignedSSLCert:
+  PERLANCAR: 1
 AppendHash.pm:
   TOMC: 1
 Appium:
@@ -8498,6 +8508,8 @@ Bio-Phylo-Forest-DBTree:
   RVOSA: 1
 Bio-PhyloTastic:
   RVOSA: 1
+Bio-PhyloXS:
+  RVOSA: 1
 Bio-Pipeline-Comparison:
   AJPAGE: 1
 Bio-PrimerDesigner:
@@ -9444,6 +9456,10 @@ Business-BR-Boleto-Banco-Itau:
 Business-BR-CEP:
   GARU: 1
 Business-BR-CNJ:
+  DLIMA: 1
+Business-BR-CNJ-NumberExtractor:
+  DLIMA: 1
+Business-BR-CNJ-WebService:
   DLIMA: 1
 Business-BR-Ids:
   FERREIRA: 1
@@ -16868,6 +16884,8 @@ DBIx-Class-HTML-FormFu:
   CFRANKS: 1
 DBIx-Class-HTMLWidget:
   ANDREMAR: 1
+DBIx-Class-HashAccessor:
+  GETTY: 1
 DBIx-Class-Helper-ResultSet-CrossTab:
   SCESANO: 1
 DBIx-Class-Helpers:
@@ -18376,6 +18394,8 @@ Dancer2-Plugin-Github-Webhook:
   DSONNTAG: 1
 Dancer2-Plugin-GoogleAnalytics:
   GARCER: 1
+Dancer2-Plugin-GraphQL:
+  ETJ: 1
 Dancer2-Plugin-Growler:
   DMUEY: 1
 Dancer2-Plugin-HTTP-Auth-Extensible:
@@ -21925,6 +21945,8 @@ Directory-Organize:
   MAMAWE: 1
 Directory-Queue:
   LCONS: 1
+Directory-Scanner:
+  STEVAN: 1
 Directory-Scratch:
   ETHER: 1
 Directory-Scratch-Structured:
@@ -27269,6 +27291,8 @@ Geo-Coder-OpenCage:
   EDF: 1
 Geo-Coder-Ovi:
   GRAY: 1
+Geo-Coder-Postcodes:
+  NHORNE: 1
 Geo-Coder-RandMcnally:
   GRAY: 1
 Geo-Coder-TomTom:
@@ -29619,6 +29643,8 @@ HTML-TurboForm:
   CAMELCASE: 1
 HTML-Untemplate:
   SYP: 1
+HTML-Untidy:
+  JEFFOBER: 1
 HTML-Valid:
   BKB: 1
 HTML-ValidationRules:
@@ -36642,6 +36668,8 @@ Mail-RFC822-Address:
   PDWARREN: 1
 Mail-RoundTrip:
   EINHVERFR: 1
+Mail-Run-Crypt:
+  TEJR: 1
 Mail-SMI:
   DFROZ: 1
 Mail-SMTP-Honeypot:
@@ -36967,6 +36995,8 @@ Markup-TreeNode:
   BPRUDENT: 1
 Markup-Unified:
   IDOPEREL: 1
+Marky:
+  RUBYKAT: 1
 Marpa-R2:
   JKEGL: 1
 MarpaX-Database-Terminfo:
@@ -37777,6 +37807,8 @@ Math-Vector-SortIndexes:
   SPLICE: 1
 Math-VectorReal:
   ANTHONY: 1
+Math-Vectors2:
+  PRBRENAN: 1
 Math-Volume-Rotational:
   SMUELLER: 1
 Math-WalshTransform:
@@ -41114,6 +41146,8 @@ MusicRoom:
   SJHAWTIN: 1
 Mustache-Simple:
   CMS: 1
+Muster:
+  RUBYKAT: 1
 Mutex:
   MARIOROY: 1
 Mvalve:
@@ -65203,6 +65237,8 @@ WebService-Ooyala:
   VROOM: 1
 WebService-Openaura:
   HONDALLIC: 1
+WebService-OverheidIO:
+  WATERKIP: 1
 WebService-POEditor:
   ROMANF: 1
 WebService-PagerDuty:
@@ -66336,6 +66372,8 @@ Wx-Perl-FSHandler-UNC:
   BBC: 1
 Wx-Perl-HtmlWizardPage:
   JOUKE: 1
+Wx-Perl-IconDepot:
+  HANJE: 1
 Wx-Perl-Imagick:
   JOUKE: 1
 Wx-Perl-ListCtrl:
@@ -67748,6 +67786,8 @@ ZMQ-LibZMQ3-LibZMQ2:
   BINARY: 1
 ZMQ-LibZMQ4:
   MOSCONI: 1
+ZMQ-Raw:
+  JACQUESG: 1
 ZMQx-Class:
   DOMM: 1
 ZMachine:
