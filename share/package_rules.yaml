@@ -114,8 +114,6 @@ Gtk2-TrayIcon:
   name: gtk2-trayicon
 Gtk2-TrayManager:
   name: gtk2-traymanager
-HTML-Formatter:
-  name: HTML-Format
 HTTP-Tiny:
   category: virtual
   name: perl-HTTP-Tiny
