@@ -146,6 +146,8 @@ Locale-Maketext:
 Locale-Maketext-Simple:
   category: virtual
   name: perl-Locale-Maketext-Simple
+MARC-XML:
+  name: MARC-File-XML
 MIME-Base64:
   category: virtual
   name: perl-MIME-Base64

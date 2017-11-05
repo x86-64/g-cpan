@@ -388,6 +388,8 @@ Acme-Acotie:
   YAPPO: 1
 Acme-Addslashes:
   JAITKEN: 1
+Acme-Affinity:
+  GENE: 1
 Acme-Aheui:
   RAKJIN: 1
 Acme-AirRead:
@@ -959,8 +961,6 @@ Acme-JWT:
   CLAIRVY: 1
 Acme-JavaTrace:
   SAPER: 1
-Acme-Jrush:
-  JLRUSH: 1
 Acme-Jungle-CrawlerExample:
   HERNAN: 1
 Acme-KJAM:
@@ -1159,6 +1159,8 @@ Acme-MomoiroClover:
   TATENO: 1
 Acme-Monkey:
   BLUEFEET: 1
+Acme-Monme:
+  WHISKYSHU: 1
 Acme-Monta:
   YAPPO: 1
 Acme-Moose:
@@ -2147,6 +2149,8 @@ Alien-Build-Git:
   PLICEASE: 1
 Alien-Build-MB:
   PLICEASE: 1
+Alien-Build-Plugin-Build-Premake5:
+  JJATRIA: 1
 Alien-Build-Plugin-Decode-SourceForge:
   PLICEASE: 1
 Alien-Build-Plugin-Fetch-Cache:
@@ -2469,6 +2473,8 @@ Alien-pdf2json:
   ZMUGHAL: 1
 Alien-pkgconf:
   PLICEASE: 1
+Alien-premake5:
+  JJATRIA: 1
 Alien-qd:
   AAR: 1
 Alien-raylib:
@@ -3783,7 +3789,6 @@ Apache-SimpleReplace:
 Apache-SimpleTemplate:
   FORTY: 1
 Apache-Singleton:
-  MIYAGAWA: 1
   MSCHOUT: 1
 Apache-SiteConfig:
   CORNELIUS: 1
@@ -4188,8 +4193,6 @@ App-AllMyChangesUtils:
   BESSARABV: 1
 App-AltSQL:
   EWATERS: 1
-App-Anchr:
-  WANGQ: 1
 App-Antigen:
   TBSLIVER: 1
 App-Aphra:
@@ -4575,6 +4578,8 @@ App-Eduard:
   MGV: 1
 App-ElasticSearch-Utilities:
   BLHOTSKY: 1
+App-Elog:
+  JACOBG: 1
 App-Env:
   DJERIUS: 1
 App-Env-Login:
@@ -4785,8 +4790,6 @@ App-Gitc:
   GSG: 1
 App-Github-Email:
   FARACO: 1
-App-Gnuget:
-  KHAREC: 1
 App-GoogleSearchPerlIRCLogs:
   PERLANCAR: 1
 App-GoogleSearchPerlmonksUser:
@@ -6181,6 +6184,8 @@ App-mvr:
   DOHERTY: 1
 App-mymeta_requires:
   DAGOLDEN: 1
+App-mysqlinfo:
+  PERLANCAR: 1
 App-nauniq:
   PERLANCAR: 1
 App-nodie:
@@ -6399,6 +6404,8 @@ App-tonematch:
   WLMB: 1
 App-toposort:
   PERLANCAR: 1
+App-tracepm:
+  PERLANCAR: 1
 App-trash-u:
   PERLANCAR: 1
 App-tt:
@@ -6419,6 +6426,8 @@ App-watcher:
   TOKUHIROM: 1
 App-wdq:
   VOJ: 1
+App-weavedoc:
+  PREACTION: 1
 App-whatthecommit:
   MUDLER: 1
 App-whichpm:
@@ -9660,6 +9669,8 @@ Business-OnlinePayment-Braintree:
   HORNBURG: 1
 Business-OnlinePayment-Capstone:
   IVAN: 1
+Business-OnlinePayment-CardConnect:
+  OAXLIN: 1
 Business-OnlinePayment-CardFortress:
   IVAN: 1
 Business-OnlinePayment-Cardcom:
@@ -10483,7 +10494,6 @@ CGI-Echo:
 CGI-Embedder:
   KOTEROV: 1
 CGI-Emulate-PSGI:
-  MIYAGAWA: 1
   TOKUHIROM: 1
 CGI-Emulate-PSGI-Streaming:
   DAKKAR: 1
@@ -12516,6 +12526,8 @@ Catalyst-Plugin-CurrentComponents:
   JJNAPIORK: 1
 Catalyst-Plugin-CustomErrorMessage:
   JKUTEJ: 1
+Catalyst-Plugin-DBIC-ConsoleQueryLog:
+  JJNAPIORK: 1
 Catalyst-Plugin-DBIC-Schema-Profiler:
   YAMAMOTO: 1
 Catalyst-Plugin-Data-Pensieve:
@@ -19917,6 +19929,8 @@ Data-Validate-WithYAML-Plugin-URL:
   RENEEB: 1
 Data-Validate-XSD:
   DOCTORMO: 1
+Data-ValidateInterdependent:
+  AMON: 1
 Data-Validation:
   PJFL: 1
 Data-Validator:
@@ -25049,6 +25063,8 @@ File-Glob-Slurp:
   DANKOGAI: 1
 File-Glob-Windows:
   TATE: 1
+File-Globstar:
+  GUIDO: 1
 File-Grep:
   MNEYLON: 1
 File-HStore:
@@ -27834,6 +27850,8 @@ Getopt-Long-Dump:
   PERLANCAR: 1
 Getopt-Long-EvenLess:
   PERLANCAR: 1
+Getopt-Long-EvenLess-Dump:
+  PERLANCAR: 1
 Getopt-Long-GUI:
   HARDAKER: 1
 Getopt-Long-Less:
@@ -28373,6 +28391,8 @@ Graph-Writer-TGXML:
 Graph-XGMML:
   ADAMK: 1
 GraphQL:
+  ETJ: 1
+GraphQL-Plugin-Convert-DBIC:
   ETJ: 1
 GraphViz:
   RSAVAGE: 1
@@ -32260,6 +32280,10 @@ JSTAPd:
   YAPPO: 1
 JSV:
   ZIGOROU: 1
+JSV-Compilator:
+  ANTONPETR: 1
+JSV-Compiler:
+  ANTONPETR: 1
 JSYNC:
   INGY: 1
 JaM:
@@ -36775,8 +36799,6 @@ Mail-SpamCannibal:
   MIKER: 1
 Mail-SpamFilter:
   MWARD: 1
-Mail-SpamTest-Bayesian:
-  FIREDRAKE: 1
 Mail-Spool:
   RHANDOM: 1
 Mail-Summary:
@@ -39479,6 +39501,8 @@ Mojolicious-Plugin-ChromeLogger:
   KOORCHIK: 1
 Mojolicious-Plugin-ClientIP:
   SIXAPART: 1
+Mojolicious-Plugin-ClientIP-Pluggable:
+  BINARY: 1
 Mojolicious-Plugin-ClosedRedirect:
   AKRON: 1
 Mojolicious-Plugin-ConfigAny:
@@ -39997,7 +40021,7 @@ Mojolicious-Plugin-ZombieApocalypse:
   TEMPIRE: 1
 Mojolicious-Quick:
   POPEFELIX: 1
-Mojolicious-ServiceManage:
+Mojolicious-Services:
   WFSO: 1
 Moment:
   BESSARABV: 1
@@ -41082,12 +41106,6 @@ Mu:
   MITHALDU: 1
 Muck:
   MIKE: 1
-Muldis-D-Manual:
-  DUNCAND: 1
-Muldis-DB:
-  DUNCAND: 1
-Muldis-Rosetta:
-  DUNCAND: 1
 MultiCat:
   MBSTE: 1
 MultiProcFactory:
@@ -41136,6 +41154,8 @@ Music-Intervals:
   GENE: 1
 Music-LilyPondUtil:
   JMATES: 1
+Music-Lyrics-LRC:
+  TEJR: 1
 Music-NeoRiemannianTonnetz:
   JMATES: 1
 Music-Note:
@@ -42493,7 +42513,7 @@ Net-Hadoop-DFSAdmin-ReportParser:
 Net-Hadoop-HuahinManager:
   TAGOMORIS: 1
 Net-Hadoop-Oozie:
-  BOOK: 1
+  BURAK: 1
 Net-Hadoop-WebHDFS:
   BURAK: 1
 Net-Hadoop-WebHDFS-LWP:
@@ -45092,14 +45112,6 @@ P5kkelabels:
   KAARE: 1
 P9Y-ProcessTable:
   BBYRD: 1
-PAB3:
-  CHRMUE: 1
-PAB3-DB-Driver-Mysql:
-  CHRMUE: 1
-PAB3-DB-Driver-Postgres:
-  CHRMUE: 1
-PAB3-DB-Driver-Sqlite3:
-  CHRMUE: 1
 PAD:
   PUNYTAN: 1
 PAM:
@@ -49834,6 +49846,8 @@ Pony-Object:
   BUGOV: 1
 PoolController:
   OLEGTS: 1
+Pootle-Client:
+  KIVILAHTI: 1
 Poppler:
   VOLKENING: 1
 Populous:
@@ -52075,14 +52089,6 @@ Rose-Planter:
   BDUGGAN: 1
 Rose-URI:
   JSIRACUSA: 1
-Rosetta:
-  DUNCAND: 1
-Rosetta-Engine-Generic:
-  DUNCAND: 1
-Rosetta-Utility-SQLBuilder:
-  DUNCAND: 1
-Rosetta-Utility-SQLParser:
-  DUNCAND: 1
 RosettaCode:
   INGY: 1
 Route-Switcher:
@@ -53000,6 +53006,8 @@ Sah:
 Sah-Examples:
   PERLANCAR: 1
 Sah-Schemas:
+  PERLANCAR: 1
+Sah-Schemas-Bool:
   PERLANCAR: 1
 Sah-Schemas-CPANMeta:
   PERLANCAR: 1
@@ -54237,6 +54245,8 @@ Sort-MultipleFields:
   DCANTRELL: 1
 Sort-Naturally:
   BINGOS: 1
+Sort-Naturally-ICU:
+  SERVAL: 1
 Sort-Naturally-XS:
   SERVAL: 1
 Sort-Packed:
@@ -56297,18 +56307,6 @@ Task-Catalyst-Tutorial:
   MRAMBERG: 1
 Task-CertHost:
   COSMICNET: 1
-Task-Cpanel:
-  CPANEL: 1
-Task-Cpanel-3rdparty:
-  CPANEL: 1
-Task-Cpanel-Catalyst:
-  CPANEL: 1
-Task-Cpanel-Core:
-  CPANEL: 1
-Task-Cpanel-Internal:
-  CPANEL: 1
-Task-Cpanel-Kensho:
-  CPANEL: 1
 Task-Curses-UI:
   SKIM: 1
 Task-DWIM-Linux:
@@ -57642,6 +57640,8 @@ Test-Class-Most:
   OVID: 1
 Test-Class-Sugar:
   PDCAWLEY: 1
+Test-Class-WithStrictPlan:
+  PALI: 1
 Test-ClassAPI:
   ADAMK: 1
 Test-Classy:
@@ -62049,6 +62049,7 @@ UML-State:
   PHILCROW: 1
 UMLS-Association:
   BTMCINNES: 1
+  HENRYST: 1
 UMLS-Interface:
   BTMCINNES: 1
 UMLS-Norm:
@@ -63842,6 +63843,8 @@ WWW-Opentracker-Stats:
   HOVENKO: 1
 WWW-Orkut-Spider:
   MANNO: 1
+WWW-Oxontime:
+  MGV: 1
 WWW-PAUSE-CleanUpHomeDir:
   ZOFFIX: 1
 WWW-PAUSE-Simple:
@@ -66035,6 +66038,8 @@ Win32-Outlook-IAF:
   PCZERKAS: 1
 Win32-PEFile:
   GRANDPA: 1
+Win32-Packer:
+  SALVA: 1
 Win32-Palm-Install:
   JOHANVDB: 1
 Win32-ParseWords:
@@ -66712,8 +66717,6 @@ XML-Compile-SOAP-Daemon-Dancer2:
   PVIGIER: 1
 XML-Compile-SOAP-Mojolicious:
   MARKOV: 1
-XML-Compile-SOAP-WSA:
-  MARKOV: 1
 XML-Compile-SOAP12:
   MARKOV: 1
 XML-Compile-Tester:
@@ -66919,6 +66922,8 @@ XML-Flow:
   ZAG: 1
 XML-FromArrayref:
   NICWOLFF: 1
+XML-FromPerl:
+  SALVA: 1
 XML-GDOME:
   TJMATHER: 1
 XML-GDOME-XSLT:
@@ -67602,7 +67607,7 @@ YAHC:
 YAMC:
   APIOLI: 1
 YAML:
-  INGY: 1
+  TINITA: 1
 YAML-Accessor:
   JANE: 1
 YAML-Active:
@@ -67617,6 +67622,8 @@ YAML-Diff:
   INGY: 1
 YAML-Full:
   INGY: 1
+YAML-Hobo:
+  FERREIRA: 1
 YAML-LibYAML:
   TINITA: 1
 YAML-LoadBundle:
@@ -67916,6 +67923,8 @@ Zodiac-Tiny:
 Zoidberg:
   JBERGER: 1
 Zonemaster:
+  ZNMSTR: 1
+Zonemaster-Backend:
   ZNMSTR: 1
 Zonemaster-CLI:
   ZNMSTR: 1
@@ -69235,6 +69244,8 @@ unless:
   BINGOS: 1
 uny2k:
   MSCHWERN: 1
+upfiles:
+  KRYDE: 1
 uplug-cs:
   TIEDEMANN: 1
 uplug-da:
