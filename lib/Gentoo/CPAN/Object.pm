@@ -300,6 +300,11 @@ sub _fix_version {
 	}elsif($rules->{ignore}->{$package}){
 		$version = undef;
 	
+	}elsif($version =~ /^v?(\d+\.\d+([\._]\d+)+)$/i){ # dotted using _
+		my $v = $1;
+		$v =~ s/_/./g;
+		$version = sprintf("v%s", $v);
+
 	}elsif($version =~ /^v?(\d+\.\d+(\.\d+)+)$/i){ # dotted
 		$version = sprintf("v%s", $1);
 		
