@@ -332,7 +332,7 @@ AWS-CLIWrapper:
 AWS-CloudFront:
   JOHND: 1
 AWS-IP:
-  SILLYMOOS: 1
+  DFARRELL: 1
 AWS-Networks:
   JLMARTIN: 1
 AWS-S3:
@@ -388,6 +388,8 @@ Acme-Acotie:
   YAPPO: 1
 Acme-Addslashes:
   JAITKEN: 1
+Acme-Affinity:
+  GENE: 1
 Acme-Aheui:
   RAKJIN: 1
 Acme-AirRead:
@@ -921,6 +923,8 @@ Acme-IAMB:
   IAMB: 1
 Acme-ICan-tSpell:
   LNATION: 1
+Acme-ID-CompanyName:
+  PERLANCAR: 1
 Acme-IEnumerable:
   BJOERN: 1
 Acme-IRC-Art:
@@ -957,8 +961,6 @@ Acme-JWT:
   CLAIRVY: 1
 Acme-JavaTrace:
   SAPER: 1
-Acme-Jrush:
-  JLRUSH: 1
 Acme-Jungle-CrawlerExample:
   HERNAN: 1
 Acme-KJAM:
@@ -1055,6 +1057,8 @@ Acme-ManekiNeko:
   GMCCAR: 1
 Acme-Math-Google:
   DANKOGAI: 1
+Acme-Math-Josan:
+  MUTO: 1
 Acme-Math-PerfectChristmasTree:
   MOZNION: 1
 Acme-Math-XS-LeanDist:
@@ -1155,6 +1159,8 @@ Acme-MomoiroClover:
   TATENO: 1
 Acme-Monkey:
   BLUEFEET: 1
+Acme-Monme:
+  WHISKYSHU: 1
 Acme-Monta:
   YAPPO: 1
 Acme-Moose:
@@ -2143,6 +2149,8 @@ Alien-Build-Git:
   PLICEASE: 1
 Alien-Build-MB:
   PLICEASE: 1
+Alien-Build-Plugin-Build-Premake5:
+  JJATRIA: 1
 Alien-Build-Plugin-Decode-SourceForge:
   PLICEASE: 1
 Alien-Build-Plugin-Fetch-Cache:
@@ -2191,8 +2199,6 @@ Alien-GCrypt:
   AJGB: 1
 Alien-GEOS:
   AAR: 1
-Alien-GHTTP:
-  CAPOEIRAB: 1
 Alien-GMP:
   PLICEASE: 1
 Alien-GPG-Error:
@@ -2221,6 +2227,8 @@ Alien-HTSlib:
   RISHIDEV: 1
 Alien-Hunspell:
   PLICEASE: 1
+Alien-Hush:
+  LETO: 1
 Alien-IE7:
   GTERMARS: 1
 Alien-IUP:
@@ -2283,6 +2291,8 @@ Alien-Libmcrypt:
   LZH: 1
 Alien-Librdkafka:
   ZWON: 1
+Alien-LibreSSL:
+  PLICEASE: 1
 Alien-Libxml2:
   PLICEASE: 1
 Alien-Lightbox:
@@ -2399,10 +2409,14 @@ Alien-WiX-Version30:
   CSJEWELL: 1
 Alien-XGBoost:
   PABLROD: 1
+Alien-XInputSimulator:
+  ATHREEF: 1
 Alien-XPA:
   DJERIUS: 1
 Alien-ZMQ:
   CCM: 1
+Alien-Zcash:
+  LETO: 1
 Alien-astyle:
   WBRASWELL: 1
 Alien-autoconf:
@@ -2459,6 +2473,8 @@ Alien-pdf2json:
   ZMUGHAL: 1
 Alien-pkgconf:
   PLICEASE: 1
+Alien-premake5:
+  JJATRIA: 1
 Alien-qd:
   AAR: 1
 Alien-raylib:
@@ -2705,6 +2721,8 @@ Anarres-Mud-Driver:
   SHEVEK: 1
 Android-ADB:
   MGV: 1
+Android-Build:
+  PRBRENAN: 1
 Android-Releases:
   PERLANCAR: 1
 Anego:
@@ -3717,7 +3735,7 @@ Apache-Session:
   CHORNY: 1
   JBAKER: 1
 Apache-Session-Browseable:
-  COUDOT: 1
+  GUIMARD: 1
 Apache-Session-CacheAny:
   MIYAGAWA: 1
 Apache-Session-Counted:
@@ -3771,7 +3789,6 @@ Apache-SimpleReplace:
 Apache-SimpleTemplate:
   FORTY: 1
 Apache-Singleton:
-  MIYAGAWA: 1
   MSCHOUT: 1
 Apache-SiteConfig:
   CORNELIUS: 1
@@ -4256,6 +4273,8 @@ App-Bootstrap-Perl:
   SCHWIGON: 1
 App-BorgRestore:
   BLUEWIND: 1
+App-Brl2Brl:
+  LRS: 1
 App-BrowserOpenUtils:
   PERLANCAR: 1
 App-Build:
@@ -4270,6 +4289,8 @@ App-CCSV:
   GARGAMEL: 1
 App-CELL:
   SMITHFARM: 1
+App-CGIThis:
+  SIMBABQUE: 1
 App-CISetup:
   DROLSKY: 1
 App-CLI:
@@ -4557,6 +4578,8 @@ App-Eduard:
   MGV: 1
 App-ElasticSearch-Utilities:
   BLHOTSKY: 1
+App-Elog:
+  JACOBG: 1
 App-Env:
   DJERIUS: 1
 App-Env-Login:
@@ -4767,8 +4790,6 @@ App-Gitc:
   GSG: 1
 App-Github-Email:
   FARACO: 1
-App-Gnuget:
-  KHAREC: 1
 App-GoogleSearchPerlIRCLogs:
   PERLANCAR: 1
 App-GoogleSearchPerlmonksUser:
@@ -4793,6 +4814,8 @@ App-HPGL2Cadsoft:
   HOLLIE: 1
 App-HTRender:
   LAJANDY: 1
+App-HTTPSThis:
+  PERLANCAR: 1
 App-HTTPThis:
   MELO: 1
 App-HTTP_Proxy_IMP:
@@ -4953,6 +4976,8 @@ App-MTPUtils:
   PERLANCAR: 1
 App-MaMGal:
   PORRIDGE: 1
+App-MacVictimUtils:
+  PERLANCAR: 1
 App-MadEye-Plugin-Agent-Qudo:
   NEKOKAK: 1
 App-MadEye-Plugin-Notify-HipChat:
@@ -5107,6 +5132,8 @@ App-NetdiscoX-Web-Plugin-RANCID:
   OLIVER: 1
 App-NoPAN:
   KAZUHO: 1
+App-NoodlePay:
+  HASH: 1
 App-Nopaste:
   ETHER: 1
   SARTAK: 1
@@ -5326,6 +5353,10 @@ App-Prolix:
   GAAL: 1
 App-Prove-Dist:
   INGY: 1
+App-Prove-Plugin-Count:
+  MASIUCHI: 1
+App-Prove-Plugin-CumulativeTimer:
+  MASIUCHI: 1
 App-Prove-Plugin-Distributed:
   LSF: 1
 App-Prove-Plugin-Idempotent:
@@ -5455,6 +5486,8 @@ App-SFDC-Metadata:
   TMINNEY: 1
 App-SSH-Cluster:
   MCMILLHJ: 1
+App-SSH-SwitchShell:
+  SKIRMESS: 1
 App-SVG-Graph:
   SHLOMIF: 1
 App-SVN-Bisect:
@@ -5533,6 +5566,8 @@ App-SimpleScan-Plugin-Snapshot:
   MCMAHON: 1
 App-SimplenoteSync:
   IOANR: 1
+App-SimulateReads:
+  TMILLER: 1
 App-Skeletor:
   JJNAPIORK: 1
 App-Sky:
@@ -5605,6 +5640,8 @@ App-Sys-Info:
   BURAK: 1
 App-Sysadmin-Log-Simple:
   DOHERTY: 1
+App-TEWK-tt:
+  TEWK: 1
 App-TLSMe:
   VTI: 1
 App-TOMLUtils:
@@ -6147,6 +6184,8 @@ App-mvr:
   DOHERTY: 1
 App-mymeta_requires:
   DAGOLDEN: 1
+App-mysqlinfo:
+  PERLANCAR: 1
 App-nauniq:
   PERLANCAR: 1
 App-nodie:
@@ -6365,6 +6404,8 @@ App-tonematch:
   WLMB: 1
 App-toposort:
   PERLANCAR: 1
+App-tracepm:
+  PERLANCAR: 1
 App-trash-u:
   PERLANCAR: 1
 App-tt:
@@ -6385,6 +6426,8 @@ App-watcher:
   TOKUHIROM: 1
 App-wdq:
   VOJ: 1
+App-weavedoc:
+  PREACTION: 1
 App-whatthecommit:
   MUDLER: 1
 App-whichpm:
@@ -6415,6 +6458,8 @@ AppConfig-MyFile:
   ABW: 1
 AppConfig-Std:
   NEILB: 1
+AppLib-CreateSelfSignedSSLCert:
+  PERLANCAR: 1
 AppendHash.pm:
   TOMC: 1
 Appium:
@@ -6929,6 +6974,8 @@ Async-Simple-Pool:
   ANTONC: 1
 Async-Stream:
   KSYSOEV: 1
+Async-Trampoline:
+  AMON: 1
 Async-Util:
   WHITNEY: 1
 AsyncPing:
@@ -8478,8 +8525,8 @@ Bio-Phylo-Forest-DBTree:
   RVOSA: 1
 Bio-PhyloTastic:
   RVOSA: 1
-Bio-Pipeline-Comparison:
-  AJPAGE: 1
+Bio-PhyloXS:
+  RVOSA: 1
 Bio-PrimerDesigner:
   SMCKAY: 1
 Bio-Prospect:
@@ -8532,6 +8579,10 @@ Bio-Tools-Primer3Redux:
   CJFIELDS: 1
 Bio-Tools-ProteinogenicAA:
   LEPREVOST: 1
+Bio-Tools-Run-Alignment-Clustalw:
+  CDRAUG: 1
+Bio-Tools-Run-Alignment-TCoffee:
+  CDRAUG: 1
 Bio-Tools-Run-Qcons:
   BRUNOV: 1
 Bio-Trace-ABIF:
@@ -9087,6 +9138,8 @@ Bundle-DBWIZ:
   CALVINM: 1
 Bundle-DadaMail:
   JJSIMONI: 1
+Bundle-DadaMailXXL:
+  JJSIMONI: 1
 Bundle-DataMint:
   PRILUSKYJ: 1
 Bundle-DateTime-Complete:
@@ -9417,6 +9470,12 @@ Business-BR-Boleto-Banco-Itau:
   BLABOS: 1
 Business-BR-CEP:
   GARU: 1
+Business-BR-CNJ:
+  DLIMA: 1
+Business-BR-CNJ-NumberExtractor:
+  DLIMA: 1
+Business-BR-CNJ-WebService:
+  DLIMA: 1
 Business-BR-Ids:
   FERREIRA: 1
 Business-BR-NFe-RPS-TXT:
@@ -9610,6 +9669,8 @@ Business-OnlinePayment-Braintree:
   HORNBURG: 1
 Business-OnlinePayment-Capstone:
   IVAN: 1
+Business-OnlinePayment-CardConnect:
+  OAXLIN: 1
 Business-OnlinePayment-CardFortress:
   IVAN: 1
 Business-OnlinePayment-Cardcom:
@@ -10348,6 +10409,8 @@ CGI-AutoForm:
   RSANDBERG: 1
 CGI-Browse:
   ROGERHALL: 1
+CGI-BrowserDetect:
+  LNATION: 1
 CGI-Buffer:
   NHORNE: 1
 CGI-Builder:
@@ -10431,7 +10494,6 @@ CGI-Echo:
 CGI-Embedder:
   KOTEROV: 1
 CGI-Emulate-PSGI:
-  MIYAGAWA: 1
   TOKUHIROM: 1
 CGI-Emulate-PSGI-Streaming:
   DAKKAR: 1
@@ -11127,6 +11189,8 @@ CPAN-Patches-Plugin-Debian:
   JKUTEJ: 1
 CPAN-Perl-Releases:
   BINGOS: 1
+CPAN-Perl-Releases-MetaCPAN:
+  SKAJI: 1
 CPAN-Plugin-Sysdeps:
   SREZIC: 1
 CPAN-Porters:
@@ -11874,6 +11938,8 @@ Catalyst-ActionRole-FindViewByIsa:
   BOBTFISH: 1
 Catalyst-ActionRole-JMS:
   DAKKAR: 1
+Catalyst-ActionRole-JSV:
+  MASAKYST: 1
 Catalyst-ActionRole-MatchHost:
   NUCLON: 1
 Catalyst-ActionRole-MatchRequestAccepts:
@@ -11894,6 +11960,8 @@ Catalyst-ActionRole-Public:
   JJNAPIORK: 1
 Catalyst-ActionRole-QueryParameter:
   JJNAPIORK: 1
+Catalyst-ActionRole-Renderer:
+  MASAKYST: 1
 Catalyst-ActionRole-RequireSSL:
   WREIS: 1
 Catalyst-ActionRole-Tabs:
@@ -12458,6 +12526,8 @@ Catalyst-Plugin-CurrentComponents:
   JJNAPIORK: 1
 Catalyst-Plugin-CustomErrorMessage:
   JKUTEJ: 1
+Catalyst-Plugin-DBIC-ConsoleQueryLog:
+  JJNAPIORK: 1
 Catalyst-Plugin-DBIC-Schema-Profiler:
   YAMAMOTO: 1
 Catalyst-Plugin-Data-Pensieve:
@@ -13846,6 +13916,8 @@ Class-Accessor-Named:
   JESSE: 1
 Class-Accessor-PackedString:
   PERLANCAR: 1
+Class-Accessor-PackedString-Set:
+  PERLANCAR: 1
 Class-Accessor-Ref:
   GAAL: 1
 Class-Accessor-Tiny:
@@ -14673,6 +14745,8 @@ Clone-Any:
   EVO: 1
 Clone-AsUTF8Bytes:
   MARKF: 1
+Clone-Choose:
+  HERMES: 1
 Clone-Closure:
   BMORROW: 1
 Clone-PP:
@@ -14795,6 +14869,8 @@ CodeBase:
   ANDREWF: 1
 CodeManager:
   FRANCISCO: 1
+Coerce-Types-Standard:
+  LNATION: 1
 Cog:
   INGY: 1
 CogBase:
@@ -15023,7 +15099,7 @@ Compress-Huffman-Binary:
 Compress-LZ4:
   GRAY: 1
 Compress-LZ4Frame:
-  AUTINITY: 1
+  DRAKO: 1
 Compress-LZF:
   MLEHMANN: 1
 Compress-LZF_PP:
@@ -15266,6 +15342,8 @@ Config-KingKong:
   RAPHINK: 1
 Config-LDAPClient:
   MFOWLER: 1
+Config-LNPath:
+  LNATION: 1
 Config-Layered:
   SYMKAT: 1
 Config-Lite:
@@ -15492,6 +15570,8 @@ Const-Exporter:
   RRWO: 1
 Const-Fast:
   LEONT: 1
+Const-Fast-Exporter:
+  NEILB: 1
 Constant-Export-Lazy:
   AVAR: 1
 Constant-Exporter:
@@ -15516,6 +15596,8 @@ Context-Preserve:
   ETHER: 1
 Context-Set:
   JETEVE: 1
+Context-Singleton:
+  BARNEY: 1
 Contextual-Call:
   HIO: 1
 Contextual-Return:
@@ -15853,6 +15935,8 @@ Crypt-Chimera:
   SHEVEK: 1
 Crypt-CipherSaber:
   CHROMATIC: 1
+Crypt-Cisco:
+  VINSWORLD: 1
 Crypt-Cracklib:
   DANIEL: 1
 Crypt-Cryptoki:
@@ -16766,9 +16850,9 @@ DBIx-Class-DateTime-Epoch:
 DBIx-Class-DeleteAction:
   MAROS: 1
 DBIx-Class-DeploymentAdapter:
-  MOVEAX: 1
+  JEGADE: 1
 DBIx-Class-DeploymentHandler:
-  FREW: 1
+  MMCCLIMON: 1
 DBIx-Class-DeploymentHandler-CLI:
   HORNBURG: 1
 DBIx-Class-DeploymentHandler-VersionStorage-WithSchema:
@@ -16822,6 +16906,8 @@ DBIx-Class-HTML-FormFu:
   CFRANKS: 1
 DBIx-Class-HTMLWidget:
   ANDREMAR: 1
+DBIx-Class-HashAccessor:
+  GETTY: 1
 DBIx-Class-Helper-ResultSet-CrossTab:
   SCESANO: 1
 DBIx-Class-Helpers:
@@ -18240,6 +18326,8 @@ Dancer2-Logger-File-RotateLogs:
   MASAKYST: 1
 Dancer2-Logger-Fluent:
   ATANCASIS: 1
+Dancer2-Logger-LogAny:
+  TONKIN: 1
 Dancer2-Logger-Multiplex:
   ATANCASIS: 1
 Dancer2-Logger-Radis:
@@ -18259,6 +18347,7 @@ Dancer2-Plugin-Auth-ActiveDirectory:
 Dancer2-Plugin-Auth-CAS:
   JSTEBENS: 1
 Dancer2-Plugin-Auth-Extensible:
+  ABEVERLEY: 1
   HORNBURG: 1
 Dancer2-Plugin-Auth-Extensible-Provider-ActiveDirectory:
   DSONNTAG: 1
@@ -18328,6 +18417,8 @@ Dancer2-Plugin-Github-Webhook:
   DSONNTAG: 1
 Dancer2-Plugin-GoogleAnalytics:
   GARCER: 1
+Dancer2-Plugin-GraphQL:
+  ETJ: 1
 Dancer2-Plugin-Growler:
   DMUEY: 1
 Dancer2-Plugin-HTTP-Auth-Extensible:
@@ -18362,6 +18453,8 @@ Dancer2-Plugin-Negotiate:
   ZURBORG: 1
 Dancer2-Plugin-OAuth2-Server:
   PVIGIER: 1
+Dancer2-Plugin-OpenAPIRoutes:
+  ANTONPETR: 1
 Dancer2-Plugin-PageHistory:
   SYSPETE: 1
 Dancer2-Plugin-Paginator:
@@ -18418,6 +18511,8 @@ Dancer2-Plugin-UnicodeNormalize:
   JBARRETT: 1
 Dancer2-Plugin-WebService:
   MPOURASG: 1
+Dancer2-Plugin-WebSocket:
+  YANICK: 1
 Dancer2-Plugin-reCAPTCHA:
   PATTAWAN: 1
 Dancer2-Serializer-CBOR:
@@ -19034,6 +19129,8 @@ Data-KeyDiff:
   RKRIMEN: 1
 Data-Keys:
   JKUTEJ: 1
+Data-LNPath:
+  LNATION: 1
 Data-LUID:
   RKRIMEN: 1
 Data-Layout-BuddySystem:
@@ -19511,6 +19608,8 @@ Data-Scan:
   JDDPAUSE: 1
 Data-Scroller:
   BENH: 1
+Data-SeaBASS:
+  JLEFLER: 1
 Data-Search:
   ALX: 1
 Data-SearchEngine:
@@ -19544,6 +19643,8 @@ Data-Semantic-Net:
   MARCEL: 1
 Data-Semantic-URI:
   MARCEL: 1
+Data-Send-Local:
+  PRBRENAN: 1
 Data-Serializable:
   ROBINS: 1
 Data-Serializer:
@@ -19745,7 +19846,7 @@ Data-URIEncode:
 Data-UUID:
   RJBS: 1
 Data-UUID-Base64URLSafe:
-  LBROCARD: 1
+  WORTHMINE: 1
 Data-UUID-Concise:
   NRR: 1
 Data-UUID-LibUUID:
@@ -19828,6 +19929,8 @@ Data-Validate-WithYAML-Plugin-URL:
   RENEEB: 1
 Data-Validate-XSD:
   DOCTORMO: 1
+Data-ValidateInterdependent:
+  AMON: 1
 Data-Validation:
   PJFL: 1
 Data-Validator:
@@ -20476,6 +20579,8 @@ DateTimeX-AATW:
   KMCGRATH: 1
 DateTimeX-Auto:
   TOBYINK: 1
+DateTimeX-Duration-Lite:
+  PERLANCAR: 1
 DateTimeX-Duration-SkipDays:
   AYOUNG: 1
 DateTimeX-Easy:
@@ -20506,6 +20611,8 @@ DateTimeX-Start:
   IKEGAMI: 1
 DateTimeX-TO_JSON:
   SHUMPHREY: 1
+DateTimeX-Tiny-Compact:
+  PERLANCAR: 1
 DateTimeX-Web:
   ISHIGAKI: 1
 DateTimeX-ymdhms:
@@ -20639,6 +20746,8 @@ Defaults-Mauke:
   MAUKE: 1
 Defaults-Modern:
   AVENJ: 1
+Defined-KV:
+  ROBN: 1
 DelayLine:
   LTHEGLER: 1
 Deliantra:
@@ -21449,6 +21558,8 @@ Device-Moose-SCSI:
   POTATOGIM: 1
 Device-Nest:
   KEDAR: 1
+Device-Network-ConfigParser:
+  PUGLET: 1
 Device-Neurio:
   KEDAR: 1
 Device-NeurioTools:
@@ -21865,6 +21976,8 @@ Directory-Organize:
   MAMAWE: 1
 Directory-Queue:
   LCONS: 1
+Directory-Scanner:
+  STEVAN: 1
 Directory-Scratch:
   ETHER: 1
 Directory-Scratch-Structured:
@@ -21955,6 +22068,8 @@ Dist-Zilla-App-Command-critic:
   KENTNL: 1
 Dist-Zilla-App-Command-dhmakeperl:
   SHANTANU: 1
+Dist-Zilla-App-Command-distversion:
+  ALTREUS: 1
 Dist-Zilla-App-Command-dumpphases:
   KENTNL: 1
 Dist-Zilla-App-Command-dumpwith:
@@ -22249,6 +22364,8 @@ Dist-Zilla-Plugin-Git-DescribeVersion:
   RWSTAUNER: 1
 Dist-Zilla-Plugin-Git-ExcludeUntracked:
   RHOELZ: 1
+Dist-Zilla-Plugin-Git-FilePermissions:
+  SKIRMESS: 1
 Dist-Zilla-Plugin-Git-NextRelease:
   KENTNL: 1
 Dist-Zilla-Plugin-Git-NextVersion-Sanitized:
@@ -22257,6 +22374,8 @@ Dist-Zilla-Plugin-Git-PushInitial:
   RKITOVER: 1
 Dist-Zilla-Plugin-Git-Remote-Check:
   KENTNL: 1
+Dist-Zilla-Plugin-Git-RequireUnixEOL:
+  SKIRMESS: 1
 Dist-Zilla-Plugin-Git-Tag-ForRelease:
   SWESTRUP: 1
 Dist-Zilla-Plugin-GitFmtChanges:
@@ -22805,6 +22924,8 @@ Dist-Zilla-PluginBundle-Author-ALEXBIO:
   ALEXBIO: 1
 Dist-Zilla-PluginBundle-Author-ALTREUS:
   ALTREUS: 1
+Dist-Zilla-PluginBundle-Author-AMON:
+  AMON: 1
 Dist-Zilla-PluginBundle-Author-BBYRD:
   BBYRD: 1
 Dist-Zilla-PluginBundle-Author-BLUEFEET:
@@ -23143,6 +23264,8 @@ Document-Maker:
   RKRIMEN: 1
 Document-Manager:
   BRYCE: 1
+Document-OOXML:
+  MSTREEK: 1
 Document-Stembolt:
   RKRIMEN: 1
 Document-Tools:
@@ -23430,6 +23553,8 @@ Egg-Release-XML-FeedPP:
   LUSHE: 1
 Egg-View-TT:
   LUSHE: 1
+Ei:
+  NKUITSE: 1
 Eidolon:
   ABEL: 1
 Eidolon-Driver-DB-MySQL:
@@ -23722,6 +23847,8 @@ Embedix-ECD:
   BEPPU: 1
 Embperl:
   GRICHTER: 1
+Emoji-NationalFlag:
+  PUNYTAN: 1
 Enbld:
   MAGNOLIA: 1
 Enbugger:
@@ -24261,7 +24388,7 @@ ExtUtils-Config:
 ExtUtils-Constant:
   NWCLARK: 1
 ExtUtils-CppGuess:
-  DAVIDO: 1
+  ETJ: 1
 ExtUtils-Depends:
   XAOC: 1
 ExtUtils-DynaGlue:
@@ -24568,12 +24695,6 @@ Fdb:
   HASSEILY: 1
 FedEx:
   PTULLY: 1
-Fedora-App-MaintainerTools:
-  RSRCHBOY: 1
-Fedora-App-ReviewTool:
-  RSRCHBOY: 1
-Fedora-Bugzilla:
-  RSRCHBOY: 1
 FedoraCommons-APIA:
   DFIELDING: 1
 FedoraCommons-APIM:
@@ -24942,6 +25063,8 @@ File-Glob-Slurp:
   DANKOGAI: 1
 File-Glob-Windows:
   TATE: 1
+File-Globstar:
+  GUIDO: 1
 File-Grep:
   MNEYLON: 1
 File-HStore:
@@ -25201,6 +25324,8 @@ File-Rename:
   RMBARKER: 1
 File-Repl:
   DROBERTS: 1
+File-Replace:
+  HAUKEX: 1
 File-ReplaceBytes:
   JMATES: 1
 File-Revision:
@@ -25986,6 +26111,8 @@ FlatFile-DataStore:
   BBAXTER: 1
 Flea:
   FRODWITH: 1
+Flexconf:
+  OKLAS: 1
 Flexnet-lmutil:
   ODENBACH: 1
 Flickr-API:
@@ -26894,6 +27021,8 @@ Games-Solitaire-BlackHole-Solver:
   SHLOMIF: 1
 Games-Solitaire-Verify:
   SHLOMIF: 1
+Games-Sudoku-CLI:
+  SZABGAB: 1
 Games-Sudoku-CPSearch:
   MARTYLOO: 1
 Games-Sudoku-Component:
@@ -27168,6 +27297,8 @@ Geo-Coder-Canada:
   JETTRA: 1
 Geo-Coder-Cloudmade:
   FRIFFIN: 1
+Geo-Coder-Free:
+  NHORNE: 1
 Geo-Coder-GeocodeFarm:
   DEXTER: 1
 Geo-Coder-Geocoder-US:
@@ -27203,12 +27334,16 @@ Geo-Coder-OpenCage:
   EDF: 1
 Geo-Coder-Ovi:
   GRAY: 1
+Geo-Coder-Postcodes:
+  NHORNE: 1
 Geo-Coder-RandMcnally:
   GRAY: 1
 Geo-Coder-TomTom:
   GRAY: 1
 Geo-Coder-US:
   SDERLE: 1
+Geo-Coder-US-Census:
+  NHORNE: 1
 Geo-Coder-XYZ:
   NHORNE: 1
 Geo-Coder-Yahoo:
@@ -27715,9 +27850,13 @@ Getopt-Long-Dump:
   PERLANCAR: 1
 Getopt-Long-EvenLess:
   PERLANCAR: 1
+Getopt-Long-EvenLess-Dump:
+  PERLANCAR: 1
 Getopt-Long-GUI:
   HARDAKER: 1
 Getopt-Long-Less:
+  PERLANCAR: 1
+Getopt-Long-Less-Dump:
   PERLANCAR: 1
 Getopt-Long-Modern:
   DBOOK: 1
@@ -28252,6 +28391,8 @@ Graph-Writer-TGXML:
 Graph-XGMML:
   ADAMK: 1
 GraphQL:
+  ETJ: 1
+GraphQL-Plugin-Convert-DBIC:
   ETJ: 1
 GraphViz:
   RSAVAGE: 1
@@ -29551,6 +29692,8 @@ HTML-TurboForm:
   CAMELCASE: 1
 HTML-Untemplate:
   SYP: 1
+HTML-Untidy:
+  JEFFOBER: 1
 HTML-Valid:
   BKB: 1
 HTML-ValidationRules:
@@ -30026,6 +30169,8 @@ HTTP-Tiny:
   DAGOLDEN: 1
 HTTP-Tiny-Bandwidth:
   SKAJI: 1
+HTTP-Tiny-FileProtocol:
+  RENEEB: 1
 HTTP-Tiny-Mech:
   KENTNL: 1
 HTTP-Tiny-Multipart:
@@ -30247,6 +30392,8 @@ Hash-Identity:
   CINDY: 1
 Hash-Inflator:
   MARCEL: 1
+Hash-Iterator:
+  MIRKOS: 1
 Hash-KeyMorpher:
   TDWINTER: 1
 Hash-Layout:
@@ -30341,6 +30488,8 @@ Hash-WithDefaults:
   JENDA: 1
 Hash-Work:
   AHERNIT: 1
+Hash-Wrap:
+  DJERIUS: 1
 HashBang:
   INGY: 1
 Hashids:
@@ -30592,6 +30741,8 @@ IO:
   GBARR: 1
 IO-AIO:
   MLEHMANN: 1
+IO-AIO-LoadLimited:
+  UFOBAT: 1
 IO-AIO-Util:
   GRAY: 1
 IO-All:
@@ -31643,6 +31794,16 @@ Import-Into:
   HAARG: 1
 Importer:
   EXODIST: 1
+Importer-Zim:
+  FERREIRA: 1
+Importer-Zim-Base:
+  FERREIRA: 1
+Importer-Zim-EndOfScope:
+  FERREIRA: 1
+Importer-Zim-Lexical:
+  FERREIRA: 1
+Importer-Zim-Unit:
+  FERREIRA: 1
 In-Korean-Numbers-SinoKorean:
   BRYAN: 1
 InSilicoSpectro:
@@ -32119,6 +32280,10 @@ JSTAPd:
   YAPPO: 1
 JSV:
   ZIGOROU: 1
+JSV-Compilator:
+  ANTONPETR: 1
+JSV-Compiler:
+  ANTONPETR: 1
 JSYNC:
   INGY: 1
 JaM:
@@ -32157,6 +32322,8 @@ Java-2Perl6API:
   TIMB: 1
 Java-Build:
   PHILCROW: 1
+Java-Doc:
+  PRBRENAN: 1
 Java-Import:
   RUSEKD: 1
 Java-JCR:
@@ -33771,6 +33938,8 @@ Lingua-FreeLing3:
   AMBS: 1
 Lingua-FreeLing3-Utils:
   AMBS: 1
+Lingua-FuzzyTrans-PT2GL:
+  AMBS: 1
 Lingua-GA-Gramadoir:
   SCANNELL: 1
 Lingua-Guess:
@@ -34147,6 +34316,8 @@ Lingua-Stem-Snowball-Da:
   CINE: 1
 Lingua-Stem-Snowball-Lt:
   LVALIUKAS: 1
+Lingua-Stem-Uk:
+  RRVCKU: 1
 Lingua-Stem-UniNE:
   PATCH: 1
 Lingua-StopWords:
@@ -34491,6 +34662,8 @@ List-BinarySearch-XS:
   DAVIDO: 1
 List-Bisect:
   NOTBENH: 1
+List-Breakdown:
+  TEJR: 1
 List-Categorize:
   WNODOM: 1
 List-Categorize-Multi:
@@ -34613,6 +34786,8 @@ List-SomeUtils:
   DROLSKY: 1
 List-SomeUtils-XS:
   DROLSKY: 1
+List-ToHash:
+  AKIYM: 1
 List-ToHumanString:
   ZOFFIX: 1
 List-Tuples:
@@ -34653,6 +34828,7 @@ Locale-BR:
   GARU: 1
 Locale-Babelfish:
   GRIF: 1
+  VSESPB: 1
 Locale-CA:
   NHORNE: 1
 Locale-CLDR:
@@ -35223,6 +35399,8 @@ Log-Any-Adapter-Handler:
   GVL: 1
 Log-Any-Adapter-Journal:
   MGRIMES: 1
+Log-Any-Adapter-LinuxJournal:
+  IOANR: 1
 Log-Any-Adapter-Log4perl:
   DAGOLDEN: 1
 Log-Any-Adapter-LogGer:
@@ -35237,13 +35415,13 @@ Log-Any-Adapter-Redis:
   MILA: 1
 Log-Any-Adapter-Screen:
   PERLANCAR: 1
-Log-Any-Adapter-Syslog:
-  SDT: 1
 Log-Any-Adapter-TAP:
   NERDVANA: 1
 Log-Any-For-Std:
   IVANYCH: 1
 Log-Any-Plugin:
+  SDT: 1
+Log-Any-Plugin-ANSIColor:
   SDT: 1
 Log-Any-Plugin-Format:
   JJATRIA: 1
@@ -35683,6 +35861,8 @@ Log-ger-Output-File:
   PERLANCAR: 1
 Log-ger-Output-FileWriteRotate:
   PERLANCAR: 1
+Log-ger-Output-Journald:
+  PERLANCAR: 1
 Log-ger-Output-LogAny:
   PERLANCAR: 1
 Log-ger-Output-LogDispatchOutput:
@@ -36081,7 +36261,7 @@ MP3-Icecast-Simple:
   GREGORY: 1
 MP3-Info:
   CNANDOR: 1
-  DANIEL: 1
+  JMERELO: 1
 MP3-M3U:
   ILIAL: 1
 MP3-M3U-Parser:
@@ -36305,7 +36485,7 @@ MacPerl-AppleScript:
 Machine-Epsilon:
   BINARY: 1
 Mackerel-ReleaseUtils:
-  SHIBAZAKI: 1
+  SONGMU: 1
 Mackerel-Webhook-Receiver:
   SONGMU: 1
 Macrame:
@@ -36494,6 +36674,8 @@ Mail-Milter-Authentication:
   MBRADSHAW: 1
 Mail-Milter-Authentication-Extra:
   MBRADSHAW: 1
+Mail-Milter-Authentication-Handler-ARC:
+  MBRADSHAW: 1
 Mail-Milter-Authentication-Handler-SMIME:
   MBRADSHAW: 1
 Mail-Miner:
@@ -36548,6 +36730,8 @@ Mail-RFC822-Address:
   PDWARREN: 1
 Mail-RoundTrip:
   EINHVERFR: 1
+Mail-Run-Crypt:
+  TEJR: 1
 Mail-SMI:
   DFROZ: 1
 Mail-SMTP-Honeypot:
@@ -36615,8 +36799,6 @@ Mail-SpamCannibal:
   MIKER: 1
 Mail-SpamFilter:
   MWARD: 1
-Mail-SpamTest-Bayesian:
-  FIREDRAKE: 1
 Mail-Spool:
   RHANDOM: 1
 Mail-Summary:
@@ -36873,6 +37055,8 @@ Markup-TreeNode:
   BPRUDENT: 1
 Markup-Unified:
   IDOPEREL: 1
+Marky:
+  RUBYKAT: 1
 Marpa-R2:
   JKEGL: 1
 MarpaX-Database-Terminfo:
@@ -36886,6 +37070,8 @@ MarpaX-Demo-StringParser:
 MarpaX-ESLIF:
   JDDPAUSE: 1
 MarpaX-ESLIF-ECMA404:
+  JDDPAUSE: 1
+MarpaX-ESLIF-URI:
   JDDPAUSE: 1
 MarpaX-Grammar-GraphViz2:
   RSAVAGE: 1
@@ -37024,7 +37210,7 @@ Math-Base-Convert:
 Math-Base36:
   BRICAS: 1
 Math-Base85:
-  TMONROE: 1
+  PTC: 1
 Math-BaseArith:
   PUCKERING: 1
 Math-BaseCalc:
@@ -37681,6 +37867,8 @@ Math-Vector-SortIndexes:
   SPLICE: 1
 Math-VectorReal:
   ANTHONY: 1
+Math-Vectors2:
+  PRBRENAN: 1
 Math-Volume-Rotational:
   SMUELLER: 1
 Math-WalshTransform:
@@ -38883,6 +39071,8 @@ Mojo-Autobox:
   JBERGER: 1
 Mojo-Base-XS:
   YKO: 1
+Mojo-Bass:
+  FERREIRA: 1
 Mojo-CSV:
   ZOFFIX: 1
 Mojo-CallFire:
@@ -38919,6 +39109,8 @@ Mojo-IOLoop-ProcBackground:
   BPMEDLEY: 1
 Mojo-IOLoop-ReadWriteFork:
   JHTHORSEN: 1
+Mojo-IOLoop-ReadWriteProcess:
+  MUDLER: 1
 Mojo-IOLoop-Signal:
   SKAJI: 1
 Mojo-IOLoop-Subprocess-Sereal:
@@ -39309,6 +39501,8 @@ Mojolicious-Plugin-ChromeLogger:
   KOORCHIK: 1
 Mojolicious-Plugin-ClientIP:
   SIXAPART: 1
+Mojolicious-Plugin-ClientIP-Pluggable:
+  BINARY: 1
 Mojolicious-Plugin-ClosedRedirect:
   AKRON: 1
 Mojolicious-Plugin-ConfigAny:
@@ -39411,6 +39605,8 @@ Mojolicious-Plugin-Google-Cloud-UserAgent:
   SCOTTW: 1
 Mojolicious-Plugin-GoogleAnalytics:
   ADAMJS: 1
+Mojolicious-Plugin-GraphQL:
+  ETJ: 1
 Mojolicious-Plugin-Gravatar:
   KOORCHIK: 1
 Mojolicious-Plugin-GroupedParams:
@@ -39488,6 +39684,8 @@ Mojolicious-Plugin-Log-Elasticsearch:
 Mojolicious-Plugin-Log-Timestamp:
   NICZERO: 1
 Mojolicious-Plugin-Logf:
+  JHTHORSEN: 1
+Mojolicious-Plugin-Loop:
   JHTHORSEN: 1
 Mojolicious-Plugin-Mail:
   SHARIFULN: 1
@@ -39823,6 +40021,8 @@ Mojolicious-Plugin-ZombieApocalypse:
   TEMPIRE: 1
 Mojolicious-Quick:
   POPEFELIX: 1
+Mojolicious-Services:
+  WFSO: 1
 Moment:
   BESSARABV: 1
 Momo:
@@ -40121,6 +40321,8 @@ MooseX-AbstractMethod:
   RSRCHBOY: 1
 MooseX-Accessors-ReadWritePrivate:
   ELLIOTJS: 1
+MooseX-AccessorsOnly:
+  CHOHAG: 1
 MooseX-Aliases:
   DOY: 1
 MooseX-Alien:
@@ -40904,12 +41106,6 @@ Mu:
   MITHALDU: 1
 Muck:
   MIKE: 1
-Muldis-D-Manual:
-  DUNCAND: 1
-Muldis-DB:
-  DUNCAND: 1
-Muldis-Rosetta:
-  DUNCAND: 1
 MultiCat:
   MBSTE: 1
 MultiProcFactory:
@@ -40958,6 +41154,8 @@ Music-Intervals:
   GENE: 1
 Music-LilyPondUtil:
   JMATES: 1
+Music-Lyrics-LRC:
+  TEJR: 1
 Music-NeoRiemannianTonnetz:
   JMATES: 1
 Music-Note:
@@ -41010,6 +41208,8 @@ MusicRoom:
   SJHAWTIN: 1
 Mustache-Simple:
   CMS: 1
+Muster:
+  RUBYKAT: 1
 Mutex:
   MARIOROY: 1
 Mvalve:
@@ -41034,8 +41234,6 @@ MySQL-Binlog_RBR_Data:
   STRANGE: 1
 MySQL-Config:
   DARREN: 1
-MySQL-DateFormat:
-  TONKIN: 1
 MySQL-Diff:
   ASPIERS: 1
   ESTRABD: 1
@@ -41327,6 +41525,8 @@ Net-AMQP-PP:
   BOBTFISH: 1
 Net-AMQP-RabbitMQ:
   MARKELLIS: 1
+Net-AMQP-RabbitMQ-Batch:
+  WHISK: 1
 Net-AMQP-RabbitMQ-PP:
   LEEJO: 1
 Net-AOLIM:
@@ -41342,6 +41542,8 @@ Net-APNS-Persistent:
 Net-APNS-Simple:
   ROCKBONE: 1
 Net-APNs-Extended:
+  XAICRON: 1
+Net-APNs-HTTP2:
   XAICRON: 1
 Net-APP:
   IVAN: 1
@@ -42106,6 +42308,8 @@ Net-Frame-Layer-ICMPv4:
   GOMOR: 1
 Net-Frame-Layer-ICMPv6:
   GOMOR: 1
+Net-Frame-Layer-ICMPv6-MLD:
+  VINSWORLD: 1
 Net-Frame-Layer-IGMP:
   VINSWORLD: 1
 Net-Frame-Layer-IPv6:
@@ -42285,13 +42489,11 @@ Net-HTTP-Knork:
 Net-HTTP-Methods-Patch-LogRequest:
   PERLANCAR: 1
 Net-HTTP-Spore:
-  ASH: 1
+  ATHREEF: 1
 Net-HTTP-Spore-Middleware-BaseUrl:
   WEBORAMA: 1
 Net-HTTP-Spore-Middleware-DefaultParams:
   WEBORAMA: 1
-Net-HTTP-Spore-Middleware-Format-Text:
-  GEMPESAW: 1
 Net-HTTP-Spore-Middleware-Header:
   CELOGEEK: 1
 Net-HTTP-Tiny:
@@ -42311,7 +42513,7 @@ Net-Hadoop-DFSAdmin-ReportParser:
 Net-Hadoop-HuahinManager:
   TAGOMORIS: 1
 Net-Hadoop-Oozie:
-  BOOK: 1
+  BURAK: 1
 Net-Hadoop-WebHDFS:
   BURAK: 1
 Net-Hadoop-WebHDFS-LWP:
@@ -42326,6 +42528,8 @@ Net-Hesiod:
   PAYERLE: 1
 Net-Hiveminder:
   SARTAK: 1
+Net-Host64:
+  EHERMAN: 1
 Net-Hotline:
   JSIRACUSA: 1
 Net-Hulu:
@@ -44310,6 +44514,8 @@ OTRS-Kernel-System-MultilevelEscalation:
   ROHITBASU: 1
 OTRS-OPM-Analyzer:
   RENEEB: 1
+OTRS-OPM-Installer:
+  RENEEB: 1
 OTRS-OPM-Maker:
   RENEEB: 1
 OTRS-OPM-Maker-Command-sopm:
@@ -44906,14 +45112,6 @@ P5kkelabels:
   KAARE: 1
 P9Y-ProcessTable:
   BBYRD: 1
-PAB3:
-  CHRMUE: 1
-PAB3-DB-Driver-Mysql:
-  CHRMUE: 1
-PAB3-DB-Driver-Postgres:
-  CHRMUE: 1
-PAB3-DB-Driver-Sqlite3:
-  CHRMUE: 1
 PAD:
   PUNYTAN: 1
 PAM:
@@ -45292,6 +45490,8 @@ PGP-Words-Tiny:
   DAGOLDEN: 1
 PGPLOT:
   KGB: 1
+PGPLOT-Device:
+  DJERIUS: 1
 PGPLOT-Simple:
   FMERGES: 1
 PGXN-API:
@@ -46237,7 +46437,7 @@ PPI-Xref:
 PPIx-DocumentName:
   KENTNL: 1
 PPIx-EditorTools:
-  SZABGAB: 1
+  YANICK: 1
 PPIx-Grep:
   ELLIOTJS: 1
 PPIx-IndexLines:
@@ -47278,6 +47478,8 @@ Pcore-PDF:
   ZDM: 1
 Pcore-PgSQL:
   ZDM: 1
+Pcore-Proxy:
+  ZDM: 1
 Pcore-Redis:
   ZDM: 1
 Pcore-SMTP:
@@ -47733,6 +47935,8 @@ Perl-PrereqScanner-Lite:
   MOZNION: 1
 Perl-PrereqScanner-NotQuiteLite:
   ISHIGAKI: 1
+Perl-PrereqScanner-Scanner-Catalyst:
+  SLOYD: 1
 Perl-PrereqScanner-Scanner-Hint:
   VDB: 1
 Perl-PrereqScanner-Scanner-MooseXTypesCombine:
@@ -47799,8 +48003,6 @@ Perl6-Caller:
   OVID: 1
 Perl6-Classes:
   LPALMER: 1
-Perl6-Conf:
-  SZABGAB: 1
 Perl6-Contexts:
   SWALTERS: 1
 Perl6-Controls:
@@ -48416,6 +48618,8 @@ Plack-App-TemplatedDirectory:
   KAARE: 1
 Plack-App-URLHashMap:
   CVLIBRARY: 1
+Plack-App-URLMux:
+  BURNES: 1
 Plack-App-Vhost:
   KARUPA: 1
 Plack-App-WebMySQL:
@@ -48826,6 +49030,8 @@ Plack-Middleware-PyeLogger:
   IDOPEREL: 1
 Plack-Middleware-QRCode:
   CORNELIUS: 1
+Plack-Middleware-QueryCounter:
+  ACIDLEMON: 1
 Plack-Middleware-RDF-Flow:
   VOJ: 1
 Plack-Middleware-REPL:
@@ -49569,7 +49775,7 @@ Pod-Weaver-Section-Source-DefaultGitHub:
 Pod-Weaver-Section-SourceGitHub:
   MSCHOUT: 1
 Pod-Weaver-Section-Support:
-  APOCAL: 1
+  SHLOMIF: 1
 Pod-Weaver-Section-Template:
   CJM: 1
 Pod-Weaver-Section-WarrantyDisclaimer:
@@ -49640,6 +49846,8 @@ Pony-Object:
   BUGOV: 1
 PoolController:
   OLEGTS: 1
+Pootle-Client:
+  KIVILAHTI: 1
 Poppler:
   VOLKENING: 1
 Populous:
@@ -50675,6 +50883,8 @@ RPi-SPI:
   STEVEB: 1
 RPi-Serial:
   STEVEB: 1
+RPi-UnicornHatHD:
+  SANKO: 1
 RPi-WiringPi:
   STEVEB: 1
 RPi-WiringPi-Constant:
@@ -50844,6 +51054,8 @@ RT-Extension-EasyRelatedTickets:
   SUNNAVY: 1
 RT-Extension-EscalationDates:
   BHEISIG: 1
+RT-Extension-ExampleTheme:
+  BPS: 1
 RT-Extension-ExcelFeed:
   BPS: 1
 RT-Extension-ExternalStorage:
@@ -50860,6 +51072,8 @@ RT-Extension-Gravatar:
   CLOOS: 1
 RT-Extension-GroupBroadcast:
   WESAL: 1
+RT-Extension-GroupSummary:
+  GIBUS: 1
 RT-Extension-HideWidgets:
   OERIS: 1
 RT-Extension-HistoryFilter:
@@ -50895,6 +51109,8 @@ RT-Extension-MandatoryRequestor:
   ELACOUR: 1
 RT-Extension-MandatorySubject:
   ELACOUR: 1
+RT-Extension-Memo:
+  GIBUS: 1
 RT-Extension-MenubarSearches:
   JESSE: 1
 RT-Extension-MenubarUserTickets:
@@ -50905,6 +51121,8 @@ RT-Extension-MessageSizeLimit:
   ELACOUR: 1
 RT-Extension-MobileUI:
   FALCONE: 1
+RT-Extension-ModifyUsersPrefs:
+  GIBUS: 1
 RT-Extension-MoveRules:
   RUZ: 1
 RT-Extension-Nagios:
@@ -51149,6 +51367,8 @@ RadioMobile:
   EBRUNI: 1
 Radioactive-Decay:
   TMTM: 1
+Rails-Assets:
+  KUPTA: 1
 Railsish:
   GUGOD: 1
 Raisin:
@@ -51765,6 +51985,8 @@ Role-Log-Syslog-Fast:
   TBR: 1
 Role-Markup-XML:
   DORIAN: 1
+Role-MimeInfo:
+  DORIAN: 1
 Role-Multiton:
   DMUEY: 1
 Role-Pg-Notify:
@@ -51867,14 +52089,6 @@ Rose-Planter:
   BDUGGAN: 1
 Rose-URI:
   JSIRACUSA: 1
-Rosetta:
-  DUNCAND: 1
-Rosetta-Engine-Generic:
-  DUNCAND: 1
-Rosetta-Utility-SQLBuilder:
-  DUNCAND: 1
-Rosetta-Utility-SQLParser:
-  DUNCAND: 1
 RosettaCode:
   INGY: 1
 Route-Switcher:
@@ -51977,6 +52191,8 @@ SAS-TRX:
   ACCA: 1
 SAVI-Perl:
   PHENSON: 1
+SC-Lomonosov:
+  ALEXFMSU: 1
 SCGI:
   VIPERCODE: 1
 SCUBA-Blender:
@@ -52476,6 +52692,8 @@ SQL-Translator-Producer-DBIxSchemaDSL:
   KARUPA: 1
 SQL-Translator-Producer-GoogleBigQuery:
   KARUPA: 1
+SQL-Translator-Producer-GraphQL:
+  ETJ: 1
 SQL-Translator-Producer-PlantUML:
   HIMACHOCO: 1
 SQL-Translator-Producer-Teng:
@@ -52776,7 +52994,7 @@ Safe-Hole:
   SEYN: 1
   TODDR: 1
 Safe-Isa:
-  HAARG: 1
+  ETHER: 1
 Safe-Logs:
   LUISMUNOZ: 1
 Safe-World:
@@ -52788,6 +53006,8 @@ Sah:
 Sah-Examples:
   PERLANCAR: 1
 Sah-Schemas:
+  PERLANCAR: 1
+Sah-Schemas-Bool:
   PERLANCAR: 1
 Sah-Schemas-CPANMeta:
   PERLANCAR: 1
@@ -53067,8 +53287,6 @@ Sdict:
   SWAJ: 1
 Se-PersonNr:
   EBOSRUP: 1
-SeaBASS-File:
-  JLEFLER: 1
 Search-Binary:
   XAERXESS: 1
 Search-ByPrefix:
@@ -53239,6 +53457,8 @@ SemanticWeb-OAI-ORE:
   SIMEON: 1
 Semi-Semicolons:
   DHA: 1
+Sendmail-AbuseIPDB:
+  TTNDY: 1
 Sendmail-AccessDB:
   STEPHANJ: 1
 Sendmail-Milter:
@@ -53663,6 +53883,8 @@ Skype-Any:
   AKIYM: 1
 SkypeAPI:
   LAOMOI: 1
+Slack-Notify:
+  ROBN: 1
 Slack-RTM-Bot:
   SHMAEDA: 1
 Slackware-Slackget:
@@ -53767,6 +53989,8 @@ SmarTalk:
   CLADI: 1
 Smart-Args:
   TOKUHIROM: 1
+Smart-Args-TypeTiny:
+  AKIYM: 1
 Smart-Comments:
   NEILB: 1
 Smart-Comments-Log4perl:
@@ -53864,7 +54088,7 @@ Software-Catalog:
 Software-GenoScan:
   WOLFTOWER: 1
 Software-License:
-  RJBS: 1
+  LEONT: 1
 Software-License-Apathyware:
   MKANDEL: 1
 Software-License-Beerware:
@@ -54021,6 +54245,8 @@ Sort-MultipleFields:
   DCANTRELL: 1
 Sort-Naturally:
   BINGOS: 1
+Sort-Naturally-ICU:
+  SERVAL: 1
 Sort-Naturally-XS:
   SERVAL: 1
 Sort-Packed:
@@ -54121,6 +54347,8 @@ Spike:
   SILENCER: 1
 Spirit-Of-PallThayer:
   PTHAYER: 1
+Splunk-HEC:
+  EFORBUS: 1
 Splunklib:
   GOMOR: 1
 Spoon:
@@ -54586,7 +54814,7 @@ Storable-Ref:
 Storage-Nexsan-NMP:
   KRIPT: 1
 Store-CouchDB:
-  NORBU: 1
+  LEV: 1
 Store-Opaque:
   SMUELLER: 1
 StoredHash:
@@ -54923,6 +55151,8 @@ String-Tagged-HTML:
   PEVANS: 1
 String-Tagged-IRC:
   PEVANS: 1
+String-Tagged-Terminal:
+  PEVANS: 1
 String-Template:
   PLICEASE: 1
 String-Tests:
@@ -54991,6 +55221,8 @@ Struct-Path:
   MIXAS: 1
 Struct-Path-PerlStyle:
   MIXAS: 1
+Struct-WOP:
+  LNATION: 1
 Stump:
   INGY: 1
 StupidMarkov:
@@ -55095,6 +55327,8 @@ Sub-Info:
   EXODIST: 1
 Sub-Information:
   OVID: 1
+Sub-Inject:
+  FERREIRA: 1
 Sub-Inspector:
   CSIDE: 1
 Sub-Install:
@@ -55175,6 +55409,8 @@ Sub-Recursive:
   LODIN: 1
 Sub-Regex:
   XERN: 1
+Sub-Replace:
+  FERREIRA: 1
 Sub-Retry:
   TOKUHIROM: 1
 Sub-ScopeFinalizer:
@@ -55398,7 +55634,13 @@ Syntax-Feature-Void:
 Syntax-Highlight-CSS:
   ZOFFIX: 1
 Syntax-Highlight-Engine-Kate:
-  SZABGAB: 1
+  MANWAR: 1
+Syntax-Highlight-Engine-Simple:
+  AKHUETTEL: 1
+Syntax-Highlight-Engine-Simple-HTML:
+  AKHUETTEL: 1
+Syntax-Highlight-Engine-Simple-Perl:
+  AKHUETTEL: 1
 Syntax-Highlight-HTML:
   SAPER: 1
 Syntax-Highlight-JSON:
@@ -55550,7 +55792,7 @@ Sys-Run:
 Sys-Run-Safer:
   PERLANCAR: 1
 Sys-RunAlone:
-  ELIZABETH: 1
+  TILLY: 1
 Sys-RunAlone-User:
   PEDLAR: 1
 Sys-RunAlways:
@@ -56065,18 +56307,6 @@ Task-Catalyst-Tutorial:
   MRAMBERG: 1
 Task-CertHost:
   COSMICNET: 1
-Task-Cpanel:
-  CPANEL: 1
-Task-Cpanel-3rdparty:
-  CPANEL: 1
-Task-Cpanel-Catalyst:
-  CPANEL: 1
-Task-Cpanel-Core:
-  CPANEL: 1
-Task-Cpanel-Internal:
-  CPANEL: 1
-Task-Cpanel-Kensho:
-  CPANEL: 1
 Task-Curses-UI:
   SKIM: 1
 Task-DWIM-Linux:
@@ -56095,6 +56325,8 @@ Task-Deprecations5_14:
   FLORA: 1
 Task-Devel-Cover-Recommended:
   VPIT: 1
+Task-Devel-Essentials:
+  MHASCH: 1
 Task-Dicom:
   SKIM: 1
 Task-Digest:
@@ -56335,6 +56567,8 @@ TeamCity-BuildMessages:
   ELLIOTJS: 1
 TeamCity-Message:
   MAXMIND: 1
+Teamcity-Executor:
+  TYNOVSKY: 1
 Teamspeak:
   MALETIN: 1
 Tee:
@@ -56984,6 +57218,8 @@ Teradata-SQL:
   GROMMEL: 1
 Term-ANSIColor:
   RRA: 1
+Term-ANSIColor-Conditional:
+  PERLANCAR: 1
 Term-ANSIColor-Markup:
   KENTARO: 1
 Term-ANSIColor-Print:
@@ -57273,6 +57509,8 @@ Test-Apocalypse:
   APOCAL: 1
 Test-App-CPANIDX-Database:
   BINGOS: 1
+Test-Applify:
+  KIWIROY: 1
 Test-Approvals:
   JRCOUNTS: 1
 Test-Approx:
@@ -57402,6 +57640,8 @@ Test-Class-Most:
   OVID: 1
 Test-Class-Sugar:
   PDCAWLEY: 1
+Test-Class-WithStrictPlan:
+  PALI: 1
 Test-ClassAPI:
   ADAMK: 1
 Test-Classy:
@@ -58686,12 +58926,16 @@ Test2-Suite:
   EXODIST: 1
 Test2-Tools-AfterSubtest:
   SHUMPHREY: 1
+Test2-Tools-Condition:
+  AKIYM: 1
 Test2-Tools-EventDumper:
   EXODIST: 1
 Test2-Tools-Explain:
   PETDANCE: 1
 Test2-Tools-Expressive:
   PETDANCE: 1
+Test2-Tools-JSON:
+  AKIYM: 1
 Test2-Tools-URL:
   PLICEASE: 1
 Test2-Workflow:
@@ -61705,6 +61949,8 @@ Type-Tiny-Signatures:
   AWNCORP: 1
 Type-Tiny-XS:
   TOBYINK: 1
+Type-TinyX-Facets:
+  DJERIUS: 1
 TypeLibrary-FromXSD:
   RENEEB: 1
 Types:
@@ -61731,6 +61977,8 @@ Types-LoadableClass:
   TOBYINK: 1
 Types-Numbers:
   BBYRD: 1
+Types-PDL:
+  DJERIUS: 1
 Types-Path-Tiny:
   DAGOLDEN: 1
 Types-PerlVersion:
@@ -61801,6 +62049,7 @@ UML-State:
   PHILCROW: 1
 UMLS-Association:
   BTMCINNES: 1
+  HENRYST: 1
 UMLS-Interface:
   BTMCINNES: 1
 UMLS-Norm:
@@ -61858,6 +62107,8 @@ UPS-Nut:
 UR:
   BRUMMETT: 1
   SAKOHT: 1
+UR-Object-Command-Crud:
+  EBELTER: 1
 URBL-Prepare:
   MIKER: 1
 URI:
@@ -62198,6 +62449,8 @@ Unicode-Number:
   ZMUGHAL: 1
 Unicode-Overload:
   JGOFF: 1
+Unicode-Peek:
+  GARYFALOS: 1
 Unicode-Precis:
   NEZUMI: 1
 Unicode-Precis-Preparation:
@@ -62516,6 +62769,8 @@ VS-RuleEngine-Loader-XML:
   CLAESJAC: 1
 VS-RuleEngine-Writer-XML:
   CLAESJAC: 1
+VSGDR-MergeData:
+  DEDMEDVED: 1
 VSGDR-StaticData:
   DEDMEDVED: 1
 VSGDR-TestScriptGen:
@@ -62750,6 +63005,8 @@ VisualDreams-Yubikey-online:
   WILDCHILD: 1
 Vitacilina:
   DAMOG: 1
+Vlc-Engine:
+  BRNFLK: 1
 VoiceXML-Client:
   PDEEGAN: 1
 VoiceXML-Server:
@@ -62838,6 +63095,8 @@ WWW-3Taps-API:
   EDENC: 1
 WWW-A9Toolbar:
   JROBINSON: 1
+WWW-API-Bitfinex:
+  HDELGADO: 1
 WWW-ASN:
   MSTRAT: 1
 WWW-AUR:
@@ -63584,6 +63843,8 @@ WWW-Opentracker-Stats:
   HOVENKO: 1
 WWW-Orkut-Spider:
   MANNO: 1
+WWW-Oxontime:
+  MGV: 1
 WWW-PAUSE-CleanUpHomeDir:
   ZOFFIX: 1
 WWW-PAUSE-Simple:
@@ -63742,7 +64003,7 @@ WWW-SMS:
 WWW-SVT-Play:
   OLOF: 1
 WWW-Salesforce:
-  PHRED: 1
+  CAPOEIRAB: 1
 WWW-Salesforce-Report:
   PAIXAOP: 1
 WWW-Saucelabs:
@@ -64638,6 +64899,8 @@ WebService-Beeminder:
   PJF: 1
 WebService-Belkin-WeMo:
   ERICBLUE: 1
+WebService-BitbucketServer:
+  CCM: 1
 WebService-Bitcoin-BTCe:
   TEAM: 1
 WebService-Bitly:
@@ -65039,6 +65302,8 @@ WebService-Ooyala:
   VROOM: 1
 WebService-Openaura:
   HONDALLIC: 1
+WebService-OverheidIO:
+  WATERKIP: 1
 WebService-POEditor:
   ROMANF: 1
 WebService-PagerDuty:
@@ -65087,6 +65352,8 @@ WebService-PutIo:
   MRAMBERG: 1
 WebService-Qiita:
   YUUKI: 1
+WebService-Qiita-V2:
+  RISOU: 1
 WebService-RTMAgent:
   RJBS: 1
 WebService-Rackspace-CloudFiles:
@@ -65308,6 +65575,8 @@ WebService-VaultPress-Partner:
   SYMKAT: 1
 WebService-VerifyEmail:
   NEILB: 1
+WebService-Vichan:
+  MGV: 1
 WebService-Viddler:
   PDW: 1
 WebService-VigLink:
@@ -65519,6 +65788,8 @@ Win32-ActAcc:
   PBWOLF: 1
 Win32-App-which:
   DOLMEN: 1
+Win32-AutoItX:
+  MTELNOV: 1
 Win32-Autoglob:
   SBURKE: 1
 Win32-CLR:
@@ -65739,6 +66010,8 @@ Win32-MultiMedia:
   THAMUS: 1
 Win32-NameTranslate:
   BINGOS: 1
+Win32-Net-Info:
+  VINSWORLD: 1
 Win32-Net-Session:
   RPAGITSCH: 1
 Win32-NetAdmin:
@@ -65765,6 +66038,8 @@ Win32-Outlook-IAF:
   PCZERKAS: 1
 Win32-PEFile:
   GRANDPA: 1
+Win32-Packer:
+  SALVA: 1
 Win32-Palm-Install:
   JOHANVDB: 1
 Win32-ParseWords:
@@ -65783,6 +66058,8 @@ Win32-Pipe:
   JDB: 1
 Win32-PowerPoint:
   ISHIGAKI: 1
+Win32-PowerShell-IPC:
+  NERDVANA: 1
 Win32-PrintBox:
   DCLARKE: 1
 Win32-Printer:
@@ -66162,6 +66439,8 @@ Wx-Perl-FSHandler-UNC:
   BBC: 1
 Wx-Perl-HtmlWizardPage:
   JOUKE: 1
+Wx-Perl-IconDepot:
+  HANJE: 1
 Wx-Perl-Imagick:
   JOUKE: 1
 Wx-Perl-ListCtrl:
@@ -66438,8 +66717,6 @@ XML-Compile-SOAP-Daemon-Dancer2:
   PVIGIER: 1
 XML-Compile-SOAP-Mojolicious:
   MARKOV: 1
-XML-Compile-SOAP-WSA:
-  MARKOV: 1
 XML-Compile-SOAP12:
   MARKOV: 1
 XML-Compile-Tester:
@@ -66645,6 +66922,8 @@ XML-Flow:
   ZAG: 1
 XML-FromArrayref:
   NICWOLFF: 1
+XML-FromPerl:
+  SALVA: 1
 XML-GDOME:
   TJMATHER: 1
 XML-GDOME-XSLT:
@@ -67273,6 +67552,8 @@ Xbase:
   PRATP: 1
 Xcalibur-Rawfile:
   MSOUTHERN: 1
+Xcode-Project:
+  JOHNTSAI: 1
 Xcruciate:
   MELONMAN: 1
 Xen-API:
@@ -67326,7 +67607,7 @@ YAHC:
 YAMC:
   APIOLI: 1
 YAML:
-  INGY: 1
+  TINITA: 1
 YAML-Accessor:
   JANE: 1
 YAML-Active:
@@ -67341,6 +67622,8 @@ YAML-Diff:
   INGY: 1
 YAML-Full:
   INGY: 1
+YAML-Hobo:
+  FERREIRA: 1
 YAML-LibYAML:
   TINITA: 1
 YAML-LoadBundle:
@@ -67363,11 +67646,12 @@ YAML-Parser-Syck:
   INGY: 1
 YAML-Perl:
   INGY: 1
-  TINITA: 1
 YAML-Shell:
   INGY: 1
 YAML-Syck:
   TODDR: 1
+YAML-SyckWrapper:
+  VSESPB: 1
 YAML-Tests:
   INGY: 1
 YAML-Tiny:
@@ -67450,6 +67734,8 @@ YamlTime-Git:
   INGY: 1
 Yandex-Dictionary:
   BRNFLK: 1
+Yandex-Disk:
+  VRAG: 1
 Yandex-Metrika:
   CHIPSOID: 1
 Yandex-OAuth:
@@ -67544,8 +67830,6 @@ ZConf-Weather:
   VVELOX: 1
 ZHOUYI:
   ORANGE: 1
-ZHOUYI-ZhanPu:
-  ORANGE: 1
 ZM-SSI:
   MAXICO: 1
 ZM-Session:
@@ -67574,6 +67858,8 @@ ZMQ-LibZMQ3-LibZMQ2:
   BINARY: 1
 ZMQ-LibZMQ4:
   MOSCONI: 1
+ZMQ-Raw:
+  JACQUESG: 1
 ZMQx-Class:
   DOMM: 1
 ZMachine:
@@ -67638,9 +67924,15 @@ Zoidberg:
   JBERGER: 1
 Zonemaster:
   ZNMSTR: 1
+Zonemaster-Backend:
+  ZNMSTR: 1
 Zonemaster-CLI:
   ZNMSTR: 1
+Zonemaster-Engine:
+  ZNMSTR: 1
 Zonemaster-GUI:
+  ZNMSTR: 1
+Zonemaster-LDNS:
   ZNMSTR: 1
 Zonemaster-WebBackend:
   ZNMSTR: 1
@@ -68052,6 +68344,8 @@ failures:
   DAGOLDEN: 1
 fameperl:
   TRIAS: 1
+fastQ_brew:
+  HALLORAN: 1
 fewer:
   RJBS: 1
 fields-aliased:
@@ -68112,6 +68406,8 @@ go-db-perl:
   SJCARBON: 1
 go-perl:
   CMUNGALL: 1
+goto-file:
+  EXODIST: 1
 grepmail:
   DCOPPIT: 1
 grok:
@@ -68478,6 +68774,10 @@ overload-reify:
   DJERIUS: 1
 overload-substr:
   PEVANS: 1
+oxdperl:
+  GLUU: 1
+oxdperl_sobhantest:
+  SOBHAN: 1
 p2:
   RURBAN: 1
 p5-Text-Xslate-Syntax-Any:
@@ -68561,7 +68861,6 @@ perl:
   NWCLARK: 1
   RGARCIA: 1
   SHAY: 1
-  XSAWYERX: 1
 perl-Apache2-LogUtil:
   RYANGIES: 1
 perl-GPS:
@@ -68757,6 +69056,8 @@ rlib:
   GBARR: 1
 rms:
   JCTEBBAL: 1
+roles:
+  STEVAN: 1
 router-lg:
   CHRISJ: 1
 rpm-build-perl:
@@ -68943,6 +69244,8 @@ unless:
   BINGOS: 1
 uny2k:
   MSCHWERN: 1
+upfiles:
+  KRYDE: 1
 uplug-cs:
   TIEDEMANN: 1
 uplug-da:
