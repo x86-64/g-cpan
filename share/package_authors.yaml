@@ -674,6 +674,8 @@ Acme-CPANLists-Import-SHARYANTO:
   PERLANCAR: 1
 Acme-CPANLists-PERLANCAR:
   PERLANCAR: 1
+Acme-CPANLists-PERLANCAR-FooThis:
+  PERLANCAR: 1
 Acme-CPANLists-PERLANCAR-Self:
   PERLANCAR: 1
 Acme-CPANLists-PERLANCAR-Temp-Plus:
@@ -3063,6 +3065,8 @@ AnyEvent-Proc:
   ZURBORG: 1
 AnyEvent-Process:
   PETRIS: 1
+AnyEvent-ProcessPool:
+  JEFFOBER: 1
 AnyEvent-Processor:
   FREDERICD: 1
 AnyEvent-Promise:
@@ -4451,6 +4455,8 @@ App-CreateRandomFile:
   PERLANCAR: 1
 App-CreateSelfSignedSSLCert:
   PERLANCAR: 1
+App-CreateSparseFile:
+  PERLANCAR: 1
 App-Critique:
   STEVAN: 1
 App-Cronjob:
@@ -4459,6 +4465,8 @@ App-CrossPericmd:
   PERLANCAR: 1
 App-D:
   BESSARABV: 1
+App-DAVThis:
+  PERLANCAR: 1
 App-DBBrowser:
   KUERBIS: 1
 App-DBCritic:
@@ -4600,6 +4608,8 @@ App-EvalServer:
   HINRIK: 1
 App-EvalServerAdvanced:
   SIMCOP: 1
+App-EvalServerAdvanced-ConstantCalc:
+  SIMCOP: 1
 App-EvalServerAdvanced-Protocol:
   SIMCOP: 1
 App-EvalServerAdvanced-REPL:
@@ -4620,6 +4630,8 @@ App-FQStat:
   SMUELLER: 1
 App-FTNDB:
   JAME: 1
+App-FTPThis:
+  PERLANCAR: 1
 App-FakeCDN:
   SONGMU: 1
 App-Fasops:
@@ -4686,6 +4698,10 @@ App-GenPericmdScript:
   PERLANCAR: 1
 App-Genpass:
   XSAWYERX: 1
+App-Genpass-ID:
+  PERLANCAR: 1
+App-Genpass-WordList:
+  PERLANCAR: 1
 App-GetClosestFile:
   RORYRJB: 1
 App-Getconf:
@@ -5261,6 +5277,8 @@ App-ParseHosts:
   PERLANCAR: 1
 App-ParseNetstat:
   PERLANCAR: 1
+App-ParseSearchStringFromURL:
+  PERLANCAR: 1
 App-ParseServices:
   PERLANCAR: 1
 App-Pastebin-Create:
@@ -5800,6 +5818,8 @@ App-Wallflower:
   BOOK: 1
 App-War:
   JTRAMMELL: 1
+App-WatchLater:
+  ZENG: 1
 App-Wax:
   CHOCOLATE: 1
 App-WeaverUtils:
@@ -8321,6 +8341,8 @@ Biblio-Thesaurus-SQLite:
   ROOT: 1
 Biblio-Zotero-DB:
   ZMUGHAL: 1
+Bifcode:
+  MLAWREN: 1
 BigIP-ParseConfig:
   SSCHNEID: 1
 BigIP-iControl:
@@ -13425,7 +13447,7 @@ Catmandu-Template:
 Catmandu-Twitter:
   HOCHSTEN: 1
 Catmandu-VIAF:
-  PIETERDP: 1
+  NETSENSEI: 1
 Catmandu-Validator-JSONSchema:
   NJFRANCK: 1
 Catmandu-Wikidata:
@@ -13742,6 +13764,8 @@ Chess:
   BJR: 1
 Chess-960:
   RJBS: 1
+Chess-ELO-FEDA:
+  NICEPERL: 1
 Chess-Elo:
   TBONE: 1
 Chess-FIDE:
@@ -15815,6 +15839,8 @@ Coro-Amazon-SimpleDB:
   DTRISCHUK: 1
 Coro-Channel-Factory:
   PODONNELL: 1
+Coro-Countdown:
+  JEFFOBER: 1
 Coro-DataPipe:
   OKHARCH: 1
 Coro-Generator:
@@ -16153,7 +16179,7 @@ Crypt-OpenSSL-SMIME:
 Crypt-OpenSSL-VerifyX509:
   CHRISA: 1
 Crypt-OpenSSL-X509:
-  DANIEL: 1
+  JONASBN: 1
 Crypt-OpenToken:
   GTERMARS: 1
 Crypt-PBC:
@@ -17377,6 +17403,8 @@ DBIx-MySperqlOO:
   ROGERHALL: 1
 DBIx-Mysql-InformationSchema:
   GWL: 1
+DBIx-MysqlCoroAnyEvent:
+  ANTONPETR: 1
 DBIx-NamedBinding:
   YDNA: 1
 DBIx-NamedDSN:
@@ -18900,6 +18928,8 @@ Data-Encrypted:
   AMACKEY: 1
 Data-Entropy:
   ZEFRAM: 1
+Data-Enumerable-Lazy:
+  OLEGS: 1
 Data-Enumerator:
   HDAICHI: 1
 Data-EventStream:
@@ -21410,8 +21440,6 @@ Device-Blkid-E2fsprogs:
   MROZ: 1
 Device-BusPirate:
   PEVANS: 1
-Device-BusPirate-Chip-AVR_HVSP:
-  PEVANS: 1
 Device-CableModem-Motorola-SB4200:
   BURAK: 1
 Device-CableModem-SURFboard:
@@ -22099,7 +22127,7 @@ Dist-Zilla-Config-Slicer:
 Dist-Zilla-Deb:
   MMCLERIC: 1
 Dist-Zilla-LocaleTextDomain:
-  DWHEELER: 1
+  CCM: 1
 Dist-Zilla-MintingProfile-AppKit:
   ALTREUS: 1
 Dist-Zilla-MintingProfile-AppKitX:
@@ -31227,6 +31255,8 @@ IPC-Pidfile:
   DFARRELL: 1
 IPC-Pipeline:
   XAN: 1
+IPC-Pleather:
+  JEFFOBER: 1
 IPC-PrettyPipe:
   DJERIUS: 1
 IPC-PubSub:
@@ -31592,8 +31622,6 @@ Image-Ocrad:
   ALLENDAY: 1
 Image-OpenALPR:
   MGV: 1
-Image-OrgChart:
-  MZSANFORD: 1
 Image-PBMlib:
   ELIJAH: 1
 Image-PNG:
@@ -31778,8 +31806,6 @@ Imager-SkinDetector:
   COSIMO: 1
 Imager-Tiler:
   ZOFFIX: 1
-Imager-TimelineDiagram:
-  MZSANFORD: 1
 Imager-Trim:
   SPOT: 1
 Imgur-API:
@@ -32280,8 +32306,6 @@ JSTAPd:
   YAPPO: 1
 JSV:
   ZIGOROU: 1
-JSV-Compilator:
-  ANTONPETR: 1
 JSV-Compiler:
   ANTONPETR: 1
 JSYNC:
@@ -32523,6 +32547,10 @@ JobCenter-Client-Mojo:
   WIEGEROP: 1
 John-Doe:
   WOLLMERS: 1
+Jojo-Base:
+  FERREIRA: 1
+Jojo-Role:
+  FERREIRA: 1
 JomonTest:
   JOMON: 1
 Jonk:
@@ -33588,8 +33616,6 @@ LiBot:
   TOKUHIROM: 1
 Lib-Furl:
   GOMOR: 1
-Lib-IXP:
-  GOMOR: 1
 Lib-Module:
   RKIES: 1
 LibCAS:
@@ -34524,6 +34550,8 @@ Linux-IRPulses:
   TMURRAY: 1
 Linux-Info:
   ARFREITAS: 1
+Linux-InitFS:
+  KCODY: 1
 Linux-Inotify:
   TWERNER: 1
 Linux-Inotify2:
@@ -39081,6 +39109,8 @@ Mojo-CloudCheckr:
   SADAMS: 1
 Mojo-Cloudstack:
   HRUPP: 1
+Mojo-Collection-Role-UtilsBy:
+  DBOOK: 1
 Mojo-Command-Generate-InitScript:
   NUCLON: 1
 Mojo-DOM-Role-PrettyPrinter:
@@ -39424,6 +39454,7 @@ Mojolicious-Plugin-Args:
   AMIRITE: 1
 Mojolicious-Plugin-AssetPack:
   JHTHORSEN: 1
+  MRAMBERG: 1
 Mojolicious-Plugin-AssetPack-Che:
   MCHE: 1
 Mojolicious-Plugin-AssetPack-Pipe-ExportToDirectory:
@@ -40021,8 +40052,6 @@ Mojolicious-Plugin-ZombieApocalypse:
   TEMPIRE: 1
 Mojolicious-Quick:
   POPEFELIX: 1
-Mojolicious-Services:
-  WFSO: 1
 Moment:
   BESSARABV: 1
 Momo:
@@ -40425,6 +40454,8 @@ MooseX-CompileTime-Traits:
   NPEREZ: 1
 MooseX-ComposedBehavior:
   RJBS: 1
+MooseX-ConfigCascade:
+  TOMGRACEY: 1
 MooseX-ConfigFromFile:
   ETHER: 1
 MooseX-Configuration:
@@ -41072,8 +41103,6 @@ Mozilla-Mork:
   KRIPT: 1
 Mozilla-ObserverService:
   BOSU: 1
-Mozilla-Persona:
-  MARKOV: 1
 Mozilla-Prefs-Simple:
   RRWO: 1
 Mozilla-PromptService:
@@ -42699,8 +42728,6 @@ Net-Jabber-Bot:
   TODDR: 1
 Net-Jabber-Loudmouth:
   FLORA: 1
-Net-Jaiku:
-  RICKM: 1
 Net-Jenkins:
   CORNELIUS: 1
 Net-Jifty:
@@ -42913,6 +42940,10 @@ Net-NAT-PMP:
   DAVID: 1
 Net-NATS-Client:
   CARWYNM: 1
+Net-NATS-Streaming-Client:
+  SKOLYCHEV: 1
+Net-NATS-Streaming-PB:
+  SKOLYCHEV: 1
 Net-NBName:
   JMACFARLA: 1
 Net-NBsocket:
@@ -44517,6 +44548,8 @@ OTRS-OPM-Analyzer:
 OTRS-OPM-Installer:
   RENEEB: 1
 OTRS-OPM-Maker:
+  RENEEB: 1
+OTRS-OPM-Maker-Command-changes:
   RENEEB: 1
 OTRS-OPM-Maker-Command-sopm:
   RENEEB: 1
@@ -47416,6 +47449,8 @@ Path-ScanINC:
   KENTNL: 1
 Path-Tiny:
   DAGOLDEN: 1
+Path-Tiny-Rule:
+  DROLSKY: 1
 Path-Trim:
   HAGGAI: 1
 PathTools:
@@ -49407,6 +49442,8 @@ Pod-Generate-Recursive:
   ADDUTKO: 1
 Pod-Generated:
   MARCEL: 1
+Pod-Github:
+  RJH: 1
 Pod-GroveBuilder:
   KMACLEOD: 1
 Pod-HTML2Pod:
@@ -50116,6 +50153,8 @@ Proc-Pidfile:
   NEILB: 1
 Proc-ProcessTable:
   JWB: 1
+Proc-ProcessTable-Colorizer:
+  VVELOX: 1
 Proc-ProcessTableLight:
   BES: 1
 Proc-Queue:
@@ -50194,6 +50233,8 @@ Progress-Any-Output-TermProgressBarColor:
   PERLANCAR: 1
 Progress-Any-Output-TermSpin:
   PERLANCAR: 1
+Progress-Awesome:
+  RJH: 1
 Progress-PV:
   VGIRISH: 1
 ProgressBar-Stack:
@@ -51176,7 +51217,7 @@ RT-Extension-ReferenceIDoitObjects:
 RT-Extension-ReminderImproved:
   CLOOS: 1
 RT-Extension-RepeatTicket:
-  SUNNAVY: 1
+  BPS: 1
 RT-Extension-RepliesToResolved:
   FALCONE: 1
 RT-Extension-ReportSpam:
@@ -53312,6 +53353,10 @@ Search-Elasticsearch-Client-1_0-Async:
 Search-Elasticsearch-Client-2_0:
   DRTECH: 1
 Search-Elasticsearch-Client-2_0-Async:
+  DRTECH: 1
+Search-Elasticsearch-Client-5_0:
+  DRTECH: 1
+Search-Elasticsearch-Client-5_0-Async:
   DRTECH: 1
 Search-Elasticsearch-Compat:
   DRTECH: 1
@@ -55681,8 +55726,6 @@ Sys-Apm:
   RLZWART: 1
 Sys-Bprsync:
   TEX: 1
-Sys-CPU:
-  MZSANFORD: 1
 Sys-Cmd:
   MLAWREN: 1
 Sys-CmdMod:
@@ -56339,6 +56382,8 @@ Task-Email-PEP-NoStore:
   RJBS: 1
 Task-Error-Pure:
   SKIM: 1
+Task-FooThis:
+  PERLANCAR: 1
 Task-FreecellSolver-Testing:
   SHLOMIF: 1
 Task-FusionInventory:
@@ -57949,6 +57994,8 @@ Test-HTML-Differences:
   SATOH: 1
 Test-HTML-Form:
   TEEJAY: 1
+Test-HTML-Recursive-DeprecatedTags:
+  SHLOMIF: 1
 Test-HTML-Spelling:
   RRWO: 1
 Test-HTML-Tidy:
@@ -59153,6 +59200,8 @@ Text-Context-EitherSide:
   TMTM: 1
 Text-Context-Porter:
   SIMON: 1
+Text-Continuation-Parser:
+  WATERKIP: 1
 Text-Contraction:
   BHOLZMAN: 1
 Text-Control:
@@ -61075,6 +61124,8 @@ Time-Slideshow:
   CORION: 1
 Time-SoFar:
   ELIJAH: 1
+Time-Spent:
+  JEFFOBER: 1
 Time-Stamp:
   RWSTAUNER: 1
 Time-StasisField:
@@ -63021,8 +63072,6 @@ Voldemort:
   EXUSSUM: 1
 Volution:
   INGY: 1
-Vonage-Click2Call:
-  MZSANFORD: 1
 Vote:
   NANARDON: 1
 Voting-Condorcet-RankedPairs:
@@ -64989,6 +65038,8 @@ WebService-DPD-API:
   RNEWSHAM: 1
 WebService-DataDog:
   JPINKHAM: 1
+WebService-DeathByCaptcha:
+  FAYLAND: 1
 WebService-Decibel:
   HONDALLIC: 1
 WebService-Desk:
@@ -65954,8 +66005,6 @@ Win32-IntAuth:
   TOMK: 1
 Win32-Internet:
   JDB: 1
-Win32-InternetExplorer-Window:
-  MZSANFORD: 1
 Win32-InternetShortcut:
   ISHIGAKI: 1
 Win32-Job:
@@ -66134,6 +66183,10 @@ Win32-Shortcut:
   JDB: 1
 Win32-Shortcut-Readlink:
   PLICEASE: 1
+Win32-Shortkeys:
+  RAPPAZF: 1
+Win32-Shortkeys-Kbh:
+  RAPPAZF: 1
 Win32-ShutDown:
   CDRAKE: 1
 Win32-Socketpair:
