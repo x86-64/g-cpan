@@ -2603,6 +2603,8 @@ Amazon-S3:
   TIMA: 1
 Amazon-S3-FastUploader:
   DQNEO: 1
+Amazon-S3-SignedURLGenerator:
+  FAYLAND: 1
 Amazon-S3-Thin:
   DQNEO: 1
 Amazon-S3Curl-PurePerl:
@@ -4656,6 +4658,8 @@ App-FileSummoner:
   MAIO: 1
 App-FileTools-BulkRename:
   SWESTRUP: 1
+App-FilterUtils:
+  ATHREEF: 1
 App-FinanceUtils:
   PERLANCAR: 1
 App-FindCallers:
@@ -5810,6 +5814,8 @@ App-Virtualenv:
   ORKUN: 1
 App-WIoZ:
   YVESAGO: 1
+App-WRT:
+  BRENNEN: 1
 App-WUPHF:
   MCMILLHJ: 1
 App-Waf:
@@ -5874,6 +5880,8 @@ App-ZshCompleteUtils:
   PERLANCAR: 1
 App-a2p:
   LEONT: 1
+App-adler32:
+  ATHREEF: 1
 App-adr2org:
   PERLANCAR: 1
 App-af:
@@ -6222,6 +6230,8 @@ App-olson:
   ZEFRAM: 1
 App-opan:
   MSTROUT: 1
+App-optex:
+  UTASHIRO: 1
 App-org2wp:
   PERLANCAR: 1
 App-orgdaemon:
@@ -7999,7 +8009,11 @@ Bencher-Scenario-ListMoreUtils:
   PERLANCAR: 1
 Bencher-Scenario-ListUtil:
   PERLANCAR: 1
+Bencher-Scenario-ListingProcesses:
+  PERLANCAR: 1
 Bencher-Scenario-MathPrimeModules:
+  PERLANCAR: 1
+Bencher-Scenario-MemoryInfo:
   PERLANCAR: 1
 Bencher-Scenario-ModuleInstalledTiny:
   PERLANCAR: 1
@@ -11944,8 +11958,6 @@ Catalyst-Action-Serialize-XML-Hash-LX:
   MONS: 1
 Catalyst-Action-SubDomain:
   EGOR: 1
-Catalyst-Action-Wizard:
-  DESPAIR: 1
 Catalyst-ActionRole-ACL:
   BOBTFISH: 1
 Catalyst-ActionRole-BuildDBICResult:
@@ -13369,7 +13381,7 @@ Catmandu-Inspire:
 Catmandu-LDAP:
   NICS: 1
 Catmandu-LIDO:
-  PIETERDP: 1
+  NETSENSEI: 1
 Catmandu-MAB2:
   JOROL: 1
 Catmandu-MARC:
@@ -13392,7 +13404,7 @@ Catmandu-OAI:
 Catmandu-OCLC:
   HOCHSTEN: 1
 Catmandu-PICA:
-  KLEE: 1
+  JOROL: 1
   VOJ: 1
 Catmandu-PLoS:
   NICS: 1
@@ -16167,7 +16179,7 @@ Crypt-OpenSSL-PBKDF2:
 Crypt-OpenSSL-PKCS10:
   JONOZZZ: 1
 Crypt-OpenSSL-PKCS12:
-  DANIEL: 1
+  JONASBN: 1
 Crypt-OpenSSL-RC4:
   TOKUHIROM: 1
 Crypt-OpenSSL-RSA:
@@ -18531,6 +18543,8 @@ Dancer2-Plugin-Swagger2:
   DBOEHMER: 1
 Dancer2-Plugin-Syntax-GetPost:
   DAGOLDEN: 1
+Dancer2-Plugin-SyntaxHighlight-Perl:
+  TONKIN: 1
 Dancer2-Plugin-Tail:
   JACKB: 1
 Dancer2-Plugin-TemplateFlute:
@@ -19416,6 +19430,8 @@ Data-Pivoter:
   MSICKEL: 1
 Data-Plist:
   KYOKI: 1
+Data-Pokemon-Go:
+  WORTHMINE: 1
 Data-Polipo:
   TORU: 1
 Data-Polymorph:
@@ -26097,6 +26113,8 @@ Finance-TickerSymbols:
   JEZRA: 1
 Finance-USDX:
   AMBS: 1
+Finance-Underlying:
+  BINARY: 1
 Finance-Wesabe:
   BRICAS: 1
 Finance-YahooChart:
@@ -30435,7 +30453,7 @@ Hash-Map:
 Hash-Match:
   RRWO: 1
 Hash-Merge:
-  REHSACK: 1
+  HERMES: 1
 Hash-Merge-Extra:
   MIXAS: 1
 Hash-Merge-Simple:
@@ -31017,6 +31035,8 @@ IO-ReStoreFH:
   DJERIUS: 1
 IO-React:
   GARROW: 1
+IO-ReadHandle-Chain:
+  LSTROUS: 1
 IO-ReadPreProcess:
   ADDW: 1
 IO-Select-Trap:
@@ -31387,6 +31407,8 @@ IS-Conf:
   STEVEGT: 1
 IS-Init:
   STEVEGT: 1
+ISO:
+  PRBRENAN: 1
 ITM:
   GETTY: 1
 IUP:
@@ -39203,7 +39225,7 @@ Mojo-Redis:
 Mojo-Redis-Processor:
   BINARY: 1
 Mojo-Redis2:
-  JHTHORSEN: 1
+  DBOOK: 1
 Mojo-Role:
   DVINCI: 1
 Mojo-RoleTiny:
@@ -45570,7 +45592,7 @@ PHP-Var:
 PHPLive-Report:
   PERLANCAR: 1
 PICA-Data:
-  KLEE: 1
+  JOROL: 1
   VOJ: 1
 PICA-Modification:
   VOJ: 1
@@ -47857,6 +47879,8 @@ Perl-Critic-Policy-Moo-ProhibitMakeImmutable:
   BLUEFEET: 1
 Perl-Critic-Policy-Perlsecret:
   LANCEW: 1
+Perl-Critic-Policy-ProhibitSmartmatch:
+  HOLCAPEK: 1
 Perl-Critic-Policy-References-ProhibitComplexDoubleSigils:
   XENU: 1
 Perl-Critic-Policy-TryTiny-RequireBlockTermination:
@@ -47918,6 +47942,8 @@ Perl-Dist-WiX:
   CSJEWELL: 1
 Perl-Dist-WiX-BuildPerl-5123:
   CSJEWELL: 1
+Perl-Download-FTP:
+  JKEENAN: 1
 Perl-Exactly:
   INA: 1
 Perl-Examples:
@@ -55706,6 +55732,8 @@ Syntax-Highlight-Universal:
   PALANT: 1
 Syntax-Highlight-WithEmacs:
   ANEI: 1
+Syntax-Kamelon:
+  HANJE: 1
 Syntax-Keyword-Gather:
   FREW: 1
 Syntax-Keyword-Junction:
@@ -58164,6 +58192,8 @@ Test-ManyParams:
   BIGJ: 1
 Test-Map-Tube:
   MANWAR: 1
+Test-MasterData-Declare:
+  MACOPY: 1
 Test-Memcached:
   DMAKI: 1
 Test-Memory-Cycle:
@@ -58654,7 +58684,7 @@ Test-Software-License:
 Test-Some:
   YANICK: 1
 Test-Spec:
-  ANDYJONES: 1
+  AKZHAN: 1
 Test-Spec-RMock:
   KJELLM: 1
 Test-Spelling:
@@ -58691,6 +58721,8 @@ Test-Subroutines:
   OLIVER: 1
 Test-Subs:
   MATHIAS: 1
+Test-Subtest-Attribute:
+  BMARCOTTE: 1
 Test-Subtests:
   BATLOCK: 1
 Test-Subunits:
@@ -58931,6 +58963,8 @@ Test-XMLElement:
   MURUGU: 1
 Test-XPath:
   DWHEELER: 1
+Test-XS-Check:
+  DROLSKY: 1
 Test-XT:
   ADAMK: 1
 Test-YAML:
@@ -58958,6 +58992,8 @@ Test-utf8:
 Test2-AsyncSubtest:
   EXODIST: 1
 Test2-Harness:
+  EXODIST: 1
+Test2-Manual:
   EXODIST: 1
 Test2-Plugin-FauxHomeDir:
   PLICEASE: 1
@@ -60092,6 +60128,8 @@ Text-Variations:
   EVDB: 1
 Text-VimColor:
   RWSTAUNER: 1
+Text-VisualPrintf:
+  UTASHIRO: 1
 Text-VisualWidth:
   NANZOU: 1
 Text-VisualWidth-PP:
@@ -67240,7 +67278,7 @@ XML-RDB:
 XML-RDDL:
   RBERJON: 1
 XML-RPC:
-  DAAN: 1
+  CAVAC: 1
 XML-RPC-CustomUA:
   CAVAC: 1
 XML-RPC-Fast:
