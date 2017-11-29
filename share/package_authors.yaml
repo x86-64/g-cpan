@@ -208,6 +208,8 @@ AIX-Perfstat:
   ACIDDEATH: 1
 AIX-SysInfo:
   SLEONOV: 1
+ALBD:
+  HENRYST: 1
 ALPM:
   APG: 1
 AMF-Connection:
@@ -4606,6 +4608,8 @@ App-Environ-Mojo-Pg:
   KAKTUS: 1
 App-ErrorCalculator:
   SMUELLER: 1
+App-EscapeUtils:
+  PERLANCAR: 1
 App-EvalServer:
   HINRIK: 1
 App-EvalServerAdvanced:
@@ -5596,8 +5600,6 @@ App-Sky:
   SHLOMIF: 1
 App-Slackeria:
   DERF: 1
-App-Slaughter:
-  SKX: 1
 App-Smarkmail:
   RJBS: 1
 App-Smbxfer:
@@ -8593,6 +8595,8 @@ Bio-SSRTool:
   KCLARK: 1
 Bio-SamTools:
   LDS: 1
+Bio-Sampling-Valection:
+  BOUTROSLB: 1
 Bio-SeqHash:
   PEKINGSAM: 1
 Bio-SeqReader:
@@ -19781,6 +19785,8 @@ Data-Table-Text:
   PRBRENAN: 1
 Data-TableAutoSum:
   BIGJ: 1
+Data-TableReader:
+  NERDVANA: 1
 Data-Tabular:
   GAM: 1
 Data-Tabular-Dumper:
@@ -23378,6 +23384,8 @@ Dredd-Hooks:
   MRF: 1
 Drogo:
   MJFLICK: 1
+Druid:
+  GKOHLI: 1
 Drupal-Admin:
   DURIST: 1
 Drupal-Module-Starter:
@@ -28440,6 +28448,8 @@ GraphQL:
   ETJ: 1
 GraphQL-Plugin-Convert-DBIC:
   ETJ: 1
+GraphQL-Plugin-Convert-OpenAPI:
+  ETJ: 1
 GraphViz:
   RSAVAGE: 1
 GraphViz-DBI:
@@ -32018,6 +32028,8 @@ IntervalTree:
   BENBOOTH: 1
 Iodef-Pb-Simple:
   SAXJAZMAN: 1
+Ion:
+  JEFFOBER: 1
 Ipernity-API:
   WNEESSEN: 1
 Iphone-SMS:
@@ -34360,6 +34372,8 @@ Lingua-Stem-Ru:
   NEILB: 1
 Lingua-Stem-Snowball:
   CREAMYG: 1
+Lingua-Stem-Snowball-Ca:
+  LVALIUKAS: 1
 Lingua-Stem-Snowball-Da:
   CINE: 1
 Lingua-Stem-Snowball-Lt:
@@ -36726,6 +36740,8 @@ Mail-Milter-Authentication-Extra:
   MBRADSHAW: 1
 Mail-Milter-Authentication-Handler-ARC:
   MBRADSHAW: 1
+Mail-Milter-Authentication-Handler-BIMI:
+  MBRADSHAW: 1
 Mail-Milter-Authentication-Handler-SMIME:
   MBRADSHAW: 1
 Mail-Miner:
@@ -36905,6 +36921,8 @@ Maildir-Lite:
   DEIAN: 1
 Maildir-Quota:
   LWA: 1
+Mailru-Cloud:
+  VRAG: 1
 Make:
   KLPTWO: 1
 Makefile-DOM:
@@ -36965,6 +36983,10 @@ Map-Metro-Plugin-Map-Stockholm:
   CSSON: 1
 Map-Tube:
   MANWAR: 1
+Map-Tube-API:
+  MANWAR: 1
+Map-Tube-Athens:
+  ERRIETTA: 1
 Map-Tube-Barcelona:
   MANWAR: 1
 Map-Tube-Beijing:
@@ -37165,6 +37187,8 @@ MarpaX-Tester:
   MICHAEL: 1
 MarpaX-xPathLike:
   JVVERDE: 1
+Martian:
+  ALTREUS: 1
 Mashtree:
   LSKATZ: 1
 Mason:
@@ -39972,6 +39996,8 @@ Mojolicious-Plugin-StaticCompressor:
   MUGIFLY: 1
 Mojolicious-Plugin-StaticLog:
   FRANKC: 1
+Mojolicious-Plugin-StaticShare:
+  MCHE: 1
 Mojolicious-Plugin-StripePayment:
   JHTHORSEN: 1
 Mojolicious-Plugin-Subdispatch:
@@ -40206,6 +40232,8 @@ MooX-ConfigFromFile:
   REHSACK: 1
 MooX-Emulate-Class-Accessor-Fast:
   BLUEFEET: 1
+MooX-EventHandler:
+  CHOHAG: 1
 MooX-Failover:
   RRWO: 1
 MooX-File-ConfigDir:
@@ -41045,7 +41073,7 @@ Morpheus:
 Mortal-Kombat:
   PINYAN: 1
 Mouse:
-  GFUJI: 1
+  SKAJI: 1
   SYOHEX: 1
 MouseX-App-Cmd:
   ETHER: 1
@@ -41514,6 +41542,8 @@ Neo4j-Cypher-Abstract:
   MAJENSEN: 1
 Neovim-RPC:
   YANICK: 1
+Neovim-RPC-Plugin-Taskwarrior:
+  YANICK: 1
 Nephia:
   YTURTLE: 1
 Nephia-Plugin-CSRFDefender:
@@ -41733,6 +41763,8 @@ Net-Async-AMQP:
   TEAM: 1
 Net-Async-ArtNet:
   PEVANS: 1
+Net-Async-Beanstalk:
+  CHOHAG: 1
 Net-Async-CassandraCQL:
   GBJK: 1
 Net-Async-ControlChannel:
@@ -45007,6 +45039,8 @@ OpusVL-AppKit:
   NEWELLC: 1
 OpusVL-AppKit-Schema-AppKitAuthDB:
   ALTREUS: 1
+OpusVL-Docker:
+  ALTREUS: 1
 OpusVL-Preferences:
   ALTREUS: 1
 OpusVL-SimpleCrypto:
@@ -47859,6 +47893,8 @@ Perl-Critic-OTRS:
   RENEEB: 1
 Perl-Critic-PetPeeves-JTRAMMELL:
   JTRAMMELL: 1
+Perl-Critic-Policy-BadStrings:
+  JMASLAK: 1
 Perl-Critic-Policy-BuiltinFunctions-ProhibitDeleteOnArrays:
   LIOSHA: 1
 Perl-Critic-Policy-BuiltinFunctions-ProhibitReturnOr:
@@ -57672,6 +57708,8 @@ Test-CPAN-Meta-YAML:
   BARBIE: 1
 Test-CPAN-README:
   DMUEY: 1
+Test-CPANfile:
+  ISHIGAKI: 1
 Test-CPANpm:
   CRAKRJACK: 1
 Test-CSS:
@@ -58989,11 +59027,7 @@ Test-ttserver:
   CRAFTWORK: 1
 Test-utf8:
   MARKF: 1
-Test2-AsyncSubtest:
-  EXODIST: 1
 Test2-Harness:
-  EXODIST: 1
-Test2-Manual:
   EXODIST: 1
 Test2-Plugin-FauxHomeDir:
   PLICEASE: 1
@@ -59021,8 +59055,6 @@ Test2-Tools-JSON:
   AKIYM: 1
 Test2-Tools-URL:
   PLICEASE: 1
-Test2-Workflow:
-  EXODIST: 1
 TestGen4Web-Runner:
   MACKERS: 1
 TestLink-API:
@@ -62920,6 +62952,8 @@ Validator-Declarative:
   CUB: 1
 Validator-LIVR:
   KOORCHIK: 1
+Validator-Lazy:
+  ANTONC: 1
 Validator-Var:
   SEMENOVF: 1
 Valiemon:
@@ -64936,8 +64970,6 @@ WebService-Amazon-IAM:
   TEAM: 1
 WebService-Amazon-Route53:
   ODYNIEC: 1
-WebService-Amazon-Route53-Caching:
-  SKX: 1
 WebService-Amazon-Signature:
   TEAM: 1
 WebService-Amazon-Support:
