@@ -800,6 +800,8 @@ Acme-Dzil-Plugin-Tester:
   DROLSKY: 1
 Acme-ESP:
   TYEMQ: 1
+Acme-Eatemup:
+  SPROUT: 1
 Acme-Echo:
   DAVIDRW: 1
 Acme-EdError:
@@ -2381,6 +2383,8 @@ Alien-TALib:
   VIKAS: 1
 Alien-Taco:
   GSB: 1
+Alien-Texinfo:
+  WBRASWELL: 1
 Alien-Thrust:
   FRACTAL: 1
 Alien-Tidyp:
@@ -2419,6 +2423,8 @@ Alien-XPA:
   DJERIUS: 1
 Alien-ZMQ:
   CCM: 1
+Alien-ZMQ-latest:
+  ZMUGHAL: 1
 Alien-Zcash:
   LETO: 1
 Alien-astyle:
@@ -2537,6 +2543,8 @@ Alt-Acme-Math-XS-ZillaDist:
   INGY: 1
 Alt-Alien-FFI-System:
   PLICEASE: 1
+Alt-Alien-ZMQ-Alien-ZMQ-latest:
+  ZMUGHAL: 1
 Alt-CPAN-Uploader-tinyua:
   SROMANOV: 1
 Alt-CWB-CL-ambs:
@@ -3447,6 +3455,8 @@ Apache-Compress:
   KWILLIAMS: 1
 Apache-CompressClientFixup:
   SLAVA: 1
+Apache-Config-Preproc:
+  SGRAY: 1
 Apache-ConfigParser:
   BZAJAC: 1
 Apache-ContentHandler:
@@ -4167,6 +4177,8 @@ App-256colors:
   CALID: 1
 App-AFNI-SiemensPhysio:
   WILLFORAN: 1
+App-ANSIColorUtils:
+  PERLANCAR: 1
 App-ASCIIUtils:
   PERLANCAR: 1
 App-AYCABTU:
@@ -4828,6 +4840,10 @@ App-Gre:
   JACOBG: 1
 App-Grepl:
   OVID: 1
+App-Greple:
+  UTASHIRO: 1
+App-GroupSecret:
+  CCM: 1
 App-Guiio:
   JSIMPSON: 1
 App-HL7-Dump:
@@ -5074,6 +5090,8 @@ App-MojoSlides:
   JBERGER: 1
 App-MonM:
   ABALAMA: 1
+App-MonM-Notifier:
+  ABALAMA: 1
 App-Monitor-Simple:
   TORITSUYO: 1
 App-Monport:
@@ -5261,6 +5279,8 @@ App-PNGCrush:
   ZOFFIX: 1
 App-PODUtils:
   PERLANCAR: 1
+App-PPE:
+  KFLY: 1
 App-PPH21Utils:
   PERLANCAR: 1
 App-PPI-Dumper:
@@ -5307,6 +5327,8 @@ App-PerlCriticUtils:
   PERLANCAR: 1
 App-PerlPackage2PlantUMLClassDiagram:
   HITODE: 1
+App-PerlShell:
+  VINSWORLD: 1
 App-PerlXLock:
   FINNPERL: 1
 App-PerlbrewUtils:
@@ -6166,6 +6188,10 @@ App-loggrep:
   DFH: 1
 App-lookup:
   SYALTUT: 1
+App-lsiommu:
+  ATHREEF: 1
+App-lsnic:
+  ATHREEF: 1
 App-madeye:
   TOKUHIROM: 1
 App-makebeamerinfo:
@@ -6376,6 +6402,8 @@ App-screenorama:
   JHTHORSEN: 1
 App-scriptdist:
   BDFOY: 1
+App-sdif:
+  UTASHIRO: 1
 App-seq-pl:
   PERLANCAR: 1
 App-setop:
@@ -7361,6 +7389,8 @@ Authen-Htpasswd:
   MSTROUT: 1
 Authen-Htpasswd-Trac:
   NISHIKAWA: 1
+Authen-Krb5:
+  IOANR: 1
 Authen-Krb5-Admin:
   SJQUINNEY: 1
 Authen-Krb5-Easy:
@@ -8171,6 +8201,8 @@ Bencher-Scenarios-LogDispatchFileRotate:
   PERLANCAR: 1
 Bencher-Scenarios-LogGer:
   PERLANCAR: 1
+Bencher-Scenarios-MathBigFloat:
+  PERLANCAR: 1
 Bencher-Scenarios-MathScientificNotationUtil:
   PERLANCAR: 1
 Bencher-Scenarios-MojoDOM:
@@ -8463,6 +8495,8 @@ Bio-FASTASequence:
   RENEEB: 1
 Bio-FASTASequence-File:
   RENEEB: 1
+Bio-FastParsers:
+  DBAURAIN: 1
 Bio-FdrFet:
   BRUC: 1
 Bio-FeatureIO:
@@ -8534,6 +8568,8 @@ Bio-MCPrimers:
   SLENK: 1
 Bio-MLST-Check:
   AJPAGE: 1
+Bio-MUST-Core:
+  DBAURAIN: 1
 Bio-MaxQuant-Evidence-Statistics:
   JIMI: 1
 Bio-MaxQuant-ProteinGroups-Response:
@@ -11441,6 +11477,8 @@ CPAN-WWW-Top100-Retrieve:
   APOCAL: 1
 CPAN-Webserver:
   LBROCARD: 1
+CPAN-cpanminus-reporter-RetainReports:
+  JKEENAN: 1
 CPAN2RT:
   RUZ: 1
 CPANDB:
@@ -13294,7 +13332,7 @@ CatalystX-Starter:
 CatalystX-Syntax-Action:
   JJNAPIORK: 1
 CatalystX-Test-MockContext:
-  EDENC: 1
+  RRWO: 1
 CatalystX-Test-Most:
   ASHLEY: 1
 CatalystX-Test-Recorder:
@@ -13482,8 +13520,6 @@ Catmandu-Zotero:
   HOCHSTEN: 1
 Cave-Wrapper:
   KENTNL: 1
-CelegansInteractome:
-  HALLORAN: 1
 Cellular-Automata-Wolfram:
   JMFREEMAN: 1
 CentOS-Releases:
@@ -15831,8 +15867,6 @@ Convert-yEnc:
   SWMCD: 1
 Convert-zBase32:
   GWYN: 1
-Convos:
-  MRAMBERG: 1
 CookBookA:
   DMR: 1
 CookBookB:
@@ -19057,8 +19091,6 @@ Data-Foswiki:
   SDOWIDEIT: 1
 Data-Frame:
   ZMUGHAL: 1
-Data-Freezer:
-  JETEVE: 1
 Data-Freq:
   MAHIRO: 1
 Data-FreqConvert:
@@ -19502,6 +19534,8 @@ Data-Random:
   BAREFOOT: 1
 Data-Random-Contact:
   DROLSKY: 1
+Data-Random-Flexible:
+  DAEMON: 1
 Data-Random-Nucleotides:
   AGORDON: 1
 Data-Random-String:
@@ -20233,6 +20267,8 @@ Date-Holidays-GB:
   MJEMMESON: 1
 Date-Holidays-KR:
   JEEN: 1
+Date-Holidays-KZ:
+  BESINT: 1
 Date-Holidays-LT:
   SAULIUS: 1
 Date-Holidays-NO:
@@ -22998,6 +23034,8 @@ Dist-Zilla-PluginBundle-Author-DOHERTY:
   DOHERTY: 1
 Dist-Zilla-PluginBundle-Author-ETHER:
   ETHER: 1
+Dist-Zilla-PluginBundle-Author-FERREIRA:
+  FERREIRA: 1
 Dist-Zilla-PluginBundle-Author-GABRIEL:
   GABRIEL: 1
 Dist-Zilla-PluginBundle-Author-GETTY:
@@ -23330,6 +23368,8 @@ Document-Writer:
   GPHAT: 1
 Document-eSign-Docusign:
   GHENRY: 1
+Doit:
+  SREZIC: 1
 Dokuwiki-RPC-XML-Client:
   MARCC: 1
 Domain-PublicSuffix:
@@ -23384,8 +23424,6 @@ Dredd-Hooks:
   MRF: 1
 Drogo:
   MJFLICK: 1
-Druid:
-  GKOHLI: 1
 Drupal-Admin:
   DURIST: 1
 Drupal-Module-Starter:
@@ -25134,6 +25172,8 @@ File-HomeDir:
   RKOBES: 1
 File-HomeDir-PathClass:
   JQUELIN: 1
+File-HomeDir-Tiny:
+  SPROUT: 1
 File-Hotfolder:
   VOJ: 1
 File-IfModified:
@@ -26089,6 +26129,8 @@ Finance-Quote:
   PJF: 1
 Finance-Quote-Grab:
   KRYDE: 1
+Finance-Quote-IEX:
+  JTPALMER: 1
 Finance-Quote-Sberbank:
   KILORK: 1
 Finance-QuoteDB:
@@ -27585,6 +27627,8 @@ Geo-IP2Proxy:
   LOCATION: 1
 Geo-IPfree:
   BRICAS: 1
+Geo-IPinfo:
+  IPINFO: 1
 Geo-ISO19139:
   MARKOV: 1
 Geo-Inverse:
@@ -28137,6 +28181,8 @@ GitInsight:
   MUDLER: 1
 GitLab-API-v3:
   BLUEFEET: 1
+GitLab-API-v4:
+  BLUEFEET: 1
 GitMeta:
   MSCHILLI: 1
 GitStore:
@@ -28302,6 +28348,8 @@ Google-Spreadsheet-Agent:
   DMLOND: 1
 Google-Tasks:
   GRYPHON: 1
+Google-Translate-Languages:
+  PRBRENAN: 1
 Google-Voice:
   TEMPIRE: 1
 Google-reCAPTCHA:
@@ -31577,6 +31625,8 @@ Image-Info-XS:
   JUNKER: 1
 Image-JPEG-EstimateQuality:
   DAYFLOWER: 1
+Image-JPEG-Size:
+  ARC: 1
 Image-JpegCheck:
   TOKUHIROM: 1
 Image-JpegMinimal:
@@ -32706,6 +32756,8 @@ Keyword-API:
   RGE: 1
 Keyword-Boolean:
   GFUJI: 1
+Keyword-DEVELOPMENT:
+  OVID: 1
 Keyword-Declare:
   DCONWAY: 1
 Keyword-Simple:
@@ -35501,8 +35553,6 @@ Log-Cabin:
   JORVIS: 1
 Log-Channel:
   JMAY: 1
-Log-Colorize-Helper:
-  VVELOX: 1
 Log-Common:
   MHAMILTON: 1
 Log-Contextual:
@@ -35873,6 +35923,8 @@ Log-WarnDie:
   NHORNE: 1
 Log-WithCallbacks:
   DAOTOAD: 1
+Log-colorize-Helper:
+  VVELOX: 1
 Log-err:
   PERLANCAR: 1
 Log-ger:
@@ -37031,6 +37083,8 @@ Map-Tube-Lyon:
   GWS: 1
 Map-Tube-Malaga:
   SKIM: 1
+Map-Tube-Milan:
+  MFONTANI: 1
 Map-Tube-Minsk:
   SKIM: 1
 Map-Tube-Moscow:
@@ -37941,6 +37995,8 @@ Math-Vector-SortIndexes:
   SPLICE: 1
 Math-VectorReal:
   ANTHONY: 1
+Math-VectorXYZ:
+  RMATTHEW: 1
 Math-Vectors2:
   PRBRENAN: 1
 Math-Volume-Rotational:
@@ -38262,6 +38318,8 @@ MetaCPAN-Helper:
   NEILB: 1
 MetaCPAN-Moose:
   OALDERS: 1
+MetaCPAN-Pod-XHTML:
+  HAARG: 1
 MetaCPAN-Role:
   LLAP: 1
 MetaMap-DataStructures:
@@ -39193,6 +39251,8 @@ Mojo-IOLoop-Subprocess-Sereal:
   DBOOK: 1
 Mojo-IOLoop-Tail:
   BPMEDLEY: 1
+Mojo-IOLoop-Thread:
+  TOMK: 1
 Mojo-IRC:
   JHTHORSEN: 1
 Mojo-IRC-Server-Chinese:
@@ -39218,6 +39278,8 @@ Mojo-Log-JSON:
   MJEMMESON: 1
 Mojo-Log-More:
   ODC: 1
+Mojo-Log-Syslog:
+  SGRAY: 1
 Mojo-MySQL5:
   HARRYL: 1
 Mojo-PDF:
@@ -39286,6 +39348,8 @@ Mojo-UserAgent-Cached:
   NICOMEN: 1
 Mojo-UserAgent-CookieJar-ChromeMacOS:
   FAYLAND: 1
+Mojo-UserAgent-CookieJar-Role-Persistent:
+  EJUNGLE: 1
 Mojo-UserAgent-DigestAuth:
   JHTHORSEN: 1
 Mojo-UserAgent-Mockable:
@@ -39434,6 +39498,8 @@ Mojolicious:
   SRI: 1
 Mojolicious-Che:
   MCHE: 1
+Mojolicious-Command-bulkget:
+  ETJ: 1
 Mojolicious-Command-deploy:
   TEMPIRE: 1
 Mojolicious-Command-deploy-heroku:
@@ -39602,6 +39668,8 @@ Mojolicious-Plugin-DBICAdmin:
   CHINAXING: 1
 Mojolicious-Plugin-DBInfo:
   WOLLMERS: 1
+Mojolicious-Plugin-DBIxCustom:
+  WFSO: 1
 Mojolicious-Plugin-DBIxTransactionManager:
   FUKATA: 1
 Mojolicious-Plugin-DBViewer:
@@ -39644,6 +39712,8 @@ Mojolicious-Plugin-DumpyLog:
   AMIRITE: 1
 Mojolicious-Plugin-EDumper:
   MCHE: 1
+Mojolicious-Plugin-ErrorTracking-Sentry:
+  OSDAKIRA: 1
 Mojolicious-Plugin-ErrorsAndWarnings:
   KWAKWA: 1
 Mojolicious-Plugin-EventSource:
@@ -39756,6 +39826,8 @@ Mojolicious-Plugin-LocaleTextDomainOO:
   CLICKTX: 1
 Mojolicious-Plugin-Log-Access:
   NICZERO: 1
+Mojolicious-Plugin-Log-Any:
+  DBOOK: 1
 Mojolicious-Plugin-Log-Elasticsearch:
   JUSTIN: 1
 Mojolicious-Plugin-Log-Timestamp:
@@ -40100,6 +40172,8 @@ Mojolicious-Plugin-ZombieApocalypse:
   TEMPIRE: 1
 Mojolicious-Quick:
   POPEFELIX: 1
+Mojolicious-Services:
+  WFSO: 1
 Moment:
   BESSARABV: 1
 Momo:
@@ -41464,8 +41538,6 @@ NTuples:
   CMORRIS: 1
 NVDefined:
   BPOWERS: 1
-Nabaztag:
-  JETEVE: 1
 Nagios-Check-Email-Sender:
   MARCC: 1
 Nagios-Clientstatus:
@@ -41824,6 +41896,8 @@ Net-Async-Trello:
 Net-Async-UWSGI:
   TEAM: 1
 Net-Async-WebSocket:
+  PEVANS: 1
+Net-Async-WebSocket-JSON:
   PEVANS: 1
 Net-Async-Webservice-Common:
   DAKKAR: 1
@@ -43817,6 +43891,8 @@ Net-Tomcat:
   LTP: 1
 Net-Topsy:
   LETO: 1
+Net-Tor:
+  KETHGEN: 1
 Net-Tor-Servers:
   AJDIXON: 1
 Net-Trac:
@@ -44360,6 +44436,8 @@ Number-Extreme:
   CLKAO: 1
 Number-Format:
   WRW: 1
+Number-Format-BigFloat:
+  PERLANCAR: 1
 Number-Format-Calc:
   HOLLI: 1
 Number-Format-FixedLocale:
@@ -46479,6 +46557,8 @@ POSIX-RT-Timer:
   LEONT: 1
 POSIX-Regex:
   JETTERO: 1
+POSIX-Run-Capture:
+  SGRAY: 1
 POSIX-SchedYield:
   MARCB: 1
 POSIX-Socket:
@@ -46535,6 +46615,8 @@ PPIx-IndexOffsets:
   LBROCARD: 1
 PPIx-LineToSub:
   LBROCARD: 1
+PPIx-Literal:
+  FERREIRA: 1
 PPIx-QuoteLike:
   WYANT: 1
 PPIx-Refactor:
@@ -48036,8 +48118,12 @@ Perl-PrereqScanner-Scanner-Catalyst:
   SLOYD: 1
 Perl-PrereqScanner-Scanner-Hint:
   VDB: 1
+Perl-PrereqScanner-Scanner-Mojo:
+  FERREIRA: 1
 Perl-PrereqScanner-Scanner-MooseXTypesCombine:
   RWSTAUNER: 1
+Perl-PrereqScanner-Scanner-Zim:
+  FERREIRA: 1
 Perl-RPM:
   RJRAY: 1
 Perl-Repository-APC:
@@ -48362,6 +48448,8 @@ PerlX-Range:
   GUGOD: 1
 PerlX-Window:
   TOBYINK: 1
+PerlX-bash:
+  BAREFOOT: 1
 Perlanet:
   DAVECROSS: 1
 Perlanet-DBIx-Class:
@@ -49931,6 +50019,8 @@ Pollute:
   DAVIDNICO: 1
 Pollux:
   YANICK: 1
+Poloniex-API:
+  MIRKOS: 1
 Polycom-App-Push:
   ZBLAIR: 1
 Polycom-Config-File:
@@ -50904,6 +50994,8 @@ RPC-Serialized:
   OLIVER: 1
 RPC-Simple:
   CEDWARDS: 1
+RPC-Switch-Client:
+  WIEGEROP: 1
 RPC-XML:
   RJRAY: 1
 RPC-XML-Deparser-XS:
@@ -52837,6 +52929,8 @@ SRS-EPP-Proxy:
 SRU:
   BRICAS: 1
   ESUMMERS: 1
+SReview:
+  WOUTER: 1
 SSH-Batch:
   AGENT: 1
 SSH-Command:
@@ -52904,6 +52998,8 @@ SVG-Template-Graph:
   RONAN: 1
 SVG-Timeline:
   DAVECROSS: 1
+SVG-Timeline-Compact:
+  JVS: 1
 SVG-Timeline-Genealogy:
   DAVECROSS: 1
 SVG-TrafficLight:
@@ -53116,6 +53212,8 @@ Sah-Schemas-CPANMeta:
   PERLANCAR: 1
 Sah-Schemas-Collection:
   PERLANCAR: 1
+Sah-Schemas-Color:
+  PERLANCAR: 1
 Sah-Schemas-Date:
   PERLANCAR: 1
 Sah-Schemas-DefHash:
@@ -53316,6 +53414,8 @@ SchemaEvolution:
   CYCLES: 1
 SchemaView-Plus:
   MILSO: 1
+School-Code-Compare:
+  BORISD: 1
 Scientist:
   LANCEW: 1
 Scope-Cleanup:
@@ -54082,6 +54182,8 @@ SlideShow:
   LENZO: 1
 Slinke:
   BPAULSEN: 1
+Slob:
+  MGV: 1
 Sloth:
   CYCLES: 1
 Slurm-Sacctmgr:
@@ -54922,6 +55024,8 @@ Storage-Nexsan-NMP:
   KRIPT: 1
 Store-CouchDB:
   LEV: 1
+Store-Digest:
+  DORIAN: 1
 Store-Opaque:
   SMUELLER: 1
 StoredHash:
@@ -55296,6 +55400,8 @@ String-Urandom:
   MBROOKS: 1
 String-Util:
   MIKO: 1
+String-Util-Match:
+  PERLANCAR: 1
 String-Validator:
   BRAINBUZ: 1
 String-Validator-Common:
@@ -57592,6 +57698,8 @@ Test-A8N:
   NACHBAUR: 1
 Test-API:
   DAGOLDEN: 1
+Test-APIcast:
+  MCICHRA: 1
 Test-Able:
   JDV: 1
 Test-Able-Runner:
@@ -60215,6 +60323,7 @@ Text-Xatena:
 Text-XmlMatch:
   LEEJA: 1
 Text-Xslate:
+  SKAJI: 1
   SYOHEX: 1
 Text-Xslate-AST-Walker:
   AEREAL: 1
@@ -61960,6 +62069,8 @@ Treex-Unilang:
   VARISD: 1
 Treex-View:
   MICHALS: 1
+Tribology-Lubricant:
+  SHERZODR: 1
 Tribunais-TJES:
   EDUARDOW: 1
 Tribunais-TRTES:
@@ -63245,6 +63356,8 @@ WWW-Amazon-BestSeller:
   MCCHEUNG: 1
 WWW-Amazon-Wishlist:
   MTHURN: 1
+WWW-Amazon-checkip:
+  JLMARTIN: 1
 WWW-Analytics-MultiTouch:
   JJSCHUTZ: 1
 WWW-Anonymouse:
@@ -63380,7 +63493,7 @@ WWW-ClickSource:
 WWW-CloudCreator:
   SOCK: 1
 WWW-Codeguard:
-  DAVIDO: 1
+  SHAMES: 1
 WWW-Coderwall:
   RPICARD: 1
 WWW-ColiPoste:
@@ -63620,6 +63733,8 @@ WWW-Google-Drive:
   DINESHD: 1
 WWW-Google-Groups:
   XERN: 1
+WWW-Google-KnowledgeGraphSearch:
+  MANWAR: 1
 WWW-Google-News:
   SPLOTCHY: 1
 WWW-Google-News-TW:
@@ -67855,6 +67970,8 @@ YamlTime-Extension-Git:
   INGY: 1
 YamlTime-Git:
   INGY: 1
+Yancy:
+  PREACTION: 1
 Yandex-Dictionary:
   BRNFLK: 1
 Yandex-Disk:
@@ -68467,8 +68584,6 @@ failures:
   DAGOLDEN: 1
 fameperl:
   TRIAS: 1
-fastQ_brew:
-  HALLORAN: 1
 fewer:
   RJBS: 1
 fields-aliased:
@@ -68729,6 +68844,7 @@ libsoldout:
 libvorbis-perl:
   FOOF: 1
 libwww-perl:
+  ETHER: 1
   GAAS: 1
   OALDERS: 1
 libxml-enno:
