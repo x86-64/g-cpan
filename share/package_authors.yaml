@@ -327,6 +327,8 @@ ASP4x-Router:
   JOHND: 1
 AUBBC:
   SFLEX: 1
+AVLTree:
+  AVULLO: 1
 AWS-CLI-Config:
   JJATRIA: 1
 AWS-CLIWrapper:
@@ -2337,6 +2339,8 @@ Alien-PNG:
   FROGGS: 1
 Alien-Packages:
   REHSACK: 1
+Alien-Pluto:
+  WBRASWELL: 1
 Alien-Poppler:
   ZMUGHAL: 1
 Alien-ProtoBuf:
@@ -6116,6 +6120,10 @@ App-imgsize:
   PERLANCAR: 1
 App-installdeps:
   YAKEX: 1
+App-intrunningsum:
+  SHLOMIF: 1
+App-intsum:
+  SHLOMIF: 1
 App-iosdiff:
   OLIVER: 1
 App-jpath:
@@ -6874,6 +6882,8 @@ AsposeWordsCloud-WordsApi:
   ASPOSE: 1
 Assert-Conditional:
   TOMC: 1
+Assert-Refute:
+  KHEDIN: 1
 Asset-File:
   FUKAI: 1
 Asset-Pack:
@@ -8569,6 +8579,8 @@ Bio-MCPrimers:
 Bio-MLST-Check:
   AJPAGE: 1
 Bio-MUST-Core:
+  DBAURAIN: 1
+Bio-MUST-Drivers:
   DBAURAIN: 1
 Bio-MaxQuant-Evidence-Statistics:
   JIMI: 1
@@ -15730,6 +15742,8 @@ Convert-Base32-Crockford:
   INGY: 1
 Convert-Base64:
   ROBN: 1
+Convert-Base91:
+  MGV: 1
 Convert-BaseN:
   DANKOGAI: 1
 Convert-Bencode:
@@ -18471,6 +18485,8 @@ Dancer2-Plugin-DataTransposeValidator:
   SYSPETE: 1
 Dancer2-Plugin-Database:
   BIGPRESH: 1
+Dancer2-Plugin-DebugDump:
+  STEVIED: 1
 Dancer2-Plugin-Deferred:
   YANICK: 1
 Dancer2-Plugin-EditFile:
@@ -21630,6 +21646,8 @@ Device-MiniSSCII:
   JOHANVDB: 1
 Device-Modbus:
   JFRAIRE: 1
+Device-Modbus-ASCII:
+  JFRAIRE: 1
 Device-Modbus-RTU:
   JFRAIRE: 1
 Device-Modbus-TCP:
@@ -23424,6 +23442,8 @@ Dredd-Hooks:
   MRF: 1
 Drogo:
   MJFLICK: 1
+Druid:
+  GKOHLI: 1
 Drupal-Admin:
   DURIST: 1
 Drupal-Module-Starter:
@@ -24685,8 +24705,6 @@ FServer:
   JPDURRIOS: 1
 FSpot-DbTool:
   RCL: 1
-FT817COMM:
-  JRUBIN: 1
 FTDI-D2XX:
   MVOELKER: 1
 FTN-Addr:
@@ -25981,6 +25999,8 @@ Finance-BankVal-International-IBANValidate:
   UNIFIEDSW: 1
 Finance-BankVal-UK:
   UNIFIEDSW: 1
+Finance-BitFlip:
+  PERLANCAR: 1
 Finance-BitPay-API:
   PEASWORTH: 1
 Finance-BitStamp-API:
@@ -26804,8 +26824,6 @@ Game-TextPacMonster:
   UNLEARNED: 1
 Game-Theory-TwoPersonMatrix:
   GENE: 1
-Game-Tibia-Cam:
-  ATHREEF: 1
 Game-Tibia-Packet:
   ATHREEF: 1
 Game-WordBrain:
@@ -30372,6 +30390,8 @@ Ham-Callsign:
   HARDAKER: 1
 Ham-DXCC:
   RPETTETT: 1
+Ham-Device-FT817COMM:
+  JRUBIN: 1
 Ham-Device-FT950:
   TGIMMEL: 1
 Ham-Fldigi:
@@ -33954,6 +33974,8 @@ Lingua-EN-Pseudolocalize:
   WESM: 1
 Lingua-EN-SENNA:
   DGINEV: 1
+Lingua-EN-Segment:
+  SKINGTON: 1
 Lingua-EN-Segmenter:
   SPLICE: 1
 Lingua-EN-Semtags-Engine:
@@ -35553,6 +35575,8 @@ Log-Cabin:
   JORVIS: 1
 Log-Channel:
   JMAY: 1
+Log-Colorize-Helper:
+  VVELOX: 1
 Log-Common:
   MHAMILTON: 1
 Log-Contextual:
@@ -35923,8 +35947,6 @@ Log-WarnDie:
   NHORNE: 1
 Log-WithCallbacks:
   DAOTOAD: 1
-Log-colorize-Helper:
-  VVELOX: 1
 Log-err:
   PERLANCAR: 1
 Log-ger:
@@ -37053,6 +37075,8 @@ Map-Tube-CLI:
   MANWAR: 1
 Map-Tube-Cookbook:
   MANWAR: 1
+Map-Tube-Copenhagen:
+  SLU: 1
 Map-Tube-Delhi:
   MANWAR: 1
 Map-Tube-Dnipropetrovsk:
@@ -37333,6 +37357,8 @@ Math-Assistant:
   DONANGEL: 1
 Math-BLAS:
   RALPH: 1
+Math-Bacovia:
+  TRIZEN: 1
 Math-Base-Convert:
   MIKER: 1
 Math-Base36:
@@ -39292,6 +39318,8 @@ Mojo-PgX-Cursor:
   NNUTTER: 1
 Mojo-Phantom:
   JBERGER: 1
+Mojo-Promise-Role-Futurify:
+  DBOOK: 1
 Mojo-Pua:
   ALEXBYK: 1
 Mojo-RabbitMQ-Client:
@@ -39565,7 +39593,6 @@ Mojolicious-Plugin-AppCacheManifest:
 Mojolicious-Plugin-Args:
   AMIRITE: 1
 Mojolicious-Plugin-AssetPack:
-  JHTHORSEN: 1
   MRAMBERG: 1
 Mojolicious-Plugin-AssetPack-Che:
   MCHE: 1
@@ -41227,8 +41254,6 @@ Mozilla-Mork:
   KRIPT: 1
 Mozilla-ObserverService:
   BOSU: 1
-Mozilla-Prefs-Simple:
-  RRWO: 1
 Mozilla-PromptService:
   BOSU: 1
 Mozilla-PublicSuffix:
@@ -41909,6 +41934,8 @@ Net-Async-Webservice-UPS:
   DAKKAR: 1
 Net-Async-XMPP:
   TEAM: 1
+Net-Async-ZMQ:
+  ZMUGHAL: 1
 Net-Autoconfig:
   KEVIN: 1
 Net-Axigen:
@@ -42340,6 +42367,8 @@ Net-Enum-DNSServer:
   SMS: 1
 Net-Etcd:
   HEXFUSION: 1
+Net-Ethereum:
+  ITMFROLOV: 1
 Net-Evernote:
   DMC: 1
 Net-Evernote-Simple:
@@ -46598,7 +46627,7 @@ PPI-Transform-Doxygen:
 PPI-Transform-Sequence:
   YAKEX: 1
 PPI-XS:
-  DAGOLDEN: 1
+  ETHER: 1
 PPI-XS-Tokenizer:
   SEMUELF: 1
 PPI-Xref:
@@ -55056,6 +55085,8 @@ Stream-Buffered:
   DOY: 1
 Stream-Reader:
   ONDR: 1
+StreamFinder:
+  TURNERJW: 1
 StreamRoot-Manifest:
   LUCAS: 1
 Strehler:
@@ -55425,6 +55456,8 @@ Stringify-Deep:
 Struct-Compare:
   ZENSPIDER: 1
 Struct-Diff:
+  MIXAS: 1
+Struct-Diff-MergePatch:
   MIXAS: 1
 Struct-Dumb:
   PEVANS: 1
@@ -56440,6 +56473,8 @@ Task-BeLike-GENEHACK:
   GENEHACK: 1
 Task-BeLike-GETTY:
   GETTY: 1
+Task-BeLike-JAHERO:
+  JAHERO: 1
 Task-BeLike-JJNAPIORK:
   JJNAPIORK: 1
 Task-BeLike-JONASBN:
@@ -56783,7 +56818,7 @@ TeamCity-BuildMessages:
 TeamCity-Message:
   MAXMIND: 1
 Teamcity-Executor:
-  TYNOVSKY: 1
+  JASEI: 1
 Teamspeak:
   MALETIN: 1
 Tee:
@@ -57708,6 +57743,8 @@ Test-Abortable:
   RJBS: 1
 Test-AbstractMethod:
   CLAESJAC: 1
+Test-Against-Dev:
+  JKEENAN: 1
 Test-AgainstSchema:
   RJRAY: 1
 Test-Aggregate:
@@ -58737,6 +58774,8 @@ Test-Role:
   JFITZ: 1
 Test-Roo:
   DAGOLDEN: 1
+Test-Roo-DataDriven:
+  RRWO: 1
 Test-Routine:
   RJBS: 1
 Test-Routine-AutoClear:
@@ -60324,7 +60363,6 @@ Text-XmlMatch:
   LEEJA: 1
 Text-Xslate:
   SKAJI: 1
-  SYOHEX: 1
 Text-Xslate-AST-Walker:
   AEREAL: 1
 Text-Xslate-Bridge-Alloy:
@@ -61909,8 +61947,6 @@ Travel-Status-DE-VRR:
   DERF: 1
 Tree:
   RSAVAGE: 1
-Tree-AVL:
-  MBEEBE: 1
 Tree-Authz:
   DAVEBAIRD: 1
 Tree-BK:
