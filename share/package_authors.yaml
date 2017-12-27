@@ -5966,6 +5966,8 @@ App-cpanbaker:
   CORNELIUS: 1
 App-cpanchanges:
   TSIBLEY: 1
+App-cpanexec:
+  OKLAS: 1
 App-cpang:
   XSAWYERX: 1
 App-cpangitify:
@@ -18982,6 +18984,8 @@ Data-Eacherator:
   STILLWELL: 1
 Data-Edit:
   DLAMBLEY: 1
+Data-Edit-Struct:
+  DJERIUS: 1
 Data-Edit-Xml:
   PRBRENAN: 1
 Data-Edit-Xml-Lint:
@@ -22127,7 +22131,7 @@ Dist-Iller-Config-Author-CSSON:
 Dist-Inkt:
   TOBYINK: 1
 Dist-Inkt-DOAP:
-  TOBYINK: 1
+  KJETILK: 1
 Dist-Inkt-Profile-TOBYINK:
   TOBYINK: 1
 Dist-Inkt-Role-Hg:
@@ -24531,6 +24535,8 @@ ExtUtils-MY_Metafile:
   HIO: 1
 ExtUtils-MakeMaker:
   BINGOS: 1
+ExtUtils-MakeMaker-Attributes:
+  DBOOK: 1
 ExtUtils-MakeMaker-BigHelper:
   EDGEWISE: 1
 ExtUtils-MakeMaker-CPANfile:
@@ -24673,6 +24679,8 @@ FFmpeg-Thumbnail:
   BBQSAULS: 1
 FFprobe:
   KOVENSKY: 1
+FIAS-SQL:
+  CELEB: 1
 FIX-Lite:
   THEUS: 1
 FIX-Parser:
@@ -26021,6 +26029,8 @@ Finance-Budget:
   DYLAN: 1
 Finance-CaVirtex-API:
   PEASWORTH: 1
+Finance-Calendar:
+  BINARY: 1
 Finance-CampBX:
   RBRAGG: 1
 Finance-Card-Citibank:
@@ -26292,7 +26302,7 @@ Font-TTF:
 Font-TTF-OpenTypeLigatures:
   SIMON: 1
 Font-TTF-Scripts:
-  MHOSKEN: 1
+  BHALLISSY: 1
 Font-TTFMetrics:
   MALAY: 1
 Food-ECodes:
@@ -34803,7 +34813,7 @@ List-Bisect:
 List-Breakdown:
   TEJR: 1
 List-Categorize:
-  WNODOM: 1
+  DAMI: 1
 List-Categorize-Multi:
   DAMI: 1
 List-Collection:
@@ -36668,6 +36678,8 @@ Mail-Audit-PGP:
   RJBS: 1
 Mail-Audit-Razor:
   RJBS: 1
+Mail-AuthenticationResults:
+  MBRADSHAW: 1
 Mail-BIMI:
   MBRADSHAW: 1
 Mail-Barracuda-API:
@@ -39001,7 +39013,7 @@ Module-Make:
 Module-MakeMaker:
   INGY: 1
 Module-Manifest:
-  ADAMK: 1
+  ETHER: 1
 Module-Manifest-Skip:
   INGY: 1
 Module-Mapper:
@@ -39957,6 +39969,8 @@ Mojolicious-Plugin-PetalTinyRenderer:
   LBR: 1
 Mojolicious-Plugin-PgAsync:
   ROMANENKO: 1
+Mojolicious-Plugin-PgLock:
+  ONOKHOV: 1
 Mojolicious-Plugin-PgURLHelper:
   LDIDRY: 1
 Mojolicious-Plugin-Pingen:
@@ -39971,6 +39985,8 @@ Mojolicious-Plugin-Plift:
   CAFEGRATZ: 1
 Mojolicious-Plugin-ProRenderer:
   SLOBIN: 1
+Mojolicious-Plugin-Prometheus:
+  TYLDUM: 1
 Mojolicious-Plugin-Prove:
   RENEEB: 1
 Mojolicious-Plugin-Proxy:
@@ -50826,7 +50842,7 @@ RDF-Core:
 RDF-Crypt:
   TOBYINK: 1
 RDF-DOAP:
-  TOBYINK: 1
+  KJETILK: 1
 RDF-DOAP-Lite:
   TOBYINK: 1
 RDF-Dumper:
@@ -50882,7 +50898,7 @@ RDF-QueryX-Lazy:
 RDF-RDB2RDF:
   TOBYINK: 1
 RDF-RDFa-Generator:
-  TOBYINK: 1
+  KJETILK: 1
 RDF-RDFa-Linter:
   TOBYINK: 1
 RDF-RDFa-Parser:
@@ -56772,7 +56788,7 @@ Task-Viral:
 Task-WWW-Search-Antiquarian-Czech:
   SKIM: 1
 Task-Weaken:
-  ADAMK: 1
+  ETHER: 1
 Task-WebGUI:
   COLINK: 1
 Task-WebGUI8:
@@ -58608,7 +58624,7 @@ Test-Number-Delta:
 Test-Numeric:
   EVDB: 1
 Test-Object:
-  ADAMK: 1
+  ETHER: 1
 Test-OpenID-Consumer:
   TSIBLEY: 1
 Test-OpenID-Server:
@@ -58901,7 +58917,7 @@ Test-Stub-Generator:
 Test-StubGenerator:
   KCOWGILL: 1
 Test-SubCalls:
-  ADAMK: 1
+  ETHER: 1
 Test-Subroutines:
   OLIVER: 1
 Test-Subs:
@@ -64578,8 +64594,6 @@ WWW-Shorten-Yourls:
   CAPOEIRAB: 1
 WWW-Shorten-iiipe:
   MINIMAL: 1
-WWW-Shorten-ptl:
-  TURUGINA: 1
 WWW-SimpleRobot:
   AWRIGLEY: 1
 WWW-Simpy:
@@ -64704,8 +64718,6 @@ WWW-Twilio-TwiML:
   SCOTTW: 1
 WWW-Twitpic:
   DIEGOK: 1
-WWW-Twitpic-Fetch:
-  TURUGINA: 1
 WWW-Twittervision:
   PERHENRIK: 1
 WWW-Txodds:
@@ -66529,6 +66541,8 @@ Wing-Client:
   COLINK: 1
 WiringPi-API:
   STEVEB: 1
+Wishlist:
+  JBERGER: 1
 Wizard:
   AMAR: 1
   JWIED: 1
@@ -66555,17 +66569,29 @@ WordList-BEW-Betawi:
   PERLANCAR: 1
 WordList-CPAN-PAUSEIDs:
   PERLANCAR: 1
+WordList-EN-BIP39:
+  PERLANCAR: 1
 WordList-EN-CountryNames:
   PERLANCAR: 1
 WordList-EN-Enable:
   PERLANCAR: 1
 WordList-EN-SGB:
   PERLANCAR: 1
+WordList-ES-BIP39:
+  PERLANCAR: 1
+WordList-FR-BIP39:
+  PERLANCAR: 1
 WordList-FR-ODS3-7To8:
   PERLANCAR: 1
 WordList-FR-WiktionaryES:
   PERLANCAR: 1
 WordList-ID-KBBI:
+  PERLANCAR: 1
+WordList-IT-BIP39:
+  PERLANCAR: 1
+WordList-JA-BIP39:
+  PERLANCAR: 1
+WordList-KO-BIP39:
   PERLANCAR: 1
 WordList-MetaSyntactic:
   PERLANCAR: 1
@@ -66606,6 +66632,10 @@ WordList-Test-Empty:
 WordList-Test-Unicode-Currency:
   PERLANCAR: 1
 WordList-ZH-HSK:
+  PERLANCAR: 1
+WordList-ZH-Simplified-BIP39:
+  PERLANCAR: 1
+WordList-ZH-Traditional-BIP39:
   PERLANCAR: 1
 WordLists:
   PERRETTDL: 1
