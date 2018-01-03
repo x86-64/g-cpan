@@ -434,6 +434,8 @@ Acme-AsciiArtFarts:
   LTP: 1
 Acme-AsciiArtinator:
   MOB: 1
+Acme-AsciiEmoji:
+  LNATION: 1
 Acme-Auggy:
   AUGGY: 1
 Acme-AutoColor:
@@ -659,6 +661,8 @@ Acme-CPANLists-Import-PerlAdvent-2014:
 Acme-CPANLists-Import-PerlAdvent-2015:
   PERLANCAR: 1
 Acme-CPANLists-Import-PerlAdvent-2016:
+  PERLANCAR: 1
+Acme-CPANLists-Import-PerlAdvent-2017:
   PERLANCAR: 1
 Acme-CPANLists-Import-PerlDancerAdvent-2010:
   PERLANCAR: 1
@@ -2189,6 +2193,8 @@ Alien-Debian-Apt-PM:
   JKUTEJ: 1
 Alien-Ditaa:
   BOBTFISH: 1
+Alien-Doxyparse:
+  JOENIO: 1
 Alien-Editline:
   PLICEASE: 1
 Alien-Electron:
@@ -2285,6 +2291,8 @@ Alien-LibYAML:
   PLICEASE: 1
 Alien-Libarchive3:
   PLICEASE: 1
+Alien-Libasyncns:
+  SKAJI: 1
 Alien-Libbz2:
   PLICEASE: 1
 Alien-Libevent:
@@ -2697,6 +2705,8 @@ Amon2-Web-Dispatcher-RouterSimple-Extended:
   TAIYOH: 1
 Anagram-Groups:
   ISUNIX: 1
+Analizo:
+  JOENIO: 1
 Ananke-SqlLink:
   NATTIS: 1
 Ananke-Template:
@@ -4245,6 +4255,8 @@ App-BCVI-NotifyClient:
   GRANTM: 1
 App-BCVI-NotifyDesktop:
   GRANTM: 1
+App-BIP39Utils:
+  PERLANCAR: 1
 App-BackupPlan:
   GCHIAIA: 1
 App-BackupTumblr:
@@ -4930,6 +4942,8 @@ App-Jawk:
   JOSHR: 1
 App-JenkinsCli:
   IVANWILLS: 1
+App-Jiffy:
+  LJR: 1
 App-JobLog:
   DFH: 1
 App-Jup:
@@ -7531,6 +7545,8 @@ Authen-TypeKey-Sign:
   TIMA: 1
 Authen-U2F:
   ROBN: 1
+Authen-U2F-Tester:
+  MSCHOUT: 1
 Authen-Users:
   BILLH: 1
 Authorization-RBAC:
@@ -8777,6 +8793,8 @@ BitArray1:
   GWORROLL: 1
 BitTorrent:
   QANTINS: 1
+Bitcoin-BIP39:
+  PERLANCAR: 1
 Bitcoin-RPC-Client:
   WHINDS: 1
 Bitmask-Data:
@@ -14941,6 +14959,8 @@ Code-TidyAll-Plugin-PgFormatter:
   ANDYJACK: 1
 Code-TidyAll-Plugin-SVG:
   JONASS: 1
+Code-TidyAll-Plugin-SortLines-IPAddresses:
+  KLPTWO: 1
 Code-TidyAll-Plugin-SortLines-Naturally:
   OALDERS: 1
 Code-TidyAll-Plugin-Test-Vars:
@@ -15137,6 +15157,8 @@ Complete-Man:
 Complete-Module:
   PERLANCAR: 1
 Complete-Number:
+  PERLANCAR: 1
+Complete-PPR:
   PERLANCAR: 1
 Complete-Path:
   PERLANCAR: 1
@@ -18529,6 +18551,8 @@ Dancer2-Plugin-HTTP-ContentNegotiation:
   VANHOESEL: 1
 Dancer2-Plugin-Interchange6:
   SYSPETE: 1
+Dancer2-Plugin-JSManager:
+  STEVIED: 1
 Dancer2-Plugin-JWT:
   AMBS: 1
 Dancer2-Plugin-Locale:
@@ -29663,7 +29687,7 @@ HTML-TableBracket:
 HTML-TableContent:
   LNATION: 1
 HTML-TableContentParser:
-  SDRABBLE: 1
+  WYANT: 1
 HTML-TableExtract:
   MSISK: 1
 HTML-TableExtractor:
@@ -32182,6 +32206,8 @@ JIP-Conf:
   VLADIMIRZ: 1
 JIP-Daemon:
   VLADIMIRZ: 1
+JIP-Debug:
+  VLADIMIRZ: 1
 JIP-LockFile:
   VLADIMIRZ: 1
 JIP-LockSocket:
@@ -32291,6 +32317,8 @@ JSON-Hyper:
   TOBYINK: 1
 JSON-JSend:
   HOEKIT: 1
+JSON-MaybeUTF8:
+  TEAM: 1
 JSON-MaybeXS:
   ETHER: 1
 JSON-MergePatch:
@@ -32653,6 +32681,10 @@ JiftyX-ModelHelpers:
   GUGOD: 1
 Jmespath:
   RICHE: 1
+Job-Async:
+  TEAM: 1
+Job-Async-Redis:
+  TEAM: 1
 Job-Machine:
   KAARE: 1
 Job-Manager:
@@ -37573,6 +37605,10 @@ Math-Function-Interpolator:
   BINARY: 1
 Math-Function-Roots:
   SJO: 1
+Math-GComplex:
+  TRIZEN: 1
+Math-GF:
+  POLETTIX: 1
 Math-GMP:
   SHLOMIF: 1
 Math-GMPf:
@@ -39394,6 +39430,8 @@ Mojo-UserAgent-DigestAuth:
   JHTHORSEN: 1
 Mojo-UserAgent-Mockable:
   POPEFELIX: 1
+Mojo-UserAgent-Role-Queued:
+  DOTAN: 1
 Mojo-WebService-Twitter:
   DBOOK: 1
 Mojo-WebSocketProxy:
@@ -39853,6 +39891,8 @@ Mojolicious-Plugin-Kavorka:
   JBERGER: 1
 Mojolicious-Plugin-KossyValidator:
   FUKAI: 1
+Mojolicious-Plugin-LazyImage:
+  JHTHORSEN: 1
 Mojolicious-Plugin-Leafletjs:
   ADAMJS: 1
 Mojolicious-Plugin-LeakTracker:
@@ -47560,6 +47600,8 @@ Passwords:
   PHIPSTER: 1
 Patch-chdir-Print:
   PERLANCAR: 1
+Patch-rand-Secure:
+  PERLANCAR: 1
 PatchReader:
   TMANNERM: 1
 Path-Abstract:
@@ -50472,6 +50514,8 @@ Prophet:
   SPANG: 1
 Prophet-Devel:
   IOANR: 1
+Proquint:
+  MLAWREN: 1
 Prosody:
   GETTY: 1
 Prospect:
@@ -51615,6 +51659,8 @@ Raisin:
   RTKH: 1
 Rand-Urandom:
   BADALEX: 1
+Random-Any:
+  PERLANCAR: 1
 Random-Day:
   SKIM: 1
 Random-PoissonDisc:
@@ -53251,6 +53297,8 @@ Sah-Examples:
   PERLANCAR: 1
 Sah-Schemas:
   PERLANCAR: 1
+Sah-Schemas-Binary:
+  PERLANCAR: 1
 Sah-Schemas-Bool:
   PERLANCAR: 1
 Sah-Schemas-CPANMeta:
@@ -54154,7 +54202,7 @@ Slauth:
 Slauth-Register-Mailman:
   IKLUFT: 1
 Slay-Makefile:
-  NODINE: 1
+  SREZIC: 1
 Slay-Makefile-Gress:
   NODINE: 1
 Slay-Maker:
@@ -57915,7 +57963,7 @@ Test-Class-Sugar:
 Test-Class-WithStrictPlan:
   PALI: 1
 Test-ClassAPI:
-  ADAMK: 1
+  ETHER: 1
 Test-Classy:
   ISHIGAKI: 1
 Test-CleanNamespaces:
@@ -58511,6 +58559,8 @@ Test-Mockify:
   CHRISBR: 1
 Test-Modern:
   TOBYINK: 1
+Test-Module-CheckDep-Version:
+  STEVEB: 1
 Test-Module-Runnable:
   DDRP: 1
 Test-Module-Used:
@@ -66585,6 +66635,8 @@ WordList-FR-ODS3-7To8:
   PERLANCAR: 1
 WordList-FR-WiktionaryES:
   PERLANCAR: 1
+WordList-ID-BIP39:
+  PERLANCAR: 1
 WordList-ID-KBBI:
   PERLANCAR: 1
 WordList-IT-BIP39:
@@ -66639,6 +66691,8 @@ WordList-ZH-Traditional-BIP39:
   PERLANCAR: 1
 WordLists:
   PERRETTDL: 1
+WordLists-ID-Common:
+  PERLANCAR: 1
 WordNet-BestStem:
   MAGGIEXYZ: 1
 WordNet-Extend:
