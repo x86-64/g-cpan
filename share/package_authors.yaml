@@ -618,6 +618,8 @@ Acme-CPANAuthors-You-re_using:
   VPIT: 1
 Acme-CPANLists:
   PERLANCAR: 1
+Acme-CPANLists-CryptoExchange:
+  PERLANCAR: 1
 Acme-CPANLists-Import:
   PERLANCAR: 1
 Acme-CPANLists-Import-BKB:
@@ -689,6 +691,14 @@ Acme-CPANLists-PERLANCAR-Self:
 Acme-CPANLists-PERLANCAR-Temp-Plus:
   PERLANCAR: 1
 Acme-CPANLists-PERLANCAR-Test:
+  PERLANCAR: 1
+Acme-CPANModules:
+  PERLANCAR: 1
+Acme-CPANModules-CryptoExchange-API:
+  PERLANCAR: 1
+Acme-CPANModules-FooThis:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-PERLANCAR:
   PERLANCAR: 1
 Acme-CPANPLUS-Module-With-Failing-Configure-Requires:
   BINGOS: 1
@@ -2375,6 +2385,8 @@ Alien-SDL2:
   KTHAKORE: 1
 Alien-SFML:
   JAKEANQ: 1
+Alien-SLOCCount:
+  JOENIO: 1
 Alien-SNMP-MAXTC:
   OLIVER: 1
 Alien-SVN:
@@ -2465,6 +2477,8 @@ Alien-gputils:
   VIKAS: 1
 Alien-gzip:
   PLICEASE: 1
+Alien-libcmark_gfm:
+  DHARDISON: 1
 Alien-libpid:
   ATHREEF: 1
 Alien-libsndfile:
@@ -4495,6 +4509,8 @@ App-Cronjob:
   RJBS: 1
 App-CrossPericmd:
   PERLANCAR: 1
+App-CryptoCurrencyUtils:
+  PERLANCAR: 1
 App-D:
   BESSARABV: 1
 App-DAVThis:
@@ -4717,7 +4733,7 @@ App-Framework-Lite:
 App-FromUnixtime:
   BAYASHI: 1
 App-GHPT:
-  MAXMIND: 1
+  DROLSKY: 1
 App-GSD:
   RJH: 1
 App-GUI-Notepad:
@@ -6008,6 +6024,8 @@ App-cpanminus-script-Patch-RunShcompgen:
   PERLANCAR: 1
 App-cpanminus-script-Patch-UseURIFromFoundMirror:
   PERLANCAR: 1
+App-cpanmodules:
+  PERLANCAR: 1
 App-cpanmw:
   KPEE: 1
 App-cpanoutdated-coro:
@@ -6095,6 +6113,12 @@ App-gcal:
 App-genconf:
   FFFINKEL: 1
 App-genlines:
+  PERLANCAR: 1
+App-genpw:
+  PERLANCAR: 1
+App-genpw-id:
+  PERLANCAR: 1
+App-genpw-wordlist:
   PERLANCAR: 1
 App-get_flash_videos:
   MONSIEUR: 1
@@ -8153,6 +8177,8 @@ Bencher-Scenarios-ArgPassing:
   PERLANCAR: 1
 Bencher-Scenarios-ArraySet:
   PERLANCAR: 1
+Bencher-Scenarios-BIP39:
+  PERLANCAR: 1
 Bencher-Scenarios-Bencher:
   PERLANCAR: 1
 Bencher-Scenarios-BitManipulation:
@@ -8382,6 +8408,8 @@ Bib-Tools:
 BibTeX-Parser:
   BORISV: 1
 Bible-OBML:
+  GRYPHON: 1
+Bible-OBML-Gateway:
   GRYPHON: 1
 Bible-Reference:
   GRYPHON: 1
@@ -8663,6 +8691,8 @@ Bio-SamTools:
   LDS: 1
 Bio-Sampling-Valection:
   BOUTROSLB: 1
+Bio-SearchIO-blastxml:
+  CJFIELDS: 1
 Bio-SeqHash:
   PEKINGSAM: 1
 Bio-SeqReader:
@@ -13704,8 +13734,6 @@ Check-ISA:
   MANWAR: 1
 Check-UnitCheck:
   AJGOUGH: 1
-Checkout-CyberSource-SOAP:
-  AMIRI: 1
 Checkster:
   DVINCI: 1
 Chef:
@@ -14067,7 +14095,7 @@ Class-Autouse:
 Class-Axelerator:
   DANKOGAI: 1
 Class-Base:
-  SZABGAB: 1
+  YANICK: 1
 Class-Bits:
   SALVA: 1
 Class-BlackHole:
@@ -16510,6 +16538,10 @@ Crypt-xDBM_File:
   EESTABROO: 1
 CryptX:
   MIK: 1
+CryptoCurrency-Catalog:
+  PERLANCAR: 1
+CryptoExchange-Catalog:
+  PERLANCAR: 1
 Csistck:
   AGJ: 1
 Csound:
@@ -16966,7 +16998,7 @@ DBIx-Class-DeleteAction:
 DBIx-Class-DeploymentAdapter:
   JEGADE: 1
 DBIx-Class-DeploymentHandler:
-  MMCCLIMON: 1
+  FREW: 1
 DBIx-Class-DeploymentHandler-CLI:
   HORNBURG: 1
 DBIx-Class-DeploymentHandler-VersionStorage-WithSchema:
@@ -22260,6 +22292,10 @@ Dist-Zilla-Plugin-Acme-CPANLists:
   PERLANCAR: 1
 Dist-Zilla-Plugin-Acme-CPANLists-Blacklist:
   PERLANCAR: 1
+Dist-Zilla-Plugin-Acme-CPANModules:
+  PERLANCAR: 1
+Dist-Zilla-Plugin-Acme-CPANModules-Blacklist:
+  PERLANCAR: 1
 Dist-Zilla-Plugin-Acme-MetaSyntactic:
   PERLANCAR: 1
 Dist-Zilla-Plugin-AddFile-FromCode:
@@ -23134,6 +23170,8 @@ Dist-Zilla-PluginBundle-Author-SKIRMESS:
   SKIRMESS: 1
 Dist-Zilla-PluginBundle-Author-STHEBERT:
   STHEBERT: 1
+Dist-Zilla-PluginBundle-Author-TABULO:
+  TABULO: 1
 Dist-Zilla-PluginBundle-Author-VDB:
   VDB: 1
 Dist-Zilla-PluginBundle-Author-WATERKIP:
@@ -30863,8 +30901,6 @@ IDS-Utils:
   INGHAM: 1
 IETF-ACE:
   JBRIGGS: 1
-IHeartRadio-Streams:
-  TURNERJW: 1
 ILL-GS:
   DCHRIS: 1
 IM-Engine:
@@ -36522,8 +36558,6 @@ MSDOS-Descript:
   CJM: 1
 MSIE-MenuExt:
   MIYAGAWA: 1
-MSWord-ToHTML:
-  AMIRI: 1
 MT-Import-Base:
   ASCOPE: 1
 MT-Import-Mbox:
@@ -39172,6 +39206,8 @@ Module-Setup-Plugin-VC-Bazaar:
   TURUGINA: 1
 Module-Signature:
   AUDREYT: 1
+Module-Spec:
+  FERREIRA: 1
 Module-Spy:
   TOKUHIROM: 1
 Module-Start:
@@ -45524,6 +45560,8 @@ PDFREP:
   TWIBBLER: 1
 PDL:
   CHM: 1
+PDL-Algorithm-Center:
+  DJERIUS: 1
 PDL-Apply:
   KMX: 1
 PDL-Audio:
@@ -49418,6 +49456,8 @@ Plack-Middleware-Throttle-Lite-Backend-Memcached:
   CHIM: 1
 Plack-Middleware-Throttle-Lite-Backend-Redis:
   CHIM: 1
+Plack-Middleware-TimeOverHTTP:
+  RRWO: 1
 Plack-Middleware-TimeStats:
   BAYASHI: 1
 Plack-Middleware-Timed-Logger:
@@ -49671,6 +49711,8 @@ Pod-Extract-URI:
   IMALPASS: 1
 Pod-From-Acme-CPANLists:
   PERLANCAR: 1
+Pod-From-Acme-CPANModules:
+  PERLANCAR: 1
 Pod-From-GoogleWiki:
   FAYLAND: 1
 Pod-FromActionscript:
@@ -49893,6 +49935,8 @@ Pod-WSDL:
 Pod-Weaver:
   RJBS: 1
 Pod-Weaver-Plugin-Acme-CPANLists:
+  PERLANCAR: 1
+Pod-Weaver-Plugin-Acme-CPANModules:
   PERLANCAR: 1
 Pod-Weaver-Plugin-App-lcpan:
   PERLANCAR: 1
@@ -52068,6 +52112,10 @@ Remote-Use:
 Renard-Curie:
   ZMUGHAL: 1
 Renard-Incunabula:
+  ZMUGHAL: 1
+Renard-Incunabula-Document:
+  ZMUGHAL: 1
+Renard-Incunabula-Format-Cairo:
   ZMUGHAL: 1
 Renard-Incunabula-Format-PDF:
   ZMUGHAL: 1
@@ -55529,6 +55577,8 @@ Struct-Flatten-Template:
   RRWO: 1
 Struct-Path:
   MIXAS: 1
+Struct-Path-JsonPointer:
+  MIXAS: 1
 Struct-Path-PerlStyle:
   MIXAS: 1
 Struct-WOP:
@@ -56619,6 +56669,10 @@ Task-Catalyst-Tutorial:
   MRAMBERG: 1
 Task-CertHost:
   COSMICNET: 1
+Task-CryptoExchange:
+  PERLANCAR: 1
+Task-CryptoExchange-API:
+  PERLANCAR: 1
 Task-Curses-UI:
   SKIM: 1
 Task-DWIM-Linux:
@@ -57855,6 +57909,8 @@ Test-AutomationFramework:
   YWANGPERL: 1
 Test-BDD-Cucumber:
   SARGIE: 1
+Test-BDD-Cucumber-Definitions:
+  IVANYCH: 1
 Test-BDD-Cucumber-Harness-Html:
   BENNING: 1
 Test-BDD-Cucumber-Harness-Nagios:
@@ -58928,6 +58984,8 @@ Test-Smoke:
   ABELTJE: 1
 Test-Smoke-Database:
   ALIAN: 1
+Test-Snapshot:
+  ETJ: 1
 Test-Snapshots:
   SZABGAB: 1
 Test-Software-License:
@@ -62227,8 +62285,6 @@ TryCatch-Error:
   PFIG: 1
 Tui:
   RFLENS: 1
-Tunein-Streams:
-  TURNERJW: 1
 TurboXSLT:
   GRIBUSER: 1
 Turtle-Writer:
@@ -65231,6 +65287,8 @@ WebService-Beeminder:
   PJF: 1
 WebService-Belkin-WeMo:
   ERICBLUE: 1
+WebService-Binance:
+  RCL: 1
 WebService-BitbucketServer:
   CCM: 1
 WebService-Bitcoin-BTCe:
@@ -65305,10 +65363,14 @@ WebService-CoinSpot:
   DJZORT: 1
 WebService-Coinbase:
   IRONCAMEL: 1
+WebService-Coincheck:
+  BAYASHI: 1
 WebService-Connpass:
   MUGIFLY: 1
 WebService-ConstructorIO:
   DMCC: 1
+WebService-Cryptopia:
+  RCL: 1
 WebService-Cryptsy:
   ZOFFIX: 1
 WebService-DMM:
@@ -65657,7 +65719,7 @@ WebService-Pingboard:
 WebService-Pinterest:
   FERREIRA: 1
 WebService-PivotalTracker:
-  MAXMIND: 1
+  DROLSKY: 1
 WebService-PivotalTracker-Simple:
   TSUCCHI: 1
 WebService-Pixabay:
@@ -66691,6 +66753,8 @@ WordList-ZH-Traditional-BIP39:
   PERLANCAR: 1
 WordLists:
   PERRETTDL: 1
+WordLists-CryptoCurrency-Catalog:
+  PERLANCAR: 1
 WordLists-ID-Common:
   PERLANCAR: 1
 WordNet-BestStem:
@@ -68322,6 +68386,8 @@ again:
   NEILB: 1
 akefile:
   INGY: 1
+alias-module:
+  PERLANCAR: 1
 aliased:
   ETHER: 1
 aliased-factory:
