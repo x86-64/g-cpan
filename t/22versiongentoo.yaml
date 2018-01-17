@@ -2189,10 +2189,6 @@ Acme-Nogizaka46:
 Acme-Nooo:
   - 0.02
 Acme-Note:
-  - 0.4
-  - 0.5
-  - 0.6
-  - 0.7
   - 0.8
 Acme-Nothing:
   - 0.03
@@ -2456,8 +2452,6 @@ Acme-RohlfsC:
   - 0.01
   - 0.02
 Acme-Roman:
-  - 0.0.2
-  - 0.0.2.11
   - 0.0.2.12
 Acme-RunDoc:
   - 0.001
@@ -2892,6 +2886,7 @@ ActiveRecord-Simple:
   - 1.02
   - 1.03
   - 1.04
+  - 1.10
 ActiveResource:
   - 0.01
 Activiti-Rest-Client:
@@ -2957,9 +2952,6 @@ AddressBook:
   - 0.15
   - 0.16
 Ado:
-  - 0.931
-  - 0.932
-  - 0.933
   - 0.935
 Advent-Bundles:
   - 0.01
@@ -3075,6 +3067,7 @@ Algorithm-BitVector:
   - 1.23
   - 1.24
   - 1.25
+  - 1.26
 Algorithm-Bitonic-Sort:
   - 0.06
 Algorithm-BloomFilter:
@@ -3701,7 +3694,6 @@ Alien-Box2D:
 Alien-Build:
   - 1.32
 Alien-Build-Git:
-  - 0.05
   - 0.06
 Alien-Build-MB:
   - 0.05
@@ -3763,7 +3755,6 @@ Alien-GCrypt:
 Alien-GEOS:
   - 0.01
 Alien-GMP:
-  - 1.05
   - 1.07
 Alien-GPG-Error:
   - 1.17.0
@@ -3917,7 +3908,6 @@ Alien-Librdkafka:
   - 0.9.3
   - 0.9.5
 Alien-Libxml2:
-  - 0.02
   - 0.03
 Alien-Lightbox:
   - 2.03.3.3
@@ -4171,6 +4161,7 @@ Alien-libuv:
   - 0.012
   - 0.013
   - 0.014
+  - 0.015
 Alien-libvas:
   - 0.213
 Alien-m4:
@@ -4187,7 +4178,6 @@ Alien-pdf2json:
   - 0.001
   - 0.002
 Alien-pkgconf:
-  - 0.10
   - 0.11
 Alien-qd:
   - 0.01
@@ -4212,7 +4202,6 @@ Alien-wxWidgets:
   - 0.68
   - 0.69
 Alien-xz:
-  - 0.06
   - 0.07
 Alien-zlib-Static:
   - 1.000000
@@ -5647,7 +5636,6 @@ AnyEvent-WebService-Notifo:
 AnyEvent-WebService-Tracks:
   - 0.02
 AnyEvent-WebSocket-Client:
-  - 0.43
   - 0.44
 AnyEvent-WebSocket-Server:
   - 0.01
@@ -7778,7 +7766,6 @@ App-Countdown:
   - 0.4.3
   - 0.4.4
 App-CreateAcmeCPANListsImportModules:
-  - 0.07
   - 0.080
 App-CreateRandomFile:
   - 0.02
@@ -7804,11 +7791,9 @@ App-D:
   - 1.3.1
   - 1.3.2
 App-DBBrowser:
-  - 1.051
-  - 1.052
-  - 1.053
   - 1.054
   - 1.055
+  - 1.056
 App-DBCritic:
   - 0.020
 App-DBI-Loader:
@@ -8728,6 +8713,7 @@ App-Github-Email:
   - 0.0.7
   - 0.1.0
   - 0.1.1
+  - 0.2.0
 App-GoogleSearchPerlIRCLogs:
   - 0.02
 App-GoogleSearchPerlmonksUser:
@@ -9542,6 +9528,8 @@ App-Netdisco:
   - 2.038006
   - 2.038007
   - 2.038008
+  - 2.038009
+  - 2.038028
 App-NetdiscoX-Web-Plugin-GraphLink: []
 App-NetdiscoX-Web-Plugin-GraphLinkSwitch:
   - 0.1
@@ -9766,6 +9754,7 @@ App-PAUSE-cleanup:
   - 0.0012
 App-PDF-Link:
   - 0.19
+  - 0.20
 App-PDFUtils:
   - 0.002
 App-PDRUtils:
@@ -9903,7 +9892,6 @@ App-PayPalUtils:
 App-PericmdUtils:
   - 0.04
 App-PerinciUtils:
-  - 0.110
   - 0.111
 App-PerlCalc:
   - 1.2.0
@@ -10346,6 +10334,7 @@ App-SVN-Bisect:
   - 1.1
 App-SahUtils:
   - 0.45
+  - 0.460
 App-Sass:
   - 0.001
 App-Scaffolder:
@@ -10731,6 +10720,8 @@ App-TinyID:
   - 0.0.1
   - 0.1.0
   - 0.1.1
+  - 1.0.0
+  - 1.1.0
 App-Todo:
   - 0.93
   - 0.94
@@ -11044,12 +11035,6 @@ App-bovespa:
 App-breakout:
   - 0.04
 App-btcindo:
-  - 0.011
-  - 0.012
-  - 0.013
-  - 0.014
-  - 0.015
-  - 0.016
   - 0.017
 App-calendr:
   - 0.13
@@ -11125,6 +11110,7 @@ App-cpanm-meta-checker:
   - 0.001002
 App-cpanm-perlancar:
   - 0.001
+  - 0.002
 App-cpanm-script:
   - 0.002
 App-cpanm-shcompgen:
@@ -11389,6 +11375,8 @@ App-cpm:
   - 0.953
   - 0.954
   - 0.955
+  - 0.956
+  - 0.957
 App-csv2sqlite:
   - 0.002
   - 0.003
@@ -11561,6 +11549,7 @@ App-gitwrap:
   - 0.006
 App-grepdate:
   - 0.001
+  - 0.002
 App-grindperl:
   - 0.002
   - 0.003
@@ -11610,6 +11599,7 @@ App-jt:
   - 0.43
 App-lcpan:
   - 1.019
+  - 1.020
 App-lcpan-Call:
   - 0.11
 App-lcpan-CmdBundle-bencher:
@@ -12249,8 +12239,6 @@ App-whichpm:
 App-wmiirc:
   - 1.000
 App-wordlist:
-  - 0.261
-  - 0.262
   - 0.263
 App-wp-xmlrpc:
   - 0.003
@@ -12870,6 +12858,7 @@ Articulate:
   - 0.005
 Artifactory-Client:
   - 1.5.1
+  - 1.5.2
 AsciiDB-TagFile:
   - 1.06
 Ask:
@@ -13212,6 +13201,7 @@ Astro-SpaceTrack:
   - 0.100
   - 0.101
   - 0.102
+  - 0.103
 Astro-SunTime:
   - 0.05
   - 0.06
@@ -13260,6 +13250,7 @@ Astro-satpass:
   - 0.085
   - 0.086
   - 0.087
+  - 0.088
 Astroboy:
   - 1.06
 Async-Blackboard:
@@ -16205,8 +16196,9 @@ Bio-Regexp:
 Bio-RetrieveAssemblies:
   - 1.1.5
 Bio-Roary:
-  - 3.10.2
-  - 3.11.0
+  - 3.11.1
+  - 3.11.2
+  - 3.11.3
 Bio-SAGE-Comparison:
   - 1.00
 Bio-SAGE-DataProcessing:
@@ -16321,7 +16313,6 @@ Bio-Trace-ABIF:
   - 1.05
   - 1.06
 Bio-Tradis:
-  - 1.3.2
   - 1.3.3
   - 1.4.0
 Bio-Translator:
@@ -16399,6 +16390,7 @@ BioX-Map:
 BioX-Seq:
   - 0.006001
   - 0.006004
+  - 0.006005
 BioX-SeqUtils-Promoter:
   - 0.01
   - 0.0.2
@@ -16455,6 +16447,7 @@ BioX-Workflow-Command:
   - 2.2.3
   - 2.3.0
   - 2.3.1
+  - 2.3.2
 BioX-Workflow-Plugin-Drake:
   - 0.10
   - 0.11
@@ -16834,6 +16827,7 @@ Bot-BasicBot-Pluggable-Module-Nagios:
   - 0.02
   - 0.03
   - 0.04
+  - 0.05
 Bot-BasicBot-Pluggable-Module-Network:
   - 0.8
   - 0.9
@@ -16921,6 +16915,9 @@ Bot-ChatBots-Minion:
 Bot-ChatBots-Telegram:
   - 0.004
   - 0.006
+  - 0.008
+  - 0.009
+  - 0.010
 Bot-Cobalt:
   - 0.017007
   - 0.017008
@@ -18590,7 +18587,6 @@ Business-Tax-Canada:
   - 0.03
   - 0.04
 Business-Tax-ID-PPH21:
-  - 0.05
   - 0.060
 Business-Tax-VAT:
   - 1.09
@@ -21201,7 +21197,6 @@ CPAN-Reporter-Smoker:
   - 0.28
   - 0.29
 CPAN-Reporter-Smoker-OpenBSD:
-  - 0.009
   - 0.010
   - 0.011
 CPAN-Reporter-Smoker-Safer:
@@ -21241,6 +21236,7 @@ CPAN-Search-Tester:
   - 0.04
 CPAN-Site:
   - 1.14
+  - 1.15
 CPAN-Source:
   - 0.01
   - 0.02
@@ -21341,8 +21337,11 @@ CPAN-Testers:
   - 0.07
 CPAN-Testers-API:
   - 0.021
+  - 0.022
+  - 0.023
 CPAN-Testers-Backend:
   - 0.003
+  - 0.004
 CPAN-Testers-Common-Article:
   - 0.45
   - 0.46
@@ -21662,6 +21661,7 @@ CPP-panda-lib:
   - 1.0.3
   - 1.0.4
   - 1.0.5
+  - 1.0.6
 CPS:
   - 0.16
   - 0.17
@@ -21827,6 +21827,7 @@ CSS-Sass:
   - 3.4.7
   - 3.4.8
   - 3.4.9
+  - 3.4.10
 CSS-Scopifier:
   - 0.01
   - 0.02
@@ -22268,7 +22269,6 @@ Calendar-Hijri:
   - 0.32
   - 0.33
 Calendar-Indonesia-Holiday:
-  - 0.31
   - 0.320
 Calendar-Japanese-Acme-Syukujitsu:
   - 0.01
@@ -22421,6 +22421,9 @@ CallBackery:
   - 0.11.0
   - 0.11.1
   - 0.11.2
+  - 0.12.0
+  - 0.12.1
+  - 0.12.2
 CallGraph:
   - 0.50
   - 0.55
@@ -22521,10 +22524,6 @@ Caroline:
 Carp:
   - 1.38
 Carp-Always:
-  - 0.09
-  - 0.10
-  - 0.11
-  - 0.12
   - 0.13
 Carp-Always-Color:
   - 0.06
@@ -23735,6 +23734,7 @@ Catalyst-Plugin-ConfigLoader-Multi:
   - 0.06
 Catalyst-Plugin-ConfigLoader-MultiState:
   - 0.08
+  - 0.1
 Catalyst-Plugin-ConfigLoader-Remote:
   - 0.01
   - 0.02
@@ -25100,6 +25100,7 @@ CatalystX-I18N:
   - 1.11
   - 1.12
   - 1.13
+  - 1.14
 CatalystX-Imports:
   - 0.01
   - 0.02
@@ -27738,11 +27739,8 @@ Class-LazyLoad:
 Class-LazyObject:
   - 0.10
 Class-Lego:
-  - 0.001
-  - 0.003
   - 0.004
 Class-Lego-Constructor:
-  - 0.003
   - 0.004
 Class-Light:
   - 0.0100
@@ -28820,7 +28818,6 @@ Complete-Dist-Zilla:
 Complete-Dpkg:
   - 0.02
 Complete-Env:
-  - 0.39
   - 0.400
 Complete-FS:
   - 0.02
@@ -28873,7 +28870,6 @@ Complete-Tcsh:
 Complete-Unix:
   - 0.07
 Complete-Util:
-  - 0.59
   - 0.600
 Complete-Zsh:
   - 0.03
@@ -30028,6 +30024,8 @@ Const-Common-Generator:
   - 0.01
 Const-Exporter:
   - 0.2.4
+  - 0.3.0
+  - 0.3.1
 Const-Fast:
   - 0.005
   - 0.006
@@ -30262,6 +30260,7 @@ Convert-EBCDIC:
   - 0.06
 Convert-EDS-XDD:
   - 0.008
+  - 0.009
 Convert-EastAsianWidth:
   - 0.10
   - 1.00
@@ -31433,6 +31432,8 @@ Crypt-SMIME:
   - 0.17
   - 0.18
   - 0.19
+  - 0.20
+  - 0.21
 Crypt-SMimeEngine:
   - 0.01
   - 0.03
@@ -37529,6 +37530,7 @@ Data-Edit:
 Data-Edit-Xml:
   - 20170901
   - 20180101
+  - 20180114
 Data-Edit-Xml-Lint:
   - 20170802
 Data-Edit-Xml-SDL:
@@ -39798,6 +39800,7 @@ Datahub-Factory-VKC:
 Date-Advent:
   - 1.20161221
   - 1.20161222
+  - 1.20171223
 Date-Baha-i:
   - 0.1903
 Date-Bahai-Simple:
@@ -40113,6 +40116,8 @@ Date-Japanese-Holiday:
 Date-Julian-Simple:
   - 0.01
   - 0.02
+  - 0.03
+  - 0.04
 Date-Korean:
   - 0.0.1
   - 0.0.2
@@ -40121,14 +40126,13 @@ Date-LastModified:
 Date-Leapyear:
   - 1.72
 Date-Lectionary:
-  - 1.20161227
   - 1.20170809
   - 1.20180108
   - 1.20180109
 Date-Lectionary-Daily:
-  - 1.20170703
   - 1.20170809
   - 1.20171127
+  - 1.20180114
 Date-Lectionary-Time:
   - 1.20161222
   - 1.20170311
@@ -41367,6 +41371,7 @@ Devel-Cover-Report-Codecov:
   - 0.19
   - 0.20
   - 0.21
+  - 0.22
 Devel-Cover-Report-Coveralls:
   - 0.01
   - 0.02
@@ -43803,7 +43808,6 @@ Dist-Zilla-Plugin-Author-KENTNL-TravisCI:
   - 0.001002
   - 0.001004
 Dist-Zilla-Plugin-Author-Plicease:
-  - 2.24
   - 2.25
 Dist-Zilla-Plugin-AuthorSignatureTest:
   - 0.01
@@ -44588,6 +44592,7 @@ Dist-Zilla-Plugin-Prereqs-AuthorDeps:
   - 0.006
 Dist-Zilla-Plugin-Prereqs-CheckCircular:
   - 0.005
+  - 0.006
 Dist-Zilla-Plugin-Prereqs-DarkPAN:
   - 0.2.2
   - 0.2.3
@@ -44760,6 +44765,8 @@ Dist-Zilla-Plugin-SVK:
   - 0.10
 Dist-Zilla-Plugin-Sah-Schemas:
   - 0.008
+  - 0.009
+  - 0.010
 Dist-Zilla-Plugin-SanityTests:
   - 0.01
   - 0.02
@@ -45109,8 +45116,6 @@ Dist-Zilla-Plugin-Web:
   - 0.0.9
   - 0.0.10
 Dist-Zilla-Plugin-WordList:
-  - 0.04
-  - 0.050
   - 0.051
 Dist-Zilla-Plugin-if:
   - 0.001000
@@ -45292,6 +45297,7 @@ Dist-Zilla-PluginBundle-Author-ETHER:
   - 0.130
   - 0.131
   - 0.132
+  - 0.133
 Dist-Zilla-PluginBundle-Author-GABRIEL:
   - 0.01
 Dist-Zilla-PluginBundle-Author-GETTY:
@@ -45430,8 +45436,8 @@ Dist-Zilla-PluginBundle-Author-OpusVL:
   - 0.013
 Dist-Zilla-PluginBundle-Author-PERLANCAR:
   - 0.590
+  - 0.591
 Dist-Zilla-PluginBundle-Author-Plicease:
-  - 2.24
   - 2.25
 Dist-Zilla-PluginBundle-Author-RAYM:
   - 0.001
@@ -45639,6 +45645,7 @@ Dist-Zilla-PluginBundle-Git-VersionManager:
   - 0.002
   - 0.003
   - 0.004
+  - 0.005
 Dist-Zilla-PluginBundle-HARTZELL:
   - 0.004
   - 0.005
@@ -49335,6 +49342,7 @@ File-Copy-NoClobber:
   - 0.2.3
 File-Copy-Recursive:
   - 0.39
+  - 0.40
 File-Copy-Recursive-Verify:
   - 0.1.0
 File-Copy-Reliable:
@@ -51096,7 +51104,6 @@ Finance-Amortization:
   - 0.4
   - 0.5
 Finance-BTCIndo:
-  - 0.006
   - 0.007
 Finance-Bank-ABSA:
   - 0.02
@@ -51403,6 +51410,7 @@ Finance-GDAX-API:
   - 0.05
   - 0.06
   - 0.07
+  - 0.08
 Finance-Google-Portfolio:
   - 1.03
 Finance-Google-Sector-Mean:
@@ -51947,6 +51955,7 @@ Footprintless-Plugin-Database:
   - 1.01
   - 1.02
   - 1.03
+  - 1.04
 Footprintless-Plugin-Ldap:
   - 1.00
 For-Else:
@@ -52576,10 +52585,10 @@ Future:
   - 0.37
   - 0.38
 Future-AsyncAwait:
-  - 0.08
   - 0.09
   - 0.10
   - 0.11
+  - 0.12
 Future-HTTP:
   - 0.04
   - 0.05
@@ -55189,7 +55198,6 @@ Getopt-Long-CGI:
   - 0.01
   - 0.02
 Getopt-Long-Complete:
-  - 0.30
   - 0.310
 Getopt-Long-Descriptive:
   - 0.098
@@ -55660,6 +55668,7 @@ GitHub-Crud:
   - 20171227
   - 20171228
   - 20171229
+  - 20180113
 GitHub-Extract:
   - 0.01
   - 0.02
@@ -56616,6 +56625,7 @@ Group-Git-Cmd-SinceRelease:
 Group-Git-Cmd-Stats:
   - 0.0.1
   - 0.0.2
+  - 0.0.3
 Group-Git-Cmd-Todo:
   - 0.0.1
   - 0.0.3
@@ -57205,6 +57215,7 @@ HPC-Runner-Command:
   - 3.2.9
   - 3.2.10
   - 3.2.11
+  - 3.2.12
 HPC-Runner-Command-Plugin-Logger-Sqlite:
   - 0.01
   - 0.0.3
@@ -58240,7 +58251,6 @@ HTML-Lint:
   - 2.22
   - 2.24
   - 2.26
-  - 2.28
   - 2.30
 HTML-Lint-Pluggable:
   - 0.01
@@ -63593,6 +63603,7 @@ Imgur-API:
   - 0.1.3
 Import-Base:
   - 1.003
+  - 1.004
 Import-Box:
   - 0.001
 Import-Export:
@@ -64222,6 +64233,8 @@ JMAP-Tester:
   - 0.013
   - 0.014
   - 0.015
+  - 0.016
+  - 0.017
 JMAP-Validation:
   - 0.003
   - 0.004
@@ -71935,6 +71948,7 @@ MYDan:
   - 0.1.25
   - 0.1.26
   - 0.1.28
+  - 0.1.30
 Mac-Alias-Parse:
   - 0.10
   - 0.11
@@ -72312,6 +72326,8 @@ Mail-DKIM:
   - 0.43
   - 0.44
   - 0.50
+  - 0.51
+  - 0.52
 Mail-DKIM-Iterator:
   - 0.010
   - 0.011
@@ -73074,6 +73090,7 @@ Map-Tube:
   - 3.41
   - 3.42
   - 3.43
+  - 3.44
 Map-Tube-Barcelona:
   - 0.01
   - 0.02
@@ -74576,6 +74593,7 @@ Math-MPC:
   - 1.04
   - 1.05
   - 1.07
+  - 1.08
 Math-MPFI:
   - 0.06
   - 0.07
@@ -75875,6 +75893,7 @@ Metabrik:
   - 1.25
   - 1.26
   - 1.27
+  - 1.30
 Metabrik-Repository:
   - 1.00
   - 1.04
@@ -75888,6 +75907,7 @@ Metabrik-Repository:
   - 1.25
   - 1.26
   - 1.27
+  - 1.30
 Metacode-Reader:
   - 0.01
 Metadata:
@@ -76201,6 +76221,7 @@ Minion-Backend-Storable:
   - 7.012
 Minion-Backend-mysql:
   - 0.11
+  - 0.12
 Minion-Command-minion-jobx:
   - 0.01
   - 0.02
@@ -77186,6 +77207,7 @@ Module-Load-DiffINC:
   - 0.001
 Module-Load-In-INIT:
   - 0.003
+  - 0.004
 Module-Loadable:
   - 0.001
 Module-Loaded:
@@ -78021,6 +78043,7 @@ Mojo-Webqq:
   - 2.1.3
   - 2.1.4
   - 2.1.5
+  - 2.1.6
 Mojo-Weixin:
   - 1.2.5
   - 1.2.6
@@ -78319,6 +78342,7 @@ MojoX-Validator:
 Mojolicious:
   - 7.59
   - 7.60
+  - 7.61
 Mojolicious-Che:
   - 0.024
   - 0.031
@@ -82514,6 +82538,7 @@ MySQL-Workbench-Parser:
   - 0.06
 MySQL-Workbench-SQLiteSimple:
   - 0.02
+  - 0.03
 MySQL-mycrud:
   - 0.02
   - 0.03
@@ -82952,6 +82977,7 @@ Net-ACME:
   - 0.094
   - 0.1
   - 0.11
+  - 0.12
 Net-ADNS:
   - 0.03
 Net-AIM:
@@ -87364,6 +87390,7 @@ Net-SSLeay:
   - 1.80
   - 1.81
   - 1.82
+  - 1.83
 Net-SSLeay-OO:
   - 0.02
 Net-STF-Client:
@@ -89047,9 +89074,6 @@ NoSQL-PL2SQL-Simple:
 NoZone:
   - 1.0
 Nodejs-Util:
-  - 0.006
-  - 0.007
-  - 0.008
   - 0.009
 Noid:
   - 0.422
@@ -91289,6 +91313,7 @@ PDL-RungeKutta:
   - 0.01
 PDL-SVDLIBC:
   - 0.18
+  - 0.19
 PDL-SVDSLEPc:
   - 0.004
 PDL-Stats:
@@ -92714,8 +92739,7 @@ POE-Filter-Redis:
 POE-Filter-Regexp:
   - 1.0
 POE-Filter-SSL:
-  - 0.37
-  - 0.38
+  - 0.39
 POE-Filter-SimpleHTTP:
   - 0.01
   - 0.091700
@@ -93656,6 +93680,7 @@ Panda-Export:
   - 2.2.2
   - 2.2.4
   - 2.2.5
+  - 2.2.6
 Panda-Install:
   - 0.2.1
   - 0.2.2
@@ -93690,6 +93715,8 @@ Panda-Lib:
   - 1.3.1
   - 1.3.2
   - 1.3.3
+  - 1.3.4
+  - 1.3.5
 Panda-NSS:
   - 0.001
   - 0.002
@@ -93746,6 +93773,8 @@ Panda-XS:
   - 2.1.5
   - 2.1.6
   - 2.1.7
+  - 2.1.8
+  - 2.1.9
 Pandoc:
   - 0.1.0
   - 0.2.0
@@ -93936,6 +93965,7 @@ Parallel-Pipes:
   - 0.001
   - 0.002
   - 0.003
+  - 0.004
 Parallel-PreForkManager:
   - 1.20170415
   - 1.20170417
@@ -95303,7 +95333,6 @@ Perinci-Access-Base:
 Perinci-Access-HTTP-Client:
   - 0.24
 Perinci-Access-HTTP-Server:
-  - 0.61
   - 0.620
 Perinci-Access-Lite:
   - 0.14
@@ -95342,7 +95371,6 @@ Perinci-CmdLine-Help:
 Perinci-CmdLine-Inline:
   - 0.541
 Perinci-CmdLine-Lite:
-  - 1.80
   - 1.810
 Perinci-CmdLine-NonOO:
   - 0.02
@@ -95379,7 +95407,6 @@ Perinci-Examples-ResMeta-Table:
 Perinci-Exporter:
   - 0.07
 Perinci-Gen-ForModule:
-  - 0.10
   - 0.110
 Perinci-Import:
   - 0.03
@@ -95388,7 +95415,6 @@ Perinci-Object:
 Perinci-Result-Format:
   - 0.45
 Perinci-Result-Format-Lite:
-  - 0.26
   - 0.270
 Perinci-Result-Util:
   - 0.03
@@ -95499,7 +95525,6 @@ Perinci-Sub-Wrapper-Patch-HandlePHPArray:
 Perinci-Sub-XCompletion:
   - 0.09
 Perinci-To-Doc:
-  - 0.861
   - 0.862
 Perinci-To-HTML:
   - 0.05
@@ -96997,11 +97022,9 @@ Pithub:
 PixieLdap:
   - 0.01
 PkgConfig:
-  - 0.17026
   - 0.18026
   - 0.19026
 PkgConfig-LibPkgConf:
-  - 0.07
   - 0.08
 PkgForge:
   - 1.4.8
@@ -100549,6 +100572,7 @@ Protocol-WebSocket:
   - 0.21
   - 0.22
   - 0.23
+  - 0.24
 Protocol-XMLRPC:
   - 0.10
 Protocol-XMPP:
@@ -101218,6 +101242,7 @@ RDF-LinkedData:
   - 0.74
   - 0.76
   - 1.02
+  - 1.92
 RDF-NLP-SPARQLQuery:
   - 0.1
 RDF-NS:
@@ -103179,6 +103204,8 @@ Regexp-Parser:
   - 0.22
 Regexp-Parsertron:
   - 0.51
+  - 0.80
+  - 0.81
 Regexp-Pattern:
   - 0.1.4
 Regexp-Pattern-CPAN:
@@ -103720,7 +103747,6 @@ Rinchi-Outlook:
 Rinchi-XMLSchema:
   - 0.02
 Rinci:
-  - 1.1.85
   - 1.1.86
 RingBuffer:
   - 0.01
@@ -105176,6 +105202,7 @@ SQL-Abstract-Limit:
 SQL-Abstract-More:
   - 1.31
   - 1.32
+  - 1.33
 SQL-Abstract-Plugin-InsertMulti:
   - 0.03
   - 0.04
@@ -106125,17 +106152,22 @@ Sah-Schemas-Int:
   - 0.070
 Sah-Schemas-Net:
   - 0.001
+  - 0.002
 Sah-Schemas-Path:
   - 0.003
+  - 0.004
 Sah-Schemas-Perl:
   - 0.009
+  - 0.010
 Sah-Schemas-Riap:
   - 0.001
   - 1.2.4.1
+  - 1.2.4.2
 Sah-Schemas-Rinci:
   - 1.1.80.1
   - 1.1.82.1
   - 1.1.82.2
+  - 1.1.82.3
 Sah-Schemas-Sah:
   - 0.9.43.1
 Sah-Schemas-Twitter:
@@ -107381,7 +107413,6 @@ Shell-EnvImporter:
 Shell-GetEnv:
   - 0.10
 Shell-Guess:
-  - 0.07
   - 0.08
 Shell-POSIX-Select:
   - 0.06
@@ -108104,10 +108135,9 @@ Socialtext-Wikrad:
 SockJS:
   - 0.01
 Socket:
-  - 2.022
-  - 2.023
-  - 2.024
   - 2.025
+  - 2.026
+  - 2.027
 Socket-AcceptFilter:
   - 0.03
 Socket-Class:
@@ -108405,6 +108435,7 @@ Sort-SQL:
   - 0.08
 Sort-Sub:
   - 0.10
+  - 0.110
 Sort-Sub-by_date_in_text:
   - 0.008
 Sort-TSort:
@@ -110200,6 +110231,7 @@ Struct-Path:
   - 0.73
   - 0.74
   - 0.80
+  - 0.81
 Struct-Path-PerlStyle:
   - 0.63
   - 0.64
@@ -112011,6 +112043,7 @@ Task-BeLike-ZAKAME:
   - 0.10
   - 0.11
   - 0.12
+  - 0.13
 Task-BeLike-hanekomu:
   - 1.103620
 Task-BenchmarkAnything:
@@ -113896,9 +113929,9 @@ Term-Choose:
   - 1.508
   - 1.509
 Term-Choose-Util:
-  - 0.050
   - 0.051
   - 0.052
+  - 0.053
 Term-Choose_HAE:
   - 0.050
   - 0.051
@@ -114163,8 +114196,6 @@ Term-ReadLine-Perl5:
   - 1.43
   - 1.44
   - 1.45
-Term-ReadLine-Simple:
-  - 0.309
 Term-ReadLine-TTYtter:
   - 1.0
   - 1.1
@@ -114211,6 +114242,7 @@ Term-Screen-Lite:
   - 0.03
   - 0.04
   - 0.05
+  - 0.06
 Term-Screen-ReadLine:
   - 0.35
   - 0.36
@@ -114306,9 +114338,10 @@ Term-TUI:
 Term-Table:
   - 0.012
 Term-TablePrint:
-  - 0.054
-  - 0.055
-  - 0.056
+  - 0.057
+  - 0.058
+  - 0.059
+  - 0.060
 Term-TermKey:
   - 0.14
   - 0.15
@@ -116089,6 +116122,8 @@ Test-Mockify:
   - 0.10.2
   - 0.10.3
   - 1.0
+  - 1.1
+  - 1.2
 Test-Modern:
   - 0.011
   - 0.012
@@ -116726,6 +116761,7 @@ Test-Run-Plugin-TrimDisplayedFilenames:
 Test-RunValgrind:
   - 0.0.1
   - 0.0.2
+  - 0.0.3
 Test-SFTP:
   - 1.10
 Test-SMTP:
@@ -117553,6 +117589,7 @@ Text-API-Blueprint:
 Text-APL:
   - 0.06
   - 0.07
+  - 0.08
 Text-ASCIIMathML:
   - 0.81
 Text-ASCIIPipe:
@@ -119725,6 +119762,8 @@ Text-Yats:
   - 0.03
 Text-Yeti-Table:
   - 0.1.0
+  - 0.2.0
+  - 0.3.0
 Text-ZPL:
   - 0.001002
   - 0.001003
@@ -121215,6 +121254,7 @@ Time-HiRes:
   - 1.9750
   - 1.9751
   - 1.9752
+  - 1.9753
 Time-HiRes-Sleep-Until:
   - 0.07
 Time-HiRes-Value:
@@ -121356,6 +121396,7 @@ Time-OlsonTZ-Data:
   - 0.201407
   - 0.201702
   - 0.201703
+  - 0.201801
 Time-OlsonTZ-Download:
   - 0.000
   - 0.001
@@ -121510,6 +121551,8 @@ Time-TAI-Simple:
   - 1.09
   - 1.10
   - 1.11
+  - 1.12
+  - 1.13
 Time-TAI64:
   - 2.06
   - 2.07
@@ -123782,16 +123825,7 @@ Ubuntu-Releases:
 Ucam-Term:
   - 3.00
 Udev-FFI:
-  - 0.098000
-  - 0.098003
-  - 0.098004
-  - 0.098005
-  - 0.099000
-  - 0.099001
-  - 0.099002
-  - 0.099004
-  - 0.099005
-  - 0.099006
+  - 0.100000
 Ufal-MorphoDiTa:
   - 1.3.0.1
   - 1.9.2.1
@@ -126250,6 +126284,7 @@ WWW-Google-CustomSearch:
   - 0.33
   - 0.34
   - 0.35
+  - 0.36
 WWW-Google-DistanceMatrix:
   - 0.01
   - 0.02
@@ -126356,6 +126391,7 @@ WWW-Google-Places:
   - 0.30
   - 0.31
   - 0.32
+  - 0.33
 WWW-Google-Time:
   - 1.001005
 WWW-Google-Translate:
@@ -128312,6 +128348,7 @@ WWW-xkcd:
   - 0.005
   - 0.006
   - 0.007
+  - 0.008
 Waft:
   - 0.52
   - 0.9905
@@ -129096,6 +129133,7 @@ WebService-Braintree:
   - 0.92
   - 0.93
   - 0.94
+  - 1.0
 WebService-Browshot:
   - 1.2.1
   - 1.2.2
@@ -129478,6 +129516,8 @@ WebService-Gitter:
   - 1.1.0
   - 1.1.1
   - 1.1.2
+  - 2.0.0
+  - 2.1.0
 WebService-GlucoseBuddy:
   - 1.113400
   - 1.113420
@@ -130072,6 +130112,7 @@ WebService-Pixabay:
   - 2.0.2
   - 2.1.0
   - 2.1.1
+  - 2.2.0
 WebService-PlayaEvents:
   - 0.1
 WebService-Plotly:
@@ -131801,7 +131842,6 @@ Word2vec-Interface:
   - 0.036
   - 0.037
 WordList:
-  - 0.1.1
   - 0.1.2
 WordList-BEW-Betawi:
   - 0.001
@@ -131818,7 +131858,6 @@ WordList-FR-ODS3-7To8:
 WordList-FR-WiktionaryES:
   - 0.01
 WordList-ID-KBBI:
-  - 0.03
   - 0.04
 WordList-MetaSyntactic:
   - 0.002
@@ -132106,6 +132145,7 @@ X-Tiny:
   - 0.02
   - 0.1
   - 0.11
+  - 0.12
 X10:
   - 0.04
 X10-Home:
@@ -132452,6 +132492,11 @@ XML-Canonical:
   - 0.10
 XML-CanonicalizeXML:
   - 0.03
+  - 0.06
+  - 0.07
+  - 0.08
+  - 0.09
+  - 0.10
 XML-Catalog:
   - 1.03
 XML-Catalogs:
@@ -134123,6 +134168,7 @@ XS-TCC:
   - 0.05
 XS-Tutorial:
   - 0.01
+  - 0.02
 XS-Writer:
   - 0.01
   - 0.02
@@ -134584,8 +134630,6 @@ Yandex-Tools:
 Yandex-Translate:
   - 1.002
 Yars:
-  - 1.31
-  - 1.32
   - 1.33
 Yars-Command-yars_exercise:
   - 0.07
@@ -135012,9 +135056,11 @@ Zonemaster:
 Zonemaster-CLI:
   - 1.0.5
   - 1.1.1
+  - 1.1.2
 Zonemaster-GUI:
   - 1.0.7-B
   - 1.0.8
+  - 1.0.9
 Zonemaster-WebBackend:
   - 1.0.7-A
   - 1.1.0
@@ -136270,6 +136316,8 @@ mRuby:
   - 0.10
   - 0.11
   - 0.12
+  - 0.13
+  - 0.14
 macro:
   - 0.06
 makepp:
@@ -137259,7 +137307,6 @@ sofu-config:
 sol-inst:
   - 0.90a
 spamcupNG:
-  - 0.5
   - 0.6
   - 0.7
 speech_pm:

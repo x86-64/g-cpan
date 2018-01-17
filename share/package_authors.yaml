@@ -4750,10 +4750,6 @@ App-GenPericmdScript:
   PERLANCAR: 1
 App-Genpass:
   XSAWYERX: 1
-App-Genpass-ID:
-  PERLANCAR: 1
-App-Genpass-WordList:
-  PERLANCAR: 1
 App-GetClosestFile:
   RORYRJB: 1
 App-Getconf:
@@ -4861,6 +4857,8 @@ App-Github-Email:
 App-GoogleSearchPerlIRCLogs:
   PERLANCAR: 1
 App-GoogleSearchPerlmonksUser:
+  PERLANCAR: 1
+App-GoogleSearchUtils:
   PERLANCAR: 1
 App-Goto:
   ONEONETWO: 1
@@ -6115,6 +6113,10 @@ App-genconf:
 App-genlines:
   PERLANCAR: 1
 App-genpw:
+  PERLANCAR: 1
+App-genpw-base56:
+  PERLANCAR: 1
+App-genpw-base58:
   PERLANCAR: 1
 App-genpw-id:
   PERLANCAR: 1
@@ -8624,6 +8626,8 @@ Bio-MCPrimers:
   SLENK: 1
 Bio-MLST-Check:
   AJPAGE: 1
+Bio-MUST-Apps-TwoScalp:
+  DBAURAIN: 1
 Bio-MUST-Core:
   DBAURAIN: 1
 Bio-MUST-Drivers:
@@ -11610,6 +11614,8 @@ CPANXR:
   CLAESJAC: 1
 CPM:
   PECO: 1
+CPP-catch-test:
+  SYBER: 1
 CPP-panda-lib:
   SYBER: 1
 CPS:
@@ -16460,6 +16466,8 @@ Crypt-Smithy:
   AFF: 1
 Crypt-Sodium:
   MGREGORO: 1
+Crypt-Sodium-Nitrate:
+  HUGMEIR: 1
 Crypt-Solitaire:
   SIFUKURT: 1
 Crypt-Spritz:
@@ -19155,6 +19163,8 @@ Data-Format-Pretty-JSON:
   PERLANCAR: 1
 Data-Format-Pretty-PHPSerialization:
   SHARYANTO: 1
+Data-Format-Pretty-Perl:
+  PERLANCAR: 1
 Data-Format-Pretty-Ruby:
   PERLANCAR: 1
 Data-Format-Pretty-YAML:
@@ -19500,6 +19510,8 @@ Data-Password-Simple:
   ABABLABAB: 1
 Data-Password-passwdqc:
   SHERWIN: 1
+Data-Password-zxcvbn:
+  DAKKAR: 1
 Data-PathSimple:
   ALFIE: 1
 Data-PatternCompare:
@@ -21272,6 +21284,8 @@ Devel-Modlist:
   RJRAY: 1
 Devel-Module-Trace:
   NIERLEIN: 1
+Devel-ModuleBreaker:
+  MOB: 1
 Devel-ModuleDumper:
   BAYASHI: 1
 Devel-Monitor:
@@ -26281,6 +26295,8 @@ Fir:
   LBROCARD: 1
 Firebase:
   RIZEN: 1
+Firefox-Marionette:
+  DDICK: 1
 Firefox-Sync-Client:
   SCHRORG: 1
 FirstGoodURL:
@@ -28504,6 +28520,8 @@ Graph-Easy-Weighted:
   GENE: 1
 Graph-Fast:
   PENMA: 1
+Graph-Feather:
+  BJOERN: 1
 Graph-Flowchart:
   TELS: 1
 Graph-GML:
@@ -37321,6 +37339,8 @@ MarpaX-Languages-M4:
   JDDPAUSE: 1
 MarpaX-Languages-Perl-PackUnpack:
   RSAVAGE: 1
+MarpaX-Languages-PowerBuilder:
+  SEBKIRCHE: 1
 MarpaX-Languages-SQL2003-AST:
   JDDPAUSE: 1
 MarpaX-Languages-SVG-Parser:
@@ -39634,6 +39654,8 @@ Mojolicious-Command-generate-lexicont:
   DOKECHIN: 1
 Mojolicious-Command-generate-qx_mojo_app:
   OETIKER: 1
+Mojolicious-Command-generate-resources:
+  BEROV: 1
 Mojolicious-Command-generate-routes_restsful:
   BYTEROCK: 1
 Mojolicious-Command-generate-routes_restsful_just_routes:
@@ -41700,7 +41722,7 @@ Nagios-Plugins-Memcached:
 Nagios-Report:
   HOPCROFTS: 1
 Nagios-Scrape:
-  JTOPJIAN: 1
+  BIGPRESH: 1
 Nagios-Status-Host:
   RCROWDER: 1
 Nagios-Status-HostStatus:
@@ -41778,6 +41800,8 @@ Net--RabbitMQ:
 Net-ACL:
   LORENSEN: 1
 Net-ACME:
+  FELIPE: 1
+Net-ACME2:
   FELIPE: 1
 Net-ADNS:
   SALVA: 1
@@ -41985,7 +42009,7 @@ Net-Async-Memcached:
 Net-Async-OAuth:
   TEAM: 1
 Net-Async-Ping:
-  FREW: 1
+  ABRAXXA: 1
 Net-Async-PostgreSQL:
   TEAM: 1
 Net-Async-Pusher:
@@ -42460,6 +42484,8 @@ Net-Enum-DNSServer:
 Net-Etcd:
   HEXFUSION: 1
 Net-Ethereum:
+  ITMFROLOV: 1
+Net-Ethereum-Swarm:
   ITMFROLOV: 1
 Net-Evernote:
   DMC: 1
@@ -47900,7 +47926,11 @@ Perinci-Examples-Bin-Any-ArgsAs:
   PERLANCAR: 1
 Perinci-Examples-Bin-Any-Completion:
   PERLANCAR: 1
+Perinci-Examples-Bin-Any-Config:
+  PERLANCAR: 1
 Perinci-Examples-Bin-Any-ResultNaked:
+  PERLANCAR: 1
+Perinci-Examples-Bin-Any-SahSchemas:
   PERLANCAR: 1
 Perinci-Examples-Bin-Classic:
   PERLANCAR: 1
@@ -47908,7 +47938,11 @@ Perinci-Examples-Bin-Inline:
   PERLANCAR: 1
 Perinci-Examples-Bin-Lite:
   PERLANCAR: 1
+Perinci-Examples-Config:
+  PERLANCAR: 1
 Perinci-Examples-ResMeta-Table:
+  PERLANCAR: 1
+Perinci-Examples-SahSchemas:
   PERLANCAR: 1
 Perinci-Exporter:
   PERLANCAR: 1
@@ -48029,6 +48063,8 @@ Perinci-Sub-Wrapper:
 Perinci-Sub-Wrapper-Patch-HandlePHPArray:
   PERLANCAR: 1
 Perinci-Sub-XCompletion:
+  PERLANCAR: 1
+Perinci-Sub-XCompletionBundle-CryptoCurrency:
   PERLANCAR: 1
 Perinci-To-Doc:
   PERLANCAR: 1
@@ -50260,6 +50296,8 @@ Pots:
   RCHIBOIS: 1
 Power-Outlet:
   MRDVT: 1
+PowerBuilder-DataWindow:
+  SEBKIRCHE: 1
 PowerBuilder-ORCA:
   ICHE: 1
 PowerDNS-API-Client:
@@ -51020,6 +51058,8 @@ RDF-Trine-AllegroGraph:
 RDF-Trine-Exporter-GraphViz:
   VOJ: 1
 RDF-Trine-Node-Literal-XML:
+  KJETILK: 1
+RDF-Trine-Serializer-RDFa:
   KJETILK: 1
 RDF-Trine-Serializer-SparqlUpdate:
   KBA: 1
@@ -53355,6 +53395,8 @@ Sah-Schemas-Collection:
   PERLANCAR: 1
 Sah-Schemas-Color:
   PERLANCAR: 1
+Sah-Schemas-CryptoCurrency:
+  PERLANCAR: 1
 Sah-Schemas-Date:
   PERLANCAR: 1
 Sah-Schemas-DefHash:
@@ -54967,6 +55009,8 @@ Statistics-Descriptive-Discrete:
   RHETTBULL: 1
 Statistics-Descriptive-LogScale:
   KHEDIN: 1
+Statistics-Descriptive-Weighted:
+  DHARD: 1
 Statistics-Discrete:
   CHIARA: 1
 Statistics-Distribution-Generator:
@@ -56669,8 +56713,6 @@ Task-Catalyst-Tutorial:
   MRAMBERG: 1
 Task-CertHost:
   COSMICNET: 1
-Task-CryptoExchange:
-  PERLANCAR: 1
 Task-CryptoExchange-API:
   PERLANCAR: 1
 Task-Curses-UI:
@@ -57726,8 +57768,6 @@ Term-ReadLine-Perl:
   ILYAZ: 1
 Term-ReadLine-Perl5:
   ROCKY: 1
-Term-ReadLine-Simple:
-  KUERBIS: 1
 Term-ReadLine-TTYtter:
   CKAISER: 1
 Term-ReadLine-Tiny:
@@ -61837,6 +61877,8 @@ Tk-ObjScanner:
   DDUMONT: 1
 Tk-ObjectHandler:
   CAILLTE: 1
+Tk-PathEntry:
+  SREZIC: 1
 Tk-PerlInheritanceTree:
   LAMPRECHT: 1
 Tk-PerlMethodList:
@@ -66402,6 +66444,8 @@ Win32-MultiLanguage:
   BJOERN: 1
 Win32-MultiMedia:
   THAMUS: 1
+Win32-NTFS-Symlink:
+  BAYMAX: 1
 Win32-NameTranslate:
   BINGOS: 1
 Win32-Net-Info:
@@ -66700,8 +66744,6 @@ WordList-FR-WiktionaryES:
 WordList-ID-BIP39:
   PERLANCAR: 1
 WordList-ID-KBBI:
-  PERLANCAR: 1
-WordList-IT-BIP39:
   PERLANCAR: 1
 WordList-JA-BIP39:
   PERLANCAR: 1
@@ -69719,6 +69761,8 @@ version-AlphaBeta:
   JPEACOCK: 1
 version-Limit:
   JPEACOCK: 1
+version-Normal:
+  FERREIRA: 1
 vm:
   BRUMLEVE: 1
 vms-icc:
