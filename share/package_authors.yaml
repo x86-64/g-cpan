@@ -1853,6 +1853,8 @@ Algorithm-ConstructDFA:
   BJOERN: 1
 Algorithm-ConstructDFA-XS:
   BJOERN: 1
+Algorithm-ConstructDFA2:
+  BJOERN: 1
 Algorithm-ContextVector:
   AIMBERT: 1
 Algorithm-CouponCode:
@@ -3089,6 +3091,8 @@ AnyEvent-Pg:
   SALVA: 1
 AnyEvent-Pg-Pool-Multiserver:
   KAKTUS: 1
+AnyEvent-PgRecvlogical:
+  MYDMNSN: 1
 AnyEvent-Ping:
   UNDEF: 1
 AnyEvent-Ping-TCP:
@@ -3238,6 +3242,8 @@ AnyEvent-XMPP-Ext-HTML:
   CCM: 1
 AnyEvent-Yubico:
   DAIN: 1
+AnyEvent-ZabbixSender:
+  MLEHMANN: 1
 AnyEvent-ZeroMQ:
   JROCKWAY: 1
 AnyEvent-mDNS:
@@ -5186,6 +5192,8 @@ App-MyPerl:
   MSTROUT: 1
 App-MysqlUtils:
   PERLANCAR: 1
+App-NDTools:
+  MIXAS: 1
 App-Nag:
   DFH: 1
 App-Navegante:
@@ -6116,8 +6124,6 @@ App-genpw:
   PERLANCAR: 1
 App-genpw-base56:
   PERLANCAR: 1
-App-genpw-base58:
-  PERLANCAR: 1
 App-genpw-id:
   PERLANCAR: 1
 App-genpw-wordlist:
@@ -6474,6 +6480,8 @@ App-sourcepan:
   PEVANS: 1
 App-spaceless:
   PLICEASE: 1
+App-squidauth:
+  PERLANCAR: 1
 App-ssl4curl:
   ZDENEK: 1
 App-sslmaker:
@@ -8090,6 +8098,8 @@ Bencher-Scenario-IPCSystemOptions:
 Bencher-Scenario-IntValidation:
   PERLANCAR: 1
 Bencher-Scenario-Interpreters:
+  PERLANCAR: 1
+Bencher-Scenario-ListFlatten:
   PERLANCAR: 1
 Bencher-Scenario-ListMoreUtils:
   PERLANCAR: 1
@@ -15245,7 +15255,7 @@ Compress-Huffman-Binary:
 Compress-LZ4:
   GRAY: 1
 Compress-LZ4Frame:
-  DRAKO: 1
+  AUTINITY: 1
 Compress-LZF:
   MLEHMANN: 1
 Compress-LZF_PP:
@@ -21824,6 +21834,8 @@ Device-TMP102:
   VVU: 1
 Device-TNC:
   RBDAVISON: 1
+Device-TPLink:
+  VERLIN: 1
 Device-USB:
   GWADEJ: 1
 Device-USB-MissileLauncher:
@@ -24680,6 +24692,8 @@ FASTAid:
   GLASSCOCK: 1
 FB-Statify:
   XXGHOSTXX: 1
+FB3:
+  EGOROD: 1
 FBP:
   ADAMK: 1
 FBP-Demo:
@@ -28237,6 +28251,8 @@ Git-Repository-Plugin-AUTOLOAD:
   BOOK: 1
 Git-Repository-Plugin-Blame:
   AUBERTG: 1
+Git-Repository-Plugin-Dirty:
+  DMUEY: 1
 Git-Repository-Plugin-Gerrit:
   NNUTTER: 1
 Git-Repository-Plugin-Hooks:
@@ -40181,6 +40197,8 @@ Mojolicious-Plugin-ServerStatus:
   FUKAI: 1
 Mojolicious-Plugin-SessionCompress:
   SOHASHI: 1
+Mojolicious-Plugin-SessionStorage:
+  WFSO: 1
 Mojolicious-Plugin-SessionStore:
   HAYAJO: 1
 Mojolicious-Plugin-Sessions3S:
@@ -42002,6 +42020,8 @@ Net-Async-IMAP:
   TEAM: 1
 Net-Async-IRC:
   PEVANS: 1
+Net-Async-MPD:
+  JJATRIA: 1
 Net-Async-Matrix:
   PEVANS: 1
 Net-Async-Memcached:
@@ -44752,6 +44772,8 @@ OOPS:
 OOTools:
   DOMIZIO: 1
   SKNPP: 1
+OPC:
+  EGOROD: 1
 ORDB-AU-Census2006:
   ADAMK: 1
 ORDB-CPAN-Mageia:
@@ -50921,6 +50943,8 @@ Quote-Ref:
   MAUKE: 1
 Quote-Reference:
   KILNA: 1
+R-DescriptionFile:
+  SLOYD: 1
 R-Setup:
   SNEHASIS: 1
 R-Writer:
@@ -50998,6 +51022,8 @@ RDF-Laces:
 RDF-Lazy:
   VOJ: 1
 RDF-LinkedData:
+  KJETILK: 1
+RDF-LinkedData-RWHypermedia:
   KJETILK: 1
 RDF-NLP-SPARQLQuery:
   THHAMON: 1
@@ -53824,7 +53850,7 @@ Selenese:
 Selenium-PageObject:
   TEODESIAN: 1
 Selenium-Remote-Driver:
-  GEMPESAW: 1
+  TEODESIAN: 1
 Selenium-Remote-Driver-UserAgent:
   GEMPESAW: 1
 Selenium-Screenshot:
@@ -56941,6 +56967,8 @@ Task-XNLSoar-Graphing:
   NGLENN: 1
 Task-Yeb:
   GETTY: 1
+Task-genpw:
+  PERLANCAR: 1
 TaskForest:
   ENOOR: 1
 Tasks:
@@ -56978,7 +57006,7 @@ TeamCity-BuildMessages:
 TeamCity-Message:
   MAXMIND: 1
 Teamcity-Executor:
-  JASEI: 1
+  OHOSAK: 1
 Teamspeak:
   MALETIN: 1
 Tee:
@@ -60305,6 +60333,8 @@ Text-TEI-Markup:
   AURUM: 1
 Text-TFIDF:
   LMETCALF: 1
+Text-TFIDF-Ngram:
+  GENE: 1
 Text-TNetstrings:
   SEBNOW: 1
 Text-TOC:
@@ -65331,6 +65361,8 @@ WebService-Belkin-WeMo:
   ERICBLUE: 1
 WebService-Binance:
   RCL: 1
+WebService-BitFlyer:
+  BAYASHI: 1
 WebService-BitbucketServer:
   CCM: 1
 WebService-Bitcoin-BTCe:
@@ -67510,6 +67542,8 @@ XML-LibXML-Devel-SetLineNumber:
   TOBYINK: 1
 XML-LibXML-Enhanced:
   STILLWELL: 1
+XML-LibXML-Ferry:
+  LIS: 1
 XML-LibXML-Fixup:
   NWETTERS: 1
 XML-LibXML-Iterator:
@@ -67522,6 +67556,8 @@ XML-LibXML-Overlay:
   KALEX: 1
 XML-LibXML-PrettyPrint:
   TOBYINK: 1
+XML-LibXML-Proxy:
+  LIS: 1
 XML-LibXML-QuerySelector:
   TOBYINK: 1
 XML-LibXML-SAX-ChunkParser:
@@ -67968,6 +68004,8 @@ XS-Assert:
   GFUJI: 1
 XS-Check:
   BKB: 1
+XS-Logger:
+  ATOOMIC: 1
 XS-MRO-Compat:
   GFUJI: 1
 XS-MagicExt:
