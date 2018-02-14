@@ -259,6 +259,8 @@ API-Intis:
   NNMOS: 1
 API-Medium:
   DOMM: 1
+API-MikroTik:
+  ANPARKER: 1
 API-Name:
   AWNCORP: 1
 API-ParallelsWPB:
@@ -281,7 +283,7 @@ API-Twitter:
 API-Wunderlist:
   AWNCORP: 1
 APISchema:
-  HITODE: 1
+  AKIYM: 1
 APNS-Agent:
   SONGMU: 1
 APP-REST-RestTestSuite:
@@ -4865,6 +4867,8 @@ App-Gitc:
   GSG: 1
 App-Github-Email:
   FARACO: 1
+App-GoogleAuthUtils:
+  PERLANCAR: 1
 App-GoogleSearchPerlIRCLogs:
   PERLANCAR: 1
 App-GoogleSearchPerlmonksUser:
@@ -5817,6 +5821,8 @@ App-TimelogTxt:
   GWADEJ: 1
 App-Timestamper:
   SHLOMIF: 1
+App-Timestamper-Format:
+  SHLOMIF: 1
 App-TinyID:
   FARACO: 1
 App-Todo:
@@ -6589,6 +6595,8 @@ App-yamlsel:
   PERLANCAR: 1
 AppBase-Grep:
   PERLANCAR: 1
+AppBase-Grep-ColorSchemes-Kuler:
+  PERLANCAR: 1
 AppConfig:
   NEILB: 1
 AppConfig-Exporter:
@@ -6775,6 +6783,8 @@ Array-Average:
   MRDVT: 1
 Array-Base:
   ZEFRAM: 1
+Array-Circular:
+  ZARQUON: 1
 Array-Columnize:
   ROCKY: 1
 Array-Compare:
@@ -6995,7 +7005,7 @@ Astro-Catalog:
 Astro-Constants:
   DUFFEE: 1
 Astro-Coords:
-  TJENNESS: 1
+  GSB: 1
 Astro-Corlate:
   AALLAN: 1
 Astro-Correlate:
@@ -7149,6 +7159,8 @@ AtteanX-Query-Cache:
   KJETILK: 1
 AtteanX-RDFQueryTranslator:
   GWILLIAMS: 1
+AtteanX-Serializer-RDFa:
+  KJETILK: 1
 AtteanX-Store-LDF:
   KJETILK: 1
 AtteanX-Store-SPARQL:
@@ -11652,7 +11664,7 @@ CPM:
 CPP-catch-test:
   SYBER: 1
 CPP-panda-lib:
-  SYBER: 1
+  BFDEVER: 1
 CPS:
   PEVANS: 1
 CPS-Governor-IOAsync:
@@ -16878,7 +16890,6 @@ DBD-monetdb:
   SGOELDNER: 1
 DBD-mysql:
   CAPTTOFU: 1
-  MICHIELB: 1
 DBD-mysql-AutoTypes:
   GRISHACE: 1
 DBD-mysql-SimpleMySQL:
@@ -16979,6 +16990,8 @@ DBIx-BLOB-Handle:
   MSOUTHERN: 1
 DBIx-BabelKit:
   JGORMAN: 1
+DBIx-BatchChunker:
+  GSG: 1
 DBIx-BlackBox:
   AJGB: 1
 DBIx-Brev:
@@ -18060,6 +18073,8 @@ DSP-LinPred_XS:
   ADOKOY: 1
 DSlib:
   MADZ: 1
+DT:
+  NOHUHU: 1
 DTL-Fast:
   HURRICUP: 1
 DVD-Read:
@@ -18153,8 +18168,6 @@ Dancer-Plugin-Auth-Extensible:
   BIGPRESH: 1
 Dancer-Plugin-Auth-Extensible-Provider-DBIC:
   YANICK: 1
-Dancer-Plugin-Auth-Extensible-Provider-Usergroup:
-  HVOERS: 1
 Dancer-Plugin-Auth-Facebook:
   PRAJITH: 1
 Dancer-Plugin-Auth-Github:
@@ -18666,8 +18679,6 @@ Dancer2-Plugin-ParamTypes:
   XSAWYERX: 1
 Dancer2-Plugin-Passphrase:
   SYSPETE: 1
-Dancer2-Plugin-Path-Class:
-  HVOERS: 1
 Dancer2-Plugin-Pg:
   LUCAS: 1
 Dancer2-Plugin-ProbabilityRoute:
@@ -18692,6 +18703,8 @@ Dancer2-Plugin-RoutePodCoverage:
   DREBOLO: 1
 Dancer2-Plugin-Routing:
   MZIESCHA: 1
+Dancer2-Plugin-SPID:
+  AAR: 1
 Dancer2-Plugin-SendAs:
   RUSSELLJ: 1
 Dancer2-Plugin-Shutdown:
@@ -20172,6 +20185,8 @@ Data-Visitor-Encode:
   DMAKI: 1
 Data-Visitor-Lite:
   HDAICHI: 1
+Data-Visitor-Tiny:
+  DAGOLDEN: 1
 Data-Vitals:
   ADAMK: 1
 Data-Walk:
@@ -21253,8 +21268,12 @@ Devel-IPerl-Plugin-Chart-Plotly:
   PABLROD: 1
 Devel-IPerl-Plugin-ChartClicker:
   ZMUGHAL: 1
+Devel-IPerl-Plugin-EnvironmentModules:
+  KIWIROY: 1
 Devel-IPerl-Plugin-PDLGraphicsGnuplot:
   ZMUGHAL: 1
+Devel-IPerl-Plugin-Perlbrew:
+  KIWIROY: 1
 Devel-InPackage:
   JROCKWAY: 1
 Devel-InheritNamespace:
@@ -28193,6 +28212,8 @@ Getopt-Yagow:
   ECASTILLA: 1
 Getopt-constant:
   SBURKE: 1
+Getopt-toHash:
+  AMMODULES: 1
 Gettext:
   JBRIGGS: 1
 Gfsm:
@@ -28351,6 +28372,8 @@ Gitalist:
   BROQ: 1
 Gitalist-Git-CollectionOfRepositories-Gitolite:
   HALKEYE: 1
+Github-Backup:
+  STEVEB: 1
 Github-Fork-Parent:
   CHORNY: 1
 Github-Hooks-Receiver:
@@ -36392,6 +36415,8 @@ MIDI-Morph:
   CRENZ: 1
 MIDI-Music:
   SETHJ: 1
+MIDI-Ngram:
+  GENE: 1
 MIDI-Perl:
   CONKLIN: 1
 MIDI-Pitch:
@@ -40487,6 +40512,8 @@ Moo-Google:
   PAVELSR: 1
 Moo-Lax:
   DAMS: 1
+Moo-Role-ToJSON:
+  KWAKWA: 1
 MooX:
   GETTY: 1
 MooX-Aliases:
@@ -44623,6 +44650,8 @@ Novel-Robot-Packer:
   ABBYPAN: 1
 Novel-Robot-Parser:
   ABBYPAN: 1
+NpsSDK-Nps:
+  INGENICO: 1
 Number-AnyBase:
   EMAZEP: 1
 Number-Base-DWIM:
@@ -47160,7 +47189,7 @@ Panda-Export:
 Panda-Install:
   SYBER: 1
 Panda-Lib:
-  SYBER: 1
+  BFDEVER: 1
 Panda-NSS:
   VOVKASM: 1
 Panda-Time:
@@ -51348,7 +51377,7 @@ RRD-CGI-Image:
 RRD-Daemon:
   FLUFFY: 1
 RRD-Editor:
-  DOUGLEITH: 1
+  MBASUNOV: 1
 RRD-Simple:
   NICOLAW: 1
 RRD-Tweak:
@@ -56069,6 +56098,8 @@ Symbol-Util:
   DEXTER: 1
 Symbol-Values:
   KMIYAZAKI: 1
+Sympatic:
+  MARCC: 1
 Synapse-CLI-Config:
   JHIVER: 1
 Synapse-Logger:
@@ -64859,7 +64890,7 @@ WWW-Sixpack:
 WWW-SlideShare:
   ASHISHM: 1
 WWW-SmartSheet:
-  SZABGAB: 1
+  MANWAR: 1
 WWW-SmugMug-API:
   FLOWERYSO: 1
 WWW-Socrata:
@@ -66663,7 +66694,7 @@ Win32-SerialPort:
 Win32-Service:
   JDB: 1
 Win32-ServiceManager:
-  FREW: 1
+  WESM: 1
 Win32-Setupsup:
   CJM: 1
 Win32-SharedFileOpen:
