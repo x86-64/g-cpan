@@ -455,6 +455,8 @@ Acme-BOATES:
   BOATES: 1
 Acme-BOPE:
   GARU: 1
+Acme-BadFont:
+  HAARG: 1
 Acme-Base64:
   HAGGAI: 1
 Acme-Be-Modern:
@@ -703,6 +705,8 @@ Acme-CPANModules-FooThis:
   PERLANCAR: 1
 Acme-CPANModules-fgets:
   PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlAdvent-2017:
+  PERLANCAR: 1
 Acme-CPANModulesBundle-PERLANCAR:
   PERLANCAR: 1
 Acme-CPANPLUS-Module-With-Failing-Configure-Requires:
@@ -725,6 +729,8 @@ Acme-CatFS:
   PACMAN: 1
 Acme-CatalystX-ILoveDebug:
   BOBTFISH: 1
+Acme-Check-PAUSE-Version-Order:
+  HAARG: 1
 Acme-Chef:
   WERNERMP: 1
 Acme-ChuckNorris:
@@ -1485,6 +1491,8 @@ Acme-Sneeze:
   MIYAGAWA: 1
 Acme-Sneeze-JP:
   MIYAGAWA: 1
+Acme-Songmu:
+  SONGMU: 1
 Acme-Sort-Bogosort:
   DAVIDO: 1
 Acme-Sort-Bozo:
@@ -1808,6 +1816,8 @@ Algorithm-Bayesian:
   GSLIN: 1
 Algorithm-BellmanFord:
   ROHANK: 1
+Algorithm-Bertsekas:
+  CLAUDIOFS: 1
 Algorithm-BestChoice:
   RKRIMEN: 1
 Algorithm-BinPack:
@@ -3528,6 +3538,8 @@ Apache-DebugLog:
   DORIAN: 1
 Apache-DefaultCharset:
   MIYAGAWA: 1
+Apache-Defaults:
+  SGRAY: 1
 Apache-Description:
   NBAREIL: 1
 Apache-Dir:
@@ -4486,6 +4498,8 @@ App-Cme:
   DDUMONT: 1
 App-ColorNamer:
   ZOFFIX: 1
+App-ColorThemeUtils:
+  PERLANCAR: 1
 App-Colorist:
   HANENKAMP: 1
 App-Commando:
@@ -4509,6 +4523,8 @@ App-CopyrightImage:
 App-Countdown:
   SHLOMIF: 1
 App-CreateAcmeCPANListsImportModules:
+  PERLANCAR: 1
+App-CreateAcmeCPANModulesImportModules:
   PERLANCAR: 1
 App-CreateRandomFile:
   PERLANCAR: 1
@@ -4735,6 +4751,8 @@ App-FonBot-Daemon:
   MGV: 1
 App-ForExample:
   RKRIMEN: 1
+App-ForKids-LogicalPuzzleGenerator:
+  PBIERNACK: 1
 App-FormatCPANChanges-PERLANCAR:
   PERLANCAR: 1
 App-Fotagger:
@@ -4867,6 +4885,8 @@ App-Gitc:
   GSG: 1
 App-Github-Email:
   FARACO: 1
+App-Glacier:
+  SGRAY: 1
 App-GoogleAuthUtils:
   PERLANCAR: 1
 App-GoogleSearchPerlIRCLogs:
@@ -6145,6 +6165,8 @@ App-genpw:
   PERLANCAR: 1
 App-genpw-base56:
   PERLANCAR: 1
+App-genpw-base64:
+  PERLANCAR: 1
 App-genpw-id:
   PERLANCAR: 1
 App-genpw-wordlist:
@@ -6474,7 +6496,7 @@ App-ruler:
 App-s2p:
   LEONT: 1
 App-scan_prereqs_cpanfile:
-  TOKUHIROM: 1
+  SONGMU: 1
 App-scrape:
   CORION: 1
 App-screenorama:
@@ -8101,6 +8123,8 @@ Bencher-Scenario-CPANMetaValidation:
 Bencher-Scenario-CmdLineParsingModules:
   PERLANCAR: 1
 Bencher-Scenario-ComparisonOps:
+  PERLANCAR: 1
+Bencher-Scenario-CryptDicewareWordlistModules:
   PERLANCAR: 1
 Bencher-Scenario-Digest:
   PERLANCAR: 1
@@ -12154,7 +12178,7 @@ Catalyst-ActionRole-QueryParameter:
 Catalyst-ActionRole-Renderer:
   MASAKYST: 1
 Catalyst-ActionRole-RequireSSL:
-  WREIS: 1
+  ELLIOTT: 1
 Catalyst-ActionRole-Tabs:
   GRAF: 1
 Catalyst-ActionSignatures:
@@ -14168,7 +14192,7 @@ Class-C3:
 Class-C3-Adopt-NEXT:
   ETHER: 1
 Class-C3-Componentised:
-  FREW: 1
+  HAARG: 1
 Class-C3-XS:
   ETHER: 1
 Class-CGI:
@@ -14975,8 +14999,6 @@ Clustericious:
   PLICEASE: 1
 Clustericious-Admin:
   PLICEASE: 1
-Clustericious-Coder-BSON:
-  PLICEASE: 1
 Clusterize:
   VMOISEEV: 1
 Clutch:
@@ -15144,6 +15166,12 @@ Color-Swatch-ASE-Reader:
 Color-Swatch-ASE-Writer:
   KENTNL: 1
 Color-Theme:
+  PERLANCAR: 1
+Color-Theme-Role:
+  PERLANCAR: 1
+Color-Theme-Util:
+  PERLANCAR: 1
+Color-Theme-Util-ANSI:
   PERLANCAR: 1
 Color-TupleEncode:
   MARTINK: 1
@@ -15355,6 +15383,8 @@ ConfInt:
   CGERNHAR: 1
 Config:
   DENDORY: 1
+Config-AWS:
+  JJATRIA: 1
 Config-Abstract:
   AVAJADI: 1
 Config-Ant:
@@ -15637,6 +15667,8 @@ Config-Perl:
   HAUKEX: 1
 Config-Perl-V:
   HMBRAND: 1
+Config-Pg-ServiceFile:
+  KWAKWA: 1
 Config-Pit:
   SATOH: 1
 Config-Plugin-Tiny:
@@ -15816,6 +15848,8 @@ Contize:
 Control-CLI:
   LSTEVENS: 1
 Control-CLI-AvayaData:
+  LSTEVENS: 1
+Control-CLI-Extreme:
   LSTEVENS: 1
 ControlFreak:
   YANNK: 1
@@ -16607,6 +16641,8 @@ Cstools:
   JANPAZ: 1
 CtCmd:
   RATL: 1
+CtrlO-Crypt-XkcdPassword:
+  DOMM: 1
 Ctype:
   SAMUELL: 1
 Cuckoo-Filter:
@@ -21664,6 +21700,8 @@ Device-Chip:
   PEVANS: 1
 Device-Chip-AVR_HVSP:
   PEVANS: 1
+Device-Chip-Adapter-CH341A:
+  PEVANS: 1
 Device-Chip-Adapter-LinuxKernel:
   SIMCOP: 1
 Device-Chip-AnalogConverters:
@@ -23144,6 +23182,8 @@ Dist-Zilla-Plugin-Web:
   NPLATONOV: 1
 Dist-Zilla-Plugin-WordList:
   PERLANCAR: 1
+Dist-Zilla-Plugin-WordListC:
+  PERLANCAR: 1
 Dist-Zilla-Plugin-if:
   KENTNL: 1
 Dist-Zilla-Plugin-if-ENV:
@@ -24227,6 +24267,8 @@ Encode-Repair:
   MORITZ: 1
 Encode-Safename:
   BATLOCK: 1
+Encode-Simple:
+  DBOOK: 1
 Encode-StdIO:
   DMAKI: 1
 Encode-TECkit:
@@ -24749,7 +24791,7 @@ FB-Statify:
 FB3:
   EGOROD: 1
 FB3-Convert:
-  EGOROD: 1
+  GRIBUSER: 1
 FBP:
   ADAMK: 1
 FBP-Demo:
@@ -26225,6 +26267,8 @@ Finance-FXCM-Simple:
   JOAOCOSTA: 1
 Finance-GDAX-API:
   SEATEK: 1
+Finance-GDAX-Lite:
+  PERLANCAR: 1
 Finance-Google-Portfolio:
   GRYPHON: 1
 Finance-Google-Sector-Mean:
@@ -26950,6 +26994,8 @@ GTM:
   OESI: 1
 GTop:
   MJH: 1
+GUIDeFATE:
+  SAIFTYNET: 1
 Gadabout:
   JESUS: 1
 Gaim-Log-Mailer:
@@ -27169,6 +27215,8 @@ Games-LMSolve:
   SHLOMIF: 1
 Games-Lacuna-Client:
   HALKEYE: 1
+Games-LatticeGenerator:
+  PBIERNACK: 1
 Games-Lineofsight:
   VILJUN: 1
 Games-Literati:
@@ -27477,6 +27525,8 @@ Generator-Object:
   JBERGER: 1
 Generic-Assertions:
   KENTNL: 1
+Generic-ColorTheme-Kuler:
+  PERLANCAR: 1
 Genetics:
   SLMATH: 1
 Genezzo:
@@ -28420,6 +28470,8 @@ Global-Rainbow-Map:
   TOBYINK: 1
 Gloom:
   INGY: 1
+GlusterFS-GFAPI-FFI:
+  POTATOGIM: 1
 GnaData:
   GNALABS: 1
 Gnome-Sound:
@@ -30931,6 +30983,8 @@ Hubot-Scripts-standup:
   AANOAA: 1
 Hubot-Scripts-weather:
   NEWBCODE: 1
+Hush:
+  LETO: 1
 Hyle:
   TJMC: 1
 Hypatia:
@@ -32563,8 +32617,12 @@ JSON-XS-VersionOneAndTwo:
   LBROCARD: 1
 JSON-YAJL:
   LBROCARD: 1
+JSON-ize:
+  MAJENSEN: 1
 JSON5:
   KARUPA: 1
+JSONAPI-Document:
+  ZIALI: 1
 JSONP:
   ACANFORA: 1
 JSONRPC-Transport-TCP:
@@ -33917,6 +33975,8 @@ Liberty-Parser:
   YORKWU: 1
 Library-CallNumber-LC:
   DBWELLS: 1
+LibreCat-Auth-SSO:
+  NJFRANCK: 1
 LibreDTE-SDK:
   DELAF: 1
 Libssh-Session:
@@ -35115,6 +35175,8 @@ List-Util-ArrayRef-PP:
   PERLANCAR: 1
 List-Util-Superpositions:
   RSOD: 1
+List-Util-Uniq:
+  PERLANCAR: 1
 List-Util-WeightedChoice:
   DSADINOFF: 1
 List-Util-WeightedRoundRobin:
@@ -36817,6 +36879,8 @@ Magical-Hooker-Decorate:
   NUFFIN: 1
 Magpie:
   KHAMPTON: 1
+Magrathea-API:
+  CMS: 1
 Mail-Abuse:
   LUISMUNOZ: 1
 Mail-Action:
@@ -38999,6 +39063,8 @@ Module-Finder:
   EWILHELM: 1
 Module-Format:
   SHLOMIF: 1
+Module-FromPerlVer:
+  LEMBARK: 1
 Module-Functions:
   TOKUHIROM: 1
 Module-Hash:
@@ -39555,6 +39621,8 @@ Mojo-Snoo:
   CURTIS: 1
 Mojo-TFTPd:
   HARRYL: 1
+Mojo-Transmission:
+  JHTHORSEN: 1
 Mojo-TypeModel:
   JBERGER: 1
 Mojo-Unicode-UTF8:
@@ -40020,6 +40088,8 @@ Mojolicious-Plugin-JIPConf:
   VLADIMIRZ: 1
 Mojolicious-Plugin-JSLoader:
   RENEEB: 1
+Mojolicious-Plugin-JSONAPI:
+  ZIALI: 1
 Mojolicious-Plugin-JSONP:
   TEMPIRE: 1
 Mojolicious-Plugin-JSONRPC2:
@@ -43960,8 +44030,6 @@ Net-Server-SS-PreFork:
   KAZUHO: 1
 Net-Server-ZMQ:
   IDOPEREL: 1
-Net-Shadowsocks:
-  LZH: 1
 Net-Shaper:
   BHOLZMAN: 1
 Net-Shared:
@@ -45353,6 +45421,8 @@ Operator-Util:
   PATCH: 1
 Opsview-REST:
   MRUIZ: 1
+Opsview-RestAPI:
+  DUNCS: 1
 Opsview-StatusAPI:
   JLMARTIN: 1
 Opt-Imistic:
@@ -45678,7 +45748,7 @@ PDF-Tiny:
 PDF-Tk:
   MRAMBERG: 1
 PDF-WebKit:
-  PHILIP: 1
+  MITHALDU: 1
 PDF-Writer:
   RKINYON: 1
 PDF-Xtract:
@@ -47287,6 +47357,8 @@ Parallel-SubArray:
   SIZUR: 1
 Parallel-SubFork:
   POTYL: 1
+Parallel-Subs:
+  ATOOMIC: 1
 Parallel-Supervisor:
   KLYNC: 1
 Parallel-ThreadContext:
@@ -47595,8 +47667,6 @@ Parse-Number-ID:
   PERLANCAR: 1
 Parse-PAUSE:
   ATOM: 1
-Parse-PEM-Lax:
-  BJOERN: 1
 Parse-PMFile:
   ISHIGAKI: 1
 Parse-Path:
@@ -47850,7 +47920,7 @@ Path-Tiny-Rule:
 Path-Trim:
   HAGGAI: 1
 PathTools:
-  RJBS: 1
+  XSAWYERX: 1
 Paths-Graph:
   CAVASQUEZ: 1
 Paths-Tree:
@@ -48844,6 +48914,8 @@ Pg-Queue:
   RMZG: 1
 Pg-Reindex:
   BINARY: 1
+Pg-ServiceFile:
+  KWAKWA: 1
 Pg-Simple:
   DJERIUS: 1
 Pg-hstore:
@@ -48872,6 +48944,8 @@ Pherkin-Extension-Weasel:
   EHUELS: 1
 Phone-Info:
   VVELOX: 1
+Phone-Number:
+  CMS: 1
 PhotoIndex:
   MYNEID: 1
 Photography-DX:
@@ -49007,7 +49081,6 @@ Plack-App-EventSource:
 Plack-App-FCGIDispatcher:
   MIYAGAWA: 1
 Plack-App-FakeApache:
-  PMAKHOLM: 1
   ZARQUON: 1
 Plack-App-FakeApache1:
   CHISEL: 1
@@ -49083,6 +49156,8 @@ Plack-App-dbi2http:
   PERLANCAR: 1
 Plack-App-unAPI:
   VOJ: 1
+Plack-Auth-SSO:
+  NJFRANCK: 1
 Plack-Builder-Conditionals:
   KAZEBURO: 1
 Plack-Client:
@@ -49579,6 +49654,8 @@ Plack-Middleware-Static-Range:
   AUDREYT: 1
 Plack-Middleware-StaticShared:
   SATOH: 1
+Plack-Middleware-StatsPerRequest:
+  DOMM: 1
 Plack-Middleware-Statsd:
   RRWO: 1
 Plack-Middleware-Status:
@@ -49729,10 +49806,6 @@ PluceneSimple:
 PlugAuth:
   PLICEASE: 1
 PlugAuth-Client-Tiny:
-  PLICEASE: 1
-PlugAuth-Client-Tiny-Apache2AuthenHandler:
-  PLICEASE: 1
-PlugAuth-Client-Tiny-Apache2AuthzHandler:
   PLICEASE: 1
 PlugAuth-Plugin-AuthenSimple:
   PLICEASE: 1
@@ -50049,6 +50122,8 @@ Pod-Sub-Usage:
   MZIESCHA: 1
 Pod-Template:
   KANE: 1
+Pod-Term:
+  TOMGRACEY: 1
 Pod-Tests:
   ADAMK: 1
 Pod-Text-Ansi:
@@ -50120,6 +50195,8 @@ Pod-Weaver-Plugin-SortSections:
 Pod-Weaver-Plugin-StopWords:
   RWSTAUNER: 1
 Pod-Weaver-Plugin-WordList:
+  PERLANCAR: 1
+Pod-Weaver-Plugin-WordListC:
   PERLANCAR: 1
 Pod-Weaver-PluginBundle-AMD:
   AMD: 1
@@ -55302,6 +55379,8 @@ StatsView:
   ABURLISON: 1
 StatusBoard-Graph:
   BESSARABV: 1
+Steemit-WsClient:
+  SNKOEHN: 1
 Stem:
   URI: 1
 Stenciller:
@@ -57775,6 +57854,8 @@ Term-App-Roles:
   PERLANCAR: 1
 Term-Bash-Completion-Generator:
   NKH: 1
+Term-CLI:
+  SBAKKER: 1
 Term-Caca:
   YANICK: 1
 Term-CallEditor:
@@ -58796,6 +58877,8 @@ Test-Mojo-Plack:
   NICOMEN: 1
 Test-Mojo-Role-Debug:
   ZOFFIX: 1
+Test-Mojo-Role-Debug-JSON:
+  ATOOMIC: 1
 Test-Mojo-Role-ElementCounter:
   ZOFFIX: 1
 Test-Mojo-Role-PSGI:
@@ -59627,6 +59710,8 @@ Text-CSV-LibCSV:
   JIRO: 1
 Text-CSV-Merge:
   LISANTRA: 1
+Text-CSV-Pivot:
+  MANWAR: 1
 Text-CSV-R:
   LIMAONE: 1
 Text-CSV-SQLhelper:
@@ -62694,6 +62779,8 @@ URI-Escape-JavaScript:
   TANIGUCHI: 1
 URI-Escape-XS:
   DANKOGAI: 1
+URI-Fast:
+  JEFFOBER: 1
 URI-Fetch:
   NEILB: 1
 URI-Fetch-SimpleCache:
@@ -63086,6 +63173,8 @@ Unix-Getrusage:
   TAFFY: 1
 Unix-Groups:
   OPI: 1
+Unix-Groups-FFI:
+  DBOOK: 1
 Unix-Login:
   NWIGER: 1
 Unix-Lsof:
@@ -65703,6 +65792,8 @@ WebService-Heartrails-Express:
   SUENAGA: 1
 WebService-HipChat:
   IRONCAMEL: 1
+WebService-Hooktheory:
+  GENE: 1
 WebService-HtmlKitCom-FavIconFromImage:
   ZOFFIX: 1
 WebService-IFConfig-Client:
@@ -66928,9 +67019,15 @@ WordList-ZH-Simplified-BIP39:
   PERLANCAR: 1
 WordList-ZH-Traditional-BIP39:
   PERLANCAR: 1
+WordListC:
+  PERLANCAR: 1
 WordLists:
   PERRETTDL: 1
 WordLists-ID-Common:
+  PERLANCAR: 1
+WordListsC-Password-10Million:
+  PERLANCAR: 1
+WordListsC-Password-SecLists:
   PERLANCAR: 1
 WordNet-BestStem:
   MAGGIEXYZ: 1
@@ -68351,8 +68448,6 @@ Yandex-Translate:
   BRNFLK: 1
 Yars:
   PLICEASE: 1
-Yars-Command-yars_exercise:
-  PLICEASE: 1
 Yeb:
   GETTY: 1
 Yeb-Plugin-DBIC:
@@ -69057,7 +69152,7 @@ iRedAdmin:
 iTransact-Lite:
   RIZEN: 1
 if:
-  RJBS: 1
+  XSAWYERX: 1
 if-Pragmas:
   PERLANCAR: 1
 ifdef:
@@ -69211,7 +69306,6 @@ libsoldout:
 libvorbis-perl:
   FOOF: 1
 libwww-perl:
-  ETHER: 1
   GAAS: 1
   OALDERS: 1
 libxml-enno:
@@ -69712,6 +69806,8 @@ simplexmlparse:
   DGRAHAM: 1
 sitemapper:
   AWRIGLEY: 1
+slots:
+  STEVAN: 1
 smg:
   JCTEBBAL: 1
 smokebrew:
