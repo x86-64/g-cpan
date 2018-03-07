@@ -729,8 +729,6 @@ Acme-CatFS:
   PACMAN: 1
 Acme-CatalystX-ILoveDebug:
   BOBTFISH: 1
-Acme-Check-PAUSE-Version-Order:
-  HAARG: 1
 Acme-Chef:
   WERNERMP: 1
 Acme-ChuckNorris:
@@ -1699,6 +1697,8 @@ Acme-Xyzzy:
   WOODRUFFW: 1
 Acme-YAPC-Asia-2012-LTthon-Hakushu:
   GFUJI: 1
+Acme-YAPC-Okinawa-Bus:
+  ANATOFUZ: 1
 Acme-YBFOD:
   INGY: 1
 Acme-Yoda:
@@ -2288,6 +2288,8 @@ Alien-Jerl:
   MTSHOMSKY: 1
 Alien-Judy:
   JJORE: 1
+Alien-KentSrc:
+  KIWIROY: 1
 Alien-Keystone:
   VIKAS: 1
 Alien-LIBSVM:
@@ -3205,6 +3207,8 @@ AnyEvent-SlackBot:
   AKALINUX: 1
 AnyEvent-SlackRTM:
   HANENKAMP: 1
+AnyEvent-SparkBot:
+  AKALINUX: 1
 AnyEvent-Stomper:
   IPH: 1
 AnyEvent-Sub-Retry:
@@ -5061,6 +5065,8 @@ App-ListUbuntuReleases:
   PERLANCAR: 1
 App-LoadWatcher:
   KAZEBURO: 1
+App-LocaleCodesUtils:
+  PERLANCAR: 1
 App-Locker:
   BES: 1
 App-LogGerUtils:
@@ -7846,20 +7852,6 @@ BERT:
   SHERWIN: 1
 BFD:
   RBS: 1
-BGPmon-Analytics-db:
-  BGPMON: 1
-BGPmon-Archiver:
-  BGPMON: 1
-BGPmon-CPM:
-  BGPMON: 1
-BGPmon-CPM-Prefix-Finder:
-  BGPMON: 1
-BGPmon-Filter:
-  BGPMON: 1
-BGPmon-Validate:
-  BGPMON: 1
-BGPmon-core:
-  BGPMON: 1
 BGS:
   KNI: 1
 BIE-App-PacBio:
@@ -8034,6 +8026,8 @@ Bash-Completion-Plugin-Test:
   RHOELZ: 1
 Bash-Completion-Plugins-App-Cmd:
   RHOELZ: 1
+Bash-Completion-Plugins-Sqitch:
+  KWAKWA: 1
 Bash-Completion-Plugins-VimTag:
   MARCEL: 1
 Bash-Completion-Plugins-cpanm:
@@ -10363,7 +10357,7 @@ CGI-AppBuilder-Tasks:
 CGI-AppToolkit:
   GISEBURT: 1
 CGI-Application:
-  MARKSTOS: 1
+  MARTO: 1
 CGI-Application-Bouquet-Rose:
   RSAVAGE: 1
 CGI-Application-Demo-Ajax:
@@ -10942,7 +10936,7 @@ CGI-Session-YAML:
 CGI-Shorten:
   XERN: 1
 CGI-Simple:
-  SZABGAB: 1
+  MANWAR: 1
 CGI-Snapp:
   RSAVAGE: 1
 CGI-Snapp-Demo-Four:
@@ -16402,7 +16396,7 @@ Crypt-PGP5:
 Crypt-PGPSimple:
   JHINKLE: 1
 Crypt-PKCS10:
-  TLHACKQUE: 1
+  MRSCOTTY: 1
 Crypt-PKCS11:
   JELU: 1
 Crypt-PKCS11-Easy:
@@ -16833,8 +16827,6 @@ DBD-NET:
   EDLIU: 1
 DBD-Neo4p:
   MAJENSEN: 1
-DBD-ODBC:
-  MJEVANS: 1
 DBD-Oracle:
   PYTHIAN: 1
 DBD-Ovrimos:
@@ -22399,7 +22391,7 @@ Dist-Zilla-MintingProfile-PLTK:
 Dist-Zilla-MintingProfile-Project-OSM:
   DBR: 1
 Dist-Zilla-MintingProfile-RTx:
-  ALEXMV: 1
+  BPS: 1
 Dist-Zilla-MintingProfile-SYP:
   SYP: 1
 Dist-Zilla-Plugin-AbstractFromPOD:
@@ -24457,6 +24449,8 @@ Eval-LineNumbers:
   MUIR: 1
 Eval-Logic:
   ZEBAZ: 1
+Eval-Util:
+  PERLANCAR: 1
 Eval-WithLexicals:
   HAARG: 1
 Eve:
@@ -26243,6 +26237,8 @@ Finance-Currency-Convert-Custom:
   DMITRY: 1
 Finance-Currency-Convert-DnB:
   TECHIE: 1
+Finance-Currency-Convert-ECBdaily:
+  DETAILS: 1
 Finance-Currency-Convert-GMC:
   PERLANCAR: 1
 Finance-Currency-Convert-KlikBCA:
@@ -26457,6 +26453,8 @@ Fliggy:
   VTI: 1
 Flip-Flop:
   PRBRENAN: 1
+Float-Util:
+  PERLANCAR: 1
 Flow:
   ZAG: 1
 Flower:
@@ -27621,8 +27619,6 @@ Geo-Coder-Canada:
   JETTRA: 1
 Geo-Coder-Cloudmade:
   FRIFFIN: 1
-Geo-Coder-Free:
-  NHORNE: 1
 Geo-Coder-GeocodeFarm:
   DEXTER: 1
 Geo-Coder-Geocoder-US:
@@ -30533,6 +30529,8 @@ HTTP-Tinyish:
   MIYAGAWA: 1
 HTTP-UA-Parser:
   MAMOD: 1
+HTTP-Upload-FlowJs:
+  CORION: 1
 HTTP-UserAgentString-Parser:
   NMOLDAV: 1
 HTTP-Validate:
@@ -32661,6 +32659,10 @@ Jabber-SimpleSend:
   GMCCAR: 1
 Jabber-mod_perl:
   PIERS: 1
+Jacode:
+  INA: 1
+Jacode4e:
+  INA: 1
 Jail:
   BPANNIER: 1
 Jaipo:
@@ -33975,8 +33977,6 @@ Liberty-Parser:
   YORKWU: 1
 Library-CallNumber-LC:
   DBWELLS: 1
-LibreCat-Auth-SSO:
-  NJFRANCK: 1
 LibreDTE-SDK:
   DELAF: 1
 Libssh-Session:
@@ -34201,6 +34201,8 @@ Lingua-EN-Numericalize:
   ECALDER: 1
 Lingua-EN-Nums2Words:
   HIGHTOWE: 1
+Lingua-EN-Opinion:
+  GENE: 1
 Lingua-EN-Phoneme:
   MARNANEL: 1
 Lingua-EN-PluralToSingular:
@@ -36223,6 +36225,8 @@ Log-ger-Level-Like-RubyLogging:
 Log-ger-Like-Log4perl:
   PERLANCAR: 1
 Log-ger-Like-LogAny:
+  PERLANCAR: 1
+Log-ger-LogException:
   PERLANCAR: 1
 Log-ger-Manual:
   PERLANCAR: 1
@@ -39177,7 +39181,7 @@ Module-Install-RDF:
 Module-Install-RPM:
   DUFF: 1
 Module-Install-RTx:
-  ALEXMV: 1
+  BPS: 1
   FALCONE: 1
 Module-Install-ReadmeFromPod:
   BINGOS: 1
@@ -42612,8 +42616,6 @@ Net-Drizzle:
   TOKUHIROM: 1
 Net-Dropbear:
   ATRODO: 1
-Net-Dropbox:
-  SUNGO: 1
 Net-Dropbox-API:
   NORBU: 1
 Net-Duo:
@@ -42982,7 +42984,7 @@ Net-Hadoop-DFSAdmin-ReportParser:
 Net-Hadoop-HuahinManager:
   TAGOMORIS: 1
 Net-Hadoop-Oozie:
-  BURAK: 1
+  BOOK: 1
 Net-Hadoop-WebHDFS:
   BURAK: 1
 Net-Hadoop-WebHDFS-LWP:
@@ -45087,8 +45089,6 @@ Object-Enum:
   JMMILLS: 1
 Object-Event:
   ELMEX: 1
-Object-Exercise:
-  LEMBARK: 1
 Object-Extend:
   CHOCOLATE: 1
 Object-Factory-Declarative:
@@ -46116,8 +46116,6 @@ POD2-RU-PSGI:
   VTI: 1
 POE:
   RCAPUTO: 1
-POE-API-Hooks:
-  SUNGO: 1
 POE-API-Peek:
   BINGOS: 1
 POE-Component-AI-MegaHAL:
@@ -46255,8 +46253,6 @@ POE-Component-Client-eris:
   BLHOTSKY: 1
 POE-Component-Client-opentick:
   INFIDEL: 1
-POE-Component-ControlPort:
-  SUNGO: 1
 POE-Component-Cron:
   CFEDDE: 1
 POE-Component-Curl-Multi:
@@ -46269,8 +46265,6 @@ POE-Component-Daemon:
   GWYN: 1
   PGUZIS: 1
   TEEJAY: 1
-POE-Component-DebugShell:
-  SUNGO: 1
 POE-Component-DebugShell-Jabber:
   XANTUS: 1
 POE-Component-DirWatch:
@@ -46282,6 +46276,8 @@ POE-Component-DirWatch-WithCaller:
 POE-Component-EasyDBI:
   GVL: 1
   XANTUS: 1
+POE-Component-ElasticSearch-Indexer:
+  BLHOTSKY: 1
 POE-Component-Enc-Flac:
   STE: 1
 POE-Component-Enc-Mp3:
@@ -46461,8 +46457,6 @@ POE-Component-Proxy-SOCKS:
   BINGOS: 1
 POE-Component-Proxy-TCP:
   ANDYPUR: 1
-POE-Component-RSS:
-  SUNGO: 1
 POE-Component-RSSAggregator:
   JBISBEE: 1
 POE-Component-RemoteTail:
@@ -46592,8 +46586,6 @@ POE-Component-Spread:
   RJP: 1
 POE-Component-SpreadClient:
   APOCAL: 1
-POE-Component-SubWrapper:
-  SUNGO: 1
 POE-Component-Supervisor:
   ETHER: 1
 POE-Component-Syndicator:
@@ -46826,8 +46818,6 @@ POE-XS-Queue-Array:
   TONYC: 1
 POE-XUL:
   GWYN: 1
-POE-strict:
-  SUNGO: 1
 POEIKC:
   SUZUKI: 1
 POEIKC-Plugin-GlobalQueue:
@@ -48090,6 +48080,8 @@ Perinci-CmdLine-Server:
 Perinci-CmdLine-Util:
   PERLANCAR: 1
 Perinci-CmdLine-Util-Config:
+  PERLANCAR: 1
+Perinci-CmdLine-cryp:
   PERLANCAR: 1
 Perinci-Declare:
   PERLANCAR: 1
@@ -51524,7 +51516,7 @@ RT-Client:
 RT-Client-CLI:
   TRWWW: 1
 RT-Client-REST:
-  SRVSH: 1
+  DMITRI: 1
 RT-ClientX-GrabBugs:
   TOBYINK: 1
 RT-Condition-Complex:
@@ -55566,7 +55558,7 @@ String-Flogger-Patch-UseDataDmp:
 String-Flogger-Patch-UseDataDump:
   PERLANCAR: 1
 String-Format:
-  DARREN: 1
+  SREZIC: 1
 String-FormatX:
   CSA: 1
 String-Formatter:
@@ -56863,6 +56855,8 @@ Task-BeLike-SARTAK:
   SARTAK: 1
 Task-BeLike-SCHWIGON:
   SCHWIGON: 1
+Task-BeLike-SHLOMIF:
+  SHLOMIF: 1
 Task-BeLike-SONGMU:
   SONGMU: 1
 Task-BeLike-Shantanu:
@@ -63503,6 +63497,8 @@ VarGuard:
   CINDY: 1
 Variable-Alias:
   BRENTDAX: 1
+Variable-Declaration:
+  KFLY: 1
 Variable-Disposition:
   TEAM: 1
 Variable-Eject:
@@ -64043,6 +64039,8 @@ WWW-Extractor:
   GNALABS: 1
 WWW-FBX:
   ARCHITEK: 1
+WWW-FCM-HTTP:
+  XAICRON: 1
 WWW-FMyLife:
   XSAWYERX: 1
 WWW-Facebook-API:
