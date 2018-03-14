@@ -2414,6 +2414,8 @@ Alien-SVN:
   MSCHWERN: 1
 Alien-SamTools:
   HARTZELL: 1
+Alien-Saxon:
+  ETJ: 1
 Alien-Selenium:
   DOMQ: 1
 Alien-SeleniumRC:
@@ -3189,6 +3191,8 @@ AnyEvent-SMTP:
   MONS: 1
 AnyEvent-SNMP:
   MLEHMANN: 1
+AnyEvent-SOCKS-Client:
+  ZLOBUS: 1
 AnyEvent-SSH2:
   FUKAI: 1
 AnyEvent-STOMP:
@@ -9100,6 +9104,8 @@ Bot-ChatBots-Minion:
   POLETTIX: 1
 Bot-ChatBots-Telegram:
   POLETTIX: 1
+Bot-ChatBots-Trello:
+  POLETTIX: 1
 Bot-Cobalt:
   AVENJ: 1
 Bot-Cobalt-DB-Term:
@@ -9833,6 +9839,8 @@ Business-ISSN:
   BDFOY: 1
 Business-Intelligence-MicroStrategy-CommandManager:
   CGRADY: 1
+Business-Inventory-Valuation:
+  PERLANCAR: 1
 Business-KontoCheck:
   MICHEL: 1
 Business-LCCN:
@@ -13096,7 +13104,7 @@ Catalyst-TraitFor-Controller-Breadcrumb-Followed:
 Catalyst-TraitFor-Controller-CAPTCHA:
   BASKARN: 1
 Catalyst-TraitFor-Controller-DBIC-DoesPaging:
-  FREW: 1
+  WESM: 1
 Catalyst-TraitFor-Controller-DoesExtPaging:
   FREW: 1
 Catalyst-TraitFor-Controller-LocaleSelect:
@@ -19494,6 +19502,8 @@ Data-Object-Prototype:
   AWNCORP: 1
 Data-ObjectDriver:
   SIXAPART: 1
+Data-ObjectStore:
+  CANID: 1
 Data-Omap:
   BBAXTER: 1
 Data-OpenGraph:
@@ -19827,6 +19837,10 @@ Data-Sah-Coerce-perl-date-str_natural:
 Data-Sah-Coerce-perl-duration-str_alami_en:
   PERLANCAR: 1
 Data-Sah-Coerce-perl-duration-str_alami_id:
+  PERLANCAR: 1
+Data-Sah-Coerce-perl-str-str_toupper:
+  PERLANCAR: 1
+Data-Sah-Coerce-perl-str-str_trim:
   PERLANCAR: 1
 Data-Sah-CoerceRule-array-str_comma_sep:
   PERLANCAR: 1
@@ -22296,8 +22310,12 @@ Dist-Inkt:
   TOBYINK: 1
 Dist-Inkt-DOAP:
   KJETILK: 1
+Dist-Inkt-Profile-KJETILK:
+  KJETILK: 1
 Dist-Inkt-Profile-TOBYINK:
   TOBYINK: 1
+Dist-Inkt-Role-Git:
+  KJETILK: 1
 Dist-Inkt-Role-Hg:
   TOBYINK: 1
 Dist-Inkt-Role-Release:
@@ -24641,8 +24659,6 @@ Exporter-Lite:
   NEILB: 1
 Exporter-NoWork:
   BMORROW: 1
-Exporter-Proxy:
-  LEMBARK: 1
 Exporter-Renaming:
   ANNO: 1
 Exporter-Rinci:
@@ -27523,8 +27539,6 @@ Generator-Object:
   JBERGER: 1
 Generic-Assertions:
   KENTNL: 1
-Generic-ColorTheme-Kuler:
-  PERLANCAR: 1
 Genetics:
   SLMATH: 1
 Genezzo:
@@ -30749,7 +30763,7 @@ Hash-Map:
 Hash-Match:
   RRWO: 1
 Hash-Merge:
-  HERMES: 1
+  REHSACK: 1
 Hash-Merge-Extra:
   MIXAS: 1
 Hash-Merge-Simple:
@@ -32365,6 +32379,8 @@ Iterator-ToArray:
   YSASAKI: 1
 Iterator-Util:
   ROODE: 1
+Ithumb-XS:
+  BRDUCH: 1
 Ivrs:
   MUKUND: 1
 IxNetwork:
@@ -36222,6 +36238,8 @@ Log-ger-Level-Like-PythonLogging:
   PERLANCAR: 1
 Log-ger-Level-Like-RubyLogging:
   PERLANCAR: 1
+Log-ger-Level-Set:
+  PERLANCAR: 1
 Log-ger-Like-Log4perl:
   PERLANCAR: 1
 Log-ger-Like-LogAny:
@@ -38676,8 +38694,6 @@ Method-Destructor:
   GFUJI: 1
 Method-Extension:
   PACMAN: 1
-Method-Lexical:
-  CHOCOLATE: 1
 Method-ParamValidator:
   MANWAR: 1
 Method-Signatures:
@@ -40012,6 +40028,8 @@ Mojolicious-Plugin-EventSource:
   FCO: 1
 Mojolicious-Plugin-ExposeControllerMethod:
   MAXMIND: 1
+Mojolicious-Plugin-Facets:
+  CAFEGRATZ: 1
 Mojolicious-Plugin-FeedReader:
   DOTAN: 1
 Mojolicious-Plugin-FillInFormLite:
@@ -48339,6 +48357,8 @@ Perl-Critic-Policy-ValuesAndExpressions-PreventSQLInjection:
   AUBERTG: 1
 Perl-Critic-Policy-ValuesAndExpressions-ProhibitSingleArgArraySlice:
   XSAWYERX: 1
+Perl-Critic-Policy-Variables-ProhibitLoopOnHash:
+  XSAWYERX: 1
 Perl-Critic-Policy-Variables-ProhibitUnusedVarsStricter:
   WYANT: 1
 Perl-Critic-Policy-logicLAB-ModuleBlacklist:
@@ -49608,6 +49628,8 @@ Plack-Middleware-ServerStatus-Lite:
   KAZEBURO: 1
 Plack-Middleware-ServerStatus-Tiny:
   ETHER: 1
+Plack-Middleware-ServerTiming:
+  AKIYM: 1
 Plack-Middleware-Session:
   MIYAGAWA: 1
 Plack-Middleware-Session-RemoveCookies:
@@ -51435,6 +51457,8 @@ RPi-SPI:
   STEVEB: 1
 RPi-Serial:
   STEVEB: 1
+RPi-StepperMotor:
+  STEVEB: 1
 RPi-UnicornHatHD:
   SANKO: 1
 RPi-WiringPi:
@@ -51561,6 +51585,8 @@ RT-Extension-AttributeWalker:
   FALCONE: 1
 RT-Extension-AutomaticAssignment:
   BPS: 1
+RT-Extension-BooleanCustomField:
+  GIBUS: 1
 RT-Extension-BounceEmail:
   HOFSTETTM: 1
 RT-Extension-BrandedQueues:
@@ -51732,7 +51758,7 @@ RT-Extension-RepeatTicket:
 RT-Extension-RepliesToResolved:
   FALCONE: 1
 RT-Extension-ReportSpam:
-  ALEXMV: 1
+  BPS: 1
 RT-Extension-ResetPassword:
   BPS: 1
 RT-Extension-RichtextCustomField:
@@ -53582,6 +53608,8 @@ Sah-Schemas-Collection:
 Sah-Schemas-Color:
   PERLANCAR: 1
 Sah-Schemas-CryptoCurrency:
+  PERLANCAR: 1
+Sah-Schemas-Currency:
   PERLANCAR: 1
 Sah-Schemas-Date:
   PERLANCAR: 1
@@ -56343,6 +56371,8 @@ Sys-Lastlog:
   JSTOWE: 1
 Sys-Linux-Namespace:
   SIMCOP: 1
+Sys-Linux-Syscall-Execve:
+  SIMCOP: 1
 Sys-Load:
   BARABAS: 1
 Sys-LoadAvg:
@@ -57277,6 +57307,8 @@ Template-Multipass:
   NUFFIN: 1
 Template-Mustache:
   YANICK: 1
+Template-Nest:
+  TOMGRACEY: 1
 Template-Parser-CET:
   RHANDOM: 1
 Template-Parser-LocalizeNewlines:
@@ -57733,8 +57765,6 @@ Template-Provider-MD5:
   SCOTT: 1
 Template-Provider-Markdown:
   GUGOD: 1
-Template-Provider-Markdown-Pandoc:
-  DAVECROSS: 1
 Template-Provider-OpenOffice:
   ABREZINS: 1
 Template-Provider-PAR:
@@ -59570,6 +59600,8 @@ Test2-Tools-JSON:
   AKIYM: 1
 Test2-Tools-URL:
   PLICEASE: 1
+Test2-Tools-xUnit:
+  CVLIBRARY: 1
 TestGen4Web-Runner:
   MACKERS: 1
 TestLink-API:
@@ -65412,7 +65444,7 @@ Web-Simple:
 Web-Sitemap:
   MBOGDANOV: 1
 Web-Util-DBIC-Paging:
-  FREW: 1
+  WESM: 1
 Web-Util-ExtPaging:
   FREW: 1
 Web-XDO:
@@ -66327,6 +66359,8 @@ Webqq-Qun:
   SJDY: 1
 Webservice-Diffbot:
   GARCER: 1
+Webservice-GAMSTOP:
+  BINARY: 1
 Webservice-InterMine:
   INTERMINE: 1
 Webservice-InterMine-Bio:
@@ -66943,8 +66977,6 @@ Word-Segmenter-Chinese-Lite:
   CHENGANG: 1
 Word2vec-Interface:
   CUFFYCA: 1
-WordList:
-  PERLANCAR: 1
 WordList-BEW-Betawi:
   PERLANCAR: 1
 WordList-CPAN-PAUSEIDs:
@@ -67076,6 +67108,8 @@ Workflow-XPDL:
   SRHOTON: 1
 Working-Daemon:
   ABERGMAN: 1
+WorldCat-API:
+  LOLOBOROS: 1
 Worlogog-Incident:
   MAUKE: 1
 Worlogog-Restart:
@@ -67988,6 +68022,8 @@ XML-Sablotron:
   PAVELH: 1
 XML-Saxon-XSLT2:
   TOBYINK: 1
+XML-Saxon-XSLT3:
+  ETJ: 1
 XML-Saxtract:
   LTHEISEN: 1
 XML-Schema:
@@ -68318,6 +68354,8 @@ YAML-DBH:
   LEOCHARRE: 1
 YAML-Diff:
   INGY: 1
+YAML-Dump:
+  POLETTIX: 1
 YAML-Full:
   INGY: 1
 YAML-Hobo:
