@@ -5061,8 +5061,6 @@ App-ListNewCPANDists:
   PERLANCAR: 1
 App-ListRedhatReleases:
   PERLANCAR: 1
-App-ListRevDeps:
-  PERLANCAR: 1
 App-ListSoftwareLicenses:
   PERLANCAR: 1
 App-ListUbuntuReleases:
@@ -8587,6 +8585,7 @@ Bio-DB-Big:
 Bio-DB-Das-Chado:
   SCAIN: 1
 Bio-DB-HTS:
+  AVULLO: 1
   RISHIDEV: 1
 Bio-DB-NextProt:
   LEPREVOST: 1
@@ -8689,6 +8688,8 @@ Bio-MCPrimers:
   SLENK: 1
 Bio-MLST-Check:
   AJPAGE: 1
+Bio-MUST-Apps-HmmCleaner:
+  ARNODF: 1
 Bio-MUST-Apps-TwoScalp:
   DBAURAIN: 1
 Bio-MUST-Core:
@@ -12000,6 +12001,8 @@ Callback-Cleanup:
   NUFFIN: 1
 Callback-Frame:
   FRACTAL: 1
+Caller-Easy:
+  WORTHMINE: 1
 Callerid:
   MCARR: 1
 Callgrind-Parser:
@@ -13034,7 +13037,7 @@ Catalyst-Plugin-Starch:
 Catalyst-Plugin-Static:
   BOBTFISH: 1
 Catalyst-Plugin-Static-Simple:
-  FREW: 1
+  ILMARI: 1
 Catalyst-Plugin-Static-Simple-ButMaintained:
   ECARROLL: 1
 Catalyst-Plugin-Static-Simple-ByClass:
@@ -13501,7 +13504,6 @@ Catmandu-Adlib:
 Catmandu-AlephX:
   HOCHSTEN: 1
 Catmandu-ArXiv:
-  NICS: 1
   VPEIL: 1
 Catmandu-Atom:
   HOCHSTEN: 1
@@ -16835,6 +16837,8 @@ DBD-NET:
   EDLIU: 1
 DBD-Neo4p:
   MAJENSEN: 1
+DBD-ODBC:
+  MJEVANS: 1
 DBD-Oracle:
   PYTHIAN: 1
 DBD-Ovrimos:
@@ -18860,6 +18864,8 @@ Data-AutoBimap:
   BJOERN: 1
 Data-BISON:
   ANDYA: 1
+Data-BLNS:
+  DCONWAY: 1
 Data-BT-PhoneBill:
   TMTM: 1
 Data-Babel:
@@ -29149,6 +29155,8 @@ Gzip-Faster:
   BKB: 1
 Gzip-RandomAccess:
   RJH: 1
+H:
+  EXODIST: 1
 HADaemon-Control:
   IKRUGLOV: 1
 HAL-Tiny:
@@ -30004,6 +30012,8 @@ HTML-Tidy:
   PETDANCE: 1
 HTML-Tidy-libXML:
   DANKOGAI: 1
+HTML-Tidy5:
+  PETDANCE: 1
 HTML-Timeline:
   RSAVAGE: 1
 HTML-Tiny:
@@ -35884,8 +35894,6 @@ Log-Dispatch-Desktop-Notify:
   CGARBS: 1
 Log-Dispatch-DesktopNotification:
   ETHER: 1
-Log-Dispatch-Email-Async:
-  RAJAG: 1
 Log-Dispatch-Email-EmailSend:
   DROLSKY: 1
 Log-Dispatch-Email-Mailer:
@@ -39890,6 +39898,8 @@ Mojolicious-Plugin-AutoIndex:
   CHINAXING: 1
 Mojolicious-Plugin-AutoParams:
   BDUGGAN: 1
+Mojolicious-Plugin-AutoReload:
+  PREACTION: 1
 Mojolicious-Plugin-AutoRoute:
   KIMOTO: 1
 Mojolicious-Plugin-AutoSecrets:
@@ -40191,7 +40201,7 @@ Mojolicious-Plugin-MoreUtilHelpers:
 Mojolicious-Plugin-MostTagHelpers:
   HRUPP: 1
 Mojolicious-Plugin-MountPSGI:
-  JBERGER: 1
+  MRAMBERG: 1
 Mojolicious-Plugin-MozPersona:
   HJANSEN: 1
 Mojolicious-Plugin-MultiConfig:
@@ -40326,6 +40336,8 @@ Mojolicious-Plugin-Routes-Restful:
   BYTEROCK: 1
 Mojolicious-Plugin-RoutesAuthDBI:
   MCHE: 1
+Mojolicious-Plugin-RoutesConfig:
+  BEROV: 1
 Mojolicious-Plugin-RussianPost:
   KOSTYA: 1
 Mojolicious-Plugin-SMS:
@@ -42040,6 +42052,8 @@ Net-Abuse-Utils-Spamhaus:
   SAXJAZMAN: 1
 Net-Address-Ethernet:
   MTHURN: 1
+Net-Address-IP-Cipher:
+  HUGUEI: 1
 Net-Address-IP-Local:
   JMEHNLE: 1
 Net-Address-IPv4-Local:
@@ -43618,6 +43632,8 @@ Net-PcapWriter:
   SULLR: 1
 Net-Peep:
   STARKY: 1
+Net-Pface:
+  XMOLEX: 1
 Net-PhotoBackup-Server:
   DAVEWEBB: 1
 Net-PicApp:
@@ -44068,8 +44084,6 @@ Net-Silk:
   MSISK: 1
 Net-Simplify:
   SIMPLIFY: 1
-Net-SinFP:
-  GOMOR: 1
 Net-SinFP3:
   GOMOR: 1
 Net-SinFP3-Plugin-Signature:
@@ -50749,7 +50763,7 @@ Progress-Any-Output-Callback:
 Progress-Any-Output-DesktopNotify:
   PERLANCAR: 1
 Progress-Any-Output-TermMessage:
-  SHARYANTO: 1
+  PERLANCAR: 1
 Progress-Any-Output-TermProgressBarColor:
   PERLANCAR: 1
 Progress-Any-Output-TermSpin:
@@ -51585,6 +51599,8 @@ RT-Extension-AttributeWalker:
   FALCONE: 1
 RT-Extension-AutomaticAssignment:
   BPS: 1
+RT-Extension-BecomeUser:
+  MBP: 1
 RT-Extension-BooleanCustomField:
   GIBUS: 1
 RT-Extension-BounceEmail:
@@ -54483,6 +54499,8 @@ Skeletor-Template-Example:
   JJNAPIORK: 1
 Skeletor-Template-Quick:
   MSCHILLI: 1
+SkewHeap:
+  JEFFOBER: 1
 Skype-Any:
   AKIYM: 1
 SkypeAPI:
@@ -60501,6 +60519,8 @@ Text-Spintax:
   DALEEVANS: 1
 Text-Split:
   ROKR: 1
+Text-Sprintf-Length:
+  PERLANCAR: 1
 Text-Sprintf-Named:
   SHLOMIF: 1
 Text-Sprintf-Zenkaku:
@@ -66977,6 +66997,8 @@ Word-Segmenter-Chinese-Lite:
   CHENGANG: 1
 Word2vec-Interface:
   CUFFYCA: 1
+WordList:
+  PERLANCAR: 1
 WordList-BEW-Betawi:
   PERLANCAR: 1
 WordList-CPAN-PAUSEIDs:
@@ -67000,6 +67022,8 @@ WordList-FR-WiktionaryES:
 WordList-ID-BIP39:
   PERLANCAR: 1
 WordList-ID-KBBI:
+  PERLANCAR: 1
+WordList-IT-BIP39:
   PERLANCAR: 1
 WordList-JA-BIP39:
   PERLANCAR: 1
@@ -67054,6 +67078,8 @@ WordListC:
 WordLists:
   PERRETTDL: 1
 WordLists-ID-Common:
+  PERLANCAR: 1
+WordLists-Password-10Million:
   PERLANCAR: 1
 WordListsC-Password-10Million:
   PERLANCAR: 1
