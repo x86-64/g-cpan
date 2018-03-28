@@ -2266,8 +2266,6 @@ Alien-HDF4:
   ETJ: 1
 Alien-HIDAPI:
   ATHREEF: 1
-Alien-HTSlib:
-  RISHIDEV: 1
 Alien-Hunspell:
   PLICEASE: 1
 Alien-Hush:
@@ -2882,6 +2880,8 @@ AnyEvent-ConnPool:
   JUSTNOXX: 1
 AnyEvent-Connection:
   MONS: 1
+AnyEvent-Connector:
+  TOSHIOITO: 1
 AnyEvent-Consul:
   ROBN: 1
 AnyEvent-Consul-Exec:
@@ -4346,6 +4346,8 @@ App-BitBucketCli:
   IVANWILLS: 1
 App-BlockWebFlooders:
   PERLANCAR: 1
+App-BloomUtils:
+  PERLANCAR: 1
 App-Bondage:
   HINRIK: 1
 App-BoolFindGrep:
@@ -4669,6 +4671,8 @@ App-EditorTools:
   MGRIMES: 1
 App-Eduard:
   MGV: 1
+App-Egaz:
+  WANGQ: 1
 App-ElasticSearch-Utilities:
   BLHOTSKY: 1
 App-Elog:
@@ -5249,6 +5253,8 @@ App-NetdiscoX-Web-Plugin-Observium:
   OLIVER: 1
 App-NetdiscoX-Web-Plugin-RANCID:
   OLIVER: 1
+App-Netsync:
+  DMTUCKER: 1
 App-NoPAN:
   KAZUHO: 1
 App-NoodlePay:
@@ -8586,7 +8592,6 @@ Bio-DB-Das-Chado:
   SCAIN: 1
 Bio-DB-HTS:
   AVULLO: 1
-  RISHIDEV: 1
 Bio-DB-NextProt:
   LEPREVOST: 1
 Bio-DB-USeq:
@@ -11066,8 +11071,6 @@ CGI-Widget-Path:
   ENRYS: 1
 CGI-Widget-Tabs:
   SRSHAH: 1
-CGI-Wiki:
-  DOM: 1
 CGI-Wiki-Formatter-Multiple:
   KAKE: 1
 CGI-Wiki-Formatter-Pod:
@@ -15321,8 +15324,6 @@ Compress-Deflate7:
   BJOERN: 1
 Compress-Huffman:
   BKB: 1
-Compress-Huffman-Binary:
-  BKB: 1
 Compress-LZ4:
   GRAY: 1
 Compress-LZ4Frame:
@@ -17176,6 +17177,8 @@ DBIx-Class-InflateColumn-Boolean:
   GRAF: 1
 DBIx-Class-InflateColumn-Currency:
   CLACO: 1
+DBIx-Class-InflateColumn-DT:
+  NOHUHU: 1
 DBIx-Class-InflateColumn-DateTime-Duration:
   CUBABIT: 1
 DBIx-Class-InflateColumn-DateTime-WithTimeZone:
@@ -18996,6 +18999,8 @@ Data-Currency:
   DICHI: 1
 Data-DEC:
   KITOMER: 1
+Data-DFA:
+  PRBRENAN: 1
 Data-DPath:
   SCHWIGON: 1
 Data-DPath-Validator:
@@ -19483,6 +19488,8 @@ Data-Multihash:
   RIGHTFOLD: 1
 Data-Munge:
   MAUKE: 1
+Data-NFA:
+  PRBRENAN: 1
 Data-Nest:
   MUDDYDIXN: 1
 Data-Nested:
@@ -21245,7 +21252,7 @@ Devel-EvalContext:
 Devel-EvalError:
   TYEMQ: 1
 Devel-Events:
-  NUFFIN: 1
+  ETHER: 1
 Devel-Events-Filter-Size:
   NUFFIN: 1
 Devel-Events-Generator-ClassPublisher:
@@ -23174,12 +23181,12 @@ Dist-Zilla-Plugin-UploadToCPAN-WWWPAUSESimple:
   PERLANCAR: 1
 Dist-Zilla-Plugin-UploadToCpanSite:
   STEPHENCA: 1
-Dist-Zilla-Plugin-UploadToGoogleCode:
-  DOHERTY: 1
 Dist-Zilla-Plugin-UploadToSFTP:
   MJGARDNER: 1
 Dist-Zilla-Plugin-UploadToStratopan:
   FRIEDO: 1
+Dist-Zilla-Plugin-UseBuildPL:
+  VLYON: 1
 Dist-Zilla-Plugin-UseUnsafeInc:
   ETHER: 1
 Dist-Zilla-Plugin-VerifyPhases:
@@ -28562,8 +28569,8 @@ Google-Client-Collection:
   ZIALI: 1
 Google-Cloud-Speech:
   PRAJITH: 1
-Google-Code-Upload:
-  DOHERTY: 1
+Google-ContentAPI:
+  BGERRARD: 1
 Google-DNS:
   BAYASHI: 1
 Google-Data-JSON:
@@ -30874,8 +30881,6 @@ Haul:
   LBROCARD: 1
 Hazy:
   LNATION: 1
-Hazy-Cosmic-Jive:
-  BKB: 1
 Heap:
   JMM: 1
 Heap-Fibonacci-Fast:
@@ -31049,6 +31054,8 @@ IBM-V7000Unified:
   LTP: 1
 IBM-XCLI:
   LTP: 1
+ICC-Profile:
+  BIRKETT: 1
 ICS-Simple:
   WILSOND: 1
 ICal-Format-Natural:
@@ -32745,6 +32752,8 @@ JavaScript-Dependency-Manager:
   FREW: 1
 JavaScript-Duktape:
   MAMOD: 1
+JavaScript-Duktape-XS:
+  GONZUS: 1
 JavaScript-Dumper:
   PERLER: 1
 JavaScript-Ectype:
@@ -36137,6 +36146,8 @@ Log-QnD:
 Log-Radis:
   ZURBORG: 1
 Log-Report:
+  MARKOV: 1
+Log-Report-Lexicon:
   MARKOV: 1
 Log-Report-Optional:
   MARKOV: 1
@@ -39554,6 +39565,8 @@ Mojo-IOLoop-ReadWriteProcess:
   MUDLER: 1
 Mojo-IOLoop-Signal:
   SKAJI: 1
+Mojo-IOLoop-Stream-Role-LineBuffer:
+  DBOOK: 1
 Mojo-IOLoop-Subprocess-Sereal:
   DBOOK: 1
 Mojo-IOLoop-Tail:
@@ -40036,6 +40049,8 @@ Mojolicious-Plugin-ErrorsAndWarnings:
   KWAKWA: 1
 Mojolicious-Plugin-EventSource:
   FCO: 1
+Mojolicious-Plugin-Events:
+  CRLCU: 1
 Mojolicious-Plugin-ExposeControllerMethod:
   MAXMIND: 1
 Mojolicious-Plugin-Facets:
@@ -40068,6 +40083,8 @@ Mojolicious-Plugin-Future:
   DBOOK: 1
 Mojolicious-Plugin-Geo:
   ELBOW: 1
+Mojolicious-Plugin-GetSentry:
+  CRLCU: 1
 Mojolicious-Plugin-Google-Cloud-UserAgent:
   SCOTTW: 1
 Mojolicious-Plugin-GoogleAnalytics:
@@ -41149,6 +41166,8 @@ MooseX-Q4MLog:
   DMAKI: 1
 MooseX-RW:
   FREDERICD: 1
+MooseX-RelClassTypes:
+  TOMGRACEY: 1
 MooseX-RelatedClassRoles:
   HDP: 1
 MooseX-RelatedClasses:
@@ -45823,6 +45842,8 @@ PDL-Finance-TA:
   KMX: 1
 PDL-Finance-Talib:
   KMX: 1
+PDL-Fit-Levmar:
+  JLAPEYRE: 1
 PDL-FuncND:
   DJERIUS: 1
 PDL-GA:
@@ -47071,6 +47092,8 @@ Package-New:
   MRDVT: 1
 Package-Pkg:
   ROKR: 1
+Package-Prototype:
+  CODEHEX: 1
 Package-Relative:
   NUFFIN: 1
 Package-Rename:
@@ -48918,8 +48941,6 @@ Petrophysics-Units:
   STEINSBO: 1
 Pg-Blobs:
   JETEVE: 1
-Pg-BulkCopy:
-  BRAINBUZ: 1
 Pg-CLI:
   DROLSKY: 1
 Pg-Corruption:
@@ -52195,6 +52216,8 @@ Regexp-Common-WithActions:
   RUZ: 1
 Regexp-Common-debian:
   WHYNOT: 1
+Regexp-Common-json:
+  PERLANCAR: 1
 Regexp-Common-microsyntax:
   GAVINC: 1
 Regexp-Common-net-CIDR:
@@ -52292,6 +52315,8 @@ Regexp-Parsertron:
 Regexp-Pattern:
   PERLANCAR: 1
 Regexp-Pattern-CPAN:
+  PERLANCAR: 1
+Regexp-Pattern-JSON:
   PERLANCAR: 1
 Regexp-Pattern-License:
   JONASS: 1
@@ -53623,6 +53648,8 @@ Sah-Schemas-Collection:
   PERLANCAR: 1
 Sah-Schemas-Color:
   PERLANCAR: 1
+Sah-Schemas-Country:
+  PERLANCAR: 1
 Sah-Schemas-CryptoCurrency:
   PERLANCAR: 1
 Sah-Schemas-Currency:
@@ -53638,6 +53665,8 @@ Sah-Schemas-Examples:
 Sah-Schemas-Float:
   PERLANCAR: 1
 Sah-Schemas-Int:
+  PERLANCAR: 1
+Sah-Schemas-Language:
   PERLANCAR: 1
 Sah-Schemas-Net:
   PERLANCAR: 1
@@ -54601,6 +54630,8 @@ Slob:
   MGV: 1
 Sloth:
   CYCLES: 1
+Slovo:
+  BEROV: 1
 Slurm-Sacctmgr:
   PAYERLE: 1
 Slurm-Sshare:
@@ -54762,7 +54793,7 @@ Sofu:
 SoggyOnion:
   IAN: 1
 SolarBeam:
-  JHTHORSEN: 1
+  MRAMBERG: 1
 Solaris:
   ABURLISON: 1
 Solaris-ACL:
@@ -56706,6 +56737,8 @@ TX:
   OPI: 1
 TXTCOD:
   ALAMAZ: 1
+Table-Hack:
+  TULAMILI: 1
 Table-ParentChild:
   MIKEWONG: 1
 Table-Readable:
@@ -59063,7 +59096,7 @@ Test-Pcuke-Gherkin:
 Test-Perinci-CmdLine:
   PERLANCAR: 1
 Test-Perl-Critic:
-  THALJEF: 1
+  PETDANCE: 1
 Test-Perl-Critic-Progressive:
   THALJEF: 1
 Test-Perl-Dist:
@@ -61699,6 +61732,8 @@ Time-Moment-Epoch:
   HEANEY: 1
 Time-Moment-Ext:
   DSHADOW: 1
+Time-Moment-Role-TimeZone:
+  DBOOK: 1
 Time-Monotonic:
   DAVID: 1
 Time-NT:
@@ -67073,17 +67108,13 @@ WordList-ZH-Simplified-BIP39:
   PERLANCAR: 1
 WordList-ZH-Traditional-BIP39:
   PERLANCAR: 1
-WordListC:
-  PERLANCAR: 1
 WordLists:
   PERRETTDL: 1
+WordLists-Char-Latin1:
+  PERLANCAR: 1
 WordLists-ID-Common:
   PERLANCAR: 1
 WordLists-Password-10Million:
-  PERLANCAR: 1
-WordListsC-Password-10Million:
-  PERLANCAR: 1
-WordListsC-Password-SecLists:
   PERLANCAR: 1
 WordNet-BestStem:
   MAGGIEXYZ: 1
@@ -67284,6 +67315,8 @@ X11-WindowHierarchy:
   TEAM: 1
 X11-XCB:
   MSTPLBG: 1
+X11-XRandR:
+  DJERIUS: 1
 X11-Xlib:
   MARKELLIS: 1
   NERDVANA: 1
@@ -68648,6 +68681,8 @@ Zabbix-Tiny:
   WHOSGONNA: 1
 Zabbix2-API:
   FGA: 1
+Zcash-RPC-Client:
+  CYCLENERD: 1
 Zeal:
   MGV: 1
 Zed:
@@ -68897,6 +68932,24 @@ circular-require:
   RJBS: 1
 classes:
   RMUHLE: 1
+cli-crosstable:
+  TULAMILI: 1
+cli-latextable:
+  TULAMILI: 1
+cli-numbers-random:
+  TULAMILI: 1
+cli-numbers-util:
+  TULAMILI: 1
+cli-rows-util:
+  TULAMILI: 1
+cli-rows-venn:
+  TULAMILI: 1
+cli-tsv-keyvalue:
+  TULAMILI: 1
+cli-tsv-latextable:
+  TULAMILI: 1
+cli-tsv-util:
+  TULAMILI: 1
 clobber:
   JPIERCE: 1
 cmt-libchm:
