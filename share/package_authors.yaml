@@ -847,8 +847,6 @@ Acme-Everything:
   ADAMK: 1
 Acme-Evil:
   MGV: 1
-Acme-EvilLicense:
-  KIRILLM: 1
 Acme-ExceptionEater:
   KYLE: 1
 Acme-EyeDrops:
@@ -1000,6 +998,8 @@ Acme-KMX-Test:
   KMX: 1
 Acme-Kensiro:
   TOKUHIROM: 1
+Acme-Keyakizaka46:
+  OKAWARI: 1
 Acme-KeyboardMarathon:
   BENNIE: 1
 Acme-Kiyoshi-Array:
@@ -1361,6 +1361,8 @@ Acme-Playwright:
   SIFUKURT: 1
 Acme-Pod-MathJax:
   JBERGER: 1
+Acme-Pointer:
+  CODEHEX: 1
 Acme-Pony:
   DCANTRELL: 1
 Acme-Pony-Pink:
@@ -2488,6 +2490,8 @@ Alien-ffmpeg:
   GETTY: 1
 Alien-flex:
   PLICEASE: 1
+Alien-gdal:
+  SLAFFAN: 1
 Alien-gettext:
   GETTY: 1
 Alien-gmake:
@@ -5018,7 +5022,7 @@ App-KeePass2:
 App-Kit:
   DMUEY: 1
 App-Koyomi:
-  KEYAMB: 1
+  PROGRHYME: 1
 App-Kritika:
   VTI: 1
 App-LDAP:
@@ -5130,7 +5134,7 @@ App-MediaInfo:
 App-MediaWiki2Git:
   MCAST: 1
 App-Memcached-CLI:
-  KEYAMB: 1
+  PROGRHYME: 1
 App-Memcached-Tool:
   KEYAMB: 1
 App-MetaCPAN-Gtk2-Notify:
@@ -5733,6 +5737,8 @@ App-Software-License:
   ETHER: 1
 App-SourcePlot:
   GSB: 1
+App-SpamcupNG:
+  ARFREITAS: 1
 App-Spec:
   TINITA: 1
 App-SpeedTest:
@@ -6101,6 +6107,8 @@ App-cpantimes:
   TOBYINK: 1
 App-cpm:
   SKAJI: 1
+App-cryp-mn:
+  PERLANCAR: 1
 App-csv2sqlite:
   RWSTAUNER: 1
 App-datecalc:
@@ -6119,6 +6127,8 @@ App-derived:
   KAZEBURO: 1
 App-devmode:
   IVANWILLS: 1
+App-diceware:
+  JOROL: 1
 App-diffdir:
   IVANWILLS: 1
 App-diffwc:
@@ -7129,6 +7139,8 @@ Astro-XSPEC-TableModel:
   DJERIUS: 1
 Astro-satpass:
   WYANT: 1
+Astro-units:
+  SPAJAI: 1
 Astroboy:
   LEOCHARRE: 1
 Async:
@@ -10072,8 +10084,6 @@ Business-Shipping-MRW:
   HDELGADO: 1
 Business-Shipping-UPS_XML:
   DOWNHOM: 1
-Business-SiteCatalyst:
-  JPINKHAM: 1
 Business-Stripe:
   PHAM: 1
 Business-TNT-ExpressConnect:
@@ -11189,6 +11199,8 @@ CLI:
   CPHIL: 1
 CLI-Application:
   JKRAMER: 1
+CLI-ComputerFiles-Util:
+  TULAMILI: 1
 CLI-Dispatch:
   ISHIGAKI: 1
 CLI-Dispatch-Docopt:
@@ -16587,7 +16599,7 @@ Crypt-Twofish2:
 Crypt-Twofish_PP:
   GUIDO: 1
 Crypt-U2F-Server:
-  CAVAC: 1
+  GUIMARD: 1
 Crypt-URandom:
   DDICK: 1
 Crypt-UnixCrypt:
@@ -16637,6 +16649,8 @@ Crypt-xDBM_File:
 CryptX:
   MIK: 1
 CryptoCurrency-Catalog:
+  PERLANCAR: 1
+CryptoExchange-Catalog:
   PERLANCAR: 1
 Csistck:
   AGJ: 1
@@ -18700,6 +18714,8 @@ Dancer2-Plugin-Locale-Wolowitz:
   BLOM: 1
 Dancer2-Plugin-LogContextual:
   MITHALDU: 1
+Dancer2-Plugin-Map-Tube:
+  MANWAR: 1
 Dancer2-Plugin-Minify:
   ZURBORG: 1
 Dancer2-Plugin-Model:
@@ -19087,6 +19103,8 @@ Data-Dump-Patch-Deparse:
   PERLANCAR: 1
 Data-Dump-Patch-ReplaceWithDataDmp:
   PERLANCAR: 1
+Data-Dump-Sexp:
+  MGV: 1
 Data-Dump-SortKeys:
   PERLANCAR: 1
 Data-Dump-Streamer:
@@ -24462,6 +24480,8 @@ Escape-Houdini:
   YANICK: 1
 Etcd:
   ROBN: 1
+Ethereum-RPC-Client:
+  BINARY: 1
 Etherpad:
   LDIDRY: 1
 Etherpad-API:
@@ -24610,8 +24630,6 @@ ExclusiveLock-Guard:
   YAPPO: 1
 Exherbo-Packager:
   WORR: 1
-Exim-SpoolMessage:
-  KIRILLM: 1
 Exobrain:
   PJF: 1
 Exobrain-Beeminder:
@@ -24812,7 +24830,7 @@ FASTAid:
 FB-Statify:
   XXGHOSTXX: 1
 FB3:
-  EGOROD: 1
+  GRIBUSER: 1
 FB3-Convert:
   GRIBUSER: 1
 FBP:
@@ -27546,6 +27564,8 @@ Genealogy-Gedcom:
   RSAVAGE: 1
 Genealogy-Gedcom-Date:
   RSAVAGE: 1
+Genealogy-Relationship:
+  DAVECROSS: 1
 Geneos-API:
   TOT: 1
 Generator-Object:
@@ -27646,6 +27666,8 @@ Geo-Coder-Canada:
   JETTRA: 1
 Geo-Coder-Cloudmade:
   FRIFFIN: 1
+Geo-Coder-Free:
+  NHORNE: 1
 Geo-Coder-GeocodeFarm:
   DEXTER: 1
 Geo-Coder-Geocoder-US:
@@ -35210,6 +35232,8 @@ List-Uniq:
   JFITZ: 1
 List-Util-ArrayRef-PP:
   PERLANCAR: 1
+List-Util-MaybeXS:
+  HAARG: 1
 List-Util-Superpositions:
   RSOD: 1
 List-Util-Uniq:
@@ -35244,7 +35268,7 @@ Locale-BR:
   GARU: 1
 Locale-Babelfish:
   GRIF: 1
-  VSESPB: 1
+  KSYSOEV: 1
 Locale-CA:
   NHORNE: 1
 Locale-CLDR:
@@ -37419,6 +37443,8 @@ Map-Tube-SaintPetersburg:
   SKIM: 1
 Map-Tube-Samara:
   SKIM: 1
+Map-Tube-Server:
+  MANWAR: 1
 Map-Tube-Singapore:
   SKIM: 1
 Map-Tube-Sofia:
@@ -37477,6 +37503,8 @@ Marketplace-Ebay:
   HORNBURG: 1
 Marketplace-Rakuten:
   HORNBURG: 1
+Markua-Parser:
+  SZABGAB: 1
 Markup-Content:
   BPRUDENT: 1
 Markup-MatchNode:
@@ -38527,6 +38555,8 @@ Memoize-Once:
   ZEFRAM: 1
 Memoize-Saves:
   FLORA: 1
+Memorator:
+  POLETTIX: 1
 Memory-Process:
   SKIM: 1
 Memory-Stats:
@@ -39545,6 +39575,8 @@ Mojo-Ecrawler:
   ORANGE: 1
 Mojo-Email-Checker-SMTP:
   SNELIUS: 1
+Mojo-Feed:
+  DOTAN: 1
 Mojo-FriendFeed:
   JBERGER: 1
 Mojo-GoogleAnalytics:
@@ -40055,8 +40087,6 @@ Mojolicious-Plugin-ExposeControllerMethod:
   MAXMIND: 1
 Mojolicious-Plugin-Facets:
   CAFEGRATZ: 1
-Mojolicious-Plugin-FeedReader:
-  DOTAN: 1
 Mojolicious-Plugin-FillInFormLite:
   UCHIKO: 1
 Mojolicious-Plugin-Foil:
@@ -40477,6 +40507,8 @@ Mojolicious-Plugin-Util-RandomString:
   AKRON: 1
 Mojolicious-Plugin-VHost:
   BPMEDLEY: 1
+Mojolicious-Plugin-Validate-Tiny:
+  CRLCU: 1
 Mojolicious-Plugin-ValidateTiny:
   KOORCHIK: 1
 Mojolicious-Plugin-ViewBuilder:
@@ -40517,8 +40549,6 @@ Mojolicious-Plugin-XRD:
   AKRON: 1
 Mojolicious-Plugin-YamlConfig:
   DATA: 1
-Mojolicious-Plugin-YubiVerify:
-  KIRILLM: 1
 Mojolicious-Plugin-ZombieApocalypse:
   TEMPIRE: 1
 Mojolicious-Quick:
@@ -40719,6 +40749,8 @@ MooX-Role-CryptedPassword:
   ABELTJE: 1
 MooX-Role-DependsOn:
   AVENJ: 1
+MooX-Role-JSON_LD:
+  DAVECROSS: 1
 MooX-Role-Logger:
   DAGOLDEN: 1
 MooX-Role-POE-Emitter:
@@ -42239,7 +42271,7 @@ Net-Async-Redis:
 Net-Async-SMTP:
   TEAM: 1
 Net-Async-SOCKS:
-  TEAM: 1
+  PEVANS: 1
 Net-Async-SPORE:
   TEAM: 1
 Net-Async-Slack:
@@ -46522,8 +46554,6 @@ POE-Component-ResourcePool:
   NUFFIN: 1
 POE-Component-ResourcePool-Resource-TokenBucket:
   NUFFIN: 1
-POE-Component-SASLAuthd:
-  KIRILLM: 1
 POE-Component-SMTP:
   CWEST: 1
 POE-Component-SNMP:
@@ -46677,8 +46707,6 @@ POE-Component-XUL:
   XANTUS: 1
 POE-Component-YahooMessenger:
   MIYAGAWA: 1
-POE-Component-YubiAuth:
-  KIRILLM: 1
 POE-Declarative:
   HANENKAMP: 1
 POE-Declare:
@@ -51558,6 +51586,8 @@ RT-Authen-ExternalAuth:
   BPS: 1
 RT-Authen-Federation:
   CARLOSFB: 1
+RT-Authen-OAuth2:
+  BPS: 1
 RT-Authen-OpenID:
   ABERGMAN: 1
 RT-Authen-PAUSE:
@@ -52182,6 +52212,8 @@ Regex-Number-GtLt:
   IFROL: 1
 Regex-PreSuf:
   JHI: 1
+Regex-Range-Number:
+  LNATION: 1
 Regexp-Assemble:
   RSAVAGE: 1
 Regexp-Assemble-Compressed:
@@ -52366,6 +52398,8 @@ Relations-Family:
   GAFFER: 1
 Relations-Query:
   GAFFER: 1
+Release-Checklist:
+  HMBRAND: 1
 Release-Util-Git:
   PERLANCAR: 1
 ReleaseAction:
@@ -53060,6 +53094,7 @@ SNMP-Effective:
 SNMP-Extension-PassPersist:
   SAPER: 1
 SNMP-Info:
+  EMILLER: 1
   OLIVER: 1
 SNMP-LogParser:
   NITO: 1
@@ -54431,8 +54466,6 @@ Siebel-Params-Checker:
 Siebel-SOAP-Auth:
   ARFREITAS: 1
 Siebel-Srvrmgr:
-  ARFREITAS: 1
-Siebel-Srvrmgr-Exporter:
   ARFREITAS: 1
 Siesta:
   RCLAMP: 1
@@ -55884,6 +55917,8 @@ Struct-Dumb:
   PEVANS: 1
 Struct-Flatten-Template:
   RRWO: 1
+Struct-Match:
+  LNATION: 1
 Struct-Path:
   MIXAS: 1
 Struct-Path-JsonPointer:
@@ -56196,6 +56231,8 @@ Swim-Plugin-cpan:
   INGY: 1
 Switch:
   CHORNY: 1
+Switch-Again:
+  LNATION: 1
 Switch-Perlish:
   BROQ: 1
 Switch-Plain:
@@ -56741,6 +56778,10 @@ Table-Hack:
   TULAMILI: 1
 Table-ParentChild:
   MIKEWONG: 1
+Table-PreAnalysis:
+  TULAMILI: 1
+Table-PreCheck:
+  TULAMILI: 1
 Table-Readable:
   BKB: 1
 Table-Simple:
@@ -58511,6 +58552,8 @@ Test-DistManifest:
   ETHER: 1
 Test-Distribution:
   SRSHAH: 1
+Test-DocClaims:
+  SCOTTLEE: 1
 Test-Docker-Image:
   IWATA: 1
 Test-Docker-MySQL:
@@ -63042,6 +63085,8 @@ UUID-Random-Patch-UseMRS:
   SHARYANTO: 1
 UUID-Tiny:
   CAUGUSTIN: 1
+UUID-URandom:
+  DAGOLDEN: 1
 UV:
   TYPESTER: 1
 UV-Util:
@@ -65819,6 +65864,8 @@ WebService-Geocodio:
   MALLEN: 1
 WebService-Geograph-API:
   SDEN: 1
+WebService-GetSongBPM:
+  GENE: 1
 WebService-GialloZafferano:
   MUDLER: 1
 WebService-GigaTools:
@@ -67068,6 +67115,14 @@ WordList-MetaSyntactic:
   PERLANCAR: 1
 WordList-MetaSyntactic-dangdut:
   PERLANCAR: 1
+WordList-Mod:
+  PERLANCAR: 1
+WordList-Mod-BinarySearch:
+  PERLANCAR: 1
+WordList-Mod-Bloom:
+  PERLANCAR: 1
+WordList-Number-Prime-First10000:
+  PERLANCAR: 1
 WordList-Phrase-EN-Idiom-Wiktionary:
   PERLANCAR: 1
 WordList-Phrase-EN-Proverb-TWW:
@@ -67098,7 +67153,13 @@ WordList-Phrase-ZH-Proverb-Wiktionary:
   PERLANCAR: 1
 WordList-SU-LTIS:
   PERLANCAR: 1
+WordList-Test-Dynamic-Number-10000:
+  PERLANCAR: 1
+WordList-Test-Dynamic-Number-10Million:
+  PERLANCAR: 1
 WordList-Test-Empty:
+  PERLANCAR: 1
+WordList-Test-Number-1Million:
   PERLANCAR: 1
 WordList-Test-Unicode-Currency:
   PERLANCAR: 1
@@ -68945,8 +69006,6 @@ cli-rows-util:
 cli-rows-venn:
   TULAMILI: 1
 cli-tsv-keyvalue:
-  TULAMILI: 1
-cli-tsv-latextable:
   TULAMILI: 1
 cli-tsv-util:
   TULAMILI: 1
