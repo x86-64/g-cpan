@@ -209,6 +209,8 @@ Pod-Parser:
 Pod-Simple:
   category: virtual
   name: perl-Pod-Simple
+RadiusPerl:
+  name: Authen-Radius
 Safe:
   category: virtual
   name: perl-Safe

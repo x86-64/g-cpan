@@ -1709,6 +1709,8 @@ Acme-Your:
   RCLAMP: 1
 Acme-Zalgo:
   SPROINGIE: 1
+Acme-ZeroWidth:
+  VTI: 1
 Acme-constant:
   GLITCHMR: 1
 Acme-ctreptow:
@@ -2580,6 +2582,8 @@ AlignDB-Window:
   WANGQ: 1
 Alister-Base-Sums:
   LEOCHARRE: 1
+Aliyun:
+  NSNAKE: 1
 AllKnowingDNS:
   MSTPLBG: 1
 Alt:
@@ -6029,8 +6033,6 @@ App-bovespa:
   RECSKY: 1
 App-breakout:
   LIMITUSUS: 1
-App-btcindo:
-  PERLANCAR: 1
 App-calendr:
   MANWAR: 1
 App-cdnget:
@@ -6107,6 +6109,8 @@ App-cpantimes:
   TOBYINK: 1
 App-cpm:
   SKAJI: 1
+App-cryp-exchange:
+  PERLANCAR: 1
 App-cryp-mn:
   PERLANCAR: 1
 App-csv2sqlite:
@@ -6232,6 +6236,8 @@ App-httpstatus:
 App-iTan:
   MAROS: 1
 App-imgsize:
+  PERLANCAR: 1
+App-indodax:
   PERLANCAR: 1
 App-installdeps:
   YAKEX: 1
@@ -7125,6 +7131,8 @@ Astro-Time-HJD:
   RCREAGER: 1
 Astro-UTDF:
   WYANT: 1
+Astro-Units:
+  SPAJAI: 1
 Astro-Utils:
   MANWAR: 1
 Astro-VO-VOEvent:
@@ -7139,8 +7147,6 @@ Astro-XSPEC-TableModel:
   DJERIUS: 1
 Astro-satpass:
   WYANT: 1
-Astro-units:
-  SPAJAI: 1
 Astroboy:
   LEOCHARRE: 1
 Async:
@@ -9837,6 +9843,8 @@ Business-ID-Mandiri:
   PERLANCAR: 1
 Business-ID-NIK:
   PERLANCAR: 1
+Business-ID-NKK:
+  PERLANCAR: 1
 Business-ID-NOPPBB:
   PERLANCAR: 1
 Business-ID-NPWP:
@@ -11704,9 +11712,9 @@ CPANXR:
 CPM:
   PECO: 1
 CPP-catch-test:
-  SYBER: 1
+  RANDIR: 1
 CPP-panda-lib:
-  BFDEVER: 1
+  RANDIR: 1
 CPS:
   PEVANS: 1
 CPS-Governor-IOAsync:
@@ -14163,7 +14171,7 @@ Class-Action:
 Class-ActsLike:
   CHROMATIC: 1
 Class-Adapter:
-  ADAMK: 1
+  ETHER: 1
 Class-Agreement:
   IAN: 1
 Class-AlzaboWrapper:
@@ -19011,6 +19019,8 @@ Data-Crumbr:
   POLETTIX: 1
 Data-Cube:
   MUDDYDIXN: 1
+Data-Cuid:
+  ZAKAME: 1
 Data-Currency:
   DICHI: 1
 Data-DEC:
@@ -20764,6 +20774,8 @@ DateTime-Format-Excel:
   ABURS: 1
 DateTime-Format-Flexible:
   THINC: 1
+DateTime-Format-Genealogy:
+  NHORNE: 1
 DateTime-Format-GnuAt:
   SALVA: 1
 DateTime-Format-HTTP:
@@ -21801,6 +21813,8 @@ Device-Gembird:
   LEANDR: 1
 Device-Gsm:
   COSIMO: 1
+Device-Gyro-IXBLUE:
+  TROXEL: 1
 Device-HID:
   ATHREEF: 1
 Device-Hue:
@@ -23327,8 +23341,6 @@ Dist-Zilla-PluginBundle-Author-RUSSOZ:
   RUSSOZ: 1
 Dist-Zilla-PluginBundle-Author-RWSTAUNER:
   RWSTAUNER: 1
-Dist-Zilla-PluginBundle-Author-SKIRMESS:
-  SKIRMESS: 1
 Dist-Zilla-PluginBundle-Author-STHEBERT:
   STHEBERT: 1
 Dist-Zilla-PluginBundle-Author-TABULO:
@@ -25193,6 +25205,8 @@ File-ConfigDir-Install:
   REHSACK: 1
 File-ConfigDir-Plack:
   REHSACK: 1
+File-ContentStore:
+  BOOK: 1
 File-Convert-CSV:
   MUENALAN: 1
 File-Copy-Link:
@@ -26129,8 +26143,6 @@ Filter-signatures:
   CORION: 1
 Finance-Amortization:
   WAGNER: 1
-Finance-BTCIndo:
-  PERLANCAR: 1
 Finance-Bank-ABSA:
   LCOWLE: 1
 Finance-Bank-AU-StGeorge:
@@ -26324,6 +26336,8 @@ Finance-IBrokers-MooseCallback:
   DSPENCER: 1
 Finance-IIF:
   PLOBBES: 1
+Finance-Indodax:
+  PERLANCAR: 1
 Finance-Instrument:
   CLKAO: 1
 Finance-InteractiveBrokers-API:
@@ -27073,6 +27087,8 @@ Game-RockPaperScissorsLizardSpock:
   DMUEY: 1
 Game-TextPacMonster:
   UNLEARNED: 1
+Game-TextPatterns:
+  JMATES: 1
 Game-Theory-TwoPersonMatrix:
   GENE: 1
 Game-Tibia-Packet:
@@ -27810,6 +27826,8 @@ Geo-GD-Image:
 Geo-GDAL:
   AJOLMA: 1
   SDERLE: 1
+Geo-GDAL-FFI:
+  AJOLMA: 1
 Geo-GML:
   MARKOV: 1
 Geo-GNIS:
@@ -29501,6 +29519,7 @@ HTML-FormEngine:
 HTML-FormEngine-DBSQL:
   MORNI: 1
 HTML-FormFu:
+  CFRANKS: 1
   NIGELM: 1
 HTML-FormFu-Element-reCAPTCHA:
   CFRANKS: 1
@@ -29511,7 +29530,7 @@ HTML-FormFu-Filter-Demoroniser:
 HTML-FormFu-Imager:
   CFRANKS: 1
 HTML-FormFu-Model-DBIC:
-  NIGELM: 1
+  CFRANKS: 1
 HTML-FormFu-MultiForm:
   NIGELM: 1
 HTML-FormFu-Role-JQueryValidation:
@@ -37415,6 +37434,8 @@ Map-Tube-London:
   MANWAR: 1
 Map-Tube-Lyon:
   GWS: 1
+Map-Tube-Madrid:
+  MANWAR: 1
 Map-Tube-Malaga:
   SKIM: 1
 Map-Tube-Milan:
@@ -41710,6 +41731,8 @@ Music-RecRhythm:
   JMATES: 1
 Music-Scala:
   JMATES: 1
+Music-ScaleNote:
+  GENE: 1
 Music-Scales:
   BDAGLISH: 1
 Music-Tag:
@@ -43213,6 +43236,8 @@ Net-IRC3:
   ELMEX: 1
 Net-IRR:
   TCAINE: 1
+Net-ISC-DHCPClient:
+  HQJATU: 1
 Net-ISC-DHCPd:
   RDRAKE: 1
 Net-ISP-Balance:
@@ -45638,6 +45663,8 @@ Outline-Lua:
   ALTREUS: 1
 OutlineNumber:
   WILSONPM: 1
+Outlook-Mail-Count:
+  LINUS: 1
 Output-Buffer:
   ROBWALKER: 1
 Output-Rewrite:
@@ -45854,6 +45881,8 @@ PDL-Audio:
   MLEHMANN: 1
 PDL-CCS:
   MOOCOW: 1
+PDL-Cluster:
+  MOOCOW: 1
 PDL-DSP-Fir:
   JLAPEYRE: 1
 PDL-DSP-Windows:
@@ -46031,6 +46060,8 @@ PGObject-Type-Composite:
 PGObject-Type-DateTime:
   EHUELS: 1
 PGObject-Type-JSON:
+  EINHVERFR: 1
+PGObject-Util-AsyncPool:
   EINHVERFR: 1
 PGObject-Util-BulkLoad:
   EINHVERFR: 1
@@ -47328,11 +47359,11 @@ Panda-Config-Perl:
 Panda-Date:
   SYBER: 1
 Panda-Export:
-  SYBER: 1
+  RANDIR: 1
 Panda-Install:
-  SYBER: 1
+  RANDIR: 1
 Panda-Lib:
-  BFDEVER: 1
+  RANDIR: 1
 Panda-NSS:
   VOVKASM: 1
 Panda-Time:
@@ -47340,7 +47371,7 @@ Panda-Time:
 Panda-URI:
   SYBER: 1
 Panda-XS:
-  SYBER: 1
+  RANDIR: 1
 Pandoc:
   VOJ: 1
 Pandoc-Elements:
@@ -49287,10 +49318,6 @@ Plack-Middleware-Antibot:
   VTI: 1
 Plack-Middleware-Apache2-ModSSL:
   TOBYINK: 1
-Plack-Middleware-Apache2CGIFix:
-  CVLIBRARY: 1
-Plack-Middleware-Apache2EnvironmentFix:
-  CVLIBRARY: 1
 Plack-Middleware-AppStoreReceipt:
   ZDK: 1
 Plack-Middleware-Assets:
@@ -51605,7 +51632,7 @@ RT-Client:
 RT-Client-CLI:
   TRWWW: 1
 RT-Client-REST:
-  DMITRI: 1
+  DJZORT: 1
 RT-ClientX-GrabBugs:
   TOBYINK: 1
 RT-Condition-Complex:
@@ -51727,6 +51754,8 @@ RT-Extension-HistoryOnChange:
   FALCONE: 1
 RT-Extension-IncrementPriority:
   JRANDALL: 1
+RT-Extension-InlineAudioVideoAttachments:
+  GIBUS: 1
 RT-Extension-JSGantt:
   BPS: 1
 RT-Extension-LDAPImport:
@@ -53001,6 +53030,8 @@ SMS-Send-IN-Unicel:
   INDRADG: 1
 SMS-Send-IN-eSMS:
   INDRADG: 1
+SMS-Send-Iletimerkezi:
+  DUMLU: 1
 SMS-Send-KR-APIStore:
   KEEDI: 1
 SMS-Send-KR-CoolSMS:
@@ -53677,6 +53708,8 @@ Sah-Schemas-Binary:
   PERLANCAR: 1
 Sah-Schemas-Bool:
   PERLANCAR: 1
+Sah-Schemas-CPAN:
+  PERLANCAR: 1
 Sah-Schemas-CPANMeta:
   PERLANCAR: 1
 Sah-Schemas-Collection:
@@ -54159,6 +54192,8 @@ Sensu-API-Client:
   MRUIZ: 1
 Sentinel:
   PEVANS: 1
+Sentry:
+  REGRU: 1
 Sentry-Log-Raven:
   DGENGU: 1
 Sentry-Raven:
@@ -55893,6 +55928,8 @@ String-Validator-Common:
   BRAINBUZ: 1
 String-Validator-Email:
   BRAINBUZ: 1
+String-Validator-Language:
+  BRAINBUZ: 1
 String-Validator-Password:
   BRAINBUZ: 1
 String-Validator-Phone-NANP:
@@ -57083,6 +57120,8 @@ Task-Jenkins:
   JONASBN: 1
 Task-Kensho:
   ETHER: 1
+Task-Kensho-All:
+  DBOOK: 1
 Task-Kensho-Async:
   ETHER: 1
 Task-Kensho-CLI:
@@ -60119,6 +60158,8 @@ Text-GenderFromName:
   EDALY: 1
 Text-German:
   ULPFR: 1
+Text-Gitignore:
+  VTI: 1
 Text-Glob:
   RCLAMP: 1
 Text-Glob-DWIW:
@@ -66200,6 +66241,8 @@ WebService-Riya:
   SHIGETA: 1
 WebService-Rollbar-Notifier:
   BJAKUBSKI: 1
+WebService-S3-Tiny:
+  CVLIBRARY: 1
 WebService-SEOmoz-API:
   FAYLAND: 1
 WebService-SEOmoz-FreeAPI:
