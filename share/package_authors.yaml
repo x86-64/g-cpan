@@ -5533,6 +5533,8 @@ App-Puppet-Environment-Updater:
   MSTOCK: 1
 App-PureProxy:
   DEXTER: 1
+App-QRCodeUtils:
+  PERLANCAR: 1
 App-QuoteCC:
   AVAR: 1
 App-REPL:
@@ -9229,6 +9231,7 @@ BoutrosLab-TSVStream:
 Box-Calc:
   RIZEN: 1
 Box2D:
+  FROGGS: 1
   JTPALMER: 1
 Boxer:
   JONASS: 1
@@ -9451,6 +9454,8 @@ Bundle-Locale-CLDR-Europe:
   JGNI: 1
 Bundle-Locale-CLDR-Europeanunion:
   JGNI: 1
+Bundle-Locale-CLDR-Eurozone:
+  JGNI: 1
 Bundle-Locale-CLDR-Everything:
   JGNI: 1
 Bundle-Locale-CLDR-Latinamerica:
@@ -9484,6 +9489,10 @@ Bundle-Locale-CLDR-Southernafrica:
 Bundle-Locale-CLDR-Southernasia:
   JGNI: 1
 Bundle-Locale-CLDR-Southerneurope:
+  JGNI: 1
+Bundle-Locale-CLDR-Subsaharanafrica:
+  JGNI: 1
+Bundle-Locale-CLDR-Unitednations:
   JGNI: 1
 Bundle-Locale-CLDR-Westernafrica:
   JGNI: 1
@@ -9702,6 +9711,10 @@ Business-BR-Boleto-Banco-Itau:
 Business-BR-CEP:
   GARU: 1
 Business-BR-CNJ:
+  DLIMA: 1
+Business-BR-CNJ-Classes:
+  DLIMA: 1
+Business-BR-CNJ-Format:
   DLIMA: 1
 Business-BR-CNJ-NumberExtractor:
   DLIMA: 1
@@ -15536,8 +15549,6 @@ Config-General-Hierarchical:
   ICC: 1
 Config-General-Match:
   MGRAHAM: 1
-Config-Generator:
-  LCONS: 1
 Config-GitLike:
   ALEXMV: 1
 Config-Grammar:
@@ -16394,6 +16405,8 @@ Crypt-OpenSSL-ECDSA:
   MIKEM: 1
 Crypt-OpenSSL-FASTPBKDF2:
   DUANE: 1
+Crypt-OpenSSL-Guess:
+  AKIYM: 1
 Crypt-OpenSSL-PBKDF2:
   SKUPSY: 1
 Crypt-OpenSSL-PKCS10:
@@ -17631,6 +17644,7 @@ DBIx-MyDatabaseMunger:
 DBIx-MyParse:
   PHILIPS: 1
 DBIx-MyParsePP:
+  MERKYS: 1
   PHILIPS: 1
 DBIx-MyParseX:
   CTBROWN: 1
@@ -17748,6 +17762,8 @@ DBIx-Replicate:
   KAZUHO: 1
 DBIx-Report-Excel:
   DMYTRO: 1
+DBIx-Result-Convert-JSONSchema:
+  MALISHEW: 1
 DBIx-ResultSet:
   BLUEFEET: 1
 DBIx-Retry:
@@ -19884,6 +19900,10 @@ Data-Sah-Coerce-perl-str-str_toupper:
 Data-Sah-Coerce-perl-str-str_trim:
   PERLANCAR: 1
 Data-Sah-CoerceRule-array-str_comma_sep:
+  PERLANCAR: 1
+Data-Sah-CoerceRule-array-str_int_range:
+  PERLANCAR: 1
+Data-Sah-CoerceRule-array-str_int_range_and_comma_sep:
   PERLANCAR: 1
 Data-Sah-Format:
   PERLANCAR: 1
@@ -24702,6 +24722,8 @@ Exporter-Lite:
   NEILB: 1
 Exporter-NoWork:
   BMORROW: 1
+Exporter-Proxy:
+  LEMBARK: 1
 Exporter-Renaming:
   ANNO: 1
 Exporter-Rinci:
@@ -25215,6 +25237,8 @@ File-Copy-NoClobber:
   TORBJORN: 1
 File-Copy-Recursive:
   DMUEY: 1
+File-Copy-Recursive-Reduced:
+  JKEENAN: 1
 File-Copy-Recursive-Verify:
   JASEI: 1
 File-Copy-Reliable:
@@ -28000,6 +28024,8 @@ Geo-Postcodes-DK:
   ARNE: 1
 Geo-Postcodes-NO:
   ARNE: 1
+Geo-Privacy:
+  DWRIGHT: 1
 Geo-Proj-GoogleMaps:
   KOKOGIKO: 1
 Geo-Proj-Japan:
@@ -35334,6 +35360,8 @@ Locale-CLDR-Locales-Bs:
   JGNI: 1
 Locale-CLDR-Locales-Ca:
   JGNI: 1
+Locale-CLDR-Locales-Ccp:
+  JGNI: 1
 Locale-CLDR-Locales-Ce:
   JGNI: 1
 Locale-CLDR-Locales-Cgg:
@@ -35351,6 +35379,8 @@ Locale-CLDR-Locales-Cy:
 Locale-CLDR-Locales-Da:
   JGNI: 1
 Locale-CLDR-Locales-Dav:
+  JGNI: 1
+Locale-CLDR-Locales-De:
   JGNI: 1
 Locale-CLDR-Locales-Dje:
   JGNI: 1
@@ -35375,6 +35405,12 @@ Locale-CLDR-Locales-Eo:
 Locale-CLDR-Locales-Es:
   JGNI: 1
 Locale-CLDR-Locales-Et:
+  JGNI: 1
+Locale-CLDR-Locales-Eu:
+  JGNI: 1
+Locale-CLDR-Locales-Ewo:
+  JGNI: 1
+Locale-CLDR-Locales-Fa:
   JGNI: 1
 Locale-CLDR-Locales-Ff:
   JGNI: 1
@@ -35538,6 +35574,8 @@ Locale-CLDR-Locales-Nb:
   JGNI: 1
 Locale-CLDR-Locales-Nd:
   JGNI: 1
+Locale-CLDR-Locales-Nds:
+  JGNI: 1
 Locale-CLDR-Locales-Ne:
   JGNI: 1
 Locale-CLDR-Locales-Nl:
@@ -35566,6 +35604,8 @@ Locale-CLDR-Locales-Prg:
   JGNI: 1
 Locale-CLDR-Locales-Ps:
   JGNI: 1
+Locale-CLDR-Locales-Pt:
+  JGNI: 1
 Locale-CLDR-Locales-Qu:
   JGNI: 1
 Locale-CLDR-Locales-Rm:
@@ -35587,6 +35627,8 @@ Locale-CLDR-Locales-Sah:
 Locale-CLDR-Locales-Saq:
   JGNI: 1
 Locale-CLDR-Locales-Sbp:
+  JGNI: 1
+Locale-CLDR-Locales-Sd:
   JGNI: 1
 Locale-CLDR-Locales-Se:
   JGNI: 1
@@ -35624,6 +35666,8 @@ Locale-CLDR-Locales-Te:
   JGNI: 1
 Locale-CLDR-Locales-Teo:
   JGNI: 1
+Locale-CLDR-Locales-Tg:
+  JGNI: 1
 Locale-CLDR-Locales-Th:
   JGNI: 1
 Locale-CLDR-Locales-Ti:
@@ -35646,9 +35690,33 @@ Locale-CLDR-Locales-Ur:
   JGNI: 1
 Locale-CLDR-Locales-Uz:
   JGNI: 1
+Locale-CLDR-Locales-Vai:
+  JGNI: 1
+Locale-CLDR-Locales-Vi:
+  JGNI: 1
+Locale-CLDR-Locales-Vo:
+  JGNI: 1
+Locale-CLDR-Locales-Vun:
+  JGNI: 1
+Locale-CLDR-Locales-Wae:
+  JGNI: 1
+Locale-CLDR-Locales-Wo:
+  JGNI: 1
+Locale-CLDR-Locales-Xog:
+  JGNI: 1
+Locale-CLDR-Locales-Yav:
+  JGNI: 1
+Locale-CLDR-Locales-Yi:
+  JGNI: 1
 Locale-CLDR-Locales-Yo:
   JGNI: 1
 Locale-CLDR-Locales-Yue:
+  JGNI: 1
+Locale-CLDR-Locales-Zgh:
+  JGNI: 1
+Locale-CLDR-Locales-Zh:
+  JGNI: 1
+Locale-CLDR-Locales-Zu:
   JGNI: 1
 Locale-CLDR-Transformations:
   JGNI: 1
@@ -38332,6 +38400,8 @@ Math-Util-CalculatedValue:
   BINARY: 1
 Math-Utils:
   JGAMBLE: 1
+Math-Utils-XS:
+  GONZUS: 1
 Math-VarRate:
   RJBS: 1
 Math-Vec:
@@ -40104,6 +40174,8 @@ Mojolicious-Plugin-EventSource:
   FCO: 1
 Mojolicious-Plugin-Events:
   CRLCU: 1
+Mojolicious-Plugin-ExportExcel:
+  WFSO: 1
 Mojolicious-Plugin-ExposeControllerMethod:
   MAXMIND: 1
 Mojolicious-Plugin-Facets:
@@ -40690,6 +40762,8 @@ MooX:
   GETTY: 1
 MooX-Aliases:
   HAARG: 1
+MooX-Async-Console:
+  CHOHAG: 1
 MooX-Attributes-Shadow:
   DJERIUS: 1
 MooX-BuildArgs:
@@ -45197,6 +45271,8 @@ Object-Enum:
   JMMILLS: 1
 Object-Event:
   ELMEX: 1
+Object-Exercise:
+  LEMBARK: 1
 Object-Extend:
   CHOCOLATE: 1
 Object-Factory-Declarative:
@@ -47372,6 +47448,8 @@ Panda-URI:
   SYBER: 1
 Panda-XS:
   RANDIR: 1
+Panda-next:
+  SYBER: 1
 Pandoc:
   VOJ: 1
 Pandoc-Elements:
@@ -57304,6 +57382,8 @@ Tasks:
   SERGEY: 1
 Taskwarrior-Kusarigama:
   YANICK: 1
+Taskwarrior-Kusarigama-Plugin-Command-Shelf:
+  SSORICHE: 1
 Tatsumaki:
   MIYAGAWA: 1
 Tatsumaki-Service-XMPP:
@@ -59207,6 +59287,8 @@ Test-Pod-Coverage-Permissive:
   GUGU: 1
 Test-Pod-LinkCheck:
   APOCAL: 1
+Test-Pod-Links:
+  SKIRMESS: 1
 Test-Pod-No404s:
   APOCAL: 1
 Test-Pod-Snippets:
@@ -60318,6 +60400,8 @@ Text-Markdown-Slidy:
   SONGMU: 1
 Text-MarkdownTable:
   VOJ: 1
+Text-Markmoredown:
+  KIAVASH: 1
 Text-Markup:
   DWHEELER: 1
 Text-Markup-Any:

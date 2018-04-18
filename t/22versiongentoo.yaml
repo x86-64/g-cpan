@@ -172,7 +172,6 @@ AI-LibNeural:
 AI-Logic-AnswerSet:
   - 0.02
 AI-MXNet:
-  - 1.2
   - 1.21
 AI-MXNetCAPI:
   - 1.2
@@ -831,6 +830,7 @@ AWS-S3:
   - 0.031
   - 0.040
   - 0.13
+  - 0.14
 AWS-SNS-Confess:
   - 0.001
 AWS-SNS-Verify:
@@ -1207,6 +1207,7 @@ Acme-CPANAuthors-India:
   - 0.07
 Acme-CPANAuthors-Indonesian:
   - 0.050
+  - 0.051
 Acme-CPANAuthors-Israeli:
   - 0.0200
   - 0.0201
@@ -3693,6 +3694,7 @@ Alien-BatToExeConverter:
   - 0.01
 Alien-Box2D:
   - 0.105
+  - 0.106
 Alien-Build:
   - 1.36
   - 1.37
@@ -3761,6 +3763,7 @@ Alien-GEOS:
 Alien-GMP:
   - 1.07
   - 1.08
+  - 1.10
 Alien-GPG-Error:
   - 1.17.0
   - 1.21.0
@@ -4168,6 +4171,7 @@ Alien-libuv:
   - 0.016
   - 0.017
   - 1.000
+  - 1.001
 Alien-libvas:
   - 0.213
 Alien-m4:
@@ -7817,11 +7821,11 @@ App-D:
   - 1.3.1
   - 1.3.2
 App-DBBrowser:
-  - 1.058
   - 2.009
   - 2.010
   - 2.011
   - 2.012
+  - 2.013
 App-DBCritic:
   - 0.020
 App-DBI-Loader:
@@ -8231,6 +8235,7 @@ App-ElasticSearch-Utilities:
   - 5.3
   - 5.4
   - 5.5
+  - 5.6
 App-Env:
   - 0.33
   - 0.34
@@ -8326,6 +8331,7 @@ App-Fasops:
   - 0.5.12
   - 0.5.14
   - 0.5.15
+  - 0.5.16
 App-FastishCGI:
   - 0.001
   - 0.002
@@ -8551,6 +8557,7 @@ App-Git-Workflow-Command-Cat:
   - 0.2
 App-Git-Workflow-Command-SinceRelease:
   - 0.3
+  - 0.4
 App-Git-Workflow-Command-Take:
   - 0.3
   - 0.4
@@ -8573,6 +8580,7 @@ App-GitGot:
   - 1.333
   - 1.334
   - 1.335
+  - 1.336
 App-GitGrepPerlStatement:
   - 0.01
   - 0.02
@@ -13326,6 +13334,7 @@ Astro-SpaceTrack:
   - 0.103
   - 0.104
   - 0.105
+  - 0.106
 Astro-SunTime:
   - 0.05
   - 0.06
@@ -13421,6 +13430,8 @@ Async-Hooks:
 Async-Interrupt:
   - 1.21
   - 1.22
+  - 1.23
+  - 1.24
 Async-MergePoint:
   - 0.03
   - 0.04
@@ -14121,6 +14132,7 @@ Authen-Passphrase-SaltedSHA512:
 Authen-Passphrase-Scrypt:
   - 0.001
   - 0.001001
+  - 0.002
 Authen-Perl-NTLM:
   - 0.03
   - 0.04
@@ -15507,11 +15519,14 @@ BenchmarkAnything-Schema:
 BenchmarkAnything-Storage-Backend-SQL:
   - 0.022
   - 0.023
+  - 0.024
 BenchmarkAnything-Storage-Frontend-HTTP:
   - 0.011
+  - 0.012
 BenchmarkAnything-Storage-Frontend-Lib:
   - 0.020
   - 0.021
+  - 0.022
 BenchmarkAnything-Storage-Frontend-Tools:
   - 0.019
 BenchmarkAnything-Storage-Search-Elasticsearch:
@@ -17667,70 +17682,103 @@ Bundle-LawMonkey:
   - 0.01
 Bundle-Locale-CLDR-Africa:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Americas:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Asia:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Australasia:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Caribbean:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Centralamerica:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Centralasia:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Easternafrica:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Easternasia:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Easterneurope:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Europe:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Europeanunion:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Everything:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Latinamerica:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Melanesia:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Micronesianregion:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Middleafrica:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Northamerica:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Northernafrica:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Northernamerica:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Northerneurope:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Oceania:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Outlyingoceania:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Polynesia:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Southamerica:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Southeastasia:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Southernafrica:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Southernasia:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Southerneurope:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Westernafrica:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Westernasia:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-Westerneurope:
   - 0.29.0
+  - 0.32.0
 Bundle-Locale-CLDR-World:
   - 0.29.0
+  - 0.32.0
 Bundle-MMS-Mail-Parser:
   - 0.03
 Bundle-MP3:
@@ -18852,11 +18900,8 @@ C-TCC:
 C-TinyCompiler:
   - 0.05
 C-Tokenize:
-  - 0.17
   - 0.18
 C-Utility:
-  - 0.007
-  - 0.008
   - 0.009
 C-sparse:
   - 0.02
@@ -21307,6 +21352,7 @@ CPAN-Perl-Releases:
   - 3.48
   - 3.50
   - 3.52
+  - 3.54
 CPAN-Plugin-Sysdeps:
   - 0.38
   - 0.39
@@ -21318,6 +21364,7 @@ CPAN-Plugin-Sysdeps:
   - 0.45
   - 0.46
   - 0.47
+  - 0.48
 CPAN-Porters:
   - 0.03
 CPAN-Recent-Uploads:
@@ -22578,6 +22625,7 @@ CallBackery:
   - 0.12.3
   - 0.12.4
   - 0.12.5
+  - 0.12.7
 CallGraph:
   - 0.50
   - 0.55
@@ -24381,6 +24429,7 @@ Catalyst-Plugin-Session-Store-MongoDB:
 Catalyst-Plugin-Session-Store-Redis:
   - 0.07
   - 0.08
+  - 0.09
 Catalyst-Plugin-Session-Store-TestMemcached:
   - 0.001
 Catalyst-Plugin-Setenv:
@@ -28354,7 +28403,7 @@ Class-Unload:
 Class-User-DBI:
   - 0.10
 Class-Usul:
-  - 0.83.1
+  - 0.84.1
 Class-Utils:
   - 0.01
   - 0.02
@@ -28675,6 +28724,7 @@ Code-TidyAll:
   - 0.20
   - 0.68
   - 0.69
+  - 0.70
 Code-TidyAll-Plugin-ESLint:
   - 1.000000
 Code-TidyAll-Plugin-Go:
@@ -29237,6 +29287,7 @@ Compress-Raw-Lzma:
   - 2.074
   - 2.080
   - 2.081
+  - 2.082
 Compress-Raw-Zlib:
   - 2.001
   - 2.002
@@ -29453,6 +29504,7 @@ Config-AutoConf:
   - 0.313
   - 0.314
   - 0.315
+  - 0.316
 Config-AutoConf-INI:
   - 0.005
 Config-Autoload:
@@ -29666,9 +29718,6 @@ Config-General-Hierarchical:
 Config-General-Match:
   - 0.04
   - 0.05
-Config-Generator:
-  - 0.9
-  - 1.0
 Config-GitLike:
   - 1.14
   - 1.15
@@ -29842,6 +29891,8 @@ Config-Model:
   - 2.118
   - 2.119
   - 2.120
+  - 2.121
+  - 2.122
 Config-Model-Approx:
   - 1.009
   - 1.010
@@ -29877,6 +29928,7 @@ Config-Model-Tester:
   - 3.003
   - 3.004
   - 3.005
+  - 3.006
 Config-Model-TkUI:
   - 1.363
   - 1.364
@@ -30900,6 +30952,7 @@ Crypt-Argon2:
   - 0.002
   - 0.003
   - 0.004
+  - 0.005
 Crypt-Blowfish:
   - 2.14
 Crypt-Blowfish-Mod:
@@ -31369,6 +31422,9 @@ Crypt-OpenSSL-Random:
   - 0.09
   - 0.10
   - 0.11
+  - 0.12
+  - 0.13
+  - 0.14
 Crypt-OpenSSL-SMIME:
   - 0.05
 Crypt-OpenSSL-VerifyX509:
@@ -37101,6 +37157,7 @@ Dancer2-Session-PSGI:
   - 0.007
   - 0.008
   - 0.009
+  - 0.010
 Dancer2-Session-Redis:
   - 0.008
 Dancer2-Session-Sereal:
@@ -38913,6 +38970,8 @@ Data-Record-Serialize:
   - 0.13
   - 0.15
   - 0.16
+  - 0.17
+  - 0.18
 Data-RecordStore:
   - 1.05
   - 1.06
@@ -38931,6 +38990,9 @@ Data-RecordStore:
   - 3.15
   - 3.16
   - 3.17
+  - 3.18
+  - 3.20
+  - 3.21
 Data-Recursive-Encode:
   - 0.04
   - 0.06
@@ -39095,6 +39157,7 @@ Data-Sah-Coerce-perl-duration-str_alami_id:
   - 0.002
 Data-Sah-CoerceRule-array-str_comma_sep:
   - 0.005
+  - 0.006
 Data-Sah-Format:
   - 0.003
 Data-Sah-Format-perl-boolstr:
@@ -39426,6 +39489,9 @@ Data-Table-Text:
   - 20180326
   - 20180327
   - 20180328
+  - 20180412
+  - 20180413
+  - 20180416
 Data-TableAutoSum:
   - 0.01
   - 0.02
@@ -39978,6 +40044,7 @@ Database-Format-Text:
 Database-Migrator:
   - 0.12
   - 0.13
+  - 0.14
 Database-Migrator-Pg:
   - 0.06
 Database-Migrator-mysql:
@@ -40375,11 +40442,16 @@ Date-Lectionary:
   - 1.20180314
   - 1.3.0
   - 1.20180410
+  - 1.20180416
+  - 1.20180417
+  - 1.20180417a
 Date-Lectionary-Daily:
   - 1.20180205
   - 1.20180316
   - 1.3.0
   - 1.20180410
+  - 1.20180417
+  - 1.20180417a
 Date-Lectionary-Time:
   - 1.20170311
 Date-LibICal:
@@ -40983,10 +41055,6 @@ DateTime-TimeZone-ICal:
 DateTime-TimeZone-LMT:
   - 1.01
 DateTime-TimeZone-Local:
-  - 1.93
-  - 1.94
-  - 1.95
-  - 1.96
   - 1.97
   - 1.98
   - 1.99
@@ -41213,6 +41281,7 @@ Debug-Statements:
   - 1.003
   - 1.004
   - 1.005
+  - 1.006
 Debug-Trace:
   - 0.05
 Debug-Xray:
@@ -42388,6 +42457,8 @@ Devel-Todo-Find:
 Devel-Tokenizer-C:
   - 0.05
   - 0.08
+  - 0.10
+  - 0.11
 Devel-Trace:
   - 0.10
   - 0.11
@@ -43722,9 +43793,7 @@ Directory-Iterator-XS:
 Directory-Organize:
   - 0.9.6
 Directory-Queue:
-  - 1.8
   - 1.9
-  - 1.10
   - 2.0
 Directory-Scratch:
   - 0.18
@@ -45876,6 +45945,7 @@ Dist-Zilla-PluginBundle-Git-VersionManager:
   - 0.004
   - 0.005
   - 0.006
+  - 0.007
 Dist-Zilla-PluginBundle-HARTZELL:
   - 0.004
   - 0.005
@@ -46649,6 +46719,7 @@ EOL:
 EPFL-Sciper-List:
   - 0.01
   - 0.02
+  - 1.00
 EPL2:
   - 0.001
 EPUB-Parser:
@@ -48226,6 +48297,7 @@ Excel-Writer-XLSX:
   - 0.95
   - 0.96
   - 0.97
+  - 0.98
 Exception-Base:
   - 0.18
   - 0.19
@@ -48464,7 +48536,7 @@ Exporter-NoWork:
   - 0.02
   - 0.03
 Exporter-Proxy:
-  - 1.008001
+  - 1.008002
 Exporter-Renaming:
   - 1.16
   - 1.17
@@ -51298,8 +51370,7 @@ Filter-HereDocIndent:
 Filter-Heredoc:
   - 0.01
   - 0.02
-  - 0.03
-  - 0.04
+  - 0.05
 Filter-Include:
   - 1.6
   - 1.7
@@ -54480,6 +54551,7 @@ Geo-Coder-List:
   - 0.16
   - 0.17
   - 0.18
+  - 0.19
 Geo-Coder-Many:
   - 0.46-5
   - 0.47
@@ -55147,6 +55219,7 @@ GeoIP2:
   - 2.003005
   - 2.004000
   - 2.005000
+  - 2.005001
 Geography-BrazilianStates:
   - 0.01
 Geography-China-Provinces:
@@ -55725,6 +55798,7 @@ Git-Helpers:
   - 0.000012
   - 0.000013
   - 0.000014
+  - 0.000015
 Git-Hook-PostReceive:
   - 0.01
   - 0.2
@@ -55743,6 +55817,7 @@ Git-Hooks:
   - 2.9.0
   - 2.9.1
   - 2.9.2
+  - 2.9.3
 Git-Hooks-PerlCritic:
   - 0.001001
 Git-Hooks-RubyNoDebugger:
@@ -62619,10 +62694,6 @@ IOMux-HTTP:
 IP-Anonymous:
   - 0.04
 IP-China:
-  - 20170704
-  - 20180306
-  - 20180307
-  - 20180308
   - 20180403
 IP-Country:
   - 2.21
@@ -65853,6 +65924,7 @@ Koha-Contrib-Tamil:
   - 0.052
   - 0.053
   - 0.054
+  - 0.055
 Kolab:
   - 0.9
   - 1.02
@@ -69709,366 +69781,547 @@ Locale-CA:
   - 0.02
 Locale-CLDR:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Af:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Agq:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ak:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Am:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ar:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-As:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Asa:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ast:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Az:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Bas:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Be:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Bem:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Bez:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Bg:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Bm:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Bn:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Bo:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Br:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Brx:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Bs:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ca:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ce:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Cgg:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Chr:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ckb:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Cs:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Cu:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Cy:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Da:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Dav:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Dje:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Dsb:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Dua:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Dyo:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Dz:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ebu:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ee:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-El:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-En:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Eo:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Es:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Et:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ff:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Fi:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Fil:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Fo:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Fr:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Fur:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Fy:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ga:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Gd:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Gl:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Gsw:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Gu:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Guz:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Gv:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ha:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Haw:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-He:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Hi:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Hr:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Hsb:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Hu:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Hy:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Id:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ig:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ii:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Is:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-It:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ja:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Jgo:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Jmc:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ka:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Kab:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Kam:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Kde:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Kea:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Khq:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ki:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Kk:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Kkj:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Kl:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Kln:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Km:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Kn:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ko:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Kok:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ks:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ksb:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ksf:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ksh:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Kw:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ky:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Lag:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Lb:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Lg:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Lkt:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ln:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Lo:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Lrc:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Lt:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Lu:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Luo:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Luy:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Lv:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Mas:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Mer:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Mfe:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Mg:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Mgh:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Mgo:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Mk:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ml:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Mn:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Mr:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ms:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Mt:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Mua:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-My:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Mzn:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Naq:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Nb:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Nd:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ne:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Nl:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Nmg:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Nn:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Nnh:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Nus:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Nyn:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Om:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Or:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Os:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Pa:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Pl:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Prg:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ps:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Qu:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Rm:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Rn:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ro:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Rof:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ru:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Rw:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Rwk:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Sah:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Saq:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Sbp:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Se:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Seh:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ses:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Sg:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Shi:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Si:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Sk:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Sl:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Smn:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Sn:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-So:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Sq:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Sr:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Sv:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Sw:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ta:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Te:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Teo:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Th:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ti:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Tk:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-To:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Tr:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Twq:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Tzm:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ug:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Uk:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Ur:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Uz:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Yo:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Locales-Yue:
   - 0.29.0
+  - 0.32.0
 Locale-CLDR-Transformations:
   - 0.29.0
+  - 0.32.0
 Locale-Codes:
   - 3.56
 Locale-Country-Extra:
@@ -73601,6 +73854,8 @@ Map-Tube-CLI:
   - 0.40
   - 0.41
   - 0.42
+  - 0.43
+  - 0.44
 Map-Tube-Cookbook:
   - 0.01
   - 0.02
@@ -73701,6 +73956,7 @@ Map-Tube-Exception:
   - 3.13
   - 3.14
   - 3.15
+  - 3.16
 Map-Tube-Glasgow:
   - 0.07
 Map-Tube-Graph:
@@ -73753,6 +74009,7 @@ Map-Tube-Kolkatta:
   - 0.12
   - 0.13
   - 0.14
+  - 0.15
 Map-Tube-KualaLumpur:
   - 0.01
   - 0.02
@@ -73933,6 +74190,7 @@ Map-Tube-NYC:
   - 0.48
   - 0.49
   - 0.50
+  - 0.51
 Map-Tube-Nanjing:
   - 0.01
   - 0.02
@@ -74093,6 +74351,7 @@ Map-Tube-Tokyo:
   - 0.39
   - 0.40
   - 0.41
+  - 0.42
 Map-Tube-Vienna:
   - 0.01
   - 0.02
@@ -74564,27 +74823,34 @@ Math-BigApprox:
 Math-BigInt:
   - 1.999810
   - 1.999811
+  - 1.999812
 Math-BigInt-BitVect:
   - 1.13
+  - 1.14
 Math-BigInt-Constant:
   - 1.10
   - 1.11
 Math-BigInt-FastCalc:
   - 0.5005
   - 0.5006
+  - 0.5007
 Math-BigInt-GMP:
   - 1.6003
   - 1.6004
+  - 1.6005
 Math-BigInt-GMPz:
   - 0.0001
+  - 0.0002
 Math-BigInt-Lite:
   - 0.16
   - 0.17
+  - 0.18
 Math-BigInt-Named:
   - 0.04
 Math-BigInt-Pari:
   - 1.3002
   - 1.3003
+  - 1.3004
 Math-BigInt-Parts:
   - 0.01
   - 0.02
@@ -74598,6 +74864,7 @@ Math-BigInt-Random-OO:
 Math-BigRat:
   - 0.2612
   - 0.2613
+  - 0.2614
 Math-BigSimple:
   - 1.1a
 Math-BivariateCDF:
@@ -75025,9 +75292,9 @@ Math-MPFI:
   - 0.09
 Math-MPFR:
   - 3.36
-  - 4.0
   - 4.01
   - 4.02
+  - 4.03
 Math-MVPoly:
   - 0.8b
 Math-Macopt:
@@ -75075,9 +75342,9 @@ Math-ModInt:
 Math-MultiplicationTable:
   - 0.01
 Math-NV:
-  - 0.08
   - 1.01
   - 1.02
+  - 2.0
 Math-NoCarry:
   - 1.10
   - 1.11
@@ -75661,6 +75928,7 @@ MaxMind-DB-Reader-XS:
   - 1.000002
   - 1.000003
   - 1.000004
+  - 1.000005
 MaxMind-DB-Writer:
   - 0.060000
   - 0.080000
@@ -76206,7 +76474,6 @@ MessagePack-RPC-HTTP-Client:
 Messaging-Courier:
   - 0.42
 Messaging-Message:
-  - 1.4
   - 1.5
   - 1.6.1
 Meta:
@@ -76595,8 +76862,11 @@ Minilla:
   - 3.0.14
   - 3.0.15
   - 3.0.16
+  - 3.0.17
 Minion:
   - 8.12
+  - 9.0
+  - 9.01
 Minion-Backend-Mango:
   - 0.90
   - 0.91
@@ -76641,6 +76911,7 @@ Minion-Backend-SQLite:
   - 3.001
   - 3.002
   - 3.003
+  - 4.000
 Minion-Backend-Storable:
   - 5.091
   - 6.101
@@ -76670,9 +76941,8 @@ Minions:
   - 1.000000
   - 1.000001
 Mira:
-  - 00.07.53
-  - 00.07.54
   - 00.07.55
+  - 00.07.56
 Miril:
   - 0.001
   - 0.002
@@ -77119,6 +77389,7 @@ Module-Build-XSUtil:
   - 0.16
   - 0.17
   - 0.18
+  - 0.19
 Module-Build-Xilinx:
   - 0.13
 Module-Bundled-Files:
@@ -77273,6 +77544,7 @@ Module-CoreList:
   - 5.20180120
   - 5.20180220
   - 5.20180221
+  - 5.20180414
 Module-CoreList-DBSchema:
   - 0.06
   - 0.08
@@ -78480,11 +78752,13 @@ Mojo-Webqq:
   - 2.1.6
   - 2.1.7
   - 2.1.8
+  - 2.1.9
 Mojo-Weixin:
   - 1.3.6
   - 1.3.7
   - 1.3.8
   - 1.3.9
+  - 1.4.0
 Mojo-XMLRPC:
   - 0.03
   - 0.05
@@ -78992,6 +79266,7 @@ Mojolicious-Plugin-BasicAuth:
   - 0.08
 Mojolicious-Plugin-BasicAuthPlus:
   - 0.11.0
+  - 0.11.1
 Mojolicious-Plugin-Bcrypt:
   - 0.04
   - 0.14
@@ -79734,6 +80009,7 @@ Mojolicious-Plugin-OAuth2-Server:
   - 0.38
   - 0.39
   - 0.40
+  - 0.41
 Mojolicious-Plugin-OnFork:
   - 0.001
   - 0.002
@@ -82946,6 +83222,7 @@ MySQL-Sandbox:
   - 3.2.14
   - 3.2.15
   - 3.2.16
+  - 3.2.17
 MySQL-SlowLog-Filter:
   - 0.05
 MySQL-Slurp:
@@ -84805,6 +85082,7 @@ Net-Etcd:
   - 0.017
   - 0.018
   - 0.019
+  - 0.020
 Net-Evernote:
   - 0.08
   - 0.081
@@ -86682,6 +86960,7 @@ Net-OAuth2:
 Net-OAuth2-AuthorizationServer:
   - 0.15
   - 0.16
+  - 0.17
 Net-OAuth2-Moosey-Client:
   - 0.02
 Net-OAuth2-Scheme:
@@ -86840,6 +87119,7 @@ Net-OpenStack-Swift:
   - 0.12
   - 0.13
   - 0.14
+  - 0.15
 Net-OpenVPN-Agent:
   - 0.01
 Net-OpenVPN-DDNS:
@@ -87632,6 +87912,7 @@ Net-SNMP-Mixin-Dot1abLldp:
   - 0.12
   - 0.13
   - 0.14
+  - 0.15
 Net-SNMP-Mixin-Dot1dBase:
   - 0.03
   - 0.04
@@ -87860,7 +88141,6 @@ Net-STF-Client:
   - 1.00
   - 1.01
 Net-STOMP-Client:
-  - 2.0
   - 2.1
   - 2.2
   - 2.3
@@ -89513,8 +89793,6 @@ No-OrgNr:
   - 0.9.2
   - 0.9.3
 No-Worries:
-  - 1.1
-  - 1.2
   - 1.3
   - 1.4
   - 1.5
@@ -90308,6 +90586,8 @@ Object-Event:
   - 1.21
   - 1.22
   - 1.23
+Object-Exercise:
+  - 3.1.1
 Object-Extend:
   - 0.4.0
 Object-Factory-Declarative:
@@ -91742,6 +92022,7 @@ PDL-SVDLIBC:
   - 0.19
 PDL-SVDSLEPc:
   - 0.004
+  - 0.005
 PDL-Stats:
   - 0.75
 PDL-Transform-Color:
@@ -93581,6 +93862,7 @@ PPIx-Regexp:
   - 0.054
   - 0.055
   - 0.056
+  - 0.057
 PPIx-Shorthand:
   - 1.2.0
 PPIx-Utilities:
@@ -95632,56 +95914,57 @@ Paymill-REST:
   - 0.02
 Payvment-Facebook-API: []
 Pcore:
-  - 0.58.5
-  - 0.59.0
-  - 0.59.1
-  - 0.60.0
+  - 0.61.2
+  - 0.61.3
+  - 0.61.4
 Pcore-API-Google:
-  - 0.8.0
   - 0.8.1
+  - 0.8.2
 Pcore-API-Majestic:
-  - 0.12.1
   - 0.12.2
+  - 0.12.3
 Pcore-API-Moz:
-  - 0.11.0
   - 0.11.1
+  - 0.11.2
 Pcore-API-PayPal:
-  - 0.3.0
   - 0.3.1
+  - 0.3.2
 Pcore-API-ReCaptcha:
   - 0.2.1
   - 0.2.2
 Pcore-Captcha:
-  - 1.3.0
   - 1.3.1
+  - 1.3.2
 Pcore-Chrome:
-  - 0.2.1
   - 0.2.2
+  - 0.2.3
 Pcore-Ext:
-  - 0.13.3
-  - 0.13.4
   - 0.13.5
+  - 0.13.6
+  - 0.13.7
 Pcore-GeoIP:
-  - 1.2.0
   - 1.2.1
+  - 1.2.2
 Pcore-Nginx:
   - 1.6.2
   - 1.6.3
 Pcore-PDF:
-  - 0.4.5
   - 0.4.6
+  - 0.4.7
 Pcore-PgSQL:
-  - 0.14.13
   - 0.14.14
+  - 0.14.15
+  - 0.14.16
 Pcore-Redis:
-  - 0.9.1
   - 0.9.2
+  - 0.9.3
+  - 0.9.4
 Pcore-SMTP:
-  - 0.5.5
   - 0.5.6
+  - 0.5.7
 Pcore-SQLite:
-  - 0.10.7
   - 0.10.8
+  - 0.10.9
 Pcore-Sphinx:
   - 0.9.0
   - 0.9.1
@@ -98605,8 +98888,6 @@ Plack-Middleware-Recorder:
 Plack-Middleware-Redirect:
   - 0.01
 Plack-Middleware-RedirectSSL:
-  - 1.200
-  - 1.300
   - 1.301
 Plack-Middleware-RefererCheck:
   - 0.01
@@ -101241,6 +101522,7 @@ QBit-QueryData:
   - 0.008
   - 0.009
   - 0.010
+  - 0.011
 QBit-TimeLog:
   - 0.5
 QBit-TimeLog-XS:
@@ -102259,6 +102541,8 @@ RPi-Pin:
   - 2.3602
   - 2.3603
   - 2.3604
+  - 2.3605
+  - 2.3606
 RPi-SPI:
   - 2.36.1
   - 2.36.2
@@ -103242,6 +103526,7 @@ Reddit-Client:
   - 1.10
   - 1.20
   - 1.201
+  - 1.231
 RedirectDBI:
   - 0.02
 Redirx-Client:
@@ -104803,6 +105088,7 @@ Rstats:
   - 0.0147
   - 0.0148
   - 0.0149
+  - 0.0150
 Rsync-Config:
   - 0.2
   - 0.3.1
@@ -105713,6 +105999,7 @@ SPVM:
   - 0.0322
   - 0.0323
   - 0.0324
+  - 0.0325
 SPVM-Examples:
   - 0.001
 SQ:
@@ -106626,7 +106913,7 @@ Safe-Hole:
   - 0.08
   - 0.09
   - 0.10
-  - 0.13
+  - 0.14
 Safe-Isa:
   - 1.000006
 Safe-Logs:
@@ -109905,9 +110192,6 @@ Statistics-SDT:
 Statistics-SPC:
   - 0.1
 Statistics-Sampler-Multinomial:
-  - 0.2
-  - 0.4
-  - 0.5
   - 0.6
   - 0.7
 Statistics-Sequences:
@@ -112610,18 +112894,16 @@ Task-BeLike-ZAKAME:
   - 0.15
   - 0.16
   - 0.17
+  - 0.18
 Task-BeLike-hanekomu:
   - 1.103620
 Task-BenchmarkAnything:
   - 0.003
 Task-Biodiverse:
-  - 1.0
   - 1.0001
   - 1.99007
   - 2.000
 Task-Biodiverse-NoGUI:
-  - 1.1
-  - 1.10001
   - 1.10002
   - 1.990073
   - 1.990074
@@ -115242,6 +115524,7 @@ Test-Bot:
   - 0.09
 Test-BrewBuild:
   - 2.19
+  - 2.20
 Test-BrewBuild-Plugin-Author:
   - 0.01
   - 0.02
@@ -116589,6 +116872,8 @@ Test-Mock-One:
   - 0.006
   - 0.007
   - 0.008
+  - 0.009
+  - 0.010
 Test-Mock-Recorder:
   - 0.01
 Test-Mock-Redis:
@@ -116721,6 +117006,7 @@ Test-Mockify:
   - 2.1
   - 2.2
   - 2.3
+  - 2.4
 Test-Modern:
   - 0.011
   - 0.012
@@ -117837,6 +118123,7 @@ Test-WWW-Mechanize:
   - 1.44
   - 1.46
   - 1.48
+  - 1.50
 Test-WWW-Mechanize-CGI:
   - 0.1
 Test-WWW-Mechanize-CGIApp:
@@ -123209,6 +123496,7 @@ Travel-Status-DE-IRIS:
   - 1.14
   - 1.15
   - 1.16
+  - 1.17
 Travel-Status-DE-URA:
   - 1.00
   - 1.01
@@ -123656,6 +123944,7 @@ Type-Tiny:
   - 1.000006
   - 1.002000
   - 1.002001
+  - 1.002002
 Type-Tiny-Signatures:
   - 0.01
   - 0.02
@@ -125704,6 +125993,7 @@ Verilog-CodeGen:
 Verilog-Perl:
   - 3.446
   - 3.448
+  - 3.452
 Verilog-Readmem:
   - 0.05
 Verilog-VCD:
@@ -127427,6 +127717,7 @@ WWW-Mechanize-Chrome:
   - 0.07
   - 0.09
   - 0.10
+  - 0.11
 WWW-Mechanize-DecodedContent:
   - 0.01
   - 0.02
@@ -128616,6 +128907,7 @@ WWW-Subsonic:
   - 0.002
   - 0.003
   - 0.004
+  - 0.005
 WWW-Sucksub-Attila:
   - 0.01
   - 0.02
@@ -130589,6 +130881,7 @@ WebService-MinFraud:
   - 1.005000
   - 1.005001
   - 1.006000
+  - 1.007000
 WebService-Minecraft-Fishbans:
   - 0.01
   - 0.02
@@ -132947,6 +133240,7 @@ X11-Xlib:
   - 0.14
   - 0.15
   - 0.16
+  - 0.17
 X12:
   - 0.01
   - 0.03
@@ -136068,6 +136362,7 @@ bignum:
   - 0.47
   - 0.48
   - 0.49
+  - 0.50
 bin-sqlpp:
   - 0.06
 bin-wxcat:
@@ -137185,9 +137480,6 @@ namespace-autoclean:
 namespace-clean:
   - 0.27
 namespace-clean-xs:
-  - 0.05
-  - 0.06
-  - 0.07
   - 0.08
   - 0.09
 namespace-functions:
@@ -137534,6 +137826,8 @@ perl:
   - 5.24.2
   - 5.24.3
   - 5.26.1
+  - 5.24.4
+  - 5.26.2
 perl-Apache2-LogUtil:
   - 00.01001
 perl-GPS:
@@ -138362,6 +138656,9 @@ version:
   - 0.9918
   - 0.9919
   - 0.9920
+  - 0.9921
+  - 0.9922
+  - 0.9923
 version-AlphaBeta:
   - 0.06
 version-Limit:
