@@ -6495,6 +6495,8 @@ App-pwhich:
   PLICEASE: 1
 App-rainbarf:
   SYP: 1
+App-rank:
+  PERLANCAR: 1
 App-rcmd:
   REISINGE: 1
 App-redis_traffic_stats:
@@ -11545,6 +11547,10 @@ CPAN-Test-Dummy-Perl5-Requires:
   SREZIC: 1
 CPAN-Test-Dummy-Perl5-StaticInstall:
   MIYAGAWA: 1
+CPAN-Test-Dummy-Perl5-UseUnsafeINC-Fail:
+  MIYAGAWA: 1
+CPAN-Test-Dummy-Perl5-UseUnsafeINC-One:
+  MIYAGAWA: 1
 CPAN-Test-Dummy-Perl5-VersionBump:
   MIYAGAWA: 1
 CPAN-Test-Dummy-Perl5-VersionDeclare:
@@ -14844,6 +14850,8 @@ Class-SingletonProxy:
   SALVA: 1
 Class-Skin:
   RANI: 1
+Class-Slot:
+  JEFFOBER: 1
 Class-Sniff:
   NEILB: 1
 Class-Spiffy:
@@ -15231,6 +15239,8 @@ Comics:
   JV: 1
 Command-Interactive:
   BINARY: 1
+Command-Runner:
+  SKAJI: 1
 Commands-Guarded:
   TREY: 1
 Comment-Block:
@@ -21481,7 +21491,7 @@ Devel-PDB:
 Devel-PL_origargv:
   TOBYINK: 1
 Devel-PPPort:
-  WOLFSAGE: 1
+  XSAWYERX: 1
 Devel-PackagePath:
   PERIGRIN: 1
 Devel-PartialDump:
@@ -22463,6 +22473,8 @@ Dist-Zilla-MintingProfile-Author-ARODLAND:
   ARODLAND: 1
 Dist-Zilla-MintingProfile-Author-Caelum:
   RKITOVER: 1
+Dist-Zilla-MintingProfile-FB11:
+  ALTREUS: 1
 Dist-Zilla-MintingProfile-Iller-CSSON:
   CSSON: 1
 Dist-Zilla-MintingProfile-MapMetro-Map:
@@ -23015,6 +23027,8 @@ Dist-Zilla-Plugin-RPM-Push:
   BENNING: 1
 Dist-Zilla-Plugin-Readme-Brief:
   KENTNL: 1
+Dist-Zilla-Plugin-ReadmeAddDevInfo:
+  RENEEB: 1
 Dist-Zilla-Plugin-ReadmeAnyFromPod:
   RTHOMPSON: 1
 Dist-Zilla-Plugin-ReadmeFromPod:
@@ -23797,6 +23811,8 @@ EO:
 EOL:
   TWYLIE: 1
 EPFL-Sciper-List:
+  WILLBELL: 1
+EPFL-Service-Open:
   WILLBELL: 1
 EPL2:
   TEDKAT: 1
@@ -28909,6 +28925,8 @@ Graphics-GnuplotIF:
   MEHNER: 1
 Graphics-GnuplotIF-Shortcut:
   BORISZ: 1
+Graphics-Grid:
+  SLOYD: 1
 Graphics-HotMap:
   KUMY: 1
 Graphics-Libplot:
@@ -31174,7 +31192,7 @@ INI_File:
 INSPEC:
   VPLA: 1
 IO:
-  GBARR: 1
+  TODDR: 1
 IO-AIO:
   MLEHMANN: 1
 IO-AIO-LoadLimited:
@@ -35035,6 +35053,8 @@ Linux-Netfilter-Log:
   DJCOLLINS: 1
 Linux-Pdeathsig:
   ZEROHP: 1
+Linux-Perl:
+  FELIPE: 1
 Linux-Personality:
   SCHWIGON: 1
 Linux-Pid:
@@ -35929,7 +35949,7 @@ Log-Any-Adapter-Journal:
 Log-Any-Adapter-LinuxJournal:
   IOANR: 1
 Log-Any-Adapter-Log4perl:
-  DAGOLDEN: 1
+  PREACTION: 1
 Log-Any-Adapter-LogGer:
   PERLANCAR: 1
 Log-Any-Adapter-Mojo:
@@ -36160,6 +36180,8 @@ Log-Log4perl-Appender-Graylog:
   DIMENTOX: 1
 Log-Log4perl-Appender-Lim-CLI:
   JELU: 1
+Log-Log4perl-Appender-LogGer:
+  PERLANCAR: 1
 Log-Log4perl-Appender-Lumberjack:
   BENNING: 1
 Log-Log4perl-Appender-RabbitMQ:
@@ -37480,6 +37502,8 @@ Map-Tube-Dnipropetrovsk:
   SKIM: 1
 Map-Tube-Exception:
   MANWAR: 1
+Map-Tube-Frankfurt:
+  RENEEB: 1
 Map-Tube-Glasgow:
   GWS: 1
 Map-Tube-Graph:
@@ -40072,6 +40096,8 @@ Mojolicious-Plugin-CHI:
   AKRON: 1
 Mojolicious-Plugin-CORS:
   AMIRITE: 1
+Mojolicious-Plugin-CSPHeader:
+  LDIDRY: 1
 Mojolicious-Plugin-CSRFDefender:
   SHIBAZAKI: 1
 Mojolicious-Plugin-CSRFProtect:
@@ -40218,6 +40244,8 @@ Mojolicious-Plugin-Gravatar:
   KOORCHIK: 1
 Mojolicious-Plugin-GroupedParams:
   IVSOKOLOV: 1
+Mojolicious-Plugin-GzipStatic:
+  LDIDRY: 1
 Mojolicious-Plugin-HTMLLint:
   KOORCHIK: 1
 Mojolicious-Plugin-HTMLTemplateProRenderer:
@@ -40352,6 +40380,8 @@ Mojolicious-Plugin-MySQLViewerLite:
   KIMOTO: 1
 Mojolicious-Plugin-NYTProf:
   LEEJO: 1
+Mojolicious-Plugin-NamedHelpers:
+  TYLDUM: 1
 Mojolicious-Plugin-Narada:
   POWERMAN: 1
 Mojolicious-Plugin-NetsPayment:
@@ -46107,6 +46137,8 @@ PERLANCAR-Tree-Examples:
   PERLANCAR: 1
 PERLANCAR-warnings-all:
   PERLANCAR: 1
+PERLCORE-Predicates-IsEven:
+  ECARROLL: 1
 PESEL-Generator:
   STRZELEC: 1
 PException:
@@ -46277,6 +46309,8 @@ PMInfoExtr:
 PML:
   PJONES: 1
 PMLTQ:
+  MATY: 1
+PMLTQ-Suggest:
   MATY: 1
 PNC:
   ARMSTRONG: 1
@@ -52581,6 +52615,8 @@ Report-Generator:
   REHSACK: 1
 Report-Porf:
   JPR: 1
+Report_HTML_DB:
+  HIMEWEN: 1
 Repository-Simple:
   HANENKAMP: 1
 Reprepro-Uploaders:
@@ -54271,7 +54307,7 @@ Sensu-API-Client:
 Sentinel:
   PEVANS: 1
 Sentry:
-  REGRU: 1
+  PAVELSR: 1
 Sentry-Log-Raven:
   DGENGU: 1
 Sentry-Raven:
@@ -54300,6 +54336,8 @@ SerealX-Store:
   GVL: 1
 Serengeti:
   CLAESJAC: 1
+Serge:
+  AFAN: 1
 SerialNumber-Sequence:
   CHUNZI: 1
 Server-Control:
@@ -54556,6 +54594,8 @@ Shodo:
   YUSUKEBE: 1
 Short-Url:
   SRCHULO: 1
+Shorthand-Entropy-UseLocal:
+  PERLANCAR: 1
 Shuvgey:
   CRUX: 1
 Sidef:
@@ -55609,7 +55649,7 @@ Stepford-Grapher:
 Stlgen:
   GSLONDON: 1
 Storable:
-  AMS: 1
+  XSAWYERX: 1
 Storable-AMF:
   GRIAN: 1
 Storable-CouchDB:
@@ -57114,6 +57154,8 @@ Task-Biodiverse:
   SLAFFAN: 1
 Task-Biodiverse-NoGUI:
   SLAFFAN: 1
+Task-Bootstrap-Perl-CPAN:
+  SCHWIGON: 1
 Task-Bot-Training:
   AVAR: 1
 Task-Business-AU:
@@ -63213,7 +63255,7 @@ UUID-Tiny:
 UUID-URandom:
   DAGOLDEN: 1
 UV:
-  TYPESTER: 1
+  CAPOEIRAB: 1
 UV-Util:
   CAPOEIRAB: 1
 Ubic:
@@ -65633,8 +65675,12 @@ Web-Machine:
   DROLSKY: 1
 Web-MarketReceipt:
   KONBOI: 1
+Web-Mention:
+  JMAC: 1
 Web-MicroID:
   RECLAW: 1
+Web-Microformats2:
+  JMAC: 1
 Web-Passwd:
   EVANK: 1
 Web-Paste-Simple:
@@ -67823,6 +67869,7 @@ XML-FeedLite:
   RPETTETT: 1
 XML-FeedPP:
   KAWASAKI: 1
+  MARKOV: 1
 XML-FeedPP-MediaRSS:
   FRODWITH: 1
 XML-FeedPP-Plugin-AddMP3:
@@ -68707,6 +68754,8 @@ Yahoo-Search:
   TIMB: 1
 Yahoo-Weather:
   KCHAITAN: 1
+Yahoo-Weather-Api:
+  SPAJAI: 1
 Yakuake-Sessions:
   PJFL: 1
 YamlTime:
@@ -70138,7 +70187,7 @@ stockmonkey:
 strict-ModuleName:
   SBURKE: 1
 strictures:
-  HAARG: 1
+  ETHER: 1
 subclustv1:
   SIMATIKA: 1
 subs-auto:
