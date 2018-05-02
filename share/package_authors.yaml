@@ -703,6 +703,8 @@ Acme-CPANModules-CryptoExchange-API:
   PERLANCAR: 1
 Acme-CPANModules-FooThis:
   PERLANCAR: 1
+Acme-CPANModules-PortedFrom-NPM:
+  PERLANCAR: 1
 Acme-CPANModules-fgets:
   PERLANCAR: 1
 Acme-CPANModulesBundle-Import-PerlAdvent-2017:
@@ -2436,6 +2438,8 @@ Alien-Texinfo:
   WBRASWELL: 1
 Alien-Thrust:
   FRACTAL: 1
+Alien-TidyHTML5:
+  RRWO: 1
 Alien-Tidyp:
   KMX: 1
 Alien-TinyCC:
@@ -3998,6 +4002,8 @@ Apache2-AuthCAS:
   JHITT: 1
 Apache2-AuthCASSimple:
   YVESAGO: 1
+Apache2-AuthCASpbh:
+  PHENSON: 1
 Apache2-AuthColloquy:
   NICOLAW: 1
 Apache2-AuthCookieDBI:
@@ -5172,6 +5178,8 @@ App-Module-Template:
 App-ModuleBuildTiny:
   LEONT: 1
 App-ModulePatchUtils:
+  PERLANCAR: 1
+App-ModuleVersionDiffUtils:
   PERLANCAR: 1
 App-MojoSlides:
   JBERGER: 1
@@ -6521,6 +6529,8 @@ App-rmhere:
   PERLANCAR: 1
 App-rmspaces:
   ATHOS: 1
+App-rs:
+  RSLOVERS: 1
 App-rsync-new2old:
   PERLANCAR: 1
 App-rsynccolor:
@@ -9876,8 +9886,6 @@ Business-ISIN:
   DIVEC: 1
 Business-ISMN:
   BDFOY: 1
-Business-ISSN:
-  BDFOY: 1
 Business-Intelligence-MicroStrategy-CommandManager:
   CGRADY: 1
 Business-Inventory-Valuation:
@@ -10140,8 +10148,6 @@ Business-UPS-Tracking:
   MAROS: 1
 Business-US-USPS-IMB:
   CNIGHS: 1
-Business-US-USPS-WebTools:
-  BDFOY: 1
 Business-US_Amort:
   SBURKE: 1
 Business-UTV:
@@ -12973,6 +12979,8 @@ Catalyst-Plugin-RunAfterRequest:
   FLORA: 1
 Catalyst-Plugin-Scheduler:
   BRICAS: 1
+Catalyst-Plugin-ServeFile:
+  JJNAPIORK: 1
 Catalyst-Plugin-Server:
   JLMARTIN: 1
 Catalyst-Plugin-Server-JSONRPC:
@@ -13139,7 +13147,7 @@ Catalyst-ResponseHelpers:
 Catalyst-Runtime:
   BOBTFISH: 1
   FLORA: 1
-  JJNAPIORK: 1
+  HAARG: 1
 Catalyst-TraitFor-Component-ConfigPerSite:
   TEEJAY: 1
 Catalyst-TraitFor-Context-PSGI-FindEnv:
@@ -16426,7 +16434,7 @@ Crypt-OpenSSL-PKCS12:
 Crypt-OpenSSL-RC4:
   TOKUHIROM: 1
 Crypt-OpenSSL-RSA:
-  PERLER: 1
+  TODDR: 1
 Crypt-OpenSSL-Random:
   RURBAN: 1
 Crypt-OpenSSL-SMIME:
@@ -23618,6 +23626,8 @@ Distribution-Guess-BuildSystem:
   BDFOY: 1
 Distribution-Metadata:
   SKAJI: 1
+Dita-Validate:
+  PRBRENAN: 1
 Doc-Simply:
   RKRIMEN: 1
   ROKR: 1
@@ -30330,7 +30340,7 @@ HTTP-Cookies-Guess:
 HTTP-Cookies-Mozilla:
   BDFOY: 1
 HTTP-Cookies-Omniweb:
-  BDFOY: 1
+  ADOPTME: 1
 HTTP-Cookies-Opera:
   GRAY: 1
 HTTP-Cookies-PhantomJS:
@@ -30338,7 +30348,7 @@ HTTP-Cookies-PhantomJS:
 HTTP-Cookies-Safari:
   BDFOY: 1
 HTTP-Cookies-iCab:
-  BDFOY: 1
+  ADOPTME: 1
 HTTP-Cookies-w3m:
   YAPPO: 1
 HTTP-CryptoCookie:
@@ -31935,6 +31945,8 @@ Image-ExifTool-Location:
   ANDYA: 1
 Image-Filter:
   BEATNIK: 1
+Image-Find-Paths:
+  PRBRENAN: 1
 Image-Fixup:
   DAVAZ: 1
 Image-Flight-Suborbital:
@@ -32508,6 +32520,8 @@ JIP-ClassField:
 JIP-Conf:
   VLADIMIRZ: 1
 JIP-Daemon:
+  VLADIMIRZ: 1
+JIP-DataPath:
   VLADIMIRZ: 1
 JIP-Debug:
   VLADIMIRZ: 1
@@ -35742,6 +35756,8 @@ Locale-CLDR-Transformations:
   JGNI: 1
 Locale-Codes:
   SBECK: 1
+Locale-Country-EU:
+  MATTSIZLE: 1
 Locale-Country-Extra:
   BINARY: 1
 Locale-Country-Geo:
@@ -37022,7 +37038,7 @@ Mac-iPod-DB:
 Mac-iPod-GNUpod:
   JASPAX: 1
 Mac-iTerm-LaunchPad:
-  BDFOY: 1
+  ADOPTME: 1
 Mac-iTunes:
   ADOPTME: 1
 Mac-iTunes-Library:
@@ -37544,6 +37560,8 @@ Map-Tube-NizhnyNovgorod:
   SKIM: 1
 Map-Tube-Novosibirsk:
   SKIM: 1
+Map-Tube-Nuremberg:
+  STELIM: 1
 Map-Tube-Plugin-Formatter:
   MANWAR: 1
 Map-Tube-Plugin-FuzzyFind:
@@ -37883,7 +37901,7 @@ Math-Cephes:
 Math-CheckDigits:
   SONGMU: 1
 Math-Clipper:
-  SMUELLER: 1
+  SHELDRAKE: 1
 Math-Combinatorics:
   ALLENDAY: 1
 Math-Complex:
@@ -38683,6 +38701,8 @@ Memphis:
 MendeleySQLite:
   SDEN: 1
 Menlo:
+  MIYAGAWA: 1
+Menlo-Legacy:
   MIYAGAWA: 1
 Mercury:
   PREACTION: 1
@@ -39991,6 +40011,8 @@ Mojolicious-Command-generate-lexicon:
   UNDEF: 1
 Mojolicious-Command-generate-lexicont:
   DOKECHIN: 1
+Mojolicious-Command-generate-localplugin:
+  RENEEB: 1
 Mojolicious-Command-generate-qx_mojo_app:
   OETIKER: 1
 Mojolicious-Command-generate-resources:
@@ -40040,7 +40062,7 @@ Mojolicious-Plugin-AppCacheManifest:
 Mojolicious-Plugin-Args:
   AMIRITE: 1
 Mojolicious-Plugin-AssetPack:
-  JHTHORSEN: 1
+  MRAMBERG: 1
 Mojolicious-Plugin-AssetPack-Che:
   MCHE: 1
 Mojolicious-Plugin-AssetPack-Pipe-ElmLang:
@@ -44170,8 +44192,6 @@ Net-SSH-Mechanize:
   WULEE: 1
 Net-SSH-Perl:
   SCHWIGON: 1
-Net-SSH-Perl-ProxiedIPC:
-  BDFOY: 1
 Net-SSH-Perl-WithSocks:
   BDFOY: 1
 Net-SSH-Putty:
@@ -45695,6 +45715,8 @@ Oracle-Trace:
   RFOLEY: 1
 Oracle-Trigger:
   GEOTIGER: 1
+Oracle-ZFSSA-Client:
+  WHINDS: 1
 Oraperl:
   PYTHIAN: 1
 OrePAN:
@@ -50319,7 +50341,7 @@ Pod-Site:
 Pod-Snippets:
   DOMQ: 1
 Pod-SpeakIt-MacSpeech:
-  BDFOY: 1
+  ADOPTME: 1
 Pod-Spell:
   DOLMEN: 1
 Pod-Spell-CommonMistakes:
@@ -53774,7 +53796,7 @@ SWISH-API-Stat:
 SWISH-Filter:
   KARMAN: 1
 SWISH-Filters-ImageToMD5Xml:
-  LOGIE: 1
+  KARMAN: 1
 SWISH-Filters-ImageToXml:
   LOGIE: 1
 SWISH-Filters-ImageTypesToXml:
@@ -62668,6 +62690,8 @@ Tree-FromText:
   PERLANCAR: 1
 Tree-Interval:
   GNB: 1
+Tree-Interval-Fast:
+  AVULLO: 1
 Tree-Lexicon:
   SRANDALLS: 1
 Tree-M:
@@ -63416,8 +63440,6 @@ Unicode-Stringprep:
   CFAERBER: 1
 Unicode-Subscript:
   RJH: 1
-Unicode-Support:
-  BDFOY: 1
 Unicode-Transform:
   SADAHIRO: 1
 Unicode-Transliterate:
@@ -63478,6 +63500,8 @@ Unix-Mknod:
   PIRZYK: 1
 Unix-MyPathToInc:
   HAG: 1
+Unix-OpenBSD-Random:
+  JMATES: 1
 Unix-PID:
   DMUEY: 1
 Unix-PID-Tiny:
@@ -66646,6 +66670,8 @@ Webservice-OVH:
   SFPAJEND: 1
 Webservice-Shipment:
   JBERGER: 1
+Webservice-Swapi:
+  KIANMENG: 1
 Website:
   RETOH: 1
 Weewar:
@@ -69197,6 +69223,8 @@ colorize-stderr:
   PERLANCAR: 1
 combine:
   AARDO: 1
+common-header:
+  ZDM: 1
 common-sense:
   MLEHMANN: 1
 conjury:
@@ -69219,6 +69247,8 @@ constant-override:
   APNIC: 1
 constant-tiny:
   SAPER: 1
+continuous-delivery-template:
+  JOENIO: 1
 coroutine0:
   DAVIDNICO: 1
 cpan-listchanges:
