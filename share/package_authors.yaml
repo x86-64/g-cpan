@@ -1303,6 +1303,8 @@ Acme-PERL-Autocorrect:
   CHROMATIC: 1
 Acme-PERLANCAR-Prime:
   PERLANCAR: 1
+Acme-PERLANCAR-Test-Versioning:
+  PERLANCAR: 1
 Acme-PETEK-Testkit:
   PETEK: 1
 Acme-PGPSign:
@@ -2510,6 +2512,8 @@ Alien-gzip:
   PLICEASE: 1
 Alien-libcmark_gfm:
   DHARDISON: 1
+Alien-libdeflate:
+  KIWIROY: 1
 Alien-libpid:
   ATHREEF: 1
 Alien-libsndfile:
@@ -4056,6 +4060,8 @@ Apache2-BalanceLogic:
   MIKI: 1
 Apache2-Banner:
   OPI: 1
+Apache2-Camelcadedb:
+  MBARBON: 1
 Apache2-ClickPath:
   OPI: 1
 Apache2-CondProxy:
@@ -4913,6 +4919,8 @@ App-Github-Email:
   FARACO: 1
 App-Glacier:
   SGRAY: 1
+App-GnuplotUtils:
+  PERLANCAR: 1
 App-GoogleAuthUtils:
   PERLANCAR: 1
 App-GoogleSearchPerlIRCLogs:
@@ -5643,6 +5651,8 @@ App-SVN-Bisect:
   INFINOID: 1
 App-SahUtils:
   PERLANCAR: 1
+App-Sandy:
+  TMILLER: 1
 App-Sass:
   WWOLF: 1
 App-Scaffolder:
@@ -8000,6 +8010,8 @@ Backup-Duplicity-YADW:
   GRAVATTJ: 1
 Backup-EZ:
   GRAVATTJ: 1
+Backup-Hanoi:
+  BORISD: 1
 Backup-Omni:
   KESTEB: 1
 BackupPC-XS:
@@ -14700,6 +14712,8 @@ Class-Meta-Express:
   DWHEELER: 1
 Class-Method-Auto:
   BAUERB: 1
+Class-Method-Cache-FastMmap:
+  RRWO: 1
 Class-Method-Debug:
   MARCEL: 1
 Class-Method-Delegate:
@@ -15110,6 +15124,8 @@ Code-TidyAll:
   JSWARTZ: 1
 Code-TidyAll-Plugin-ESLint:
   MAXMIND: 1
+Code-TidyAll-Plugin-Flake8:
+  SHLOMIF: 1
 Code-TidyAll-Plugin-Go:
   MAXMIND: 1
 Code-TidyAll-Plugin-Perl-AlignMooseAttributes:
@@ -20568,6 +20584,8 @@ Date-ISO8601:
   ZEFRAM: 1
 Date-Indian:
   SYAMAL: 1
+Date-Indiction:
+  RPAVLOV: 1
 Date-JD:
   ZEFRAM: 1
 Date-Jalali:
@@ -20682,6 +20700,8 @@ Date-Utility:
   BINARY: 1
 Date-Utils:
   MANWAR: 1
+Date-Vruceleto:
+  RPAVLOV: 1
 Date-WeekNumber:
   NEILB: 1
 Date-WeekOfYear:
@@ -23189,8 +23209,6 @@ Dist-Zilla-Plugin-Test-Map-Tube:
   MANWAR: 1
 Dist-Zilla-Plugin-Test-MinimumVersion:
   DOHERTY: 1
-Dist-Zilla-Plugin-Test-NewVersion:
-  ETHER: 1
 Dist-Zilla-Plugin-Test-NoBreakpoints:
   CHISEL: 1
 Dist-Zilla-Plugin-Test-NoTabs:
@@ -24558,6 +24576,8 @@ Eval-LineNumbers:
   MUIR: 1
 Eval-Logic:
   ZEBAZ: 1
+Eval-Reversible:
+  GSG: 1
 Eval-Util:
   PERLANCAR: 1
 Eval-WithLexicals:
@@ -30650,7 +30670,7 @@ HTTP-Tiny-SPDY:
 HTTP-Tiny-UA:
   DAGOLDEN: 1
 HTTP-Tiny-UNIX:
-  SHARYANTO: 1
+  PERLANCAR: 1
 HTTP-Tinyish:
   MIYAGAWA: 1
 HTTP-UA-Parser:
@@ -31388,6 +31408,8 @@ IO-Iron-Applications:
   MIKKOI: 1
 IO-Journal:
   FREQUENCY: 1
+IO-K8s:
+  JLMARTIN: 1
 IO-KQueue:
   MSERGEANT: 1
 IO-LCDproc:
@@ -31945,6 +31967,8 @@ Image-ExifTool-Location:
   ANDYA: 1
 Image-Filter:
   BEATNIK: 1
+Image-Find-Loops:
+  PRBRENAN: 1
 Image-Find-Paths:
   PRBRENAN: 1
 Image-Fixup:
@@ -32897,6 +32921,8 @@ JavaScript-Toolbox:
   PEIRY: 1
 JavaScript-V8:
   DGL: 1
+JavaScript-V8-CommonJS:
+  CAFEGRATZ: 1
 JavaScript-V8-Handlebars:
   RMZG: 1
 JavaScript-V8x-TestMoreish:
@@ -33193,6 +33219,8 @@ KiokuX-User:
   FLORA: 1
 Kite:
   ABW: 1
+Koha-Contrib-ARK:
+  FREDERICD: 1
 Koha-Contrib-Mirabel:
   FREDERICD: 1
 Koha-Contrib-Sudoc:
@@ -34731,6 +34759,8 @@ Lingua-RU-Antimat:
   ILYAS: 1
 Lingua-RU-Charset:
   FARBER: 1
+Lingua-RU-Declension:
+  MALLEN: 1
 Lingua-RU-Detect:
   ANDY: 1
 Lingua-RU-Inflect:
@@ -36230,6 +36260,8 @@ Log-Log4perl-DataDumper:
   CTILMES: 1
 Log-Log4perl-Filter-CallerMatch:
   PDONELAN: 1
+Log-Log4perl-Layout-ColoredPatternLayout:
+  TOMGRACEY: 1
 Log-Log4perl-Layout-GELF:
   JASONPOPE: 1
 Log-Log4perl-Layout-JSON:
@@ -37868,6 +37900,8 @@ Math-Business-BlackScholes-Binaries-Greeks:
   BINARY: 1
 Math-Business-Blackscholes-Binaries:
   BINARY: 1
+Math-Business-BlackscholesMerton:
+  BINARY: 1
 Math-Business-Stochastic:
   YUKINOBU: 1
 Math-CDF:
@@ -39071,6 +39105,8 @@ ModPerl2-Tools:
   OPI: 1
 Modbus-Client:
   DVKLEIN: 1
+Model-Envoy:
+  HOWARS: 1
 Model3D-Poser:
   DODGER: 1
 ModelSim-List:
@@ -40816,6 +40852,8 @@ MooX-Aliases:
   HAARG: 1
 MooX-Async-Console:
   CHOHAG: 1
+MooX-AttributeFilter:
+  VRURG: 1
 MooX-Attributes-Shadow:
   DJERIUS: 1
 MooX-BuildArgs:
@@ -41474,6 +41512,8 @@ MooseX-Storage-IO-AmazonDynamoDB:
   SCALDWELL: 1
 MooseX-Storage-IO-CHI:
   SCALDWELL: 1
+MooseX-Storage-MaybeDeferred:
+  UFOBAT: 1
 MooseX-Storage-Traits-WithRoles:
   YANICK: 1
 MooseX-StrictConstructor:
@@ -48331,6 +48371,8 @@ Perinci-CmdLine-Util-Config:
   PERLANCAR: 1
 Perinci-CmdLine-cryp:
   PERLANCAR: 1
+Perinci-CmdLine-sero:
+  PERLANCAR: 1
 Perinci-Declare:
   PERLANCAR: 1
 Perinci-Easy:
@@ -49508,6 +49550,8 @@ Plack-Middleware-Cache-CHI:
   PNU: 1
 Plack-Middleware-Cached:
   VOJ: 1
+Plack-Middleware-Camelcadedb:
+  MBARBON: 1
 Plack-Middleware-Cerberus:
   DRTECH: 1
 Plack-Middleware-ChromeFrame:
@@ -54360,6 +54404,10 @@ Serengeti:
   CLAESJAC: 1
 Serge:
   AFAN: 1
+Serge-Sync-Plugin-TranslationService-mojito:
+  DRAGOSV: 1
+Serge-Sync-Plugin-TranslationService-zanata:
+  DRAGOSV: 1
 SerialNumber-Sequence:
   CHUNZI: 1
 Server-Control:
@@ -57884,6 +57932,8 @@ Template-Plugin-Pageset:
   CHUNZI: 1
 Template-Plugin-Pagination:
   TMTM: 1
+Template-Plugin-Path-Tiny:
+  RRWO: 1
 Template-Plugin-Perl:
   AGENT: 1
 Template-Plugin-PerlTidy:
@@ -58589,6 +58639,8 @@ Test-Compile:
   EGILES: 1
 Test-Compiles:
   TOBYINK: 1
+Test-Conditions:
+  MMCCLENN: 1
 Test-Config-System:
   IANK: 1
 Test-ConsistentVersion:
@@ -66323,6 +66375,8 @@ WebService-Plotly:
   MITHALDU: 1
 WebService-Pocket:
   WWOLF: 1
+WebService-Pokemon:
+  KIANMENG: 1
 WebService-Postcodeanywhere-BACS-REST:
   TEEJAY: 1
 WebService-Prismatic-InterestGraph:
@@ -66496,6 +66550,8 @@ WebService-Strike:
   MGV: 1
 WebService-Stripe:
   IRONCAMEL: 1
+WebService-Swapi:
+  KIANMENG: 1
 WebService-SwigClient:
   LOGIE: 1
 WebService-SyncSBS-D2H:
@@ -66670,8 +66726,6 @@ Webservice-OVH:
   SFPAJEND: 1
 Webservice-Shipment:
   JBERGER: 1
-Webservice-Swapi:
-  KIANMENG: 1
 Website:
   RETOH: 1
 Weewar:
