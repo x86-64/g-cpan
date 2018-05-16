@@ -699,6 +699,8 @@ Acme-CPANLists-PERLANCAR-Test:
   PERLANCAR: 1
 Acme-CPANModules:
   PERLANCAR: 1
+Acme-CPANModules-BloomFilters:
+  PERLANCAR: 1
 Acme-CPANModules-CryptoExchange-API:
   PERLANCAR: 1
 Acme-CPANModules-FooThis:
@@ -715,6 +717,8 @@ Acme-CPANPLUS-Module-With-Failing-Configure-Requires:
   BINGOS: 1
 Acme-CPANPLUS-PreReq-Text-Tabs:
   BINGOS: 1
+Acme-CPANRatings:
+  PERLANCAR: 1
 Acme-CPANTesters-Experiment:
   UREE: 1
 Acme-Cake:
@@ -1303,8 +1307,6 @@ Acme-PERL-Autocorrect:
   CHROMATIC: 1
 Acme-PERLANCAR-Prime:
   PERLANCAR: 1
-Acme-PERLANCAR-Test-Versioning:
-  PERLANCAR: 1
 Acme-PETEK-Testkit:
   PETEK: 1
 Acme-PGPSign:
@@ -1747,6 +1749,8 @@ Acpi:
   SHY: 1
 Acpi-Class:
   MIMOSINET: 1
+Action-CircuitBreaker:
+  HANGY: 1
 Action-Retry:
   DAMS: 1
 ActionExporter:
@@ -5523,6 +5527,8 @@ App-Prove-Plugin-RandomSeed:
   MASIUCHI: 1
 App-Prove-Plugin-SetEnv:
   ILMARI: 1
+App-Prove-Plugin-TermTable:
+  PLICEASE: 1
 App-Prove-Plugin-TraceUse:
   TORBJORN: 1
 App-Prove-RunScripts:
@@ -6193,6 +6199,8 @@ App-eta2zero:
   PERLANCAR: 1
 App-euro_lotto:
   MIKEKELLY: 1
+App-fiatx:
+  PERLANCAR: 1
 App-filewatch:
   IVANWILLS: 1
 App-financeta:
@@ -9898,6 +9906,8 @@ Business-ISIN:
   DIVEC: 1
 Business-ISMN:
   BDFOY: 1
+Business-ISSN:
+  BDFOY: 1
 Business-Intelligence-MicroStrategy-CommandManager:
   CGRADY: 1
 Business-Inventory-Valuation:
@@ -11853,6 +11863,8 @@ CVSUtils:
   FLUFFY: 1
 CWB-CQP-More:
   AMBS: 1
+CXC-Optics-Prescription-LVS:
+  DJERIUS: 1
 CaCORE:
   NCICB: 1
 Cac:
@@ -13606,6 +13618,8 @@ Catmandu-Fix-XML:
 Catmandu-Fix-cmd:
   NICS: 1
 Catmandu-Geocode:
+  HOCHSTEN: 1
+Catmandu-HTML:
   HOCHSTEN: 1
 Catmandu-Identifier:
   VPEIL: 1
@@ -23657,6 +23671,8 @@ DocSet:
   STAS: 1
 Docbook-Table:
   SKUD: 1
+Docker-Registry:
+  JLMARTIN: 1
 Docopt:
   TOKUHIROM: 1
 Docs-US_DOD-STD2167A:
@@ -24240,6 +24256,8 @@ Email-Stuff:
   RJBS: 1
 Email-Stuffer:
   RJBS: 1
+Email-Stuffer-TestLinks:
+  BINARY: 1
 Email-Template:
   SFRYER: 1
 Email-Thread:
@@ -24851,7 +24869,7 @@ ExtUtils-MakeMaker-Dist-Zilla-Develop:
 ExtUtils-MakeMaker-Extensions:
   REHSACK: 1
 ExtUtils-Manifest:
-  ETHER: 1
+  BINGOS: 1
 ExtUtils-ModuleMaker:
   JKEENAN: 1
   RGEOFFREY: 1
@@ -25468,6 +25486,8 @@ File-Finder:
   MERLYN: 1
 File-Findgrep:
   SBURKE: 1
+File-Fingerprint:
+  BDFOY: 1
 File-Fingerprint-Huge:
   CFABER: 1
 File-Flat:
@@ -26378,6 +26398,8 @@ Finance-Currency-Convert-XE:
   RMCKAY: 1
 Finance-Currency-Convert-Yahoo:
   LGODDARD: 1
+Finance-Currency-FiatX:
+  PERLANCAR: 1
 Finance-Currency-ParValueSeparate:
   CHUNZI: 1
 Finance-Dogecoin:
@@ -31080,7 +31102,7 @@ HoneyClient-Util:
 Hoobot:
   BSMITH: 1
 Hook-AfterRuntime:
-  EXODIST: 1
+  PTC: 1
 Hook-Filter:
   ERWAN: 1
 Hook-Heckle:
@@ -33269,6 +33291,8 @@ Krb4:
   JHORWITZ: 1
 Krb5:
   JHORWITZ: 1
+Kubectl-CLIWrapper:
+  JLMARTIN: 1
 Kwalify:
   SREZIC: 1
 Kwargs:
@@ -39843,6 +39867,8 @@ Mojo-RoleTiny:
   DVINCI: 1
 Mojo-Run:
   LIKHATSKI: 1
+Mojo-SAML:
+  JBERGER: 1
 Mojo-SMTP-Client:
   OLEG: 1
 Mojo-SNMP:
@@ -40500,6 +40526,8 @@ Mojolicious-Plugin-ProRenderer:
   SLOBIN: 1
 Mojolicious-Plugin-Prometheus:
   TYLDUM: 1
+Mojolicious-Plugin-PromiseActions:
+  MRAMBERG: 1
 Mojolicious-Plugin-Prove:
   RENEEB: 1
 Mojolicious-Plugin-Proxy:
@@ -41096,6 +41124,8 @@ MooseX-AttributeDefaults:
   FRODWITH: 1
 MooseX-AttributeDocumented:
   CSSON: 1
+MooseX-AttributeFilter:
+  KITTEN: 1
 MooseX-AttributeHelpers:
   ETHER: 1
   FLORA: 1
@@ -53716,8 +53746,6 @@ SVN-Churn:
   RCLAMP: 1
 SVN-Class:
   KARMAN: 1
-SVN-Deploy:
-  TOMK: 1
 SVN-Dump:
   BOOK: 1
 SVN-DumpReloc:
@@ -55718,6 +55746,8 @@ Stepford-Grapher:
   MAXMIND: 1
 Stlgen:
   GSLONDON: 1
+Stor:
+  JASEI: 1
 Storable:
   XSAWYERX: 1
 Storable-AMF:
@@ -57490,6 +57520,8 @@ Task-genpw:
   PERLANCAR: 1
 TaskForest:
   ENOOR: 1
+TaskPipe:
+  TOMGRACEY: 1
 Tasks:
   SERGEY: 1
 Taskwarrior-Kusarigama:
@@ -59929,6 +59961,10 @@ Test2-Tools-Expressive:
   PETDANCE: 1
 Test2-Tools-JSON:
   AKIYM: 1
+Test2-Tools-JSON-Pointer:
+  PLICEASE: 1
+Test2-Tools-SkipUntil:
+  DFARRELL: 1
 Test2-Tools-URL:
   PLICEASE: 1
 Test2-Tools-xUnit:
@@ -60674,6 +60710,8 @@ Text-Patch:
   CADE: 1
 Text-Patch-Rred:
   JBOHM: 1
+Text-PerlPP:
+  CXW: 1
 Text-Perlate:
   BILBO: 1
 Text-Phonetic:
@@ -62968,6 +63006,8 @@ TypeLibrary-FromXSD:
   RENEEB: 1
 Types:
   SIZUR: 1
+Types-Bool:
+  FERREIRA: 1
 Types-CLike:
   BBYRD: 1
 Types-Core:
