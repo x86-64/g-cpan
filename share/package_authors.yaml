@@ -1635,6 +1635,8 @@ Acme-Turing:
   GROMMEL: 1
 Acme-Types-NonStandard:
   AVENJ: 1
+Acme-UNIVERSAL-can-t:
+  TOBYINK: 1
 Acme-UNIVERSAL-cannot:
   BOBTFISH: 1
 Acme-UNIVERSAL-new:
@@ -4714,6 +4716,8 @@ App-Environ-ClickHouse-Proxy:
 App-Environ-DNS:
   KAKTUS: 1
 App-Environ-Mojo-Pg:
+  KAKTUS: 1
+App-Environ-Que:
   KAKTUS: 1
 App-ErrorCalculator:
   SMUELLER: 1
@@ -8400,6 +8404,8 @@ Bencher-Scenarios-PerinciSubValidateArgs:
   PERLANCAR: 1
 Bencher-Scenarios-Perl:
   PERLANCAR: 1
+Bencher-Scenarios-ProgressAny:
+  PERLANCAR: 1
 Bencher-Scenarios-RefUtil:
   PERLANCAR: 1
 Bencher-Scenarios-RegexpCommon:
@@ -8580,12 +8586,16 @@ BikePower:
   SREZIC: 1
 BinTree.pm:
   TOMC: 1
+Binance-API:
+  TASKULA: 1
 Binary-Heap-Search:
   PRBRENAN: 1
 Binary.pm:
   TOMC: 1
 Binding:
   GUGOD: 1
+Bing-ContentAPI:
+  BGERRARD: 1
 Bing-Search:
   DHOUSTON: 1
 Bing-Translate:
@@ -9991,6 +10001,8 @@ Business-OnlinePayment-Litle:
   JAYCE: 1
 Business-OnlinePayment-MerchantCommerce:
   TMAC: 1
+Business-OnlinePayment-Mock:
+  OAXLIN: 1
 Business-OnlinePayment-Multiplex:
   MOCK: 1
 Business-OnlinePayment-NMI:
@@ -11495,8 +11507,6 @@ CPAN-ReverseDependencies:
   NEILB: 1
 CPAN-SQLite:
   STRO: 1
-CPAN-Search-Author:
-  MANWAR: 1
 CPAN-Search-Lite:
   ISHIGAKI: 1
 CPAN-Search-Tester:
@@ -11704,8 +11714,6 @@ CPANPLUS-Daemon:
   KANE: 1
 CPANPLUS-Dist-Arch:
   JNBEK: 1
-CPANPLUS-Dist-Build:
-  BINGOS: 1
 CPANPLUS-Dist-Deb:
   KANE: 1
 CPANPLUS-Dist-Fedora:
@@ -11863,8 +11871,6 @@ CVSUtils:
   FLUFFY: 1
 CWB-CQP-More:
   AMBS: 1
-CXC-Optics-Prescription-LVS:
-  DJERIUS: 1
 CaCORE:
   NCICB: 1
 Cac:
@@ -17238,6 +17244,8 @@ DBIx-Class-HashAccessor:
   GETTY: 1
 DBIx-Class-Helper-ResultSet-CrossTab:
   SCESANO: 1
+DBIx-Class-Helper-ResultSet-WindowFunctions:
+  RRWO: 1
 DBIx-Class-Helpers:
   FREW: 1
 DBIx-Class-I18NColumns:
@@ -17360,6 +17368,8 @@ DBIx-Class-RandomColumns:
   GRAF: 1
 DBIx-Class-RandomStringColumns:
   MIKIHOSHI: 1
+DBIx-Class-Relationship-Abbreviate:
+  ALBATROSS: 1
 DBIx-Class-Relationship-Predicate:
   WREIS: 1
 DBIx-Class-Report:
@@ -18003,7 +18013,6 @@ DBM-Any:
 DBM-DBass:
   SPIDERBOY: 1
 DBM-Deep:
-  RKINYON: 1
   SPROUT: 1
 DBM-Deep-Blue:
   PRBRENAN: 1
@@ -26606,6 +26615,8 @@ Fliggy:
   VTI: 1
 Flip-Flop:
   PRBRENAN: 1
+Float-Truncate:
+  MCCHEUNG: 1
 Float-Util:
   PERLANCAR: 1
 Flow:
@@ -30313,6 +30324,8 @@ HTML-Zoom-Parser-HTML-Parser:
   MATTP: 1
 HTML.pm:
   TOMC: 1
+HTML5-DOM:
+  ZHUMARIN: 1
 HTML5-Manifest:
   YAPPO: 1
 HTMLTMPL:
@@ -37099,8 +37112,6 @@ Mac-iTunes:
   ADOPTME: 1
 Mac-iTunes-Library:
   DINOMITE: 1
-MacOSX-Alias:
-  BDFOY: 1
 MacOSX-File:
   DANKOGAI: 1
 MacOSX-File-Exchange:
@@ -39746,8 +39757,6 @@ Mojo-Autobox:
   JBERGER: 1
 Mojo-Base-XS:
   YKO: 1
-Mojo-Bass:
-  FERREIRA: 1
 Mojo-CSV:
   ZOFFIX: 1
 Mojo-CallFire:
@@ -40318,10 +40327,14 @@ Mojolicious-Plugin-Geo:
   ELBOW: 1
 Mojolicious-Plugin-GetSentry:
   CRLCU: 1
+Mojolicious-Plugin-GistGithubProxy:
+  RENEEB: 1
 Mojolicious-Plugin-Google-Cloud-UserAgent:
   SCOTTW: 1
 Mojolicious-Plugin-GoogleAnalytics:
   ADAMJS: 1
+Mojolicious-Plugin-GoogleFontProxy:
+  RENEEB: 1
 Mojolicious-Plugin-GraphQL:
   ETJ: 1
 Mojolicious-Plugin-Gravatar:
@@ -40470,6 +40483,10 @@ Mojolicious-Plugin-Narada:
   POWERMAN: 1
 Mojolicious-Plugin-NetsPayment:
   JHTHORSEN: 1
+Mojolicious-Plugin-NoIndex:
+  RENEEB: 1
+Mojolicious-Plugin-NoReferrer:
+  RENEEB: 1
 Mojolicious-Plugin-Notifications:
   AKRON: 1
 Mojolicious-Plugin-Nour-Config:
@@ -40614,6 +40631,8 @@ Mojolicious-Plugin-SecureCORS:
   POWERMAN: 1
 Mojolicious-Plugin-SecureOnly:
   SADAMS: 1
+Mojolicious-Plugin-SecurityHeader:
+  RENEEB: 1
 Mojolicious-Plugin-SemanticUI:
   BEROV: 1
 Mojolicious-Plugin-SemanticUIPageNavigator:
@@ -41793,6 +41812,8 @@ MouseX-Types-Data-Monad:
   AEREAL: 1
 MouseX-Types-DateTime:
   MASAKI: 1
+MouseX-Types-Enum:
+  IKENOX: 1
 MouseX-Types-Path-Class:
   MASAKI: 1
 MouseX-Types-URI:
@@ -46401,6 +46422,8 @@ PMInfoExtr:
 PML:
   PJONES: 1
 PMLTQ:
+  MATY: 1
+PMLTQ-Command-printtrees:
   MATY: 1
 PMLTQ-Suggest:
   MATY: 1
@@ -51297,6 +51320,8 @@ QMake-Project:
   ROHANPM: 1
 QWizard:
   HARDAKER: 1
+Qgoda:
+  GUIDO: 1
 Qiniu:
   FUKAI: 1
 Qless:
@@ -52775,6 +52800,8 @@ Return-Type:
   TOBYINK: 1
 Return-Value:
   RJBS: 1
+ReturnValue:
+  BDFOY: 1
 Reuters-SSL:
   CBARKEY: 1
 RevHash.pm:
@@ -55056,6 +55083,8 @@ Software-License-PublicDomain:
   WWOLF: 1
 Software-License-WTFPL:
   FLORA: 1
+Software-LicenseMoreUtils:
+  DDUMONT: 1
 Software-Packager:
   RBDAVISON: 1
 Software-Packager-Aix:
