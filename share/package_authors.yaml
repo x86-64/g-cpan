@@ -3173,7 +3173,7 @@ AnyEvent-RabbitMQ:
 AnyEvent-RabbitMQ-Fork:
   MYDMNSN: 1
 AnyEvent-RabbitMQ-PubSub:
-  TYNOVSKY: 1
+  JASEI: 1
 AnyEvent-RabbitMQ-RPC:
   ALEXMV: 1
 AnyEvent-RabbitMQ-Simple:
@@ -5040,7 +5040,7 @@ App-JobLog:
 App-Jup:
   ADAMJS: 1
 App-KGB:
-  DAM: 1
+  TINCHO: 1
 App-KV2JSON:
   SONGMU: 1
 App-KeePass2:
@@ -7610,6 +7610,8 @@ Authen-PIN:
   LUISMUNOZ: 1
 Authen-Passphrase:
   ZEFRAM: 1
+Authen-Passphrase-Argon2:
+  LNATION: 1
 Authen-Passphrase-SaltedSHA512:
   DAVIDO: 1
 Authen-Passphrase-Scrypt:
@@ -11262,12 +11264,12 @@ CLI:
   CPHIL: 1
 CLI-Application:
   JKRAMER: 1
-CLI-ComputerFiles-Util:
-  TULAMILI: 1
 CLI-Dispatch:
   ISHIGAKI: 1
 CLI-Dispatch-Docopt:
   BAYASHI: 1
+CLI-Files-Utils:
+  TULAMILI: 1
 CLI-Framework:
   KERISMAN: 1
 CLI-Gwrap:
@@ -14572,7 +14574,7 @@ Class-Data-TIN:
 Class-DataStore:
   EFOLLEY: 1
 Class-Date:
-  SZABGAB: 1
+  YANICK: 1
 Class-DbC:
   ARUNBEAR: 1
 Class-Declare:
@@ -19952,9 +19954,17 @@ Data-Sah-Coerce-perl-duration-str_alami_en:
   PERLANCAR: 1
 Data-Sah-Coerce-perl-duration-str_alami_id:
   PERLANCAR: 1
+Data-Sah-Coerce-perl-str-str_to_cryptocurrency_code:
+  PERLANCAR: 1
+Data-Sah-Coerce-perl-str-str_to_cryptocurrency_safename:
+  PERLANCAR: 1
+Data-Sah-Coerce-perl-str-str_to_cryptoexchange_safename:
+  PERLANCAR: 1
 Data-Sah-Coerce-perl-str-str_toupper:
   PERLANCAR: 1
 Data-Sah-Coerce-perl-str-str_trim:
+  PERLANCAR: 1
+Data-Sah-CoerceBundle-App-cryp:
   PERLANCAR: 1
 Data-Sah-CoerceRule-array-str_comma_sep:
   PERLANCAR: 1
@@ -20224,7 +20234,7 @@ Data-Type-Digger:
 Data-Typed-Expression:
   PWES: 1
 Data-Types:
-  DWHEELER: 1
+  MANWAR: 1
 Data-ULID:
   BALDUR: 1
 Data-UNLreport:
@@ -21885,6 +21895,7 @@ Device-Ericsson-AccessoryMenu:
 Device-FTDI:
   PEVANS: 1
 Device-Firmata:
+  JNSBYR: 1
   NTRUCHSES: 1
 Device-GPIB-Prologix:
   MIKEM: 1
@@ -25258,6 +25269,8 @@ File-BufferedInput:
   MEWSOFT: 1
 File-Butler:
   SIFUKURT: 1
+File-ByLine:
+  JMASLAK: 1
 File-Cache:
   DCLINTON: 1
 File-Cache-Persistent:
@@ -32560,8 +32573,6 @@ IxNetwork:
   DGALAN: 1
 JBD:
   JBD: 1
-JCM-Boilerplate:
-  JMASLAK: 1
 JCM-Net-Patricia:
   JMASLAK: 1
 JCONF-Writer:
@@ -32832,6 +32843,8 @@ JSV-Compiler:
   ANTONPETR: 1
 JSYNC:
   INGY: 1
+JTM-Boilerplate:
+  JMASLAK: 1
 JaM:
   JRED: 1
 Jabber-Component-Proxy:
@@ -36319,6 +36332,8 @@ Log-Log4perl-Lazy:
   MAHIRO: 1
 Log-Log4perl-NDC-Scoped:
   RPORRES: 1
+Log-Log4perl-Shortcuts:
+  STEVIED: 1
 Log-Log4perl-Tiny:
   POLETTIX: 1
 Log-Log4perl-Warn-Multiple-EasyInit:
@@ -36474,6 +36489,8 @@ Log-ger-Level-Like-LogAny:
 Log-ger-Level-Like-PythonLogging:
   PERLANCAR: 1
 Log-ger-Level-Like-RubyLogging:
+  PERLANCAR: 1
+Log-ger-Level-Like-Syslog:
   PERLANCAR: 1
 Log-ger-Level-Set:
   PERLANCAR: 1
@@ -40233,6 +40250,8 @@ Mojolicious-Plugin-ContextResources:
   RSHADOW: 1
 Mojolicious-Plugin-CountryDropDown:
   HJANSEN: 1
+Mojolicious-Plugin-Cron:
+  DMANTO: 1
 Mojolicious-Plugin-Crypto:
   NEMUX: 1
 Mojolicious-Plugin-CustomLog:
@@ -46367,7 +46386,6 @@ PHP-Var:
 PHPLive-Report:
   PERLANCAR: 1
 PICA-Data:
-  JOROL: 1
   VOJ: 1
 PICA-Modification:
   VOJ: 1
@@ -48052,6 +48070,8 @@ Parse-SQL:
   TEAM: 1
 Parse-SQLOutput:
   INGY: 1
+Parse-SSA:
+  DISI: 1
 Parse-SSH2-PublicKey:
   NMARLEY: 1
 Parse-STDF:
@@ -48196,6 +48216,8 @@ Path-Class-Iterator:
   KARMAN: 1
 Path-Class-Rule:
   DAGOLDEN: 1
+Path-Class-Tiny:
+  BAREFOOT: 1
 Path-Class-URI:
   ZMUGHAL: 1
 Path-Class-Versioned:
@@ -48603,7 +48625,7 @@ Perl-AtEndOfScope:
 Perl-Box:
   FIBO: 1
 Perl-Build:
-  TOKUHIROM: 1
+  SKAJI: 1
 Perl-Build-Git:
   KENTNL: 1
 Perl-Builtins:
@@ -49832,7 +49854,7 @@ Plack-Middleware-Memento-Handler-Catmandu-Bag:
 Plack-Middleware-MemoryUsage:
   HIROSE: 1
 Plack-Middleware-MethodOverride:
-  DWHEELER: 1
+  MIYAGAWA: 1
 Plack-Middleware-Mirror:
   RWSTAUNER: 1
 Plack-Middleware-MockProxyFrontend:
@@ -51775,6 +51797,8 @@ RPi-LCD:
 RPi-PIGPIO:
   HOREA: 1
 RPi-Pin:
+  STEVEB: 1
+RPi-RTC-DS3231:
   STEVEB: 1
 RPi-SPI:
   STEVEB: 1
@@ -57494,7 +57518,7 @@ Task-Smoke:
 Task-Spark-Form:
   KENTNL: 1
 Task-Sympa:
-  GROUSSE: 1
+  MARCC: 1
 Task-Tags:
   SKIM: 1
 Task-Tapper:
@@ -59658,6 +59682,8 @@ Test-Some:
   YANICK: 1
 Test-Spec:
   AKZHAN: 1
+Test-Spec-Acceptance:
+  MEIS: 1
 Test-Spec-RMock:
   KJELLM: 1
 Test-Spelling:
@@ -59937,7 +59963,7 @@ Test-XML-Valid:
 Test-XMLElement:
   MURUGU: 1
 Test-XPath:
-  DWHEELER: 1
+  MANWAR: 1
 Test-XS-Check:
   DROLSKY: 1
 Test-XT:
@@ -64933,8 +64959,6 @@ WWW-Omegle:
   REVMISCHA: 1
 WWW-OneAll:
   BINARY: 1
-WWW-OpenSVN:
-  SHLOMIF: 1
 WWW-OpenSearch:
   BRICAS: 1
 WWW-Opentracker-Stats:
@@ -65925,6 +65949,8 @@ WebService-8tracks:
   MOTEMEN: 1
 WebService-APIKeys-AutoChanger:
   MIKI: 1
+WebService-AcousticBrainz:
+  GENE: 1
 WebService-Advogato:
   JALDHAR: 1
 WebService-Affiliate:
@@ -66466,6 +66492,8 @@ WebService-Qiita:
   YUUKI: 1
 WebService-Qiita-V2:
   RISOU: 1
+WebService-RESTCountries:
+  KIANMENG: 1
 WebService-RTMAgent:
   RJBS: 1
 WebService-Rackspace-CloudFiles:
@@ -69319,8 +69347,6 @@ circular-require:
 classes:
   RMUHLE: 1
 cli-crosstable:
-  TULAMILI: 1
-cli-latextable:
   TULAMILI: 1
 cli-numbers-random:
   TULAMILI: 1
