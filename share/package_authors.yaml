@@ -4244,6 +4244,8 @@ Apache2-reCaptcha:
   ANALOG: 1
 Apache2-xForwardedFor:
   JVANASCO: 1
+Apache2_4-AuthCookieMultiDBI:
+  DETAILS: 1
 ApacheBench:
   ADIRAJ: 1
 ApacheCookieEncrypted:
@@ -4558,6 +4560,8 @@ App-CopyrightImage:
   STEVEB: 1
 App-Countdown:
   SHLOMIF: 1
+App-Cpanx:
+  JACOBG: 1
 App-CreateAcmeCPANListsImportModules:
   PERLANCAR: 1
 App-CreateAcmeCPANModulesImportModules:
@@ -5040,7 +5044,7 @@ App-JobLog:
 App-Jup:
   ADAMJS: 1
 App-KGB:
-  TINCHO: 1
+  DAM: 1
 App-KV2JSON:
   SONGMU: 1
 App-KeePass2:
@@ -5626,6 +5630,8 @@ App-RepoSync:
   CORNELIUS: 1
 App-Report-Generator:
   REHSACK: 1
+App-ReportPrereqs:
+  SKIRMESS: 1
 App-Repository:
   SPADKINS: 1
 App-Requirement-Arch:
@@ -6331,6 +6337,8 @@ App-lcpan-Daemon:
   PERLANCAR: 1
 App-lens:
   PERLANCAR: 1
+App-linenum:
+  PERLANCAR: 1
 App-linespeed:
   PERLANCAR: 1
 App-livehttperf:
@@ -6812,7 +6820,7 @@ Archive-Tar-Stream:
 Archive-Tar-Streamed:
   IVORW: 1
 Archive-Tar-Wrapper:
-  MSCHILLI: 1
+  ARFREITAS: 1
 Archive-Tar-Wrapper-IPC-Cmd:
   BIESZCZAD: 1
 Archive-TarGzip:
@@ -11264,6 +11272,8 @@ CLI:
   CPHIL: 1
 CLI-Application:
   JKRAMER: 1
+CLI-Contingency-Table:
+  TULAMILI: 1
 CLI-Dispatch:
   ISHIGAKI: 1
 CLI-Dispatch-Docopt:
@@ -11276,6 +11286,8 @@ CLI-Gwrap:
   REID: 1
 CLI-Helpers:
   BLHOTSKY: 1
+CLI-LaTeX-Table:
+  TULAMILI: 1
 CLI-Osprey:
   ARODLAND: 1
 CLI-Startup:
@@ -13673,7 +13685,6 @@ Catmandu-OAI:
 Catmandu-OCLC:
   HOCHSTEN: 1
 Catmandu-PICA:
-  JOROL: 1
   VOJ: 1
 Catmandu-PLoS:
   NICS: 1
@@ -15162,6 +15173,8 @@ Code-TidyAll-Plugin-SortLines-IPAddresses:
   KLPTWO: 1
 Code-TidyAll-Plugin-SortLines-Naturally:
   OALDERS: 1
+Code-TidyAll-Plugin-TSLint:
+  SHLOMIF: 1
 Code-TidyAll-Plugin-Test-Vars:
   MAXMIND: 1
 Code-TidyAll-Plugin-UniqueLines:
@@ -19585,6 +19598,8 @@ Data-Morph:
   NPEREZ: 1
 Data-MuForm:
   GSHANK: 1
+Data-MuFormX-Registry:
+  JJNAPIORK: 1
 Data-MultiValuedHash:
   DUNCAND: 1
 Data-Multihash:
@@ -19832,6 +19847,8 @@ Data-Random-Contact:
   DROLSKY: 1
 Data-Random-Flexible:
   DAEMON: 1
+Data-Random-NL:
+  WATERKIP: 1
 Data-Random-Nucleotides:
   AGORDON: 1
 Data-Random-String:
@@ -23678,6 +23695,8 @@ Distribution-Guess-BuildSystem:
   BDFOY: 1
 Distribution-Metadata:
   SKAJI: 1
+Dita-Project:
+  PRBRENAN: 1
 Dita-Validate:
   PRBRENAN: 1
 Doc-Simply:
@@ -23739,6 +23758,8 @@ Don-Mendo:
   JMERELO: 1
 Doorman:
   GUGOD: 1
+Dot:
+  RSLOVERS: 1
 DotCloud-Environment:
   POLETTIX: 1
 DotICD9:
@@ -27231,6 +27252,8 @@ Games-ArrangeNumber:
   PERLANCAR: 1
 Games-AssaultCube:
   APOCAL: 1
+Games-Axmud:
+  ASLEWIS: 1
 Games-Backgammon:
   BIGJ: 1
 Games-Baseball-Scorecard:
@@ -31899,6 +31922,8 @@ IS-Init:
   STEVEGT: 1
 ISO:
   PRBRENAN: 1
+ISO-639_1:
+  LDIDRY: 1
 ITM:
   GETTY: 1
 IUP:
@@ -40087,6 +40112,8 @@ Mojolicious-Command-deploy-heroku:
   TEMPIRE: 1
 Mojolicious-Command-donuts:
   CURTIS: 1
+Mojolicious-Command-generate-DBIxCustomModel:
+  WFSO: 1
 Mojolicious-Command-generate-bootstrap:
   GHANDI: 1
 Mojolicious-Command-generate-bootstrap_app:
@@ -43778,7 +43805,7 @@ Net-Netflix:
 Net-Netid:
   SOFTDIA: 1
 Net-Netmask:
-  MUIR: 1
+  JMASLAK: 1
 Net-NfDump:
   TPODER: 1
 Net-NicoVideo:
@@ -48598,6 +48625,8 @@ Perinci-Sub-Wrapper-Patch-HandlePHPArray:
   PERLANCAR: 1
 Perinci-Sub-XCompletion:
   PERLANCAR: 1
+Perinci-Sub-XCompletionBundle-App-cryp:
+  PERLANCAR: 1
 Perinci-Sub-XCompletionBundle-CryptoCurrency:
   PERLANCAR: 1
 Perinci-To-Doc:
@@ -49585,6 +49614,8 @@ Plack-Middleware-Auth-Complex:
   MGV: 1
 Plack-Middleware-Auth-Digest:
   MIYAGAWA: 1
+Plack-Middleware-Auth-FCGI:
+  GUIMARD: 1
 Plack-Middleware-Auth-Form:
   ZBY: 1
 Plack-Middleware-Auth-Htpasswd:
@@ -53963,6 +53994,8 @@ Sah-Examples:
   PERLANCAR: 1
 Sah-Schemas:
   PERLANCAR: 1
+Sah-Schemas-App-cryp:
+  PERLANCAR: 1
 Sah-Schemas-Binary:
   PERLANCAR: 1
 Sah-Schemas-Bool:
@@ -57847,6 +57880,8 @@ Template-Plugin-Filter-HTMLScrubber:
   YUPUG: 1
 Template-Plugin-Filter-I18N:
   IDEN: 1
+Template-Plugin-Filter-IDN:
+  MSCHOUT: 1
 Template-Plugin-Filter-Minify-CSS:
   MSCHOUT: 1
 Template-Plugin-Filter-Minify-CSS-XS:
@@ -60014,6 +60049,10 @@ Test2-Tools-Explain:
   PETDANCE: 1
 Test2-Tools-Expressive:
   PETDANCE: 1
+Test2-Tools-HTTP:
+  PLICEASE: 1
+Test2-Tools-HTTP-UA-Mojo:
+  PLICEASE: 1
 Test2-Tools-JSON:
   AKIYM: 1
 Test2-Tools-JSON-Pointer:
@@ -69346,8 +69385,6 @@ circular-require:
   RJBS: 1
 classes:
   RMUHLE: 1
-cli-crosstable:
-  TULAMILI: 1
 cli-numbers-random:
   TULAMILI: 1
 cli-numbers-util:
@@ -69405,6 +69442,8 @@ cpan-listchanges:
 cpan-outdated:
   DOLMEN: 1
 cppAdaptive1:
+  MFJONKER: 1
+cppAdaptive2:
   MFJONKER: 1
 cppref:
   KAZUHO: 1
@@ -69835,6 +69874,7 @@ libsoldout:
 libvorbis-perl:
   FOOF: 1
 libwww-perl:
+  ETHER: 1
   GAAS: 1
   OALDERS: 1
 libxml-enno:
@@ -70137,7 +70177,7 @@ perldap:
 perlec:
   HIO: 1
 perlfaq:
-  LLAP: 1
+  ETHER: 1
 perlhbm:
   AZUL: 1
 perlindex:
