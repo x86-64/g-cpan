@@ -705,6 +705,10 @@ Acme-CPANModules-CryptoExchange-API:
   PERLANCAR: 1
 Acme-CPANModules-FooThis:
   PERLANCAR: 1
+Acme-CPANModules-Import-CPANRatings-User-perlancar:
+  PERLANCAR: 1
+Acme-CPANModules-Import-CPANRatings-User-stevenharyanto:
+  PERLANCAR: 1
 Acme-CPANModules-PortedFrom-NPM:
   PERLANCAR: 1
 Acme-CPANModules-fgets:
@@ -4564,6 +4568,8 @@ App-Cpanx:
   JACOBG: 1
 App-CreateAcmeCPANListsImportModules:
   PERLANCAR: 1
+App-CreateAcmeCPANModulesImportCPANRatingsModules:
+  PERLANCAR: 1
 App-CreateAcmeCPANModulesImportModules:
   PERLANCAR: 1
 App-CreateRandomFile:
@@ -5931,6 +5937,8 @@ App-USBKeyCopyCon:
   GRANTM: 1
 App-UnANSI:
   XSAWYERX: 1
+App-Unding:
+  BORISD: 1
 App-Uni:
   RJBS: 1
 App-Unicheck:
@@ -11272,6 +11280,8 @@ CLI:
   CPHIL: 1
 CLI-Application:
   JKRAMER: 1
+CLI-Coin-Toss:
+  TULAMILI: 1
 CLI-Contingency-Table:
   TULAMILI: 1
 CLI-Dispatch:
@@ -11292,6 +11302,8 @@ CLI-Osprey:
   ARODLAND: 1
 CLI-Startup:
   BUDNEY: 1
+CLI-Table-Key-Finder:
+  TULAMILI: 1
 CLIPSeqTools:
   MNSMAR: 1
 CLucene:
@@ -11728,6 +11740,8 @@ CPANPLUS-Daemon:
   KANE: 1
 CPANPLUS-Dist-Arch:
   JNBEK: 1
+CPANPLUS-Dist-Build:
+  BINGOS: 1
 CPANPLUS-Dist-Deb:
   KANE: 1
 CPANPLUS-Dist-Fedora:
@@ -15300,6 +15314,8 @@ Command-Interactive:
   BINARY: 1
 Command-Runner:
   SKAJI: 1
+Commandable:
+  PEVANS: 1
 Commands-Guarded:
   TREY: 1
 Comment-Block:
@@ -15898,6 +15914,8 @@ Const-Common:
   SONGMU: 1
 Const-Common-Generator:
   SONGMU: 1
+Const-Dual:
+  BAMBR: 1
 Const-Exporter:
   RRWO: 1
 Const-Fast:
@@ -16739,8 +16757,6 @@ Crypt-xDBM_File:
 CryptX:
   MIK: 1
 CryptoCurrency-Catalog:
-  PERLANCAR: 1
-CryptoExchange-Catalog:
   PERLANCAR: 1
 Csistck:
   AGJ: 1
@@ -19265,6 +19281,8 @@ Data-Eacherator:
   STILLWELL: 1
 Data-Edit:
   DLAMBLEY: 1
+Data-Edit-Conversion:
+  PRBRENAN: 1
 Data-Edit-Struct:
   DJERIUS: 1
 Data-Edit-Xml:
@@ -19975,13 +19993,21 @@ Data-Sah-Coerce-perl-str-str_to_cryptocurrency_code:
   PERLANCAR: 1
 Data-Sah-Coerce-perl-str-str_to_cryptocurrency_safename:
   PERLANCAR: 1
+Data-Sah-Coerce-perl-str-str_to_cryptoexchange_currency_pair:
+  PERLANCAR: 1
 Data-Sah-Coerce-perl-str-str_to_cryptoexchange_safename:
+  PERLANCAR: 1
+Data-Sah-Coerce-perl-str-str_to_fiat_or_cryptocurrency_code:
   PERLANCAR: 1
 Data-Sah-Coerce-perl-str-str_toupper:
   PERLANCAR: 1
 Data-Sah-Coerce-perl-str-str_trim:
   PERLANCAR: 1
 Data-Sah-CoerceBundle-App-cryp:
+  PERLANCAR: 1
+Data-Sah-CoerceBundle-Num-str_num_en:
+  PERLANCAR: 1
+Data-Sah-CoerceBundle-Num-str_num_id:
   PERLANCAR: 1
 Data-Sah-CoerceRule-array-str_comma_sep:
   PERLANCAR: 1
@@ -20300,6 +20326,10 @@ Data-Validate-DNS-CAA:
   MSCHOUT: 1
 Data-Validate-DNS-NAPTR-Regexp:
   WOLFSAGE: 1
+Data-Validate-DNS-SSHFP:
+  MSCHOUT: 1
+Data-Validate-DNS-TLSA:
+  MSCHOUT: 1
 Data-Validate-Domain:
   DROLSKY: 1
 Data-Validate-Email:
@@ -21914,6 +21944,8 @@ Device-FTDI:
 Device-Firmata:
   JNSBYR: 1
   NTRUCHSES: 1
+Device-GBA:
+  ATHREEF: 1
 Device-GPIB-Prologix:
   MIKEM: 1
 Device-GPS:
@@ -22270,6 +22302,8 @@ Digest-Hashcash:
   MLEHMANN: 1
 Digest-Haval256:
   JCDUQUE: 1
+Digest-HighwayHash:
+  MGV: 1
 Digest-JH:
   GRAY: 1
 Digest-JHash:
@@ -23430,6 +23464,8 @@ Dist-Zilla-PluginBundle-Author-MAXHQ:
   MAXHQ: 1
 Dist-Zilla-PluginBundle-Author-MELO:
   MELO: 1
+Dist-Zilla-PluginBundle-Author-MINTLAB:
+  WATERKIP: 1
 Dist-Zilla-PluginBundle-Author-NMBOOKER:
   NMBOOKER: 1
 Dist-Zilla-PluginBundle-Author-OALDERS:
@@ -24069,6 +24105,8 @@ ElasticSearchX-Model-Generator:
   KENTNL: 1
 Elastijk:
   GUGOD: 1
+Electronics-SigGen-FY3200:
+  PEVANS: 1
 Elive:
   WARRINGD: 1
 Eliza-Chatbot:
@@ -25032,6 +25070,8 @@ FFI-Platypus-Type-StringArray:
 FFI-Raw:
   ALEXBIO: 1
 FFI-TinyCC:
+  PLICEASE: 1
+FFI-TinyCC-Inline:
   PLICEASE: 1
 FFI-Util:
   PLICEASE: 1
@@ -26032,6 +26072,8 @@ File-Unpack:
   JNW: 1
 File-Unsaved:
   PERLANCAR: 1
+File-Update:
+  SHLOMIF: 1
 File-UserConfig:
   ADAMK: 1
 File-Util:
@@ -26274,6 +26316,8 @@ Filter-gunzip:
   KRYDE: 1
 Filter-signatures:
   CORION: 1
+Finance-AMEX-Transaction:
+  THINC: 1
 Finance-Amortization:
   WAGNER: 1
 Finance-Bank-ABSA:
@@ -36563,6 +36607,8 @@ Log-ger-UseDataDump:
   PERLANCAR: 1
 Log-ger-UseDataDumpColor:
   PERLANCAR: 1
+Log-ger-UseDataDumper:
+  PERLANCAR: 1
 Log4Perl-ImportHandle:
   AHERNIT: 1
 LogCarp:
@@ -46017,6 +46063,8 @@ PAUSE-Packages:
   NEILB: 1
 PAUSE-Permissions:
   NEILB: 1
+PAUSE-Permissions-MetaCPAN:
+  SKAJI: 1
 PAUSE-Users:
   NEILB: 1
 PApp:
@@ -46319,7 +46367,7 @@ PGObject-Simple:
 PGObject-Simple-Role:
   EINHVERFR: 1
 PGObject-Type-BigFloat:
-  EINHVERFR: 1
+  EHUELS: 1
 PGObject-Type-ByteString:
   EINHVERFR: 1
 PGObject-Type-Composite:
@@ -46472,6 +46520,8 @@ PMLTQ-Command-printtrees:
   MATY: 1
 PMLTQ-Suggest:
   MATY: 1
+PMVersions-Util:
+  PERLANCAR: 1
 PNC:
   ARMSTRONG: 1
 POCSAG-Encode:
@@ -51295,6 +51345,8 @@ Python-Serialise-Pickle:
   SIMONW: 1
 Python-Serialize-Pickle-InlinePython:
   TOKUHIROM: 1
+Python-Version:
+  SLOYD: 1
 QBit-Application:
   MADSKILL: 1
 QBit-Application-Model-Authorization:
@@ -51818,6 +51870,8 @@ RPi-DAC-MCP4922:
 RPi-DHT11:
   STEVEB: 1
 RPi-DigiPot-MCP4XXXX:
+  STEVEB: 1
+RPi-GPIOExpander-MCP23017:
   STEVEB: 1
 RPi-HCSR04:
   STEVEB: 1
@@ -57410,6 +57464,8 @@ Task-FooThis:
   PERLANCAR: 1
 Task-FreecellSolver-Testing:
   SHLOMIF: 1
+Task-FreecellSolver-Testing-MultiConfig:
+  SHLOMIF: 1
 Task-FusionInventory:
   GROUSSE: 1
 Task-Git-Repository:
@@ -59465,7 +59521,7 @@ Test-Override-UserAgent:
 Test-PAUSE-ConsistentPermissions:
   NEWELLC: 1
 Test-PAUSE-Permissions:
-  ISHIGAKI: 1
+  SKAJI: 1
 Test-PDF:
   STEVAN: 1
 Test-PDL:
@@ -60072,6 +60128,8 @@ TestML:
 TestML-Bin:
   INGY: 1
 TestML-Script:
+  INGY: 1
+TestML1:
   INGY: 1
 TestRail-API:
   TEODESIAN: 1
@@ -60715,6 +60773,8 @@ Text-MultiPhone:
   HEIKOK: 1
 Text-NASA_Ames:
   HEIKOK: 1
+Text-NGrammer:
+  NIDS: 1
 Text-NLP:
   ALIZTA: 1
 Text-NLP-Stanford-EntityExtract:
@@ -60920,6 +60980,8 @@ Text-Shellwords:
   LDS: 1
 Text-Shift:
   CHIA: 1
+Text-Shingle:
+  NIDS: 1
 Text-Shinobi:
   TOMITA: 1
 Text-Shirasu:
@@ -69444,7 +69506,7 @@ cpan-outdated:
 cppAdaptive1:
   MFJONKER: 1
 cppAdaptive2:
-  MFJONKER: 1
+  ZDM: 1
 cppref:
   KAZUHO: 1
 crap:
