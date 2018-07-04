@@ -2534,8 +2534,6 @@ Alien-libtermkey:
   PEVANS: 1
 Alien-libtool:
   PLICEASE: 1
-Alien-libtool24:
-  PLICEASE: 1
 Alien-libudev:
   ATHREEF: 1
 Alien-libuv:
@@ -6093,6 +6091,8 @@ App-booklog2amazon:
   YAKEX: 1
 App-bovespa:
   RECSKY: 1
+App-boxmuller:
+  TULAMILI: 1
 App-breakout:
   LIMITUSUS: 1
 App-calendr:
@@ -6109,6 +6109,8 @@ App-cloudconvert:
   VOJ: 1
 App-codefork:
   GETTY: 1
+App-cointoss:
+  TULAMILI: 1
 App-colourhexdump:
   KENTNL: 1
 App-combinesheets:
@@ -6287,6 +6289,8 @@ App-grindperl:
   DAGOLDEN: 1
 App-highlight:
   KAORU: 1
+App-horsekicks:
+  TULAMILI: 1
 App-hr:
   PERLANCAR: 1
 App-hr-Lite:
@@ -6569,6 +6573,8 @@ App-rank:
   PERLANCAR: 1
 App-rcmd:
   REISINGE: 1
+App-readbuffer:
+  TULAMILI: 1
 App-redis_traffic_stats:
   HIROSE: 1
 App-redisp:
@@ -6601,6 +6607,8 @@ App-ruler:
   PERLANCAR: 1
 App-s2p:
   LEONT: 1
+App-saikoro:
+  TULAMILI: 1
 App-scan_prereqs_cpanfile:
   SONGMU: 1
 App-scrape:
@@ -6647,6 +6655,10 @@ App-subsort:
   PERLANCAR: 1
 App-sync_cpantesters:
   MARCEL: 1
+App-t1generate:
+  TULAMILI: 1
+App-t2generate:
+  TULAMILI: 1
 App-tabify:
   PERLANCAR: 1
 App-tailswitch:
@@ -7716,8 +7728,6 @@ Authen-Simple-PAM:
   CHANSEN: 1
 Authen-Simple-Passwd:
   CHANSEN: 1
-Authen-Simple-PlugAuth:
-  PLICEASE: 1
 Authen-Simple-RADIUS:
   CHANSEN: 1
 Authen-Simple-SMB:
@@ -8385,6 +8395,10 @@ Bencher-Scenarios-DataSahVSTypeTiny:
 Bencher-Scenarios-DateModules:
   PERLANCAR: 1
 Bencher-Scenarios-DateTimeFormatAlami:
+  PERLANCAR: 1
+Bencher-Scenarios-DateTimeFormatISO8601:
+  PERLANCAR: 1
+Bencher-Scenarios-DateTimeFormatISO8601Format:
   PERLANCAR: 1
 Bencher-Scenarios-DigestSHA:
   PERLANCAR: 1
@@ -11339,8 +11353,6 @@ CLI-Table-Key-Finder:
   TULAMILI: 1
 CLI-Table-Util:
   TULAMILI: 1
-CLI-TextLines-Hack:
-  TULAMILI: 1
 CLI-TextLines-Utils:
   TULAMILI: 1
 CLIPSeqTools:
@@ -14270,7 +14282,7 @@ Class-Accessor-Fast-WithBuilder:
 Class-Accessor-Fast-XS:
   RUZ: 1
 Class-Accessor-Grouped:
-  RIBASUSHI: 1
+  HAARG: 1
 Class-Accessor-Inherited-XS:
   RANDIR: 1
 Class-Accessor-Installer:
@@ -17216,6 +17228,8 @@ DBIx-CGITables:
   TOBIX: 1
 DBIx-CSSQuery:
   GUGOD: 1
+DBIx-CSV:
+  PERLANCAR: 1
 DBIx-CSVDumper:
   SONGMU: 1
 DBIx-Changeset:
@@ -17583,6 +17597,8 @@ DBIx-Composer:
   PLISCO: 1
 DBIx-Config:
   SYMKAT: 1
+DBIx-Conn-MySQL:
+  PERLANCAR: 1
 DBIx-Connect-FromConfig:
   SAPER: 1
 DBIx-Connect-MySQL:
@@ -18000,6 +18016,8 @@ DBIx-Sunny:
   KAZEBURO: 1
 DBIx-TNDBO:
   DYLAN: 1
+DBIx-TSV:
+  PERLANCAR: 1
 DBIx-Table-Dup:
   TBONE: 1
 DBIx-Table-TestDataGenerator:
@@ -18020,6 +18038,8 @@ DBIx-TextIndex:
   DKOCH: 1
 DBIx-TextSearch:
   SRPATT: 1
+DBIx-TextTableAny:
+  PERLANCAR: 1
 DBIx-ThinSQL:
   MLAWREN: 1
 DBIx-ThinSQL-SQLite:
@@ -23453,6 +23473,8 @@ Dist-Zilla-Plugin-WordList:
   PERLANCAR: 1
 Dist-Zilla-Plugin-WordListC:
   PERLANCAR: 1
+Dist-Zilla-Plugin-XSVersion:
+  JEFFOBER: 1
 Dist-Zilla-Plugin-if:
   KENTNL: 1
 Dist-Zilla-Plugin-if-ENV:
@@ -26542,6 +26564,8 @@ Finance-Contract:
   BINARY: 1
 Finance-Currency-Convert:
   JANW: 1
+Finance-Currency-Convert-BCA:
+  PERLANCAR: 1
 Finance-Currency-Convert-BChile:
   HUGUEI: 1
 Finance-Currency-Convert-BI:
@@ -26553,8 +26577,6 @@ Finance-Currency-Convert-DnB:
 Finance-Currency-Convert-ECBdaily:
   DETAILS: 1
 Finance-Currency-Convert-GMC:
-  PERLANCAR: 1
-Finance-Currency-Convert-KlikBCA:
   PERLANCAR: 1
 Finance-Currency-Convert-WebserviceX:
   CLACO: 1
@@ -26578,8 +26600,6 @@ Finance-FXCM-Simple:
   JOAOCOSTA: 1
 Finance-GDAX-API:
   SEATEK: 1
-Finance-GDAX-Lite:
-  PERLANCAR: 1
 Finance-Google-Portfolio:
   GRYPHON: 1
 Finance-Google-Sector-Mean:
@@ -31240,6 +31260,10 @@ Hg-Lib:
 HiD:
   GENEHACK: 1
 HiD-BibtexPage:
+  BYTERAZOR: 1
+HiD-Generator-BibtexPage:
+  BYTERAZOR: 1
+HiD-Generator-GitRepositories:
   BYTERAZOR: 1
 HiD-Generator-Sass:
   DUCKS: 1
@@ -41098,6 +41122,8 @@ MooX-ConfigFromFile:
   REHSACK: 1
 MooX-Emulate-Class-Accessor-Fast:
   BLUEFEET: 1
+MooX-Enumeration:
+  TOBYINK: 1
 MooX-EventHandler:
   CHOHAG: 1
 MooX-Failover:
@@ -41434,7 +41460,7 @@ MooseX-Does-Delegated:
 MooseX-EasyAcc:
   EALLENIII: 1
 MooseX-Emulate-Class-Accessor-Fast:
-  FLORA: 1
+  HAARG: 1
 MooseX-Enumeration:
   TOBYINK: 1
 MooseX-Error-Exception-Class:
@@ -45885,6 +45911,10 @@ OpenOffice-OOBuilder:
   MAYGILL: 1
 OpenOffice-OODoc:
   JMGDOC: 1
+OpenOffice-OODoc-HeadingStyles:
+  VANHOESEL: 1
+OpenOffice-OODoc-InsertDocument:
+  VANHOESEL: 1
 OpenOffice-OOSheets:
   ZAG: 1
 OpenOffice-Parse-SXC:
@@ -48608,8 +48638,6 @@ Perinci-CmdLine-Help:
   PERLANCAR: 1
 Perinci-CmdLine-Inline:
   PERLANCAR: 1
-Perinci-CmdLine-Lite:
-  PERLANCAR: 1
 Perinci-CmdLine-NonOO:
   PERLANCAR: 1
 Perinci-CmdLine-POD:
@@ -48838,6 +48866,8 @@ Perl-Critic-Lax:
   RJBS: 1
 Perl-Critic-Lokku:
   FLIMM: 1
+Perl-Critic-MergeProfile:
+  SKIRMESS: 1
 Perl-Critic-Moose:
   DROLSKY: 1
 Perl-Critic-More:
@@ -50347,8 +50377,6 @@ Plucene-SearchEngine-Index-RSS:
 PluceneSimple:
   STRYTOAST: 1
 PlugAuth:
-  PLICEASE: 1
-PlugAuth-Client-Tiny:
   PLICEASE: 1
 PlugAuth-Plugin-AuthenSimple:
   PLICEASE: 1
@@ -54010,7 +54038,7 @@ SVN-Look:
 SVN-Mirror:
   CLKAO: 1
 SVN-Notify:
-  DWHEELER: 1
+  MPGHF: 1
 SVN-Notify-Config:
   JPEACOCK: 1
 SVN-Notify-Filter-AuthZMail:
@@ -55561,6 +55589,8 @@ Spork-TKSlide:
   GUGOD: 1
 Spork-Template-Mason:
   DROLSKY: 1
+Sport-Analytics-NHL:
+  ROMM: 1
 Sport-Analytics-SimpleRanking:
   DWMYERS: 1
 Spp:
@@ -57282,8 +57312,6 @@ Table-Hack:
   TULAMILI: 1
 Table-ParentChild:
   MIKEWONG: 1
-Table-PreCheck:
-  TULAMILI: 1
 Table-Readable:
   BKB: 1
 Table-Simple:
@@ -61207,11 +61235,15 @@ Text-Table-HTML:
   PERLANCAR: 1
 Text-Table-HTML-DataTables:
   PERLANCAR: 1
+Text-Table-LTSV:
+  PERLANCAR: 1
 Text-Table-Manifold:
   RSAVAGE: 1
 Text-Table-Org:
   PERLANCAR: 1
 Text-Table-Paragraph:
+  PERLANCAR: 1
+Text-Table-TSV:
   PERLANCAR: 1
 Text-Table-Tiny:
   NEILB: 1
@@ -62083,6 +62115,8 @@ Tie-Redis:
   DGL: 1
 Tie-Redis-Candy:
   ZURBORG: 1
+Tie-Reduce:
+  TOBYINK: 1
 Tie-RefHash:
   FLORA: 1
 Tie-RefHash-Weak:
@@ -66536,6 +66570,8 @@ WebService-Kramerius-API4:
   SKIM: 1
 WebService-KuronekoYamato:
   CLCL: 1
+WebService-KvKAPI:
+  WATERKIP: 1
 WebService-LOC-CongRec:
   DINOMITE: 1
 WebService-LastFM:
@@ -67035,6 +67071,8 @@ Webservice-InterMine-Bio:
   INTERMINE: 1
 Webservice-InterMine-Simple:
   INTERMINE: 1
+Webservice-Judobase:
+  LANCEW: 1
 Webservice-OVH:
   SFPAJEND: 1
 Webservice-Shipment:
@@ -69349,8 +69387,6 @@ Zodiac-Tiny:
   PERLANCAR: 1
 Zoidberg:
   JBERGER: 1
-Zonemaster:
-  ZNMSTR: 1
 Zonemaster-Backend:
   ZNMSTR: 1
 Zonemaster-CLI:
@@ -69360,8 +69396,6 @@ Zonemaster-Engine:
 Zonemaster-GUI:
   ZNMSTR: 1
 Zonemaster-LDNS:
-  ZNMSTR: 1
-Zonemaster-WebBackend:
   ZNMSTR: 1
 ZooKeeper:
   MAF: 1
@@ -69562,12 +69596,6 @@ circular-require:
   RJBS: 1
 classes:
   RMUHLE: 1
-cli-rows-util:
-  TULAMILI: 1
-cli-rows-venn:
-  TULAMILI: 1
-cli-tsv-keyvalue:
-  TULAMILI: 1
 clobber:
   JPIERCE: 1
 cmt-libchm:
@@ -70563,8 +70591,6 @@ sofu-config:
   MALUKU: 1
 sol-inst:
   CHRISJ: 1
-spamcupNG:
-  ARFREITAS: 1
 speech_pm:
   RCALEY: 1
 sql-simple:
