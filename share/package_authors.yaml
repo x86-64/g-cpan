@@ -2618,6 +2618,8 @@ Alt-Alien-FFI-System:
   PLICEASE: 1
 Alt-Alien-ZMQ-Alien-ZMQ-latest:
   ZMUGHAL: 1
+Alt-Alien-cmake3-System:
+  PLICEASE: 1
 Alt-CPAN-Uploader-tinyua:
   SROMANOV: 1
 Alt-CWB-CL-ambs:
@@ -6111,6 +6113,8 @@ App-codefork:
   GETTY: 1
 App-cointoss:
   TULAMILI: 1
+App-colorplus:
+  TULAMILI: 1
 App-colourhexdump:
   KENTNL: 1
 App-combinesheets:
@@ -6181,6 +6185,8 @@ App-cryp-mn:
   PERLANCAR: 1
 App-csv2sqlite:
   RWSTAUNER: 1
+App-csv2tsv:
+  TULAMILI: 1
 App-datecalc:
   PERLANCAR: 1
 App-dategrep:
@@ -6248,6 +6254,8 @@ App-financeta:
 App-find2perl:
   LEONT: 1
 App-finddo:
+  PERLANCAR: 1
+App-freqtable:
   PERLANCAR: 1
 App-fsql:
   PERLANCAR: 1
@@ -6653,6 +6661,8 @@ App-stopw:
   PERLANCAR: 1
 App-subsort:
   PERLANCAR: 1
+App-summ:
+  PERLANCAR: 1
 App-sync_cpantesters:
   MARCEL: 1
 App-t1generate:
@@ -6697,6 +6707,8 @@ App-tt:
   JHTHORSEN: 1
 App-txtnix:
   MDOM: 1
+App-unichar:
+  BDFOY: 1
 App-unicomb:
   PERLANCAR: 1
 App-upf:
@@ -11695,7 +11707,7 @@ CPAN-Testers-Common-Article:
 CPAN-Testers-Common-Client:
   GARU: 1
 CPAN-Testers-Common-DBUtils:
-  BARBIE: 1
+  PREACTION: 1
 CPAN-Testers-Common-Utils:
   DAGOLDEN: 1
 CPAN-Testers-Config:
@@ -13829,6 +13841,8 @@ Catmandu-Zotero:
   HOCHSTEN: 1
 Cave-Wrapper:
   KENTNL: 1
+CellBIS-SQL-Abstract:
+  YUSRIDEB: 1
 Cellular-Automata-Wolfram:
   JMFREEMAN: 1
 CentOS-Releases:
@@ -15697,6 +15711,8 @@ Config-GitLike:
   ALEXMV: 1
 Config-Grammar:
   DSCHWEI: 1
+Config-HAProxy:
+  SGRAY: 1
 Config-Hierarchical:
   NKH: 1
 Config-Hosts:
@@ -17598,6 +17614,10 @@ DBIx-Composer:
 DBIx-Config:
   SYMKAT: 1
 DBIx-Conn-MySQL:
+  PERLANCAR: 1
+DBIx-Conn-Pg:
+  PERLANCAR: 1
+DBIx-Conn-SQLite:
   PERLANCAR: 1
 DBIx-Connect-FromConfig:
   SAPER: 1
@@ -25576,6 +25596,8 @@ File-FilterFuncs:
   MUMIAW: 1
 File-Find-Age:
   JKUTEJ: 1
+File-Find-CaseCollide:
+  SHLOMIF: 1
 File-Find-Closures:
   BDFOY: 1
 File-Find-Declare:
@@ -31259,8 +31281,6 @@ Hg-Lib:
   DJERIUS: 1
 HiD:
   GENEHACK: 1
-HiD-BibtexPage:
-  BYTERAZOR: 1
 HiD-Generator-BibtexPage:
   BYTERAZOR: 1
 HiD-Generator-GitRepositories:
@@ -33143,6 +33163,8 @@ JavaScript-V8-CommonJS:
   CAFEGRATZ: 1
 JavaScript-V8-Handlebars:
   RMZG: 1
+JavaScript-V8-XS:
+  GONZUS: 1
 JavaScript-V8x-TestMoreish:
   RKRIMEN: 1
 JavaScript-Value-Escape:
@@ -37259,8 +37281,6 @@ Mac-OSVersion-Lite:
   PINE: 1
 Mac-Pasteboard:
   WYANT: 1
-Mac-Path-Util:
-  BDFOY: 1
 Mac-PopClip-Quick:
   MARKF: 1
 Mac-PropertyList:
@@ -42614,7 +42634,7 @@ Net-Amazon-RemoteCart:
 Net-Amazon-Route53:
   MFONTANI: 1
 Net-Amazon-S3:
-  RCONOVER: 1
+  LLAP: 1
 Net-Amazon-S3-ACL:
   POLETTIX: 1
 Net-Amazon-S3-Client-GPG:
@@ -43154,6 +43174,8 @@ Net-Dynect-REST:
   JEB: 1
 Net-EC2-Tiny:
   MALLEN: 1
+Net-EGTS:
+  RSHADOW: 1
 Net-EMI-Client:
   SCHAFFTER: 1
 Net-EMI-Common:
@@ -43588,6 +43610,8 @@ Net-IP-AddrRanges:
   RINTARO: 1
 Net-IP-CMatch:
   BEAU: 1
+Net-IP-Checker:
+  PAVELSR: 1
 Net-IP-Identifier:
   REID: 1
 Net-IP-LPM:
@@ -50057,6 +50081,8 @@ Plack-Middleware-LogFilter:
   UCHIKO: 1
 Plack-Middleware-LogHarakiri:
   RRWO: 1
+Plack-Middleware-LogStderr:
+  AMALEK: 1
 Plack-Middleware-LogWarn:
   MAESTRO: 1
 Plack-Middleware-LowerUrl:
@@ -60811,6 +60837,8 @@ Text-LineNumber:
   JNW: 1
 Text-Livedoor-Wiki:
   POLOCKY: 1
+Text-Locus:
+  SGRAY: 1
 Text-LookUpTable:
   JERI: 1
 Text-LooseCSV:
@@ -65177,8 +65205,6 @@ WWW-Netflix-API:
   STEVED: 1
 WWW-NewsReach:
   AJCT: 1
-WWW-Newzbin:
-  CHRISN: 1
 WWW-NicoVideo:
   HIRATA: 1
 WWW-NicoVideo-Download:
