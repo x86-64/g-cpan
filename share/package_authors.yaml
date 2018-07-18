@@ -128,6 +128,10 @@ AI-Logic-AnswerSet:
   LEVIA: 1
 AI-MXNet:
   SKOLYCHEV: 1
+AI-MXNet-Gluon-Contrib:
+  SKOLYCHEV: 1
+AI-MXNet-Gluon-ModelZoo:
+  SKOLYCHEV: 1
 AI-MXNetCAPI:
   SKOLYCHEV: 1
 AI-MaxEntropy:
@@ -6577,6 +6581,8 @@ App-pwhich:
   PLICEASE: 1
 App-rainbarf:
   SYP: 1
+App-randskip:
+  TULAMILI: 1
 App-rank:
   PERLANCAR: 1
 App-rcmd:
@@ -7158,6 +7164,8 @@ Astro-Catalog:
   GSB: 1
 Astro-Constants:
   DUFFEE: 1
+Astro-Coord-ECI-TLE-Iridium:
+  WYANT: 1
 Astro-Coords:
   GSB: 1
 Astro-Corlate:
@@ -8408,6 +8416,8 @@ Bencher-Scenarios-DateModules:
   PERLANCAR: 1
 Bencher-Scenarios-DateTimeFormatAlami:
   PERLANCAR: 1
+Bencher-Scenarios-DateTimeFormatDurationISO8601:
+  PERLANCAR: 1
 Bencher-Scenarios-DateTimeFormatISO8601:
   PERLANCAR: 1
 Bencher-Scenarios-DateTimeFormatISO8601Format:
@@ -8957,6 +8967,8 @@ BioPerl-Network:
 BioPerl-Run:
   CJFIELDS: 1
 BioSAILs:
+  JILLROWE: 1
+BioSAILs-Command:
   JILLROWE: 1
 BioUtil:
   SHENWEI: 1
@@ -13841,6 +13853,8 @@ Catmandu-Zotero:
   HOCHSTEN: 1
 Cave-Wrapper:
   KENTNL: 1
+CellBIS-Random:
+  YUSRIDEB: 1
 CellBIS-SQL-Abstract:
   YUSRIDEB: 1
 Cellular-Automata-Wolfram:
@@ -17019,6 +17033,8 @@ DBD-Log:
   SINISTER: 1
 DBD-MVS_FTPSQL:
   CBIONDO: 1
+DBD-MariaDB:
+  PALI: 1
 DBD-MaxDB:
   MAXDB: 1
 DBD-Mimer:
@@ -21646,6 +21662,8 @@ Devel-Local:
   INGY: 1
 Devel-MAT:
   PEVANS: 1
+Devel-MAT-Dumper:
+  PEVANS: 1
 Devel-MRO:
   GFUJI: 1
 Devel-Main:
@@ -23470,7 +23488,7 @@ Dist-Zilla-Plugin-UploadToCpanSite:
 Dist-Zilla-Plugin-UploadToSFTP:
   MJGARDNER: 1
 Dist-Zilla-Plugin-UploadToStratopan:
-  FRIEDO: 1
+  WATERKIP: 1
 Dist-Zilla-Plugin-UseBuildPL:
   VLYON: 1
 Dist-Zilla-Plugin-UseUnsafeInc:
@@ -23515,6 +23533,8 @@ Dist-Zilla-PluginBundle-ARJONES:
   ARJONES: 1
 Dist-Zilla-PluginBundle-ARODLAND:
   ARODLAND: 1
+Dist-Zilla-PluginBundle-ATOOMIC:
+  ATOOMIC: 1
 Dist-Zilla-PluginBundle-AVAR:
   RKITOVER: 1
 Dist-Zilla-PluginBundle-Apocalyptic:
@@ -24044,6 +24064,8 @@ EO:
   JDUNCAN: 1
 EOL:
   TWYLIE: 1
+EPFL-Net-ipv6Test:
+  WILLBELL: 1
 EPFL-Sciper-List:
   WILLBELL: 1
 EPFL-Service-Open:
@@ -26600,6 +26622,8 @@ Finance-Currency-Convert-ECBdaily:
   DETAILS: 1
 Finance-Currency-Convert-GMC:
   PERLANCAR: 1
+Finance-Currency-Convert-Mandiri:
+  PERLANCAR: 1
 Finance-Currency-Convert-WebserviceX:
   CLACO: 1
 Finance-Currency-Convert-XE:
@@ -28694,6 +28718,8 @@ Git-Hooks-PerlCritic:
   MIKKOI: 1
 Git-Hooks-RubyNoDebugger:
   SHAW: 1
+Git-LowLevel:
+  BYTERAZOR: 1
 Git-Mailmap:
   MIKKOI: 1
 Git-Megapull:
@@ -42257,7 +42283,7 @@ MySQL-Log-ParseFilter:
 MySQL-Packet:
   TAVIN: 1
 MySQL-Partition:
-  SHOGO: 1
+  SONGMU: 1
 MySQL-Privilege-Reader:
   LMC: 1
 MySQL-QueryMulti:
@@ -44666,6 +44692,8 @@ Net-Statsd:
   COSIMO: 1
 Net-Statsd-Client:
   ARODLAND: 1
+Net-Statsd-Client-Telegraf:
+  PVIGIER: 1
 Net-Statsd-Lite:
   RRWO: 1
 Net-Statsd-Server:
@@ -44889,7 +44917,7 @@ Net-Whois-Gateway-Client:
 Net-Whois-Gateway-Server:
   DAVINCHI: 1
 Net-Whois-IANA:
-  ROMM: 1
+  ATOOMIC: 1
 Net-Whois-IP:
   BSCHMITZ: 1
 Net-Whois-Norid:
@@ -45799,6 +45827,8 @@ Olson-Abbreviations:
   ECARROLL: 1
 Omega-DP41-Data-Current:
   KERR: 1
+OmniDisco-Prometheus:
+  ADUITSIS: 1
 OneTool-App-Core:
   STHEBERT: 1
 OneTool-Core:
@@ -48662,6 +48692,8 @@ Perinci-CmdLine-Help:
   PERLANCAR: 1
 Perinci-CmdLine-Inline:
   PERLANCAR: 1
+Perinci-CmdLine-Lite:
+  PERLANCAR: 1
 Perinci-CmdLine-NonOO:
   PERLANCAR: 1
 Perinci-CmdLine-POD:
@@ -49007,6 +49039,8 @@ Perl-ImportReport:
   DMUEY: 1
 Perl-Installed:
   MSCHILLI: 1
+Perl-LanguageServer:
+  GRICHTER: 1
 Perl-Lexer:
   ISHIGAKI: 1
 Perl-LibExtractor:
@@ -57844,6 +57878,7 @@ Tcl:
 Tcl-Tk:
   VKON: 1
 Tcl-pTk:
+  CAC: 1
   CERNEY: 1
 TeX-AutoTeX:
   TSCHWAND: 1
@@ -59064,6 +59099,8 @@ Test-Deep-Filter:
   KENTNL: 1
 Test-Deep-Fuzzy:
   KARUPA: 1
+Test-Deep-HashRec:
+  RJBS: 1
 Test-Deep-JSON:
   MOTEMEN: 1
 Test-Deep-JWT:
@@ -60298,6 +60335,8 @@ TestML1:
   INGY: 1
 TestRail-API:
   TEODESIAN: 1
+Tex-Hyphen-Pattern:
+  IPENBURG: 1
 Texinfo-Menus:
   CJM: 1
 Text-AAlib:
