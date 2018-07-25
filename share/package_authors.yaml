@@ -5781,6 +5781,8 @@ App-Sky:
   SHLOMIF: 1
 App-Slackeria:
   DERF: 1
+App-SlowQuitApps:
+  DCONWAY: 1
 App-Smarkmail:
   RJBS: 1
 App-Smbxfer:
@@ -6081,6 +6083,8 @@ App-af:
   PLICEASE: 1
 App-after:
   PERLANCAR: 1
+App-ansifold:
+  UTASHIRO: 1
 App-aptperl:
   IVANWILLS: 1
 App-assh:
@@ -6337,6 +6341,8 @@ App-jsonsel:
   PERLANCAR: 1
 App-jt:
   GUGOD: 1
+App-keycommon:
+  TULAMILI: 1
 App-lcpan:
   PERLANCAR: 1
 App-lcpan-Call:
@@ -6413,6 +6419,8 @@ App-makedpkg:
   VOJ: 1
 App-manwrap-pm:
   PERLANCAR: 1
+App-matrixpack:
+  TULAMILI: 1
 App-merge_cpanfile:
   AEREAL: 1
 App-metacpansearch:
@@ -6645,6 +6653,8 @@ App-short:
   PERLANCAR: 1
 App-showreverse:
   KLPTWO: 1
+App-shufflerow:
+  TULAMILI: 1
 App-skos2jskos:
   VOJ: 1
 App-smtpstatus:
@@ -18049,7 +18059,7 @@ DBIx-SpatialKey:
 DBIx-Struct:
   ANTONPETR: 1
 DBIx-Sunny:
-  KAZEBURO: 1
+  SONGMU: 1
 DBIx-TNDBO:
   DYLAN: 1
 DBIx-TSV:
@@ -21668,8 +21678,6 @@ Devel-MRO:
   GFUJI: 1
 Devel-Main:
   STEPHEN: 1
-Devel-MaintBlead:
-  ELIZABETH: 1
 Devel-Mallinfo:
   KRYDE: 1
 Devel-Malloc:
@@ -21870,8 +21878,6 @@ Devel-System:
   RCLAMP: 1
 Devel-TakeHashArgs:
   ZOFFIX: 1
-Devel-ThreadsForks:
-  ELIZABETH: 1
 Devel-TimeStats:
   CAFEGRATZ: 1
 Devel-Timer:
@@ -22151,8 +22157,6 @@ Device-Moose-SCSI:
   POTATOGIM: 1
 Device-Nest:
   KEDAR: 1
-Device-Network-ConfigParser:
-  PUGLET: 1
 Device-Neurio:
   KEDAR: 1
 Device-NeurioTools:
@@ -22173,8 +22177,6 @@ Device-PCDuino:
   TMURRAY: 1
 Device-PaPiRus:
   CAVAC: 1
-Device-PaloAlto-Firewall:
-  PUGLET: 1
 Device-ParallelPort:
   SCOTT: 1
 Device-ParallelPort-JayCar:
@@ -23040,7 +23042,7 @@ Dist-Zilla-Plugin-InsertExecsList:
 Dist-Zilla-Plugin-InsertModulesList:
   PERLANCAR: 1
 Dist-Zilla-Plugin-InstallGuide:
-  DOHERTY: 1
+  ETHER: 1
 Dist-Zilla-Plugin-InstallRelease:
   DOHERTY: 1
 Dist-Zilla-Plugin-JSAN:
@@ -25148,9 +25150,9 @@ FASTAid:
 FB-Statify:
   XXGHOSTXX: 1
 FB3:
-  GRIBUSER: 1
+  EGOROD: 1
 FB3-Convert:
-  GRIBUSER: 1
+  EGOROD: 1
 FBP:
   ADAMK: 1
 FBP-Demo:
@@ -26154,7 +26156,7 @@ File-TTX:
 File-Tabular:
   DAMI: 1
 File-Tabular-Web:
-  PJDEVOPS: 1
+  DAMI: 1
 File-Tail:
   MGRABNAR: 1
 File-Tail-App:
@@ -29556,6 +29558,8 @@ HEP-MCNS:
   PHILHA: 1
 HEP-Names-LaTeX:
   PHILHA: 1
+HO-class:
+  SKNPP: 1
 HOI-Comprehensions:
   WITHERING: 1
 HOI-Match:
@@ -36386,8 +36390,6 @@ Log-Dispatch-Message-Passing:
   BOBTFISH: 1
 Log-Dispatch-MongoDB:
   STEVAN: 1
-Log-Dispatch-Perl:
-  ELIZABETH: 1
 Log-Dispatch-Pipe:
   YOWCOW: 1
 Log-Dispatch-Prowl:
@@ -36420,8 +36422,6 @@ Log-Dispatch-UDP:
   RHOELZ: 1
 Log-Dispatch-Wx:
   MBARBON: 1
-Log-Dispatch-XML:
-  ELIZABETH: 1
 Log-Dispatch-ZMQ:
   TJMC: 1
 Log-DispatchEventLog:
@@ -39379,6 +39379,8 @@ Modbus-Client:
   DVKLEIN: 1
 Model-Envoy:
   HOWARS: 1
+Model-Envoy-Storage-Redis:
+  HOWARS: 1
 Model3D-Poser:
   DODGER: 1
 ModelSim-List:
@@ -40376,7 +40378,7 @@ Mojolicious-Plugin-AppCacheManifest:
 Mojolicious-Plugin-Args:
   AMIRITE: 1
 Mojolicious-Plugin-AssetPack:
-  MRAMBERG: 1
+  JHTHORSEN: 1
 Mojolicious-Plugin-AssetPack-Che:
   MCHE: 1
 Mojolicious-Plugin-AssetPack-Pipe-ElmLang:
@@ -40926,6 +40928,8 @@ Mojolicious-Plugin-StaticLog:
   FRANKC: 1
 Mojolicious-Plugin-StaticShare:
   MCHE: 1
+Mojolicious-Plugin-Status:
+  SRI: 1
 Mojolicious-Plugin-StripePayment:
   JHTHORSEN: 1
 Mojolicious-Plugin-Subdispatch:
@@ -44951,6 +44955,8 @@ Net-Wire10:
   DUBEX: 1
 Net-Wireless-802_11-AP:
   VVELOX: 1
+Net-Wireless-802_11-Scan-FreeBSD:
+  VVELOX: 1
 Net-Wireless-802_11-WPA-CLI:
   VVELOX: 1
 Net-Wireless-802_11-WPA-CLI-Helper:
@@ -47339,6 +47345,8 @@ POE-Filter-Snort:
   RCAPUTO: 1
 POE-Filter-Stomp:
   KESTEB: 1
+POE-Filter-ThruPut:
+  BINGOS: 1
 POE-Filter-Transparent-SMTP:
   ULTRADM: 1
 POE-Filter-XML:
@@ -49282,8 +49290,6 @@ PerlIO-via-ANSIColor:
   MASANORIH: 1
 PerlIO-via-Babelfish:
   XERN: 1
-PerlIO-via-Base64:
-  ELIZABETH: 1
 PerlIO-via-Bastardize:
   XERN: 1
 PerlIO-via-Bzip2:
@@ -49294,26 +49300,16 @@ PerlIO-via-EscStatus:
   KRYDE: 1
 PerlIO-via-GnuPG:
   RSRCHBOY: 1
-PerlIO-via-Include:
-  ELIZABETH: 1
 PerlIO-via-Limit:
   HWAT: 1
-PerlIO-via-LineNumber:
-  ELIZABETH: 1
 PerlIO-via-Logger:
   AKAPLAN: 1
-PerlIO-via-MD5:
-  ELIZABETH: 1
 PerlIO-via-Pipe:
   MARCEL: 1
-PerlIO-via-Pod:
-  ELIZABETH: 1
 PerlIO-via-PrepareCP1251:
   LIOSHA: 1
 PerlIO-via-QuotedPrint:
   SHAY: 1
-PerlIO-via-Rotate:
-  ELIZABETH: 1
 PerlIO-via-SeqIO:
   MAJENSEN: 1
 PerlIO-via-Skip:
@@ -49324,10 +49320,6 @@ PerlIO-via-Timeout:
   DAMS: 1
 PerlIO-via-ToFirePHP:
   MARCEL: 1
-PerlIO-via-UnComment:
-  ELIZABETH: 1
-PerlIO-via-UnPod:
-  ELIZABETH: 1
 PerlIO-via-Unidecode:
   SBURKE: 1
 PerlIO-via-as_is:
@@ -51716,6 +51708,8 @@ Queue-Worker:
   BOSU: 1
 Queue.pm:
   TOMC: 1
+QuickTermChart-QuickTermChart:
+  SHADKAM: 1
 Quilt:
   KMACLEOD: 1
 Quine:
@@ -52275,6 +52269,7 @@ RT-Extension-FollowUp:
   ELACOUR: 1
 RT-Extension-FormTools:
   ALEXMV: 1
+  BPS: 1
 RT-Extension-Gravatar:
   CLOOS: 1
 RT-Extension-GroupBroadcast:
@@ -54708,7 +54703,7 @@ SelfUnzip:
 SemMed-Interface:
   AYMULYAR: 1
 SemVer:
-  DWHEELER: 1
+  HOPFROG: 1
 SemVer-V2-Strict:
   PINE: 1
 SemanticWeb-OAI-ORE:
@@ -56313,8 +56308,6 @@ String-LRC:
   WHOELSE: 1
 String-LineNumber:
   PERLANCAR: 1
-String-Lookup:
-  ELIZABETH: 1
 String-MFN:
   MDXI: 1
 String-MMM:
@@ -58398,6 +58391,8 @@ Template-Plugin-TruncateByWord:
   KAWABATA: 1
 Template-Plugin-TwoStage:
   ALEXK: 1
+Template-Plugin-URI:
+  DBOYS: 1
 Template-Plugin-UTF8Decode:
   FAXIOMAN: 1
 Template-Plugin-UTF8toANSI:
@@ -60335,14 +60330,14 @@ TestML1:
   INGY: 1
 TestRail-API:
   TEODESIAN: 1
-Tex-Hyphen-Pattern:
-  IPENBURG: 1
 Texinfo-Menus:
   CJM: 1
 Text-AAlib:
   SYOHEX: 1
 Text-AI-CRM114:
   MSCHUETT: 1
+Text-ANSI-Fold:
+  UTASHIRO: 1
 Text-ANSI-Util:
   PERLANCAR: 1
 Text-ANSI-WideUtil:
@@ -61294,6 +61289,8 @@ Text-TabTable:
   MDIMEO: 1
 Text-Table:
   SHLOMIF: 1
+Text-Table-ASV:
+  PERLANCAR: 1
 Text-Table-Any:
   PERLANCAR: 1
 Text-Table-CSV:
@@ -62480,6 +62477,8 @@ Time-Progress-Stored:
   JOHANL: 1
 Time-ProseClock:
   GOLD: 1
+Time-Random:
+  LNATION: 1
 Time-Sequence:
   ABBYPAN: 1
 Time-Simple:
@@ -63394,6 +63393,8 @@ Types-Encodings:
   TOBYINK: 1
 Types-Git:
   BLUEFEET: 1
+Types-HTML5:
+  TOBYINK: 1
 Types-Interface:
   TOBYINK: 1
 Types-LoadableClass:
@@ -66579,6 +66580,8 @@ WebService-HealthGraph:
   OALDERS: 1
 WebService-Heartrails-Express:
   SUENAGA: 1
+WebService-Hexonet-Connector:
+  HEXONET: 1
 WebService-HipChat:
   IRONCAMEL: 1
 WebService-Hooktheory:

@@ -266,8 +266,6 @@ Time-Local:
 Time-Piece:
   category: virtual
   name: perl-Time-Piece
-Time-modules:
-  name: Time-ParseDate
 Unicode-Collate:
   category: virtual
   name: perl-Unicode-Collate
