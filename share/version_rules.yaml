@@ -24,7 +24,6 @@ float2dotted:
   Net-Whois-Proxy: 1
   OWNet: 1
   PDL-IO-Grib: 1
-  Parallel-WorkUnit: 1
   Spawn-Safe: 1
   Supers-Search: 1
   Test-Smoke-Database: 1
@@ -94,7 +93,7 @@ ignore:
   App-ClusterSSH: 'mixed version style: 4.04 4.05 4.06 4.07 4.08 4.09 4.11 4.12 4.13 4.13.2'
   App-DDFlare: 'unknown version style: 0.08-3'
   App-Getconf: 'mixed version style: 0.01 0.02 0.20.02 0.20.04'
-  App-Git-Workflow: 'mixed version style: 0.98 0.99 1 1.0.1 1.0.2 1.0.3 1.0.4 1.0.5 1.0.6 1.0.7'
+  App-Git-Workflow: 'mixed version style: 0.98 0.99 1 1.0.1 1.0.2 1.0.3 1.0.4 1.0.5 1.0.6 1.0.7 1.0.8'
   App-GitHub: 'mixed version style: 0.12 0.13 1.0 1.0.1'
   App-Ikachan: 'mixed version style: 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09 0.10 0.11 0.12 0.2.0 0.2.1'
   App-IsGitSynced: 'mixed version style: 0.01 0.02 0.03 0.04 0.05 1.0.0 1.0.1 1.0.2 1.0.3'
@@ -208,7 +207,7 @@ ignore:
   Crypt-OpenSSH-ChachaPoly: 'unknown version style: 0.02-reupload1'
   Crypt-OpenSSL-X509: 'mixed version style: 0.7 0.9 1.0 1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.7.1 1.8 1.800.1 1.800.2 1.803 1.804 1.805 1.806 1.807'
   Crypt-Password: 'incorrect float version: 0.10 0.11 0.12 0.13 0.14 0.15 0.16 0.17 0.18 0.19 0.2 0.20 0.21 0.22 0.23 0.24 0.25 0.26 0.27 0.28'
-  Crypt-Perl: 'unknown version style: 0.033 0.1 0.11 0.12 0.13 0.14 0.15 0.16 0.17 0.18 0.19 0.20 0.21 0.22 0.23 0.24_TRIAL1 0.24_TRIAL2 0.24'
+  Crypt-Perl: 'unknown version style: 0.033 0.1 0.11 0.12 0.13 0.14 0.15 0.16 0.17 0.18 0.19 0.20 0.21 0.22 0.23 0.24_TRIAL1 0.24_TRIAL2 0.24 0.25 0.26 0.27'
   Curses: 'unknown version style: 1.07 1.17 1.27 1.28 1.29 1.30a 1.31 1.32 1.33 1.34 1.36'
   Curses-Simp: 'unknown version style: 1.0.41V0L3a 1.2.A7DDCh3 1.4.A8UG1gG'
   Cvs-Simple: 'mixed version style: 0.04 0.0.5 0.06'
@@ -405,6 +404,7 @@ ignore:
   HTML-FormEngine: 'unknown version style: 0.7.1 0.7.2 0.7.3b 0.7.4 1.01'
   HTML-FormEngine-DBSQL: 'mixed version style: 0.1 0.2 0.2.1 1.0 1.01'
   HTML-FormHandlerX-Field-DateTimeNatural: 'mixed version style: 0.1.0 0.2 0.3 0.4 0.5 0.6'
+  HTML-Hyphenate: 'mixed version style: 0.05 0.100 0.101 1.0.0'
   HTML-LoL: 'mixed version style: 1.0 1.0.1 1.1 1.3'
   HTML-Macro: 'unknown version style: 1-19 1.27 1.30'
   HTML-Meta-Robots: 'mixed version style: 0.001 0.2 0.3.3'
@@ -424,7 +424,7 @@ ignore:
   Hypatia: 'mixed version style: 0.01 0.01.1 0.011 0.012 0.0121 0.02 0.021 0.025 0.026 0.027 0.028 0.029'
   HyperWave-CSP: 'mixed version style: 0.02 0.03 0.03.1'
   IO-Framed: 'unknown version style: 0.01 0.011 0.012 0.013 0.014 0.015 0.016 0.017 0.018 0.02 0.021 0.03_TRIAL2 0.03_TRIAL3 0.03 0.031 0.04 0.10'
-  IP-Random: 'mixed version style: 1.008 0.0.8 0.0.9'
+  IP-Random: 'mixed version style: 1.008 0.0.9 0.0.10'
   IPTables-IPv4: 'unknown version style: 0.96 0.97 0.97a 0.97b 0.98'
   IPTables-Parse: 'mixed version style: 1.3 1.3.1 1.4 1.5 1.6 1.6.1'
   Image-ButtonMaker: 'mixed version style: 0.1 0.1.2 0.1.3 0.1.4'
@@ -486,11 +486,10 @@ ignore:
   MARC-Errorchecks: 'unknown version style: 1.13 1.14 1.16 1.17a 1.18'
   MARC-XML: 'mixed version style: 0.4 0.91 0.92 0.93 1.0 1.0.1 1.0.2 1.0.3 1.0.4'
   MIME-Charset: 'mixed version style: 1.006.2 1.007.1 1.008.2 1.009.3 1.010.1 1.011.1 1.011.2 1.011.3 1.012 1.012.1 1.012.2'
-  MOSES-MOBY: 'mixed version style: 0.95 0.96.1'
   MPE-IMAGE: 'unknown version style: 0.98a'
   MRS-Client: 'mixed version style: 0.600100 1.0.0 1.0.1'
   Mail-Exchange: 'mixed version style: 0.01 0.02 0.03 0.03.1 0.04'
-  Mail-Milter-Authentication: 'mixed version style: 0.1.0 0.1.1 1.0.0 1.0.1 1.1.0 1.1.1 1.1.2 1.1.3 1.1.4 1.1.5 1.1.6 1.1.7 2.20180318 2.20180326 2.20180328 2.20180329 2.20180430 2.20180509 2.20180510 2.20180511 2.20180521 2.20180525 2.20180526 2.20180608 2.20180612'
+  Mail-Milter-Authentication: 'mixed version style: 0.1.0 0.1.1 1.0.0 1.0.1 1.1.0 1.1.1 1.1.2 1.1.3 1.1.4 1.1.5 1.1.6 1.1.7 2.20180318 2.20180326 2.20180328 2.20180329 2.20180430 2.20180509 2.20180510 2.20180511 2.20180521 2.20180525 2.20180526 2.20180608 2.20180612 2.20180726'
   Mail-Milter-Authentication-Extra: 'mixed version style: 1.0.0 1.0.1 1.1.1 1.1.3 1.1.5 2.20180318 2.20180510 2.20180611'
   Mail-Milter-Authentication-Handler-SMIME: 'mixed version style: 1.0.3 1.1.1 1.1.3 1.1.5 1.1.6 1.1.7 2.20180318 2.20180510'
   Mail-Outlook: 'unknown version style: 0.19a 0.20 0.21 0.22 0.23 0.24 0.25'
@@ -509,7 +508,7 @@ ignore:
   Math-Integral-Romberg: 'unknown version style: 0_02 0.04'
   Math-MVPoly: 'unknown version style: 0.8b'
   Math-MatrixReal-Ext1: 'unknown version style: 0-07'
-  Math-Pari: 'unknown version style: 2.001301 2.001302 2.001400 2.001401 2.001402 2.001403 2.001500 2.001501 2.001600 2.001700 2.001702 2.001804 2.010201 2.010304 2.010305 2.010402 2.010500 2.010501 2.010600 2.010601 2.010602 2.010603 2.010604 2.010700 2.010701 2.010702 2.010703 2.010704 2.010705 2.010706 2.010707 2.010708 2.010709 2.010800 2.010801 2.010802 2.010803 2.010804 2.010805 2.010806 2.01080601 2.01080602 2.01080603 2.01080604 2.01080605 2.01080606 2.01080606a 2.01080607 2.010807 2.010808 2.010809 2.010809a 2.010809b 2.01080900'
+  Math-Pari: 'unknown version style: 2.001301 2.001302 2.001400 2.001401 2.001402 2.001403 2.001500 2.001501 2.001600 2.001700 2.001702 2.001804 2.010201 2.010304 2.010305 2.010402 2.010500 2.010501 2.010600 2.010601 2.010602 2.010603 2.010604 2.010700 2.010701 2.010702 2.010703 2.010704 2.010705 2.010706 2.010707 2.010708 2.010709 2.010800 2.010801 2.010802 2.010803 2.010804 2.010805 2.010806 2.01080601 2.01080602 2.01080603 2.01080604 2.01080605 2.01080606 2.01080606a 2.01080607 2.010807 2.010808 2.010809 2.010809a 2.010809b 2.01080900 2.010810 2.010811'
   Math-Round-Var: 'mixed version style: 0.02 0.03 1.0.0'
   Maypole: 'unknown version style: 2.10 2.11_pre1 2.11_pre2 2.11_pre3 2.11_pre4 2.11_pre5 2.11 2.111 2.12 2.121 2.13'
   MediaCloud-JobManager: 'mixed version style: 0.17 0.17.1 0.18 0.19 0.20 0.21 0.22 0.23 0.24 0.25 0.26 0.27'
@@ -545,7 +544,6 @@ ignore:
   NISPlus: 'unknown version style: 0.04-alpha 0.05-alpha 0.06-alpha'
   NIST-NVD: 'mixed version style: 0.02 0.03 0.04 0.05 0.051 0.06 0.07 0.08 0.09 0.10 1.00.00'
   NIST-NVD-Store-SQLite3: 'mixed version style: 0.01 0.02 0.03 0.04 1.00.00'
-  NKTI-general: 'mixed version style: 0.07 0.08 0.09 0.10 0.11 0.12 0.12.1 0.13 0.14 0.15 0.16 0.17'
   Narada: 'mixed version style: 1.0.0 1.0.1 1.1.0 1.2.0 1.2.1 1.2.2 1.3.0 1.3.1 1.3.2 1.3.3 1.3.4 1.3.5 1.3.6 1.3.7 1.3.8 1.3.9 1.3.10 1.3.11 1.3.12 1.3.13 1.3.14 1.3.15 1.4.0 1.4.4 1.4.5 2.0.0 2.0.1 2.0.2 2.1.0 2.2.0 2.2.1 2.2.2 2.2.3 2.3 2.3.1 2.3.2 2.3.3 2.3.4 2.3.5 2.3.6 2.3.7 2.3.8'
   Net-APNS-Persistent: 'unknown version style: 0.01 0.01b 0.01c 0.01d 0.02'
   Net-ARP: 'mixed version style: 1.0 1.0.6 1.0.7 1.0.8 1.0.9'

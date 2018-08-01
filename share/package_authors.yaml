@@ -707,6 +707,8 @@ Acme-CPANModules:
   PERLANCAR: 1
 Acme-CPANModules-BloomFilters:
   PERLANCAR: 1
+Acme-CPANModules-CLI-Sort:
+  PERLANCAR: 1
 Acme-CPANModules-CryptoExchange-API:
   PERLANCAR: 1
 Acme-CPANModules-FooThis:
@@ -1002,6 +1004,8 @@ Acme-JJCARMAN:
   JJCARMAN: 1
 Acme-JMOLLY-Utils:
   JMOLLY: 1
+Acme-JTM-Experiment:
+  JMASLAK: 1
 Acme-JWT:
   CLAIRVY: 1
 Acme-JavaTrace:
@@ -2216,6 +2220,8 @@ Alien-Build-MB:
   PLICEASE: 1
 Alien-Build-Plugin-Build-Premake5:
   JJATRIA: 1
+Alien-Build-Plugin-Cleanse-BuildDir:
+  SLAFFAN: 1
 Alien-Build-Plugin-Decode-SourceForge:
   PLICEASE: 1
 Alien-Build-Plugin-Fetch-Cache:
@@ -2506,6 +2512,8 @@ Alien-automake:
   PLICEASE: 1
 Alien-bison:
   PLICEASE: 1
+Alien-caca:
+  YANICK: 1
 Alien-cmake3:
   PLICEASE: 1
 Alien-curl:
@@ -6386,6 +6394,8 @@ App-lcpan-CmdBundle-weaver:
 App-lcpan-Daemon:
   PERLANCAR: 1
 App-lens:
+  PERLANCAR: 1
+App-lensort:
   PERLANCAR: 1
 App-linenum:
   PERLANCAR: 1
@@ -17380,6 +17390,8 @@ DBIx-Class-Helper-ResultSet-CrossTab:
   SCESANO: 1
 DBIx-Class-Helper-ResultSet-WindowFunctions:
   RRWO: 1
+DBIx-Class-Helper-Row-Enumeration:
+  RRWO: 1
 DBIx-Class-Helpers:
   FREW: 1
 DBIx-Class-I18NColumns:
@@ -23463,6 +23475,8 @@ Dist-Zilla-Plugin-Test-Version:
   PLICEASE: 1
 Dist-Zilla-Plugin-TestBaseIncluder:
   INGY: 1
+Dist-Zilla-Plugin-TestML1Includer:
+  INGY: 1
 Dist-Zilla-Plugin-TestMLIncluder:
   INGY: 1
 Dist-Zilla-Plugin-TestRun:
@@ -24066,6 +24080,8 @@ EO:
   JDUNCAN: 1
 EOL:
   TWYLIE: 1
+EPFL-Net-SSLTest:
+  WILLBELL: 1
 EPFL-Net-ipv6Test:
   WILLBELL: 1
 EPFL-Sciper-List:
@@ -24308,6 +24324,8 @@ Email-Envelope:
   KUNGFUFTR: 1
 Email-ExactTarget:
   AUBERTG: 1
+Email-Extractor:
+  PAVELSR: 1
 Email-Filter:
   RJBS: 1
 Email-Filter-Rules:
@@ -25152,7 +25170,7 @@ FB-Statify:
 FB3:
   EGOROD: 1
 FB3-Convert:
-  EGOROD: 1
+  GRIBUSER: 1
 FBP:
   ADAMK: 1
 FBP-Demo:
@@ -25417,6 +25435,8 @@ FigAnim:
   FIGANIM: 1
 File-ANVL:
   JAK: 1
+File-AddInc:
+  HKOBA: 1
 File-Alter:
   KANE: 1
 File-AnySpec:
@@ -29552,8 +29572,6 @@ HCKit-Template:
   HANGIL: 1
 HDB:
   GMPASSOS: 1
-HDML-LinkExtor:
-  MILANO: 1
 HEP-MCNS:
   PHILHA: 1
 HEP-Names-LaTeX:
@@ -40626,6 +40644,8 @@ Mojolicious-Plugin-Ical:
   JHTHORSEN: 1
 Mojolicious-Plugin-Ident:
   PLICEASE: 1
+Mojolicious-Plugin-InputValidation:
+  FROGGS: 1
 Mojolicious-Plugin-InstallablePaths:
   JBERGER: 1
 Mojolicious-Plugin-JIPConf:
@@ -40658,6 +40678,8 @@ Mojolicious-Plugin-LinkedContent:
   OLG: 1
 Mojolicious-Plugin-LocaleTextDomainOO:
   CLICKTX: 1
+Mojolicious-Plugin-Loco:
+  WROG: 1
 Mojolicious-Plugin-Log-Access:
   NICZERO: 1
 Mojolicious-Plugin-Log-Any:
@@ -48454,6 +48476,8 @@ Password-Policy-Encryption-MD5:
   ANELSON: 1
 Password-Policy-Encryption-SHA1:
   ANELSON: 1
+Password-Policy-Rule-Pwned:
+  HOUSTON: 1
 PasswordMonkey:
   MSCHILLI: 1
 Passwords:
@@ -51387,6 +51411,10 @@ Proliphix:
   NEBULOUS: 1
 Prolog-Utility-FromPerl:
   TVMALY: 1
+Prometheus-Tiny:
+  ROBN: 1
+Prometheus-Tiny-Shared:
+  ROBN: 1
 Promise-Tiny:
   HATZ: 1
 Promises:
@@ -54042,8 +54070,6 @@ SVG-VCD:
   MIRK: 1
 SVGGraph:
   TEUN: 1
-SVGGraph-Pie:
-  MILANO: 1
 SVGraph:
   COMSULTIA: 1
 SVK:
@@ -61124,7 +61150,7 @@ Text-QueryString:
 Text-Quote:
   NEILB: 1
 Text-Quoted:
-  ALEXMV: 1
+  BPS: 1
 Text-Record-Deduper:
   KIMRYAN: 1
 Text-RecordParser:
@@ -63085,6 +63111,8 @@ Transform-Canvas:
   RONAN: 1
 Transmission-Client:
   OLOF: 1
+Transport-AU-PTV:
+  PUGLET: 1
 Trash-Park:
   MSCHILLI: 1
 Travel-Routing-DE-VRR:
@@ -63788,7 +63816,7 @@ Ukigumo-Client:
 Ukigumo-Common:
   MOZNION: 1
 Ukigumo-Server:
-  MOZNION: 1
+  SONGMU: 1
 UkrMoney-API:
   DMITRY: 1
 UltraDNS:
@@ -67873,6 +67901,8 @@ WordPress-Base-MediaObject:
   LEOCHARRE: 1
 WordPress-CLI:
   LEOCHARRE: 1
+WordPress-DBIC-Schema:
+  MELMOTHX: 1
 WordPress-Plugin-WallFlower:
   CJCOLLIER: 1
 WordPress-Post:
@@ -69269,6 +69299,8 @@ Yandex-Dictionary:
   BRNFLK: 1
 Yandex-Disk:
   VRAG: 1
+Yandex-Geo:
+  PAVELSR: 1
 Yandex-Metrika:
   CHIPSOID: 1
 Yandex-OAuth:
