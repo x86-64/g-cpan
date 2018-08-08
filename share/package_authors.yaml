@@ -6067,6 +6067,8 @@ App-YTDL:
   KUERBIS: 1
 App-Ylastic-CostAgent:
   DAGOLDEN: 1
+App-YouTubeUtils:
+  PERLANCAR: 1
 App-Zapzi:
   RUPERTL: 1
 App-ZodiacUtils:
@@ -6341,6 +6343,8 @@ App-intsum:
   SHLOMIF: 1
 App-iosdiff:
   OLIVER: 1
+App-isbn:
+  PERLANCAR: 1
 App-jpath:
   PERLANCAR: 1
 App-jsonschema:
@@ -18483,7 +18487,7 @@ Dancer-Plugin-Auth-RBAC-Permissions-DBIC:
 Dancer-Plugin-Auth-Tiny:
   DAGOLDEN: 1
 Dancer-Plugin-Auth-Twitter:
-  YANICK: 1
+  BIGPRESH: 1
 Dancer-Plugin-Authen-Simple:
   SPAZM: 1
 Dancer-Plugin-Authorize:
@@ -19718,7 +19722,7 @@ Data-Message:
 Data-MessagePack:
   SYOHEX: 1
 Data-MessagePack-Stream:
-  SYOHEX: 1
+  TYPESTER: 1
 Data-Microformat:
   USSJOIN: 1
 Data-Mining-Apriori:
@@ -23223,6 +23227,8 @@ Dist-Zilla-Plugin-Pod2Readme:
   DAGOLDEN: 1
 Dist-Zilla-Plugin-PodInherit:
   TEAM: 1
+Dist-Zilla-Plugin-PodKnit:
+  YANICK: 1
 Dist-Zilla-Plugin-PodLoom:
   CJM: 1
 Dist-Zilla-Plugin-PodPurler:
@@ -25113,8 +25119,6 @@ ExtUtils-Manifest:
 ExtUtils-ModuleMaker:
   JKEENAN: 1
   RGEOFFREY: 1
-ExtUtils-ModuleMaker-PBP:
-  JKEENAN: 1
 ExtUtils-ModuleMaker-TT:
   DAGOLDEN: 1
 ExtUtils-PL2Bat:
@@ -25987,6 +25991,8 @@ File-Policy:
   BBC: 1
 File-Prepend-Undoable:
   PERLANCAR: 1
+File-Print-Many:
+  NHORNE: 1
 File-ProjectHome:
   CSIDE: 1
 File-Properties:
@@ -27197,6 +27203,8 @@ GCJ-Cni:
   RUSEKD: 1
 GCT-XSP-ActionTaglib:
   ADZZ: 1
+GCloud-CLIWrapper:
+  JLMARTIN: 1
 GD:
   RURBAN: 1
 GD-3DBarGrapher:
@@ -37067,6 +37075,8 @@ MIME-Multipart-Parse-Ordered:
   JIMI: 1
 MIME-Multipart-ParseSimple:
   JIMI: 1
+MIME-Signature:
+  FANY: 1
 MIME-Structure:
   NKUITSE: 1
 MIME-Type-FileName:
@@ -46460,7 +46470,7 @@ PDL-IO-HDF5:
 PDL-IO-Image:
   KMX: 1
 PDL-IO-NDF:
-  TJENNESS: 1
+  GSB: 1
 PDL-IO-Nifti:
   FANTASMA: 1
 PDL-IO-Sereal:
@@ -50612,6 +50622,8 @@ Pod-Index:
 Pod-Inherit:
   BBYRD: 1
   JMASTROS: 1
+Pod-Knit:
+  YANICK: 1
 Pod-L10N:
   ARGRATH: 1
 Pod-LaTeX:
@@ -54734,6 +54746,8 @@ SemVer-V2-Strict:
   PINE: 1
 SemanticWeb-OAI-ORE:
   SIMEON: 1
+SemanticWeb-Schema:
+  RRWO: 1
 Semi-Semicolons:
   DHA: 1
 Sendmail-AbuseIPDB:
@@ -59146,6 +59160,8 @@ Test-DeepFile:
   GAM: 1
 Test-DeepMock:
   RADIOMKOR: 1
+Test-Deeply-Float:
+  PERLANCAR: 1
 Test-Dependencies:
   EHUELS: 1
 Test-DependentModules:
@@ -61577,6 +61593,8 @@ Text-xSV-Slurp:
   DANBOO: 1
 Text2URI:
   RENTOCRON: 1
+TextFileParser:
+  BALAJIRAM: 1
 TextLinkAds:
   DCARDWELL: 1
 TextMate-JumpTo:
@@ -62801,6 +62819,7 @@ Tk-HistEntry:
 Tk-HyperText:
   KIRSLE: 1
 Tk-IDElayout:
+  CAC: 1
   CERNEY: 1
 Tk-IPEntry:
   XPIX: 1

@@ -1,5 +1,3 @@
 #!/bin/bash
 
-layman -a x86
-emerge dev-perl/g-cpan
-layman -d x86
+emerge -j1 dev-perl/g-cpan
