@@ -132,8 +132,6 @@ AI-MXNet-Gluon-Contrib:
   SKOLYCHEV: 1
 AI-MXNet-Gluon-ModelZoo:
   SKOLYCHEV: 1
-AI-MXNetCAPI:
-  SKOLYCHEV: 1
 AI-MaxEntropy:
   LAYE: 1
 AI-MegaHAL:
@@ -6777,6 +6775,8 @@ App-yajg:
   GRAGORY: 1
 App-yamlsel:
   PERLANCAR: 1
+App-ygeo:
+  PAVELSR: 1
 AppBase-Grep:
   PERLANCAR: 1
 AppBase-Grep-ColorSchemes-Kuler:
@@ -8423,6 +8423,8 @@ Bencher-Scenarios-DataCSel:
 Bencher-Scenarios-DataCSelWrapStruct:
   PERLANCAR: 1
 Bencher-Scenarios-DataCleansing:
+  PERLANCAR: 1
+Bencher-Scenarios-DataComparisonModules:
   PERLANCAR: 1
 Bencher-Scenarios-DataDmp:
   PERLANCAR: 1
@@ -16881,6 +16883,8 @@ CtCmd:
   RATL: 1
 CtrlO-Crypt-XkcdPassword:
   DOMM: 1
+CtrlO-PDF:
+  ABEVERLEY: 1
 Ctype:
   SAMUELL: 1
 Cuckoo-Filter:
@@ -17671,6 +17675,8 @@ DBIx-Connector:
   DWHEELER: 1
 DBIx-Connector-Pool:
   ANTONPETR: 1
+DBIx-Connector-Retry:
+  GSG: 1
 DBIx-ContextualFetch:
   TMTM: 1
 DBIx-Cookbook:
@@ -19216,6 +19222,8 @@ Data-Clone:
   GFUJI: 1
 Data-CloudWeights:
   PJFL: 1
+Data-Cmp:
+  PERLANCAR: 1
 Data-CodeRepos-CommitPing:
   YAPPO: 1
 Data-Collector:
@@ -20967,6 +20975,8 @@ DateTime-Calendar-Mayan:
   JHOBLITT: 1
 DateTime-Calendar-Pataphysical:
   BOOK: 1
+DateTime-Calendar-TauStation:
+  CFRANKS: 1
 DateTime-Calendar-WarwickUniversity:
   DIOCLES: 1
 DateTime-Cron-Simple:
@@ -21149,6 +21159,8 @@ DateTime-Span-Common:
   TBONE: 1
 DateTime-Stringify:
   LBROCARD: 1
+DateTime-TauStation:
+  CFRANKS: 1
 DateTime-TimeZone:
   DROLSKY: 1
 DateTime-TimeZone-Alias:
@@ -22957,8 +22969,10 @@ Dist-Zilla-Plugin-EnsureSQLSchemaVersionedTest:
   PERLANCAR: 1
 Dist-Zilla-Plugin-Extras:
   PERLANCAR: 1
+Dist-Zilla-Plugin-FFI:
+  PLICEASE: 1
 Dist-Zilla-Plugin-FFI-CheckLib:
-  AVENJ: 1
+  PLICEASE: 1
 Dist-Zilla-Plugin-FakeFaker:
   BINGOS: 1
 Dist-Zilla-Plugin-FatPacker:
@@ -25211,6 +25225,8 @@ FCGI-Restarter:
 FCGI-Spawn:
   VERESC: 1
 FFI:
+  PLICEASE: 1
+FFI-Build:
   PLICEASE: 1
 FFI-CheckLib:
   PLICEASE: 1
@@ -32462,6 +32478,8 @@ Image-Size-FillFullSelect:
   VVELOX: 1
 Image-SubImageFind:
   CTRONDLP: 1
+Image-Synchronize:
+  LSTROUS: 1
 Image-Term256Color:
   MOSHEN: 1
 Image-TestJPG:
@@ -44280,8 +44298,6 @@ Net-RBLClient:
   ABLUM: 1
 Net-RCON:
   CHANDWER: 1
-Net-RDAP:
-  GBROWN: 1
 Net-RDEP:
   JMINIERI: 1
 Net-RFC-Search:
@@ -49423,6 +49439,8 @@ PerlX-Assert:
   TOBYINK: 1
 PerlX-AsyncAwait:
   MSTROUT: 1
+PerlX-Define:
+  TOBYINK: 1
 PerlX-Maybe:
   TOBYINK: 1
 PerlX-Maybe-XS:
@@ -53961,8 +53979,6 @@ SQL-Translator-Producer-DBIxSchemaDSL:
   KARUPA: 1
 SQL-Translator-Producer-GoogleBigQuery:
   KARUPA: 1
-SQL-Translator-Producer-GraphQL:
-  ETJ: 1
 SQL-Translator-Producer-PlantUML:
   HIMACHOCO: 1
 SQL-Translator-Producer-Teng:
@@ -57824,6 +57840,8 @@ Task-Plack:
   MIYAGAWA: 1
 Task-Pluggable:
   HAOSAN: 1
+Task-QuadPres:
+  SHLOMIF: 1
 Task-RecycleTrash:
   ADAMK: 1
 Task-SDK-Perigrin:
@@ -70361,6 +70379,8 @@ overload-reify:
   DJERIUS: 1
 overload-substr:
   PEVANS: 1
+overload-x:
+  LNATION: 1
 oxdperl:
   GLUU: 1
 oxdperl_sobhantest:
