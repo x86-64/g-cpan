@@ -4865,6 +4865,8 @@ App-GetoptStdUtils:
   PERLANCAR: 1
 App-Git-Autofixup:
   TORBIAK: 1
+App-Git-Info:
+  SHLOMIF: 1
 App-Git-Ribbon:
   KABLAMO: 1
 App-Git-SitePerl:
@@ -6115,6 +6117,8 @@ App-breakout:
   LIMITUSUS: 1
 App-calendr:
   MANWAR: 1
+App-ccdiff:
+  HMBRAND: 1
 App-cdnget:
   ORKUN: 1
 App-chalk:
@@ -8094,6 +8098,7 @@ Baal-Parser:
   SHOGO: 1
 Babble:
   ALGERNON: 1
+  MSTROUT: 1
 BabelObjects:
   KERMAGO: 1
 BabelObjects-Component-Data-Configurator:
@@ -11986,6 +11991,8 @@ CSS-Watcher:
   OSV: 1
 CSV-HistoryPlayer:
   BINARY: 1
+CSV-Processor:
+  PAVELSR: 1
 CSV-Template:
   STEVAN: 1
 CSVAWK:
@@ -16963,6 +16970,8 @@ D64-File-PRG:
   PAWELKROL: 1
 DAIA:
   VOJ: 1
+DAPNET-API:
+  RUNE: 1
 DAT-TimTen:
   KAAVANNAN: 1
 DB-Appgen:
@@ -19067,6 +19076,8 @@ Dancer2-Session-Redis:
   SYSPETE: 1
 Dancer2-Session-Sereal:
   YANICK: 1
+Dancer2-Template-Alloy:
+  CVLIBRARY: 1
 Dancer2-Template-Caribou:
   YANICK: 1
 Dancer2-Template-HTCompiled:
@@ -21159,8 +21170,6 @@ DateTime-Span-Common:
   TBONE: 1
 DateTime-Stringify:
   LBROCARD: 1
-DateTime-TauStation:
-  CFRANKS: 1
 DateTime-TimeZone:
   DROLSKY: 1
 DateTime-TimeZone-Alias:
@@ -22817,6 +22826,8 @@ Dist-Zilla-Plugin-AutoPrereqsFast:
   LEONT: 1
 Dist-Zilla-Plugin-AutoVersion-Relative:
   KENTNL: 1
+Dist-Zilla-Plugin-Babble:
+  LEONT: 1
 Dist-Zilla-Plugin-Beam-Connector:
   KENTNL: 1
 Dist-Zilla-Plugin-Bencher-Scenario:
@@ -29913,6 +29924,8 @@ HTML-FormFu-MultiForm:
   NIGELM: 1
 HTML-FormFu-Role-JQueryValidation:
   CFRANKS: 1
+HTML-FormFu-TauStation:
+  CFRANKS: 1
 HTML-FormHandler:
   GSHANK: 1
 HTML-FormHandler-Field-Date-Infinite:
@@ -34421,6 +34434,8 @@ Lexical-SealRequireHints:
   ZEFRAM: 1
 Lexical-SingleAssignment:
   NUFFIN: 1
+Lexical-TypeTiny:
+  TOBYINK: 1
 Lexical-Types:
   VPIT: 1
 Lexical-Util:
@@ -40156,7 +40171,7 @@ Mojo-Redis:
 Mojo-Redis-Processor:
   BINARY: 1
 Mojo-Redis2:
-  DBOOK: 1
+  JHTHORSEN: 1
 Mojo-Role:
   DVINCI: 1
 Mojo-RoleTiny:
@@ -41302,6 +41317,8 @@ MooX-SetOnce:
   HAARG: 1
 MooX-ShortHas:
   MITHALDU: 1
+MooX-Should:
+  RRWO: 1
 MooX-Singleton:
   AJGB: 1
 MooX-StrictConstructor:
@@ -43871,7 +43888,7 @@ Net-LPR:
 Net-Laconica:
   HAGGAI: 1
 Net-LastFM:
-  LBROCARD: 1
+  BAERGAJ: 1
 Net-LastFM-Submission:
   SHARIFULN: 1
 Net-Launchpad:
@@ -44298,6 +44315,8 @@ Net-RBLClient:
   ABLUM: 1
 Net-RCON:
   CHANDWER: 1
+Net-RDAP:
+  GBROWN: 1
 Net-RDEP:
   JMINIERI: 1
 Net-RFC-Search:
@@ -46503,6 +46522,8 @@ PDL-NetCDF:
   DHUNT: 1
 PDL-Ngrams:
   MOOCOW: 1
+PDL-Opt-NonLinear:
+  ELLIPSE: 1
 PDL-Opt-QP:
   MGRIMES: 1
 PDL-Parallel-MPI:
@@ -47976,6 +47997,8 @@ Parallel-ForkManager:
   YANICK: 1
 Parallel-ForkManager-Scaled:
   JMCCARV: 1
+Parallel-ForkManager-Segmented:
+  SHLOMIF: 1
 Parallel-Forker:
   WSNYDER: 1
 Parallel-Iterator:
@@ -48788,8 +48811,6 @@ Perinci-Examples-Bin-Classic:
   PERLANCAR: 1
 Perinci-Examples-Bin-Inline:
   PERLANCAR: 1
-Perinci-Examples-Bin-Lite:
-  PERLANCAR: 1
 Perinci-Examples-Config:
   PERLANCAR: 1
 Perinci-Examples-ResMeta-Table:
@@ -49024,6 +49045,8 @@ Perl-Critic-Policy-TryTiny-RequireUse:
   BLUEFEET: 1
 Perl-Critic-Policy-ValuesAndExpressions-PreventSQLInjection:
   AUBERTG: 1
+Perl-Critic-Policy-ValuesAndExpressions-ProhibitEmptyPostfixLoop:
+  XSAWYERX: 1
 Perl-Critic-Policy-ValuesAndExpressions-ProhibitSingleArgArraySlice:
   XSAWYERX: 1
 Perl-Critic-Policy-Variables-ProhibitLoopOnHash:
@@ -50737,6 +50760,8 @@ Pod-ROBODoc:
   MGRIMM: 1
 Pod-Readme:
   RRWO: 1
+Pod-Readme-Brief:
+  ARISTOTLE: 1
 Pod-S5:
   TLINDEN: 1
 Pod-SAX:
@@ -50905,6 +50930,8 @@ Pod-Weaver-PluginBundle-ReplaceBoilerplate:
   SGRAHAM: 1
 Pod-Weaver-PluginBundle-SCHWIGON:
   SCHWIGON: 1
+Pod-Weaver-PluginBundle-SHLOMIF:
+  SHLOMIF: 1
 Pod-Weaver-PluginBundle-TAPPER:
   TAPPER: 1
 Pod-Weaver-Role-AddTextToSection:
@@ -54516,6 +54543,8 @@ SchemaView-Plus:
   MILSO: 1
 School-Code-Compare:
   BORISD: 1
+School-Evaluation-Gibbmers:
+  BORISD: 1
 Scientist:
   LANCEW: 1
 Scope-Cleanup:
@@ -54880,6 +54909,8 @@ Set-Groups:
   JACQUELIN: 1
 Set-Hash:
   DJBERG: 1
+Set-Hash-Keys:
+  VANHOESEL: 1
 Set-Infinite:
   FGLOCK: 1
 Set-IntRange:
@@ -56728,6 +56759,8 @@ Sub-Override:
   OVID: 1
 Sub-Parameters:
   RCLAMP: 1
+Sub-Params:
+  BARNEY: 1
 Sub-PatMat:
   GRUBER: 1
 Sub-PatternMatching:
@@ -57014,6 +57047,8 @@ Syntax-Highlight-WithEmacs:
   ANEI: 1
 Syntax-Kamelon:
   HANJE: 1
+Syntax-Keyword-Dynamically:
+  PEVANS: 1
 Syntax-Keyword-Gather:
   FREW: 1
 Syntax-Keyword-Junction:
@@ -57397,6 +57432,8 @@ TSQL-Common-Regexp:
   DEDMEDVED: 1
 TSQL-SplitStatement:
   DEDMEDVED: 1
+TT2-Play-Area:
+  NEWELLC: 1
 TUWF:
   YORHEL: 1
 TUXEDO:
@@ -59434,8 +59471,6 @@ Test-JSON:
   OVID: 1
 Test-JSON-Entails:
   VOJ: 1
-Test-JSON-Meta:
-  BARBIE: 1
 Test-JSON-More:
   BAYASHI: 1
 Test-JSON-RPC-Autodoc:
@@ -60318,8 +60353,6 @@ Test-XT:
   ADAMK: 1
 Test-YAML:
   TINITA: 1
-Test-YAML-Meta:
-  BARBIE: 1
 Test-YAML-Valid:
   JROCKWAY: 1
 Test-ZeroCopy:
@@ -60653,7 +60686,7 @@ Text-Diff:
 Text-Diff-FormattedHTML:
   AMBS: 1
 Text-Diff-HTML:
-  DWHEELER: 1
+  TIMK: 1
 Text-Diff-Parser:
   GWYN: 1
 Text-Diff-Unified-XS:
@@ -61539,6 +61572,7 @@ Text-WordCounter:
   ZBY: 1
 Text-WordDiff:
   DWHEELER: 1
+  TIMK: 1
 Text-WordDiff-Unified-ANSIColor:
   PERLANCAR: 1
 Text-WordGrams:
@@ -64560,6 +64594,8 @@ WFA-Client:
   QRRY: 1
 WG-API:
   CYNOVG: 1
+WHO-GrowthReference-Table:
+  PERLANCAR: 1
 WJSON:
   LUCAS: 1
 WKHTMLTOPDF:
@@ -66126,6 +66162,8 @@ Weather-Bug:
   GWADEJ: 1
 Weather-Com:
   SCHNUECK: 1
+Weather-Fetch:
+  BRADHEFF: 1
 Weather-Google:
   POSSUM: 1
 Weather-NOAA-Alert:
@@ -67349,6 +67387,8 @@ Win32-Console-ANSI:
   JLMOREL: 1
 Win32-Console-GetC:
   MATTN: 1
+Win32-Console-PatchForRT33513:
+  KUERBIS: 1
 Win32-CryptData:
   LMASARA: 1
 Win32-CtrlGUI:
@@ -68894,7 +68934,7 @@ XML-SemanticCompare:
   EKAWAS: 1
 XML-SemanticDiff:
   KHAMPTON: 1
-  SHLOMIF: 1
+  PERIGRIN: 1
 XML-Sig:
   BYRNE: 1
 XML-Simple:
@@ -70212,7 +70252,6 @@ libvorbis-perl:
 libwww-perl:
   ETHER: 1
   GAAS: 1
-  OALDERS: 1
 libxml-enno:
   ENNO: 1
 libxml-perl:
@@ -70553,6 +70592,8 @@ pip:
   ADAMK: 1
 pkg:
   DJERIUS: 1
+plenigo:
+  PLENIGO: 1
 pler:
   ADAMK: 1
 pluskeys:
