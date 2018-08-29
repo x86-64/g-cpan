@@ -867,6 +867,8 @@ Acme-ExceptionEater:
   KYLE: 1
 Acme-EyeDrops:
   ASAVIGE: 1
+Acme-FIREXFLY-Utils:
+  FIREXFLY: 1
 Acme-Filter-Kenny:
   ALGERNON: 1
 Acme-FixIO:
@@ -1259,6 +1261,8 @@ Acme-MyPeek:
   KEICHNER: 1
 Acme-MySecondModule-SADAMS:
   SADAMS: 1
+Acme-NAHCNUJ-Utils:
+  NAHCNUJ: 1
 Acme-NabeAtzz:
   YAPPO: 1
 Acme-NameGen:
@@ -1989,6 +1993,8 @@ Algorithm-HITS-Lite:
   GUGOD: 1
 Algorithm-Hamming-Perl:
   BDGREGG: 1
+Algorithm-Heapify-XS:
+  YVES: 1
 Algorithm-History-Levels:
   PERLANCAR: 1
 Algorithm-HowSimilar:
@@ -2555,6 +2561,8 @@ Alien-m4:
 Alien-mpg123:
   GETTY: 1
 Alien-nasm:
+  PLICEASE: 1
+Alien-nragent:
   PLICEASE: 1
 Alien-patch:
   PLICEASE: 1
@@ -3285,6 +3293,8 @@ AnyEvent-Watchdog:
   MLEHMANN: 1
 AnyEvent-WebArchive:
   DMITRYNOD: 1
+AnyEvent-WebDriver:
+  MLEHMANN: 1
 AnyEvent-WebService-ImKayac:
   SOH: 1
 AnyEvent-WebService-Notifo:
@@ -5021,6 +5031,8 @@ App-IODUtils:
   PERLANCAR: 1
 App-IPUtils:
   PERLANCAR: 1
+App-ISBNUtils:
+  PERLANCAR: 1
 App-Icli:
   DERF: 1
 App-Ikachan:
@@ -6012,6 +6024,8 @@ App-VirtPerl:
 App-Virtualenv:
   ORKUN: 1
 App-WHMCSUtils:
+  PERLANCAR: 1
+App-WHOGrowthReferenceUtils:
   PERLANCAR: 1
 App-WIoZ:
   YVESAGO: 1
@@ -7152,6 +7166,8 @@ AsposeWordsCloud-WordsApi:
 Assert-Conditional:
   TOMC: 1
 Assert-Refute:
+  KHEDIN: 1
+Assert-Refute-T-Deep:
   KHEDIN: 1
 Asset-File:
   FUKAI: 1
@@ -8479,6 +8495,8 @@ Bencher-Scenarios-IPCRun:
   PERLANCAR: 1
 Bencher-Scenarios-IPManipulation:
   PERLANCAR: 1
+Bencher-Scenarios-ISBN:
+  PERLANCAR: 1
 Bencher-Scenarios-JSONDecodeRegexp:
   PERLANCAR: 1
 Bencher-Scenarios-LanguageExpr:
@@ -9139,6 +9157,8 @@ Boost-Geometry-Utils:
   AAR: 1
 Boost-Graph:
   DBURDICK: 1
+Boost-UUID:
+  ADDICT: 1
 Bootylicious:
   OLEG: 1
 Bootylicious-Plugin-AjaxLibLoader:
@@ -17120,6 +17140,8 @@ DBD-SQLAnywhere:
   SMIRNIOS: 1
 DBD-SQLcipher:
   TGASIBA: 1
+DBD-SQLeet:
+  DDMITOV: 1
 DBD-SQLite:
   ISHIGAKI: 1
 DBD-SQLite-Amalgamation:
@@ -17942,7 +17964,7 @@ DBIx-Perform:
   BKCHAPIN: 1
   WEAV: 1
 DBIx-Perlish:
-  GRUBER: 1
+  KARASIK: 1
 DBIx-Pg-CallFunction:
   JOELJAC: 1
 DBIx-PgCoroAnyEvent:
@@ -23771,6 +23793,8 @@ Dist-Zilla-PluginBundle-PDONELAN:
   PDONELAN: 1
 Dist-Zilla-PluginBundle-Prereqs:
   BBYRD: 1
+Dist-Zilla-PluginBundle-QBit:
+  MADSKILL: 1
 Dist-Zilla-PluginBundle-RBO:
   RBO: 1
 Dist-Zilla-PluginBundle-RBUELS:
@@ -25785,6 +25809,8 @@ File-Format-RIFF:
   STURM: 1
 File-Fu:
   EWILHELM: 1
+File-Generator:
+  LSKATZ: 1
 File-GetLineMaxLength:
   ROBM: 1
 File-Gettext:
@@ -28049,6 +28075,8 @@ Geo-Cartogram:
   LFAGUNDES: 1
 Geo-Cloudmade:
   GDM: 1
+Geo-Code:
+  ERUCI: 1
 Geo-Coder-All:
   RAIGAD: 1
 Geo-Coder-ArcGIS:
@@ -33502,6 +33530,8 @@ Keyword-DEVELOPMENT:
   OVID: 1
 Keyword-Declare:
   DCONWAY: 1
+Keyword-Pluggable:
+  KARASIK: 1
 Keyword-Simple:
   MAUKE: 1
 Keyword-TreeFold:
@@ -35670,6 +35700,8 @@ List-Tuples:
   NKH: 1
 List-Uniq:
   JFITZ: 1
+List-Unique-DeterministicOrder:
+  SLAFFAN: 1
 List-Util-ArrayRef-PP:
   PERLANCAR: 1
 List-Util-MaybeXS:
@@ -43251,6 +43283,8 @@ Net-Domain-TMCH:
   MARKOV: 1
 Net-Dopplr:
   SIMONW: 1
+Net-Doveadm:
+  FELIPE: 1
 Net-Download-Queue:
   JOHANL: 1
 Net-Download-XMLScripted-XMLScripted:
@@ -45247,6 +45281,8 @@ Neuron:
   YKOSTYLEV: 1
 NewRelic-Agent:
   TIMB: 1
+NewRelic-Agent-FFI:
+  PLICEASE: 1
 News-Archive:
   TSKIRVIN: 1
 News-Article:
@@ -50932,6 +50968,8 @@ Pod-Weaver-PluginBundle-SCHWIGON:
   SCHWIGON: 1
 Pod-Weaver-PluginBundle-SHLOMIF:
   SHLOMIF: 1
+Pod-Weaver-PluginBundle-SLOYD:
+  SLOYD: 1
 Pod-Weaver-PluginBundle-TAPPER:
   TAPPER: 1
 Pod-Weaver-Role-AddTextToSection:
@@ -54343,11 +54381,15 @@ Sah-Schemas-Date:
   PERLANCAR: 1
 Sah-Schemas-DefHash:
   PERLANCAR: 1
+Sah-Schemas-EAN:
+  PERLANCAR: 1
 Sah-Schemas-Email:
   PERLANCAR: 1
 Sah-Schemas-Examples:
   PERLANCAR: 1
 Sah-Schemas-Float:
+  PERLANCAR: 1
+Sah-Schemas-ISBN:
   PERLANCAR: 1
 Sah-Schemas-Int:
   PERLANCAR: 1
@@ -54845,6 +54887,8 @@ Serengeti:
   CLAESJAC: 1
 Serge:
   AFAN: 1
+Serge-Sync-Plugin-TranslationService-crowdin:
+  DRAGOSV: 1
 Serge-Sync-Plugin-TranslationService-mojito:
   DRAGOSV: 1
 Serge-Sync-Plugin-TranslationService-phraseapp:
@@ -58835,8 +58879,6 @@ Term-Size-Perl:
   FERREIRA: 1
 Term-Size-ReadKey:
   FERREIRA: 1
-Term-Size-Unix:
-  FERREIRA: 1
 Term-Sk:
   KEICHNER: 1
 Term-Slang:
@@ -62640,7 +62682,7 @@ Time-Vector:
 Time-Verbal:
   GUGOD: 1
 Time-Warp:
-  SZABGAB: 1
+  MANWAR: 1
 Time-WorkHours:
   JKUTEJ: 1
 Time-Zone-Olson:
@@ -65148,8 +65190,6 @@ WWW-KrispyKreme-HotLight:
   CURTIS: 1
 WWW-LEO:
   ZIEFLE: 1
-WWW-LaQuinta-Returns:
-  AQUILINA: 1
 WWW-LargeFileFetcher:
   JZHANG: 1
 WWW-Leech-Parser:
@@ -66000,8 +66040,6 @@ WWW-VieDeMerde:
   IDERRICK: 1
 WWW-Vimeo-Download:
   HERNAN: 1
-WWW-VirtualPBX:
-  AQUILINA: 1
 WWW-Virull:
   JOHND: 1
 WWW-WCAP:
@@ -66805,6 +66843,8 @@ WebService-Mirth:
   TSTANTON: 1
 WebService-MobileMe:
   MIKEGRB: 1
+WebService-Mocean:
+  KIANMENG: 1
 WebService-Mojang-Minecraft-UUIDLookup:
   BIGPRESH: 1
 WebService-Moodle-Simple:
@@ -70183,6 +70223,8 @@ lib-abs:
   MONS: 1
 lib-absolute:
   GETTY: 1
+lib-archive:
+  TOMK: 1
 lib-byversion:
   KENTNL: 1
 lib-deep:
@@ -70352,6 +70394,8 @@ namespace-clean-xs:
   RANDIR: 1
 namespace-functions:
   DEXTER: 1
+namespace-local:
+  KHEDIN: 1
 namespace-sweep:
   FRIEDO: 1
 net-lastfmapi:
