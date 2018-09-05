@@ -2552,6 +2552,8 @@ Alien-libtool:
   PLICEASE: 1
 Alien-libudev:
   ATHREEF: 1
+Alien-libuuid:
+  PLICEASE: 1
 Alien-libuv:
   CAPOEIRAB: 1
 Alien-libvas:
@@ -2842,6 +2844,8 @@ Angle-Omega:
   MSPERL: 1
 Aniki:
   KARUPA: 1
+Anki-Import:
+  STEVIED: 1
 Annelidous-snapshot:
   EWINDISCH: 1
 AnnoCPAN:
@@ -8139,8 +8143,6 @@ Backticks:
   KILNA: 1
 Backup-Duplicity-YADW:
   GRAVATTJ: 1
-Backup-EZ:
-  GRAVATTJ: 1
 Backup-Hanoi:
   BORISD: 1
 Backup-Omni:
@@ -8348,6 +8350,8 @@ Bencher-Scenario-MemoryInfo:
 Bencher-Scenario-ModuleInstalledTiny:
   PERLANCAR: 1
 Bencher-Scenario-ModulePathMore:
+  PERLANCAR: 1
+Bencher-Scenario-NormalRandom:
   PERLANCAR: 1
 Bencher-Scenario-Nums2WordsModules:
   PERLANCAR: 1
@@ -9077,6 +9081,8 @@ Bit-MorseSignals:
   VPIT: 1
 Bit-ShiftReg:
   STBEY: 1
+Bit-Twiddling:
+  BRIANG: 1
 Bit-Util:
   SALVA: 1
 Bit-Vector:
@@ -24125,6 +24131,8 @@ ELF-Extract-Sections:
   KENTNL: 1
 ELF-Writer:
   NERDVANA: 1
+ELF-sign:
+  PRIVI: 1
 ELFF-Parser:
   MWARREN: 1
 EMC-WideSky-symmaskdb:
@@ -27181,6 +27189,8 @@ Function-Parameters:
   MAUKE: 1
 Function-Register:
   CWEST: 1
+Function-Return:
+  KFLY: 1
 Function_ID:
   ROODE: 1
 Functional-Iterator:
@@ -27482,6 +27492,8 @@ Game-Asset-SDLSound:
   TMURRAY: 1
 Game-Battleship:
   GENE: 1
+Game-DijkstraMap:
+  JMATES: 1
 Game-Life:
   LTP: 1
 Game-Life-Infinite-Board:
@@ -43170,7 +43182,7 @@ Net-DNS-Resolver-Mock:
 Net-DNS-Resolver-Programmable:
   BIGPRESH: 1
 Net-DNS-SEC:
-  NLNETLABS: 1
+  WILLEM: 1
 Net-DNS-SEC-Validator:
   GSM: 1
 Net-DNS-SPF-Expander:
@@ -43183,8 +43195,6 @@ Net-DNS-Utility:
   JJMB: 1
 Net-DNS-ValueDomain-DDNS:
   TYPESTER: 1
-Net-DNS-Zone-Parser:
-  OLAF: 1
 Net-DNS-ZoneFile-Fast:
   HARDAKER: 1
 Net-DNS-ZoneParse:
@@ -52465,7 +52475,7 @@ RT-Extension-NotifyOwners:
 RT-Extension-OneClickClose:
   HOFSTETTM: 1
 RT-Extension-OneTimeTo:
-  ALEXMV: 1
+  BPS: 1
 RT-Extension-ParentTimeWorked:
   ALEXMV: 1
 RT-Extension-PermissiveHTMLMail:
@@ -53134,6 +53144,8 @@ RenderMan:
   GMLEWIS: 1
 RepRoot:
   ODIGITY: 1
+Repetition-Interval:
+  MALLEN: 1
 Repl-Loop:
   BRANSCHA: 1
 ReplaceMultiple:
@@ -54038,6 +54050,8 @@ SQL-Tokenizer:
   IZUT: 1
 SQL-Translator:
   ILMARI: 1
+SQL-Translator-Parser-OpenAPI:
+  ETJ: 1
 SQL-Translator-Producer-DBIx-Class-File-Simple:
   DONGYI: 1
 SQL-Translator-Producer-DBIxSchemaDSL:
@@ -59463,6 +59477,8 @@ Test-Harness:
   OVID: 1
 Test-Harness-FileFilter:
   CLAESJAC: 1
+Test-Harness-KS:
+  KIVILAHTI: 1
 Test-Harness-Straps:
   MSCHWERN: 1
 Test-HasVersion:
@@ -63544,6 +63560,8 @@ Types-Numbers:
   BBYRD: 1
 Types-PDL:
   DJERIUS: 1
+Types-PGPLOT:
+  DJERIUS: 1
 Types-Path-Tiny:
   DAGOLDEN: 1
 Types-PerlVersion:
@@ -63996,6 +64014,8 @@ Unicode-Fraction:
   RJH: 1
 Unicode-Homoglyph:
   PERLANCAR: 1
+Unicode-Homoglyph-Replace:
+  BIGPRESH: 1
 Unicode-ICU-Collator:
   TONYC: 1
 Unicode-Indic:
@@ -64950,6 +64970,8 @@ WWW-DuckDuckGo:
   MOOLLAZA: 1
 WWW-EFA:
   RCL: 1
+WWW-ELISA:
+  VPEIL: 1
 WWW-EZTV:
   DIEGOK: 1
 WWW-Ebay:
@@ -69301,7 +69323,7 @@ YAML-Full:
 YAML-Hobo:
   FERREIRA: 1
 YAML-LibYAML:
-  TINITA: 1
+  INGY: 1
 YAML-LoadBundle:
   GSG: 1
 YAML-LoadFileCached:
@@ -69899,6 +69921,8 @@ dclpod-html:
   PVHP: 1
 ddb:
   BRUMLEVE: 1
+decorators:
+  STEVAN: 1
 deferred:
   DGL: 1
 define:
@@ -70394,6 +70418,8 @@ namespace-clean-xs:
   RANDIR: 1
 namespace-functions:
   DEXTER: 1
+namespace-lexical:
+  TOBYINK: 1
 namespace-local:
   KHEDIN: 1
 namespace-sweep:
