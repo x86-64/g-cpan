@@ -61,7 +61,6 @@ ignore:
   Agent: 'unknown version style: 3.01g 3.20'
   Akado-Account: 'mixed version style: 0.01 0.02 0.03 1.0.0 1.1.0 1.2.0'
   Algorithm-Damm: 'mixed version style: 1.000 1.001 1.001.002'
-  Algorithm-Diff: 'unknown version style: 1.10 1.11a 1.15 1.1901 1.1902 1.1903'
   Algorithm-Evolutionary-Simple: 'mixed version style: 0.1.1 0.1.2 0.2 0.3 0.0.3.1 0.0.4 0.0.5'
   Algorithm-Evolutionary-Utils: 'mixed version style: 3.403 4.00.00'
   Algorithm-FloodControl: 'incorrect float version: 1.97 1.970000 1.98 1.990000 2.000000 2.001000'
