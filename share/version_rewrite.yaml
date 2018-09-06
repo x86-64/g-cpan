@@ -124,5 +124,5 @@ rewrite:
      '2015.12': ~
      '2016.003': ~
      '2017.004': ~
-   'Algorithm-Diff':
+  'Algorithm-Diff':
      '1.11a': ~
