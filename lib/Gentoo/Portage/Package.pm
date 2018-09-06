@@ -64,11 +64,14 @@ sub dependencies {
 			$self->{dependencies}->{$type} = [
 				sort { $a->ebuild cmp $b->ebuild }
 				grep { my $r = not defined $uniq->{$_->ebuild}; $uniq->{$_->ebuild} = 1; $r }
+				grep { defined }
 				map {
-					Gentoo::Portage::Package->from_cpan({
+					my $p = Gentoo::Portage::Package->from_cpan({
 						parent      => $self->parent,
 						cpan_object => $_,
-					})
+					});
+					warn "no package for ".$_->name if not $p;
+					$p; 
 				}
 				@$deps_curr
 			];

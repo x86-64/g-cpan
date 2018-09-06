@@ -101,3 +101,5 @@ rewrite:
      '0.007': ~
   'Net-SugarCRM':
      '2.20469': ~
+  'Unicode-LineBreak':
+     '2015.07.16': ~
