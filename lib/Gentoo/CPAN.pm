@@ -231,6 +231,7 @@ sub unpackModule {
     # is a Build.PL file
     if ( -f "Build.PL" ) {
         $self->{'cpan'}{ lc($module_name) }{'depends'}{"Module::Build"} = '0';
+        $self->{'cpan'}{ lc($module_name) }{'depends_full'}{build_requires}{"Module::Build"} = '0';
     }
 
     # Final measure - if somehow we got an undef along the way, set to 0
@@ -408,6 +409,8 @@ sub FindDeps {
                                     next if (lc($module_name) eq lc($module));
                                     $self->{'cpan'}{ lc($module_name) }
                                       {'depends'}{$module} = $version;
+                                    $self->{'cpan'}{ lc($module_name) }
+                                      {'depends_full'}{$type}{$module} = $version;
                                 }
                                 elsif ($pa) {
                                     my ( $module, $version ) = split( /=>/, $pa );
