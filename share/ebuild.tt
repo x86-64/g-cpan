@@ -5,11 +5,10 @@
 EAPI=6
 
 DIST_AUTHOR="[% c.author %]"
-DIST_VERSION="[% c.version.replace('^v','') %]"
-DIST_A="[% c.src_filename %]"
-[%- b = c.author.substr(0,1) _ "/" _ c.author.substr(0,2) _ "/" _ c.author _ "/" _ c.src_filename %]
+DIST_VERSION="[% c.package_version %]"
+[%- b = c.author.substr(0,1) _ "/" _ c.author.substr(0,2) _ "/" _ c.author _ "/" _ c.package_name _ "-" _ c.package_version _ "." _ c.extension %]
 [%- IF b != c.src_uri %]
-SRC_URI="mirror://cpan/authors/id/[% c.src_uri %]"
+SRC_URI="mirror://cpan/authors/id/[% c.src_uri %] -> [% c.package_name %]-[% c.package_version %].[% c.extension %]"
 [%- END %]
 inherit perl-module
 
@@ -40,3 +39,11 @@ DEPEND="
 	)
 [%- END %]
 "
+
+[%- IF b != c.src_uri %]
+src_unpack(){
+        unpack ${A}
+        mv ${WORKDIR}/[% c.src_filename.replace('\.' _ c.extension _ '$','') %] ${WORKDIR}/[% c.package_name %]-[% c.package_version %]
+}
+
+[%- END %]
