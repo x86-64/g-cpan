@@ -6,6 +6,9 @@ EAPI=6
 
 DIST_AUTHOR="[% c.author %]"
 DIST_VERSION="[% c.package_version %]"
+[%- IF c.extension != "tar.gz" %]
+DIST_A_EXT="[% c.extension %]"
+[%- END %] 
 [%- b = c.author.substr(0,1) _ "/" _ c.author.substr(0,2) _ "/" _ c.author _ "/" _ c.package_name _ "-" _ c.package_version _ "." _ c.extension %]
 [%- IF b != c.src_uri %]
 SRC_URI="mirror://cpan/authors/id/[% c.src_uri %] -> [% c.package_name %]-[% c.package_version %].[% c.extension %]"
