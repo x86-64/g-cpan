@@ -229,7 +229,7 @@ sub unpackModule {
 
     # Most modules don't list module-build as a dep - so we force it if there
     # is a Build.PL file
-    if ( -f "Build.PL" ) {
+    if ( -f "$tmp_dir/Build.PL" ) {
         $self->{'cpan'}{ lc($module_name) }{'depends'}{"Module::Build"} = '0';
         $self->{'cpan'}{ lc($module_name) }{'depends_full'}{build_requires}{"Module::Build"} = '0';
     }
