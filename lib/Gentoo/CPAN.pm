@@ -146,7 +146,7 @@ sub getCPANInfo {
         return $desc;
     }
     $self->{'cpan'}{ lc($find_module) }{'description'} =
-      $mod->{RO}{'description'} || manpage_title($mod, $find_module) || "No description available";
+      $mod->{RO}{'description'} || eval { manpage_title($mod, $find_module) } || "No description available";
     $self->{'cpan'}{ lc($find_module) }{'src_uri'} = $mod->{RO}{'CPAN_FILE'} || $find_module;
     $self->{'cpan'}{ lc($find_module) }{'name'}    = $mod->id;
     $self->{'cpan'}{ lc($find_module) }{'version'} = $mod->{RO}{'CPAN_VERSION'}
