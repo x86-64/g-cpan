@@ -4550,6 +4550,8 @@ App-Cinema:
   SMAN: 1
 App-Cleo:
   THALJEF: 1
+App-Cleo-Patra:
+  BORISD: 1
 App-ClusterSSH:
   DUNCS: 1
 App-Cmd:
@@ -5027,6 +5029,8 @@ App-HistHub:
   TYPESTER: 1
 App-I18N:
   CORNELIUS: 1
+App-IDXUtils:
+  PERLANCAR: 1
 App-IMDBtop:
   MGV: 1
 App-INIUtils:
@@ -5087,6 +5091,8 @@ App-Jiffy:
   LJR: 1
 App-JobLog:
   DFH: 1
+App-JsonLogUtils:
+  JEFFOBER: 1
 App-Jup:
   ADAMJS: 1
 App-KGB:
@@ -6153,6 +6159,8 @@ App-cointoss:
   TULAMILI: 1
 App-colorplus:
   TULAMILI: 1
+App-colorxform:
+  PERLANCAR: 1
 App-colourhexdump:
   KENTNL: 1
 App-combinesheets:
@@ -6293,6 +6301,10 @@ App-find2perl:
   LEONT: 1
 App-finddo:
   PERLANCAR: 1
+App-finquote:
+  PERLANCAR: 1
+App-finquotehist:
+  PERLANCAR: 1
 App-freqtable:
   PERLANCAR: 1
 App-fsql:
@@ -6365,6 +6377,8 @@ App-iosdiff:
   OLIVER: 1
 App-isbn:
   PERLANCAR: 1
+App-japerl:
+  INA: 1
 App-jpath:
   PERLANCAR: 1
 App-jsonschema:
@@ -6505,6 +6519,8 @@ App-norepeat:
   PERLANCAR: 1
 App-np05bctl:
   TTKCIAR: 1
+App-nrand:
+  PERLANCAR: 1
 App-nrun:
   TBENK: 1
 App-numspeed:
@@ -8913,6 +8929,8 @@ Bio-NEXUS:
   TJHLADISH: 1
 Bio-NEXUS-Import:
   LIMAONE: 1
+Bio-NeXMLIO:
+  CJFIELDS: 1
 Bio-Oxbench:
   WALSHTP: 1
 Bio-PDB-Structure:
@@ -12298,7 +12316,7 @@ Carmel:
 Caroline:
   TOKUHIROM: 1
 Carp:
-  RJBS: 1
+  XSAWYERX: 1
 Carp-Always:
   FERREIRA: 1
 Carp-Always-Color:
@@ -19618,6 +19636,8 @@ Data-Google-Visualization-DataTable:
   SARGIE: 1
 Data-Graph-Util:
   PERLANCAR: 1
+Data-Grid:
+  DORIAN: 1
 Data-Grouper:
   FERRANCE: 1
 Data-HAL:
@@ -24355,6 +24375,8 @@ Email-Address-List:
   ALEXMV: 1
 Email-Address-Loose:
   TOMITA: 1
+Email-Address-UseXS:
+  TEAM: 1
 Email-Address-XS:
   PALI: 1
 Email-AddressParser:
@@ -26835,6 +26857,12 @@ Finance-RawMaterialPrice:
   SDRFNORD: 1
 Finance-Robinhood:
   SANKO: 1
+Finance-SE-IDX:
+  PERLANCAR: 1
+Finance-SE-IDX-Any:
+  PERLANCAR: 1
+Finance-SE-IDX-Static:
+  PERLANCAR: 1
 Finance-SE-OMX:
   SCATO: 1
 Finance-StockAccount:
@@ -31392,6 +31420,8 @@ Hessian-Tiny:
   DUL: 1
 Hessian-Translator:
   HEYTRAV: 1
+Hetula-Client:
+  KIVILAHTI: 1
 Hex-Record:
   SPEBERN: 1
 Hey-Cache:
@@ -39339,6 +39369,8 @@ Migraine:
   OPERA: 1
 MikroTik-API:
   MARTINGO: 1
+MikroTik-Client:
+  ANPARKER: 1
 Mildew:
   PMURIAS: 1
 Mildew-Setting-SMOP:
@@ -40196,6 +40228,8 @@ Mojo-Phantom:
   JBERGER: 1
 Mojo-Promise-Role-Futurify:
   DBOOK: 1
+Mojo-Promise-Role-HigherOrder:
+  BDFOY: 1
 Mojo-Pua:
   ALEXBYK: 1
 Mojo-RabbitMQ-Client:
@@ -40673,6 +40707,8 @@ Mojolicious-Plugin-FormValidator:
   BPMEDLEY: 1
 Mojolicious-Plugin-FormValidatorLazy:
   JAMADAM: 1
+Mojolicious-Plugin-ForwardedFor:
+  DBOOK: 1
 Mojolicious-Plugin-Future:
   DBOOK: 1
 Mojolicious-Plugin-Geo:
@@ -43551,7 +43587,7 @@ Net-Geohash:
 Net-GitHub:
   FAYLAND: 1
 Net-Gitlab:
-  AYOUNG: 1
+  BLUEFEET: 1
 Net-Gmail-IMAP-Label:
   ZMUGHAL: 1
 Net-Gnats:
@@ -44167,6 +44203,8 @@ Net-OTServ:
   ATHREEF: 1
 Net-OmaDrm:
   MOBILEART: 1
+Net-OneSky:
+  ERIKOGAN: 1
 Net-OneTimeSecret:
   KYLED: 1
 Net-OnlineCode:
@@ -46206,6 +46244,8 @@ OrePAN:
   TOKUHIROM: 1
 OrePAN2:
   OALDERS: 1
+OrePAN2-Indexer-Tiny:
+  AKIYM: 1
 OrePAN2-Server:
   HIROBANEX: 1
 Org-Parser:
@@ -48922,6 +48962,8 @@ Perinci-Sub-Gen:
 Perinci-Sub-Gen-AccessTable:
   PERLANCAR: 1
 Perinci-Sub-Gen-AccessTable-DBI:
+  PERLANCAR: 1
+Perinci-Sub-Gen-AccessTable-Simple:
   PERLANCAR: 1
 Perinci-Sub-Gen-FromClass:
   PERLANCAR: 1
@@ -59975,6 +60017,8 @@ Test-Refcount:
   PEVANS: 1
 Test-Regexp:
   ABIGAIL: 1
+Test-Regexp-Pattern:
+  PERLANCAR: 1
 Test-Regression:
   MITHALDU: 1
 Test-Reporter:
@@ -66841,6 +66885,8 @@ WebService-MCBouncer:
   BIGPRESH: 1
 WebService-MES:
   PHRED: 1
+WebService-MIAB:
+  MINATI: 1
 WebService-MODIS:
   STEINKAMP: 1
 WebService-Mackerel:
