@@ -1737,6 +1737,8 @@ Acme-ZeroWidth:
   VTI: 1
 Acme-constant:
   GLITCHMR: 1
+Acme-covfefe:
+  CAVAC: 1
 Acme-ctreptow:
   CTREPTOW: 1
 Acme-dwcarder:
@@ -2208,6 +2210,8 @@ Alien-AntTweakBar:
   DMOL: 1
 Alien-Autotools:
   PLICEASE: 1
+Alien-BCM2835:
+  STRO: 1
 Alien-BWIPP:
   MCNEWTON: 1
 Alien-Base-ModuleBuild:
@@ -4654,6 +4658,8 @@ App-DateUtils:
   PERLANCAR: 1
 App-Dependencio:
   JIPIPAYO: 1
+App-Deps-Verify:
+  SHLOMIF: 1
 App-Dest:
   GRYPHON: 1
 App-Devbot:
@@ -4883,6 +4889,10 @@ App-Git-Autofixup:
   TORBIAK: 1
 App-Git-Info:
   SHLOMIF: 1
+App-Git-IssueManager:
+  BYTERAZOR: 1
+App-Git-IssueManager-SyncJira:
+  BYTERAZOR: 1
 App-Git-Ribbon:
   KABLAMO: 1
 App-Git-SitePerl:
@@ -6369,6 +6379,8 @@ App-indodax:
   PERLANCAR: 1
 App-installdeps:
   YAKEX: 1
+App-instopt:
+  PERLANCAR: 1
 App-intrunningsum:
   SHLOMIF: 1
 App-intsum:
@@ -6393,6 +6405,8 @@ App-lcpan:
   PERLANCAR: 1
 App-lcpan-Call:
   PERLANCAR: 1
+App-lcpan-CmdBundle-backpan:
+  PERLANCAR: 1
 App-lcpan-CmdBundle-bencher:
   PERLANCAR: 1
 App-lcpan-CmdBundle-bugs:
@@ -6402,6 +6416,8 @@ App-lcpan-CmdBundle-core_or_pp:
 App-lcpan-CmdBundle-cpanlists:
   PERLANCAR: 1
 App-lcpan-CmdBundle-cpanratings:
+  PERLANCAR: 1
+App-lcpan-CmdBundle-cpantesters:
   PERLANCAR: 1
 App-lcpan-CmdBundle-debian:
   PERLANCAR: 1
@@ -6729,6 +6745,8 @@ App-subsort:
   PERLANCAR: 1
 App-summ:
   PERLANCAR: 1
+App-swcat:
+  PERLANCAR: 1
 App-sync_cpantesters:
   MARCEL: 1
 App-t1generate:
@@ -6783,6 +6801,8 @@ App-used:
   IVANWILLS: 1
 App-vaporcalc:
   AVENJ: 1
+App-vl:
+  BAYASHI: 1
 App-watchdo:
   IVANWILLS: 1
 App-watcher:
@@ -8572,6 +8592,8 @@ Bencher-Scenarios-SPVM:
 Bencher-Scenarios-ShellGuess:
   PERLANCAR: 1
 Bencher-Scenarios-SortSub:
+  PERLANCAR: 1
+Bencher-Scenarios-StringFunctions:
   PERLANCAR: 1
 Bencher-Scenarios-TextANSIUtil:
   PERLANCAR: 1
@@ -17225,6 +17247,7 @@ DBD-monetdb:
   SGOELDNER: 1
 DBD-mysql:
   CAPTTOFU: 1
+  MICHIELB: 1
 DBD-mysql-AutoTypes:
   GRISHACE: 1
 DBD-mysql-SimpleMySQL:
@@ -18299,6 +18322,8 @@ DDLock-Server:
   HACHI: 1
 DFA-Kleene:
   STBEY: 1
+DFA-Simple:
+  ASB: 1
 DFA-Statemap:
   PERRAD: 1
 DFS-Perl:
@@ -23606,6 +23631,8 @@ Dist-Zilla-Plugin-WordList:
   PERLANCAR: 1
 Dist-Zilla-Plugin-WordListC:
   PERLANCAR: 1
+Dist-Zilla-Plugin-WriteVersion:
+  KIVILAHTI: 1
 Dist-Zilla-Plugin-XSVersion:
   JEFFOBER: 1
 Dist-Zilla-Plugin-if:
@@ -28843,6 +28870,8 @@ Git-Hooks-PerlCritic:
   MIKKOI: 1
 Git-Hooks-RubyNoDebugger:
   SHAW: 1
+Git-IssueManager:
+  BYTERAZOR: 1
 Git-LowLevel:
   BYTERAZOR: 1
 Git-Mailmap:
@@ -36377,6 +36406,8 @@ Log-AndError:
 Log-Any:
   JSWARTZ: 1
   PREACTION: 1
+Log-Any-Adapter-Apache2:
+  IVANYCH: 1
 Log-Any-Adapter-Callback:
   SHARYANTO: 1
 Log-Any-Adapter-Carp:
@@ -37088,6 +37119,7 @@ MDK-Common:
   TVIGNAUD: 1
 MDV-Distribconf:
   NANARDON: 1
+  TVIGNAUD: 1
 MDV-Packdrakeng:
   NANARDON: 1
 MDV-Repsys:
@@ -46240,6 +46272,8 @@ Oracle-ZFSSA-Client:
   WHINDS: 1
 Oraperl:
   PYTHIAN: 1
+Ordeal-Model:
+  POLETTIX: 1
 OrePAN:
   TOKUHIROM: 1
 OrePAN2:
@@ -49316,6 +49350,8 @@ Perl6-Bible:
   LICHTKIND: 1
 Perl6-Binding:
   KVAIL: 1
+Perl6-Build:
+  SKAJI: 1
 Perl6-Builtins:
   DCONWAY: 1
 Perl6-Caller:
@@ -53378,6 +53414,8 @@ Role-Identifiable:
   RJBS: 1
 Role-Inspector:
   TOBYINK: 1
+Role-Kerberos:
+  DORIAN: 1
 Role-LibXSLT-Extender:
   KHAMPTON: 1
 Role-Log-Syslog-Fast:
@@ -54462,6 +54500,8 @@ Sah-Schemas-Riap:
 Sah-Schemas-Rinci:
   PERLANCAR: 1
 Sah-Schemas-Sah:
+  PERLANCAR: 1
+Sah-Schemas-Software:
   PERLANCAR: 1
 Sah-Schemas-Twitter:
   PERLANCAR: 1
@@ -55963,6 +56003,8 @@ Stack-Persistent:
   KESTEB: 1
 StackTrace-HiPerf:
   JDV: 1
+StackTrace-Pretty:
+  EGAWATA: 1
 Stackato-Stackrad:
   INGY: 1
 Stacktrace-Configurable:
@@ -61346,6 +61388,8 @@ Text-RewriteRules:
   AMBS: 1
 Text-Roman:
   SYP: 1
+Text-SRT-Align:
+  TIEDEMANN: 1
 Text-Same:
   KIM: 1
 Text-Sass:
