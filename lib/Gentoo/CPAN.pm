@@ -244,6 +244,10 @@ sub unpackModule {
         {
             $self->{'cpan'}{ lc($module_name) }{'depends'}{$dep} = "0";
         }
+        if(lc($dep) eq lc("ExtUtils::MakeMaker")){
+            $self->{'cpan'}{ lc($module_name) }{'depends'}{$dep} = "0";
+            $self->{'cpan'}{ lc($module_name) }{'depends_full'}{$dep} = "0";
+	}
     }
     return ($self);
 }
