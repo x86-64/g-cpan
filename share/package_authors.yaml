@@ -625,82 +625,6 @@ Acme-CPANAuthors-Ukrainian:
   SHARIFULN: 1
 Acme-CPANAuthors-You-re_using:
   VPIT: 1
-Acme-CPANLists:
-  PERLANCAR: 1
-Acme-CPANLists-CryptoExchange:
-  PERLANCAR: 1
-Acme-CPANLists-Import:
-  PERLANCAR: 1
-Acme-CPANLists-Import-BKB:
-  PERLANCAR: 1
-Acme-CPANLists-Import-NEILB:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PERLANCAR-Advent-2014:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PERLANCAR-GetoptModules:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlAdvent-2000:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlAdvent-2001:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlAdvent-2002:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlAdvent-2003:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlAdvent-2004:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlAdvent-2005:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlAdvent-2006:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlAdvent-2007:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlAdvent-2008:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlAdvent-2009:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlAdvent-2010:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlAdvent-2011:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlAdvent-2012:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlAdvent-2013:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlAdvent-2014:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlAdvent-2015:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlAdvent-2016:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlAdvent-2017:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlDancerAdvent-2010:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlDancerAdvent-2011:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlDancerAdvent-2012:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlDancerAdvent-2014:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlDancerAdvent-2016:
-  PERLANCAR: 1
-Acme-CPANLists-Import-PerlTricks:
-  PERLANCAR: 1
-Acme-CPANLists-Import-RSAVAGE:
-  PERLANCAR: 1
-Acme-CPANLists-Import-SHARYANTO:
-  PERLANCAR: 1
-Acme-CPANLists-PERLANCAR:
-  PERLANCAR: 1
-Acme-CPANLists-PERLANCAR-FooThis:
-  PERLANCAR: 1
-Acme-CPANLists-PERLANCAR-Self:
-  PERLANCAR: 1
-Acme-CPANLists-PERLANCAR-Temp-Plus:
-  PERLANCAR: 1
-Acme-CPANLists-PERLANCAR-Test:
-  PERLANCAR: 1
 Acme-CPANModules:
   PERLANCAR: 1
 Acme-CPANModules-BloomFilters:
@@ -715,13 +639,77 @@ Acme-CPANModules-Import-CPANRatings-User-perlancar:
   PERLANCAR: 1
 Acme-CPANModules-Import-CPANRatings-User-stevenharyanto:
   PERLANCAR: 1
+Acme-CPANModules-PERLANCAR-Temp-Plus:
+  PERLANCAR: 1
 Acme-CPANModules-PortedFrom-NPM:
   PERLANCAR: 1
 Acme-CPANModules-fgets:
   PERLANCAR: 1
+Acme-CPANModulesBundle-Import:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-BKB:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-NEILB:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PERLANCAR-Advent-2014:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PERLANCAR-GetoptModules:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlAdvent-2000:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlAdvent-2001:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlAdvent-2002:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlAdvent-2003:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlAdvent-2004:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlAdvent-2005:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlAdvent-2006:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlAdvent-2007:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlAdvent-2008:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlAdvent-2009:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlAdvent-2010:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlAdvent-2011:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlAdvent-2012:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlAdvent-2013:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlAdvent-2014:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlAdvent-2015:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlAdvent-2016:
+  PERLANCAR: 1
 Acme-CPANModulesBundle-Import-PerlAdvent-2017:
   PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlDancerAdvent-2010:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlDancerAdvent-2011:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlDancerAdvent-2012:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlDancerAdvent-2014:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlDancerAdvent-2016:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-PerlTricks:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-RSAVAGE:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-Import-SHARYANTO:
+  PERLANCAR: 1
 Acme-CPANModulesBundle-PERLANCAR:
+  PERLANCAR: 1
+Acme-CPANModulesBundle-PERLANCAR-Self:
   PERLANCAR: 1
 Acme-CPANPLUS-Module-With-Failing-Configure-Requires:
   BINGOS: 1
@@ -4488,6 +4476,8 @@ App-CPANIDX-HTTP-Server:
   BINGOS: 1
 App-CPANMetaUtils:
   PERLANCAR: 1
+App-CPANModulesUtils:
+  PERLANCAR: 1
 App-CPANRepo:
   SONGMU: 1
 App-CPANTS-Lint:
@@ -5873,6 +5863,8 @@ App-Staticperl:
   MLEHMANN: 1
 App-Statsbot:
   MGV: 1
+App-StockExchangeUtils:
+  PERLANCAR: 1
 App-Stopwatch:
   BESSARABV: 1
 App-SuperviseMe:
@@ -6091,6 +6083,8 @@ App-XML-DocBook-Builder:
   SHLOMIF: 1
 App-XMMS2-Notifier:
   MGV: 1
+App-XTermUtils:
+  PERLANCAR: 1
 App-XUL:
   KITOMER: 1
 App-Xssh:
@@ -6733,6 +6727,8 @@ App-spaceless:
   PLICEASE: 1
 App-squidauth:
   PERLANCAR: 1
+App-sshwrap-hostcolor:
+  PERLANCAR: 1
 App-ssl4curl:
   ZDENEK: 1
 App-sslmaker:
@@ -6848,6 +6844,8 @@ AppConfig-MyFile:
 AppConfig-Std:
   NEILB: 1
 AppLib-CreateSelfSignedSSLCert:
+  PERLANCAR: 1
+AppLib-sshwrap:
   PERLANCAR: 1
 AppendHash.pm:
   TOMC: 1
@@ -8753,6 +8751,8 @@ BigIP-iControl:
   LTP: 1
 Bigtop:
   PHILCROW: 1
+Bijection:
+  LNATION: 1
 BikePower:
   SREZIC: 1
 BinTree.pm:
@@ -8783,12 +8783,16 @@ Bio-ASN1-EntrezGene:
   CJFIELDS: 1
 Bio-Affymetrix:
   SKIPPY: 1
+Bio-Align-Graphics:
+  CJFIELDS: 1
 Bio-Align-Subset:
   HVALVERDE: 1
+Bio-AlignIO-stockholm:
+  CJFIELDS: 1
 Bio-App-SELEX-RNAmotifAnalysis:
   MOLECULES: 1
 Bio-AutomatedAnnotation:
-  AJPAGE: 1
+  VOFFFORD: 1
 Bio-BLAST:
   RBUELS: 1
 Bio-BPWrapper:
@@ -8819,6 +8823,8 @@ Bio-ConnectDots:
   DBURDICK: 1
 Bio-Coordinate:
   CJFIELDS: 1
+Bio-DB-Ace:
+  CJFIELDS: 1
 Bio-DB-Big:
   AYATES: 1
 Bio-DB-Das-Chado:
@@ -8827,6 +8833,8 @@ Bio-DB-HTS:
   AVULLO: 1
 Bio-DB-NextProt:
   LEPREVOST: 1
+Bio-DB-TFBS:
+  CJFIELDS: 1
 Bio-DB-USeq:
   TJPARNELL: 1
 Bio-DNA-Incomplete:
@@ -8841,6 +8849,8 @@ Bio-Das-ProServer:
   RPETTETT: 1
 Bio-Draw-FeatureStack:
   CHRISFR: 1
+Bio-Draw-Pictogram:
+  CJFIELDS: 1
 Bio-EBI-RNAseqAPI:
   MKEAYS: 1
 Bio-ECell:
@@ -8963,6 +8973,8 @@ Bio-Phylo-Beagle:
   RVOSA: 1
 Bio-Phylo-Forest-DBTree:
   RVOSA: 1
+Bio-PhyloNetwork:
+  CJFIELDS: 1
 Bio-PhyloTastic:
   RVOSA: 1
 Bio-PhyloXS:
@@ -9001,8 +9013,12 @@ Bio-Sampling-Valection:
   BOUTROSLB: 1
 Bio-SearchIO-blastxml:
   CJFIELDS: 1
+Bio-SearchIO-hmmer:
+  CJFIELDS: 1
 Bio-SeqHash:
   PEKINGSAM: 1
+Bio-SeqIO-excel:
+  CJFIELDS: 1
 Bio-SeqReader:
   JAC: 1
 Bio-Taxonomy-GlobalNames:
@@ -9015,6 +9031,8 @@ Bio-Tools-CodonOptTable:
   SHARDIWAL: 1
 Bio-Tools-DNAGen:
   XERN: 1
+Bio-Tools-Gel:
+  CJFIELDS: 1
 Bio-Tools-Phylo-PAML:
   CDRAUG: 1
 Bio-Tools-Prepeat:
@@ -9029,12 +9047,18 @@ Bio-Tools-Run-Alignment-TCoffee:
   CDRAUG: 1
 Bio-Tools-Run-Qcons:
   BRUNOV: 1
+Bio-Tools-Run-RemoteBlast:
+  CJFIELDS: 1
 Bio-Trace-ABIF:
   VITA: 1
 Bio-Tradis:
-  AJPAGE: 1
+  SSJUNNEBO: 1
 Bio-Translator:
   KGALINSKY: 1
+Bio-Tree-Draw-Cladogram:
+  CJFIELDS: 1
+Bio-TreeIO-svggraph:
+  CJFIELDS: 1
 Bio-Util-AA:
   KGALINSKY: 1
 Bio-Util-DNA:
@@ -13382,8 +13406,8 @@ Catalyst-ResponseHelpers:
   TSIBLEY: 1
 Catalyst-Runtime:
   BOBTFISH: 1
+  ETHER: 1
   FLORA: 1
-  HAARG: 1
 Catalyst-TraitFor-Component-ConfigPerSite:
   TEEJAY: 1
 Catalyst-TraitFor-Context-PSGI-FindEnv:
@@ -13783,6 +13807,8 @@ Catmandu:
   NICS: 1
 Catmandu-AAT:
   PIETERDP: 1
+Catmandu-ALTOXML:
+  NJFRANCK: 1
 Catmandu-Activiti:
   NJFRANCK: 1
 Catmandu-Adlib:
@@ -13833,6 +13859,8 @@ Catmandu-Fix-cmd:
   NICS: 1
 Catmandu-Geocode:
   HOCHSTEN: 1
+Catmandu-HOCR:
+  NJFRANCK: 1
 Catmandu-HTML:
   HOCHSTEN: 1
 Catmandu-Identifier:
@@ -19455,7 +19483,7 @@ Data-Dump-XML:
 Data-DumpXML:
   GAAS: 1
 Data-Dumper:
-  SMUELLER: 1
+  XSAWYERX: 1
 Data-Dumper-Again:
   FERREIRA: 1
 Data-Dumper-AutoEncode:
@@ -19532,6 +19560,8 @@ Data-Enumerator:
   HDAICHI: 1
 Data-EventStream:
   ZWON: 1
+Data-Exchange:
+  PRBRENAN: 1
 Data-FR-Town:
   AASSAD: 1
 Data-Fake:
@@ -23870,6 +23900,8 @@ Dist-Zilla-PluginBundle-SILEX:
   KEEDI: 1
 Dist-Zilla-PluginBundle-Starter:
   DBOOK: 1
+Dist-Zilla-PluginBundle-Starter-Git:
+  DBOOK: 1
 Dist-Zilla-PluginBundle-TAPPER:
   TAPPER: 1
 Dist-Zilla-PluginBundle-TestingMania:
@@ -25278,7 +25310,7 @@ FASTAid:
 FB-Statify:
   XXGHOSTXX: 1
 FB3:
-  EGOROD: 1
+  GRIBUSER: 1
 FB3-Convert:
   GRIBUSER: 1
 FBP:
@@ -26239,6 +26271,8 @@ File-Slurp-Tree:
   RCLAMP: 1
 File-Slurper:
   LEONT: 1
+File-Slurper-Shortcuts:
+  PERLANCAR: 1
 File-Slurper-Temp:
   PERLANCAR: 1
 File-SmartNL:
@@ -26884,6 +26918,8 @@ Finance-RawMaterialPrice:
   SDRFNORD: 1
 Finance-Robinhood:
   SANKO: 1
+Finance-SE-Catalog:
+  PERLANCAR: 1
 Finance-SE-IDX:
   PERLANCAR: 1
 Finance-SE-IDX-Any:
@@ -28052,6 +28088,8 @@ GenOOx-Data-File-SAMstar:
   MNSMAR: 1
 Genealogy-Ahnentafel:
   DAVECROSS: 1
+Genealogy-ChroniclingAmerica:
+  NHORNE: 1
 Genealogy-Gedcom:
   RSAVAGE: 1
 Genealogy-Gedcom-Date:
@@ -30412,6 +30450,8 @@ HTML-SuperForm:
   JALLWINE: 1
 HTML-SyntaxHighlighter:
   KILINRAX: 1
+HTML-T5:
+  SHLOMIF: 1
 HTML-TabbedExamples-Generate:
   SHLOMIF: 1
 HTML-Table:
@@ -31631,6 +31671,8 @@ IMAPGet:
   UGEN: 1
 IMDB-Film:
   STEPANOV: 1
+IMDB-JSON:
+  CFABER: 1
 IMDB-Local:
   JERRYV: 1
 IMS-CP-Manifest:
@@ -37121,7 +37163,7 @@ MDV-Distribconf:
   NANARDON: 1
   TVIGNAUD: 1
 MDV-Packdrakeng:
-  NANARDON: 1
+  TVIGNAUD: 1
 MDV-Repsys:
   NANARDON: 1
 MEME-Alphabet:
@@ -38769,6 +38811,8 @@ Math-Random-NormalDistribution:
   ZERO: 1
 Math-Random-OO:
   DAGOLDEN: 1
+Math-Random-PCG32:
+  JMATES: 1
 Math-Random-Secure:
   FREW: 1
 Math-Random-SkewNormal:
@@ -40920,7 +40964,7 @@ Mojolicious-Plugin-Nour-Database:
 Mojolicious-Plugin-Number-Commify:
   NICZERO: 1
 Mojolicious-Plugin-OAuth2:
-  JHTHORSEN: 1
+  MRAMBERG: 1
 Mojolicious-Plugin-OAuth2-Che:
   MCHE: 1
 Mojolicious-Plugin-OAuth2-Server:
@@ -43137,6 +43181,8 @@ Net-CronIO:
   MALLEN: 1
 Net-Curl:
   SYP: 1
+Net-Curl-Parallel:
+  RKINYON: 1
 Net-Curl-Simple:
   SPARKY: 1
 Net-CyanChat:
@@ -48611,6 +48657,8 @@ Parser-AAMVA-License:
   CURTEVANS: 1
 Parser-Combinators:
   ANDARA: 1
+Parser-GraphQL-XS:
+  GONZUS: 1
 Parser-IPTables-Save:
   GEOJS: 1
 Parser-MGC:
@@ -52518,7 +52566,7 @@ RT-Extension-ManageAutoCreatedUsers:
 RT-Extension-MandatoryFields:
   BHEISIG: 1
 RT-Extension-MandatoryOnTransition:
-  ALEXMV: 1
+  BPS: 1
   TSIBLEY: 1
 RT-Extension-MandatoryRequestor:
   ELACOUR: 1
@@ -53843,6 +53891,8 @@ SMS-Send-Twilio:
   MICHIELB: 1
 SMS-Send-UK-AA:
   DGL: 1
+SMS-Send-UK-BTSmartMessaging:
+  ANDREWISH: 1
 SMS-Send-UK-Kapow:
   JJONES: 1
 SMS-Send-US-Ipipi:
@@ -54989,6 +55039,8 @@ Serge-Sync-Plugin-TranslationService-mojito:
   DRAGOSV: 1
 Serge-Sync-Plugin-TranslationService-phraseapp:
   DRAGOSV: 1
+Serge-Sync-Plugin-TranslationService-transifex:
+  DRAGOSV: 1
 Serge-Sync-Plugin-TranslationService-zanata:
   DRAGOSV: 1
 SerialNumber-Sequence:
@@ -55297,6 +55349,8 @@ Signal-Unsafe:
   LEONT: 1
 Signals-XSIG:
   MOB: 1
+Signer-AWSv4:
+  JLMARTIN: 1
 Silki:
   DROLSKY: 1
 SilkiX-Converter-Kwiki:
@@ -55580,6 +55634,14 @@ SocketIO-Emitter:
 Softref:
   ILYAZ: 1
 Software-Catalog:
+  PERLANCAR: 1
+Software-Catalog-SW-bulwark-qt:
+  PERLANCAR: 1
+Software-Catalog-SW-firefox:
+  PERLANCAR: 1
+Software-Catalog-SW-zcoin-qt:
+  PERLANCAR: 1
+Software-Catalog-SW-zotero:
   PERLANCAR: 1
 Software-GenoScan:
   WOLFTOWER: 1
@@ -60691,6 +60753,8 @@ Text-CSV-LibCSV:
   JIRO: 1
 Text-CSV-Merge:
   LISANTRA: 1
+Text-CSV-Piecemeal:
+  RNEWSHAM: 1
 Text-CSV-Pivot:
   MANWAR: 1
 Text-CSV-R:
@@ -61555,6 +61619,8 @@ Text-Table-TinyColor:
 Text-Table-TinyColorWide:
   PERLANCAR: 1
 Text-Table-TinyWide:
+  PERLANCAR: 1
+Text-Table-XLSX:
   PERLANCAR: 1
 Text-Tabs+Wrap:
   MUIR: 1
@@ -68806,6 +68872,8 @@ XML-IODEF-PhraudReport:
   SAXJAZMAN: 1
 XML-IODEF-Simple:
   SAXJAZMAN: 1
+XML-Invisible:
+  ETJ: 1
 XML-Jing:
   BYUTRG: 1
 XML-Lenient:
@@ -69322,6 +69390,8 @@ XTaTIK:
   ZOFFIX: 1
 XTerm-Conf:
   SREZIC: 1
+XTerm-Util:
+  PERLANCAR: 1
 XUL-App:
   AGENT: 1
 XUL-Gui:
@@ -69414,6 +69484,8 @@ YAML-Hobo:
   FERREIRA: 1
 YAML-LibYAML:
   INGY: 1
+YAML-LibYAML-API:
+  TINITA: 1
 YAML-LoadBundle:
   GSG: 1
 YAML-LoadFileCached:
@@ -70871,6 +70943,8 @@ router-lg:
   CHRISJ: 1
 rpm-build-perl:
   ATOURBIN: 1
+rpmtools:
+  TVIGNAUD: 1
 rpn:
   SMAN: 1
 rrdpoller:
