@@ -96,11 +96,6 @@ sub ebuild_generate {
 		return;
 	}
 	
-	if(any { $_->has_ebuild($p->ebuild) } @overlays){
-		warn "skipping $name: exists in different overlay or main portage";
-		return;
-	}
-
 	eval { $p->dependencies };
 	if($@){
 		warn "skipping $name: package depends on unsupported package";

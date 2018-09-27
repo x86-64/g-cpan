@@ -71,6 +71,11 @@ sub dependencies {
 						cpan_object => $_,
 					});
 					warn "no package for ".$_->name if not $p;
+
+					# drop versions for virtual/* packages - requires particular
+					# perl version to be installed
+					$p->{version} = "0" if $p->category eq "virtual";
+
 					$p; 
 				}
 				@$deps_curr
