@@ -241,6 +241,8 @@ API-CPanel:
   BITTER: 1
 API-Client:
   AWNCORP: 1
+API-DeutscheBahn-Fahrplan:
+  EDWARDF: 1
 API-DirectAdmin:
   CHIPSOID: 1
 API-Drip-Request:
@@ -630,6 +632,8 @@ Acme-CPANModules:
 Acme-CPANModules-BloomFilters:
   PERLANCAR: 1
 Acme-CPANModules-CLI-Sort:
+  PERLANCAR: 1
+Acme-CPANModules-CLI-Wrapper-UnixCommand:
   PERLANCAR: 1
 Acme-CPANModules-CryptoExchange-API:
   PERLANCAR: 1
@@ -1591,6 +1595,8 @@ Acme-Test-DROLSKY:
   DROLSKY: 1
 Acme-Test-LogicalEquivalence:
   CCM: 1
+Acme-Test-MetaCPAN-NoContributingDoc:
+  ZAKAME: 1
 Acme-Test-Pr0n:
   LLAP: 1
 Acme-Test-SameRelease:
@@ -1786,8 +1792,6 @@ Address-PostCode-UserAgent:
   MANWAR: 1
 AddressBook:
   DLEIGH: 1
-Ado:
-  BEROV: 1
 Advent-Bundles:
   DAVIDRW: 1
 Affix-Infix2Postfix:
@@ -4334,6 +4338,8 @@ App-AppSpec:
   TINITA: 1
 App-ArchiveDevelCover:
   DOMM: 1
+App-AsciiChart:
+  VTI: 1
 App-Asciio:
   NKH: 1
 App-AutoBuild:
@@ -4989,6 +4995,8 @@ App-Goto-Amazon:
   ONEONETWO: 1
 App-Goto2:
   ONEONETWO: 1
+App-GraphicsColorNamesUtils:
+  PERLANCAR: 1
 App-Gre:
   JACOBG: 1
 App-Grepl:
@@ -8335,6 +8343,8 @@ Bencher-Scenario-CPANMetaValidation:
   PERLANCAR: 1
 Bencher-Scenario-CmdLineParsingModules:
   PERLANCAR: 1
+Bencher-Scenario-ColorRGBUtil:
+  PERLANCAR: 1
 Bencher-Scenario-ComparisonOps:
   PERLANCAR: 1
 Bencher-Scenario-CryptDicewareWordlistModules:
@@ -8817,6 +8827,8 @@ Bio-Chaos:
   CMUNGALL: 1
 Bio-Cigar:
   TSIBLEY: 1
+Bio-Cluster:
+  CJFIELDS: 1
 Bio-Community:
   FANGLY: 1
 Bio-ConnectDots:
@@ -13324,6 +13336,8 @@ Catalyst-Plugin-Session-Store-TestMemcached:
   JJNAPIORK: 1
 Catalyst-Plugin-Setenv:
   MRAMBERG: 1
+Catalyst-Plugin-Shorten:
+  LNATION: 1
 Catalyst-Plugin-SimpleAuth:
   LBROCARD: 1
 Catalyst-Plugin-SimpleMessage:
@@ -16120,6 +16134,8 @@ ConfigReader-Simple:
   BDFOY: 1
 Confluence-Client-XMLRPC:
   HJANSEN: 1
+Confluent-SchemaRegistry:
+  ALVAROL: 1
 Confman:
   MASAHJI: 1
 Conjury-Core:
@@ -18724,8 +18740,6 @@ Dancer-Plugin-Lexicon:
   DRTECH: 1
 Dancer-Plugin-LibraryThing:
   HORNBURG: 1
-Dancer-Plugin-Locale:
-  NICS: 1
 Dancer-Plugin-Locale-Wolowitz:
   HOBBESTIG: 1
 Dancer-Plugin-Log-DB:
@@ -23569,6 +23583,8 @@ Dist-Zilla-Plugin-Test-Map-Tube:
   MANWAR: 1
 Dist-Zilla-Plugin-Test-MinimumVersion:
   DOHERTY: 1
+Dist-Zilla-Plugin-Test-NoBOM:
+  GGOLDBACH: 1
 Dist-Zilla-Plugin-Test-NoBreakpoints:
   CHISEL: 1
 Dist-Zilla-Plugin-Test-NoTabs:
@@ -24113,6 +24129,8 @@ Doxygen-Filter-Perl:
   JORDAN: 1
 Doxygen-Lua:
   ALEC: 1
+Dpkg:
+  GUILLEM: 1
 DracPerl-Client:
   APCROS: 1
 Draft:
@@ -25162,6 +25180,8 @@ Exporter-Dispatch:
   JRYAN: 1
 Exporter-Easy:
   NEILB: 1
+Exporter-Extensible:
+  NERDVANA: 1
 Exporter-Lexical:
   DOY: 1
 Exporter-LexicalVars:
@@ -29375,10 +29395,14 @@ Graphics-ColorNames-GrayScale:
   RRWO: 1
 Graphics-ColorNames-Mozilla:
   XAVIER: 1
+Graphics-ColorNames-Netscape:
+  RRWO: 1
 Graphics-ColorNames-VACCC:
   RRWO: 1
 Graphics-ColorNames-WWW:
   CFAERBER: 1
+Graphics-ColorNames-Werner:
+  RRWO: 1
 Graphics-ColorObject:
   AIZVORSKI: 1
 Graphics-ColorPicker:
@@ -33094,6 +33118,8 @@ JSON:
   MAKAMAKA: 1
 JSON-API:
   GFRANKS: 1
+JSON-API-Error:
+  KWAKWA: 1
 JSON-Any:
   ETHER: 1
 JSON-Assert:
@@ -37616,6 +37642,8 @@ Mail-Audit-Razor:
   RJBS: 1
 Mail-AuthenticationResults:
   MBRADSHAW: 1
+Mail-AuthenticationResults-SpamAssassin:
+  MBRADSHAW: 1
 Mail-BIMI:
   MBRADSHAW: 1
 Mail-Barracuda-API:
@@ -39165,6 +39193,8 @@ Medical-OPCS4:
   SDEN: 1
 Meerkat:
   DAGOLDEN: 1
+Meetup-API:
+  CORION: 1
 MegaDistro:
   DBUCHMAN: 1
 Megagram-ResolveSRV:
@@ -40372,6 +40402,8 @@ Mojo-UserAgent-DigestAuth:
   JHTHORSEN: 1
 Mojo-UserAgent-Mockable:
   POPEFELIX: 1
+Mojo-UserAgent-Role-Cache:
+  JHTHORSEN: 1
 Mojo-UserAgent-Role-Queued:
   DOTAN: 1
 Mojo-WebService-Twitter:
@@ -40949,8 +40981,6 @@ Mojolicious-Plugin-NamedHelpers:
   TYLDUM: 1
 Mojolicious-Plugin-Narada:
   POWERMAN: 1
-Mojolicious-Plugin-NetsPayment:
-  JHTHORSEN: 1
 Mojolicious-Plugin-NoIndex:
   RENEEB: 1
 Mojolicious-Plugin-NoReferrer:
@@ -40975,6 +41005,8 @@ Mojolicious-Plugin-OpenAPI:
   JHTHORSEN: 1
 Mojolicious-Plugin-PDFRenderer:
   AMIRITE: 1
+Mojolicious-Plugin-PNGCast:
+  CORION: 1
 Mojolicious-Plugin-PPI:
   JBERGER: 1
 Mojolicious-Plugin-Pager:
@@ -40987,8 +41019,6 @@ Mojolicious-Plugin-ParamLogger:
   SHAW: 1
 Mojolicious-Plugin-ParamsAuth:
   TEMPIRE: 1
-Mojolicious-Plugin-PayPal:
-  JHTHORSEN: 1
 Mojolicious-Plugin-PetalTinyRenderer:
   LBR: 1
 Mojolicious-Plugin-PgAsync:
@@ -41151,8 +41181,6 @@ Mojolicious-Plugin-StaticShare:
   MCHE: 1
 Mojolicious-Plugin-Status:
   SRI: 1
-Mojolicious-Plugin-StripePayment:
-  JHTHORSEN: 1
 Mojolicious-Plugin-Subdispatch:
   MEMOWE: 1
 Mojolicious-Plugin-Subprocess:
@@ -41228,6 +41256,8 @@ Mojolicious-Plugin-Web-Auth-Site-Reddit:
 Mojolicious-Plugin-Web-Auth-Site-Runkeeper:
   OALDERS: 1
 Mojolicious-Plugin-Web-Auth-Site-Spotify:
+  OALDERS: 1
+Mojolicious-Plugin-Web-Auth-Site-Strava:
   OALDERS: 1
 Mojolicious-Plugin-WebAPI:
   RENEEB: 1
@@ -43708,6 +43738,8 @@ Net-Google-FederatedLogin:
   CEBJYRE: 1
 Net-Google-GData:
   AYOUNG: 1
+Net-Google-OAuth:
+  VRAG: 1
 Net-Google-PicasaWeb:
   HANENKAMP: 1
 Net-Google-SafeBrowsing-UpdateRequest:
@@ -49109,6 +49141,8 @@ Perinci-Sub-XCompletion:
   PERLANCAR: 1
 Perinci-Sub-XCompletionBundle-App-cryp:
   PERLANCAR: 1
+Perinci-Sub-XCompletionBundle-Color:
+  PERLANCAR: 1
 Perinci-Sub-XCompletionBundle-CryptoCurrency:
   PERLANCAR: 1
 Perinci-To-Doc:
@@ -49201,6 +49235,8 @@ Perl-Critic-Policy-Dynamic-NoIndirect:
   VPIT: 1
 Perl-Critic-Policy-HTTPCookies:
   TOMHUKINS: 1
+Perl-Critic-Policy-Modules-ProhibitUseLib:
+  GGOLDBACH: 1
 Perl-Critic-Policy-Moo-ProhibitMakeImmutable:
   BLUEFEET: 1
 Perl-Critic-Policy-Perlsecret:
@@ -51680,6 +51716,8 @@ Protocol-CassandraCQL:
   PEVANS: 1
 Protocol-ControlChannel:
   TEAM: 1
+Protocol-DBus:
+  FELIPE: 1
 Protocol-FIX:
   BINARY: 1
 Protocol-Gearman:
@@ -54131,8 +54169,6 @@ SQL-OrderBy:
   GENE: 1
 SQL-Preproc:
   DARNOLD: 1
-SQL-QueryBuilder-Flex:
-  YOREEK: 1
 SQL-QueryBuilder-OO:
   SCHIECHEO: 1
 SQL-QueryBuilder-Pretty:
@@ -59174,6 +59210,8 @@ Test-BDD-Cucumber-Harness-Nagios:
   BENNING: 1
 Test-BDD-Infrastructure:
   BENNING: 1
+Test-BOM:
+  GGOLDBACH: 1
 Test-BSON:
   PATCH: 1
 Test-Base:
@@ -63295,7 +63333,7 @@ Tk-VisualBrowser:
 Tk-WaitBox:
   BPOWERS: 1
 Tk-WaitBoxFixed:
-  ASB: 1
+  CAVAC: 1
 Tk-WidgetDump:
   SREZIC: 1
 Tk-WinPrint:
@@ -69501,6 +69539,8 @@ YAML-Manual:
 YAML-Old:
   INGY: 1
 YAML-PP:
+  TINITA: 1
+YAML-PP-LibYAML:
   TINITA: 1
 YAML-Parser-Syck:
   INGY: 1
